@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (11,10)
+msgid ""
+"異端モゲコ\n"
+"「･･･････････。」"
+msgstr ""
+"异端mogeko\n"
+"「……………………。」"
+
+#. ID 2, Page 1, Line 3, Pos (0,0)
+msgid ""
+"モゲコッコ\n"
+"「ぐぅ････がはっ････」"
+msgstr ""
+"mogekokko\n"
+"「呼……咳咳……」"
+
+#. ID 2, Page 1, Line 6, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「モゲコッコ！！」"
+msgstr ""
+"异端mogeko\n"
+"「mogekokko！！」"
+
+#. ID 2, Page 1, Line 9, Pos (0,0)
+msgid ""
+"モゲコッコ\n"
+"「参ったな･･･もげこにワープの邪魔\n"
+"　されたみたいだね･･･」"
+msgstr ""
+"mogekokko\n"
+"「真是让人头疼啊……mogeko好像\n"
+"　刚才妨碍了瞬移的样子……」"
+
+#. ID 2, Page 1, Line 13, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「そんな････！」"
+msgstr ""
+"夕夜\n"
+"「怎么这样……！」"
+
+#. ID 2, Page 1, Line 16, Pos (0,0)
+msgid ""
+"モゲコッコ\n"
+"「ほんとしつっこいなあ･･･\n"
+"　あいつ嫌いだよ･･･コッコ･･･」"
+msgstr ""
+"mogekokko\n"
+"「真是失策了啊……\n"
+"　那家伙真让人讨厌啊……咯咯」"
+
+#. ID 2, Page 1, Line 20, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「大丈夫か？！」"
+msgstr ""
+"异端mogeko\n"
+"「你没事儿吗？！」"
+
+#. ID 2, Page 1, Line 23, Pos (0,0)
+msgid ""
+"モゲコッコ\n"
+"「こんな傷大したことないよ･･･」"
+msgstr ""
+"mogekokko\n"
+"「这一点儿小伤不算什么啦……」"
+
+#. ID 2, Page 1, Line 26, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「何故俺をかばった！」"
+msgstr ""
+"异端mogeko\n"
+"「为什么要保护我！」"
+
+#. ID 2, Page 1, Line 29, Pos (0,0)
+msgid ""
+"モゲコッコ\n"
+"「何故？\n"
+"　理由なんかないよ･･･」"
+msgstr ""
+"mogekokko\n"
+"「为什么？\n"
+"　根本不需要什么理由嘛……」"
+
+#. ID 2, Page 1, Line 32, Pos (0,0)
+msgid ""
+"モゲコッコ\n"
+"「それより･･･\\.\\.\n"
+"　はやく行くんだ」"
+msgstr ""
+"mogekokko\n"
+"「比起那个……\\.\\.\n"
+"　你们快点走吧」"
+
+#. ID 2, Page 1, Line 36, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「しかし･･･」"
+msgstr ""
+"异端mogeko\n"
+"「但是……」"
+
+#. ID 2, Page 1, Line 40, Pos (0,0)
+msgid ""
+"モゲコッコ\n"
+"「いいから！\\.\\.\n"
+"　･･･モゲコッコは大丈夫だから！」"
+msgstr ""
+"mogekokko\n"
+"「够了别管我了！\\.\\.\n"
+"　……我没问题的啦！」"
+
+#. ID 2, Page 1, Line 45, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「･････････。」"
+msgstr ""
+"异端mogeko\n"
+"「………………。」"
+
+#. ID 2, Page 1, Line 47, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「嬢ちゃん、行こう･･･」"
+msgstr ""
+"异端mogeko\n"
+"「小姐，我们走吧……」"
+
+#. ID 2, Page 1, Line 50, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「はい････。」"
+msgstr ""
+"夕夜\n"
+"「是……。」"
+
+#. ID 3, Page 1, Line 3, Pos (9,10)
+#. ID 4, Page 1, Line 3, Pos (10,10)
+msgid ""
+"モゲコッコ\n"
+"「？」"
+msgstr ""
+"mogekokko\n"
+"「？」"
+
+#. ID 3, Page 1, Line 6, Pos (9,10)
+#. Contains choice at line 2 (2 options)
+#. ID 4, Page 1, Line 6, Pos (10,10)
+#. Contains choice at line 2 (2 options)
+msgid "モゲコッコを殺しますか？"
+msgstr "要杀了mogekokko吗？"
+
+#. ID 3, Page 1, Line 7, Pos (9,10)
+#. Choice (2 options, embedded in a message)
+#. ID 4, Page 1, Line 7, Pos (10,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"要\n"
+"不要"
+

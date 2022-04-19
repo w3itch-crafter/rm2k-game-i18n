@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 4, Pos (9,23)
+msgid ""
+"ヨナカ\n"
+"「･････････････。」"
+msgstr ""
+"夕夜\n"
+"「……………。」"
+
+#. ID 1, Page 1, Line 7, Pos (9,23)
+msgid ""
+"？？？\n"
+"「もげげげげげげげ！！\n"
+"　ヨナカたんみ～つけたっ！」"
+msgstr ""
+"？？？\n"
+"「mogegegegegegege！！\n"
+"　找到夕夜了～！」"
+
+#. ID 1, Page 1, Line 10, Pos (9,23)
+msgid ""
+"？？？\n"
+"「逃がさないからねぇ♪」"
+msgstr ""
+"？？？\n"
+"「不会让你逃走的(音符)」"
+
+#. ID 1, Page 1, Line 12, Pos (9,23)
+msgid ""
+"？？？\n"
+"「はぁはぁ！女子高生！はぁはぁ！」"
+msgstr ""
+"？？？\n"
+"「哈哈！女高中生！哈哈！」"
+
+#. ID 1, Page 1, Line 14, Pos (9,23)
+msgid ""
+"？？？\n"
+"「はすはすはすはす！！！！！」"
+msgstr ""
+"？？？\n"
+"「hshshshs！！！！！」"
+
+#. ID 1, Page 1, Line 16, Pos (9,23)
+msgid ""
+"？？？\n"
+"「むらむらー！\n"
+"　むらむらー！してきたもげー！」"
+msgstr ""
+"？？？\n"
+"「兴奋兴奋！\n"
+"　兴奋兴奋！起来了！」"
+
+#. ID 1, Page 1, Line 19, Pos (9,23)
+msgid ""
+"？？？\n"
+"「●ＲＥＣ」"
+msgstr ""
+"？？？\n"
+"「●ＲＥＣ」"
+
+#. ID 1, Page 1, Line 23, Pos (9,23)
+msgid ""
+"ヨナカ\n"
+"「･････････な、なんで\\.\\.\n"
+"　私の名前を」"
+msgstr ""
+"夕夜\n"
+"「………为什么会\\.\\.\n"
+"　知道我的名字」"
+
+#. ID 1, Page 1, Line 27, Pos (9,23)
+msgid ""
+"？？？\n"
+"「なんで？理由などない\n"
+"　もげたんにはその程度の知識朝飯前さ」"
+msgstr ""
+"？？？\n"
+"「你问理由？没有理由哦。\n"
+"　对于moge酱来说，这种程度小菜一碟」"
+
+#. ID 1, Page 1, Line 30, Pos (9,23)
+msgid ""
+"？？？\n"
+"「僕は　モゲコ　だからネ―――」"
+msgstr ""
+"？？？\n"
+"「因为我是　mogeko　哦……」"
+
+#. ID 1, Page 1, Line 33, Pos (9,23)
+msgid ""
+"ヨナカ\n"
+"「･････････････\\.\\.モ\\.\\.ゲ\\.\\.コ」"
+msgstr ""
+"夕夜\n"
+"「……………\\.\\.mo\\.\\.ge\\.\\.ko」"
+
+#. ID 1, Page 1, Line 36, Pos (9,23)
+msgid ""
+"モゲコ\n"
+"「わざわざおうちまで来てくれて\n"
+"　ありがとう！」"
+msgstr ""
+"mogeko\n"
+"「十分感谢\n"
+"　大驾光临！」"
+
+#. ID 1, Page 1, Line 39, Pos (9,23)
+msgid ""
+"モゲコ\n"
+"「そんなにもげたんと\n"
+"　愉しいことしたいんだ/////」"
+msgstr ""
+"mogeko\n"
+"「就那么想和moge酱一起\n"
+"　做好玩的事吗/////」"
+
+#. ID 1, Page 1, Line 43, Pos (9,23)
+msgid ""
+"モゲコ\n"
+"「なあ早くしようぜ」"
+msgstr ""
+"mogeko\n"
+"「那么就赶快开始吧」"
+
+#. ID 1, Page 1, Line 45, Pos (9,23)
+msgid ""
+"モゲコ\n"
+"「もう我慢できないもげ」"
+msgstr ""
+"mogeko\n"
+"「我已经忍不住了moge」"
+
+#. ID 1, Page 1, Line 47, Pos (9,23)
+msgid ""
+"モゲコ\n"
+"「そうもげね････。」"
+msgstr ""
+"mogeko\n"
+"「是的moge……。」"
+
+#. ID 1, Page 1, Line 55, Pos (9,23)
+msgid ""
+"モゲコ\n"
+"「――さあ、\\.ヨナカたん\\.\\.\n"
+"　もげたんたちと････」"
+msgstr ""
+"mogeko\n"
+"「――来吧，\\.夕夜酱\\.\\.\n"
+"　和moge酱们一起……」"
+
+#. ID 1, Page 1, Line 60, Pos (9,23)
+msgid ""
+"モゲコ\n"
+"「たのしい、\\.\\.\\.たのしい」"
+msgstr ""
+"mogeko\n"
+"「很开心的，\\.\\.\\.很愉快的」"
+
+#. ID 1, Page 1, Line 64, Pos (9,23)
+msgid ""
+"モゲコ\n"
+"「初\\.\\.夜\\.\\.　も\\.\\.と\\.\\.い、\\.\\.\n"
+"　永\\.\\.久\\.\\.の\\.\\.夢\\.\\.\\.\\.を\\.\\.―――///」"
+msgstr ""
+"mogeko\n"
+"「初\\.\\.夜\\.\\.　哦\\.\\.不\\.\\.对，\\.\\.\n"
+"　做\\.\\.永\\.\\.恒\\.\\.的\\.\\.美\\.\\.梦\\.\\.吧///」"
+
+#. ID 1, Page 1, Line 71, Pos (9,23)
+msgid ""
+"ヨナカ\n"
+"「いッ\\.\\.\n"
+"　いやあッ････････････！！！！」"
+msgstr ""
+"夕夜\n"
+"「不\\.\\.\n"
+"　不要…………！！！！」"
+

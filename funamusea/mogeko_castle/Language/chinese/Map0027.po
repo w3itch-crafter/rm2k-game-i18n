@@ -1,0 +1,263 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 7, Page 1, Line 3, Pos (9,22)
+#. ID 13, Page 1, Line 3, Pos (10,22)
+msgid ""
+"ヨナカ\n"
+"「････ここまで来るのに誰とも\n"
+"　会わなかった････。」"
+msgstr ""
+"夕夜\n"
+"「…一路上\n"
+"　谁都没有见到…。」"
+
+#. ID 7, Page 1, Line 7, Pos (9,22)
+#. ID 13, Page 1, Line 7, Pos (10,22)
+msgid ""
+"ヨナカ\n"
+"「変な銅像は沢山あったけど･･･\\.\\.\n"
+"　･･･なんか浮いてたけど･･･。」"
+msgstr ""
+"夕夜\n"
+"「只有一堆奇怪的铜像…\\.\\.\n"
+"　…和一些奇怪的东西浮在水面上…。」"
+
+#. ID 7, Page 1, Line 11, Pos (9,22)
+#. ID 13, Page 1, Line 11, Pos (10,22)
+msgid ""
+"ヨナカ\n"
+"「本当に誰か住んでるのかな･･･。\n"
+"　なんだか不気味････。」"
+msgstr ""
+"夕夜\n"
+"「真的有人住在这里吗…。\n"
+"　总觉得心里发毛……。」"
+
+#. ID 7, Page 1, Line 15, Pos (9,22)
+#. ID 13, Page 1, Line 15, Pos (10,22)
+msgid ""
+"ヨナカ\n"
+"「･･･う、うーん\n"
+"　ここが入り口･･･だよね？」"
+msgstr ""
+"夕夜\n"
+"「…嗯、嗯\n"
+"　这里就是入口…吧？」"
+
+#. ID 7, Page 1, Line 19, Pos (9,22)
+#. ID 13, Page 1, Line 19, Pos (10,22)
+msgid ""
+"　　　　入り口は中途半端に開けられていて、\n"
+"　　　　風が中に吸い込まれて行くのを感じた。\n"
+"　　　　中は暗くて此処からでは見えない。"
+msgstr ""
+"　　　　入口处打开了一点点，\n"
+"感觉到风被吸入城中，\n"
+"里面很黑，从这里什么都看不到。"
+
+#. ID 7, Page 1, Line 23, Pos (9,22)
+#. ID 13, Page 1, Line 23, Pos (10,22)
+msgid ""
+"ヨナカ\n"
+"「･････うーん」"
+msgstr ""
+"夕夜\n"
+"「………嗯」"
+
+#. ID 7, Page 1, Line 26, Pos (9,22)
+#. Contains choice at line 2 (3 options)
+#. ID 13, Page 1, Line 26, Pos (10,22)
+#. Contains choice at line 2 (3 options)
+msgid "城の中に入ってみますか？"
+msgstr "要进入城内吗？"
+
+#. ID 7, Page 1, Line 27, Pos (9,22)
+#. Choice (3 options, embedded in a message)
+#. ID 13, Page 1, Line 27, Pos (10,22)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"城の中へ入る\n"
+"あきらめて別の道を探す\n"
+"ちょっと待って"
+msgstr ""
+"进去\n"
+"找找看别的路\n"
+"等一下"
+
+#. ID 7, Page 1, Line 30, Pos (9,22)
+#. ID 13, Page 1, Line 30, Pos (10,22)
+msgid ""
+"ヨナカ\n"
+"「こ、怖いなあ････。」"
+msgstr ""
+"夕夜\n"
+"「好、好可怕啊……。」"
+
+#. ID 7, Page 1, Line 32, Pos (9,22)
+#. ID 13, Page 1, Line 32, Pos (10,22)
+msgid ""
+"ヨナカ\n"
+"「でも、入ってみるしか･･･。」"
+msgstr ""
+"夕夜\n"
+"「但是只能进去看看了…。」"
+
+#. ID 7, Page 1, Line 35, Pos (9,22)
+#. ID 13, Page 1, Line 35, Pos (10,22)
+msgid ""
+"ヨナカ\n"
+"「････不法侵入になっちゃうかなぁ」"
+msgstr ""
+"夕夜\n"
+"「……会不会变成非法入侵呢」"
+
+#. ID 7, Page 1, Line 38, Pos (9,22)
+#. ID 13, Page 1, Line 38, Pos (10,22)
+msgid ""
+"ヨナカ\n"
+"「あっ\\.　そうだ\\.\n"
+"　ちゃんと挨拶してから入ればいいんだ」"
+msgstr ""
+"夕夜\n"
+"「啊\\.　对了\\.\n"
+"　好好打招呼后再进去不就好了嘛」"
+
+#. ID 7, Page 1, Line 43, Pos (9,22)
+#. ID 13, Page 1, Line 43, Pos (10,22)
+msgid ""
+"ヨナカ\n"
+"「･･･えっと･･･あのー････。」"
+msgstr ""
+"夕夜\n"
+"「…呃…那个……。」"
+
+#. ID 8, Page 1, Line 1, Pos (19,141)
+#. ID 10, Page 1, Line 1, Pos (0,141)
+msgid "銅像が笑ってるように見える･･･。"
+msgstr "感觉铜像在笑……。"
+
+#. ID 9, Page 1, Line 1, Pos (10,102)
+#. ID 21, Page 1, Line 1, Pos (9,102)
+msgid ""
+"\n"
+"　　　『もげたんはえらいもぉーん！もげげ！』"
+msgstr ""
+"\n"
+"　　　『moge酱了不起！mogege！』"
+
+#. ID 11, Page 1, Line 1, Pos (19,23)
+#. ID 12, Page 1, Line 1, Pos (0,23)
+msgid "鉄くさい。"
+msgstr "铜臭味。"
+
+#. ID 14, Page 1, Line 2, Pos (14,186)
+#. ID 15, Page 1, Line 2, Pos (5,166)
+#. ID 43, Page 1, Line 2, Pos (5,167)
+#. ID 44, Page 1, Line 2, Pos (14,185)
+msgid ""
+"ヨナカ\n"
+"「･･････。」"
+msgstr ""
+"夕夜\n"
+"「……。」"
+
+#. ID 14, Page 1, Line 5, Pos (14,186)
+#. ID 15, Page 1, Line 5, Pos (5,166)
+#. ID 43, Page 1, Line 5, Pos (5,167)
+#. ID 44, Page 1, Line 5, Pos (14,185)
+msgid ""
+"？？？\n"
+"「･･････。」"
+msgstr ""
+"？？？\n"
+"「……。」"
+
+#. ID 17, Page 1, Line 1, Pos (6,159)
+#. ID 18, Page 1, Line 1, Pos (7,159)
+#. ID 19, Page 1, Line 1, Pos (12,159)
+#. ID 20, Page 1, Line 1, Pos (13,159)
+msgid ""
+"\n"
+"　　『この門をくぐる者は一切の希望を捨てよ』"
+msgstr ""
+"\n"
+"　　『越过这扇门的人，把希望全部舍弃吧』"
+
+#. ID 22, Page 1, Line 1, Pos (3,105)
+#. ID 29, Page 1, Line 1, Pos (4,105)
+msgid ""
+"\n"
+"　　　　『ひぎい！もげたんだけを見て！』"
+msgstr ""
+"\n"
+"　　　　『呜呜！只看moge酱我一个嘛！』"
+
+#. ID 23, Page 1, Line 1, Pos (15,105)
+#. ID 32, Page 1, Line 1, Pos (16,105)
+msgid ""
+"\n"
+"　　　　　『もっと欲しい！欲しいのお！』"
+msgstr ""
+"\n"
+"　　　　　『想要更多！给我更多！』"
+
+#. ID 25, Page 1, Line 1, Pos (17,101)
+#. ID 33, Page 1, Line 1, Pos (18,101)
+msgid ""
+"\n"
+"　　　　　　『きみ美味しそうだねえ！』"
+msgstr ""
+"\n"
+"　　　　　　『你看起来很可口呢！』"
+
+#. ID 26, Page 1, Line 1, Pos (15,98)
+#. ID 34, Page 1, Line 1, Pos (16,98)
+msgid ""
+"\n"
+"　　　　　　　『はぁんっ････///』"
+msgstr ""
+
+#. ID 27, Page 1, Line 1, Pos (3,98)
+#. ID 31, Page 1, Line 1, Pos (4,98)
+msgid ""
+"\n"
+"　　　　　　『もうどうでもいいもげ…』"
+msgstr ""
+"\n"
+"　　　　　　『已经怎样都无所谓了moge…』"
+
+#. ID 28, Page 1, Line 1, Pos (1,101)
+#. ID 30, Page 1, Line 1, Pos (2,101)
+msgid ""
+"\n"
+"　　　　　　『もげたん怒っちゃうもげ』"
+msgstr ""
+"\n"
+"　　　　　　『moge酱生气了moge』"
+
+#. ID 35, Page 1, Line 1, Pos (4,62)
+#. ID 36, Page 1, Line 1, Pos (5,62)
+msgid ""
+"　　　　\n"
+"　　　　　　『来ちゃう？来ちゃうの？』"
+msgstr ""
+"　　　　\n"
+"　　　　　　『来了吗？来了吗？』"
+
+#. ID 37, Page 1, Line 1, Pos (14,62)
+#. ID 38, Page 1, Line 1, Pos (15,62)
+msgid ""
+"　　　　\n"
+"　　　　　　『後戻りはできないよ？』"
+msgstr ""
+"　　　　\n"
+"　　　　　　『无法回头了哦？』"
+

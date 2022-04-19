@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 3, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「ああっ！異端モゲコ！」"
+msgstr ""
+"mogeko\n"
+"「啊啊！是异端mogeko！」"
+
+#. ID 2, Page 1, Line 5, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「いないとはどういう意味だもげ！」"
+msgstr ""
+"mogeko\n"
+"「说她不在是什么意思啊！」"
+
+#. ID 2, Page 1, Line 9, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「ばーーか。お前らがちんたらやってる\n"
+"　うちに7階に逃がしたぜ」"
+msgstr ""
+"异端mogeko\n"
+"「蠢——蛋。趁着你们磨磨蹭蹭的时候\n"
+"　早就逃到7楼去啦」"
+
+#. ID 2, Page 1, Line 13, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「！？」"
+msgstr ""
+"mogeko\n"
+"「！？」"
+
+#. ID 2, Page 1, Line 16, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「今頃はとっくに元の世界だろうなぁ」"
+msgstr ""
+"异端mogeko\n"
+"「估计现在她早就回到原本的世界去了」"
+
+#. ID 2, Page 1, Line 19, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「なんてことを･･････！！」"
+msgstr ""
+"mogeko\n"
+"「你说什么……！！」"
+
+#. ID 2, Page 1, Line 21, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「お前････女子高生だぞ！！貴重な！\n"
+"　それを易々と逃がすなど･･･！」"
+msgstr ""
+"mogeko\n"
+"「你这家伙…那可是难得一见的女高中生诶！\n"
+"　你竟然那么轻易的就让她逃走了……！」"
+
+#. ID 2, Page 1, Line 26, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「知るか、そんなモン」"
+msgstr ""
+"异端mogeko\n"
+"「那种事谁知道啦」"
+
+#. ID 2, Page 1, Line 29, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「お、おのれええええええ！！」"
+msgstr ""
+"mogeko\n"
+"「你、你这混蛋——！！」"
+
+#. ID 2, Page 1, Line 32, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「みんなーーーーーーーーーーーー！\n"
+"　あいつをとっ捕まえろ！！」"
+msgstr ""
+"mogeko\n"
+"「小的们————————！\n"
+"　都给我上啊！抓住那家伙！！」"
+
+#. ID 2, Page 1, Line 35, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「火炙りの刑じゃあー！！」"
+msgstr ""
+"mogeko\n"
+"「我要用火刑杀死你！！」"
+
+#. ID 2, Page 1, Line 37, Pos (0,0)
+msgid ""
+"みんな\n"
+"「おおーーー！！！」"
+msgstr ""
+"所有人\n"
+"「噢噢——！！！」"
+
+#. ID 2, Page 2, Line 2, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「逃げる？\n"
+"　もう逃げるのは終いだ･･･。」"
+msgstr ""
+"异端mogeko\n"
+"「逃？\n"
+"　我可不会再逃啦……。」"
+
+#. ID 2, Page 2, Line 6, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「うおおおおおおおおおおおお！！！」"
+msgstr ""
+"mogeko\n"
+"「唔哦哦哦哦哦哦哦哦哦哦！！！」"
+
+#. ID 2, Page 2, Line 9, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「遅い！」"
+msgstr ""
+"异端mogeko\n"
+"「太慢了！」"
+
+#. ID 2, Page 2, Line 20, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「遅いぜ。」"
+msgstr ""
+"异端mogeko\n"
+"「真是太慢了。」"
+
+#. ID 2, Page 2, Line 23, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「は、早い･････。」"
+msgstr ""
+"mogeko\n"
+"「好、好快……。」"
+
+#. ID 2, Page 2, Line 29, Pos (0,0)
+msgid ""
+"？？？\n"
+"「その傷でそこまで動けるとはな･･･」"
+msgstr ""
+"？？？\n"
+"「受了这么重的伤竟然还能做到这种程度啊……」"
+
+#. ID 2, Page 2, Line 35, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「･･････････。」"
+msgstr ""
+"异端mogeko\n"
+"「…………。」"
+

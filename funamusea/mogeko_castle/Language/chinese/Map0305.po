@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 3, Pos (153,11)
+msgid ""
+"運転手\n"
+"「とうちゃーーく！」"
+msgstr ""
+"司机\n"
+"「到站！」"
+
+#. ID 1, Page 1, Line 6, Pos (153,11)
+msgid ""
+"あまりにもしつこすぎて\n"
+"むかついたのでこのモゲコを\n"
+"惨殺しますか？"
+msgstr ""
+"这家伙简直神烦，\n"
+"搞得人烦躁死了，\n"
+"要杀掉这个mogeko吗？"
+
+#. ID 1, Page 1, Line 9, Pos (153,11)
+#. Choice (2 options)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"果断砍死他\n"
+"不不不生命是如此美好，我们不能急躁"
+
+#. ID 1, Page 2, Line 1, Pos (153,11)
+msgid "臓物撒き散らして死んでいる。"
+msgstr "五脏六腑洒落得到处都是。"
+
+#. ID 2, Page 1, Line 1, Pos (152,11)
+#. ID 2, Page 2, Line 1, Pos (152,11)
+msgid "『モゲコキャッスル前』"
+msgstr "『mogeko城堡前』"
+
+#. ID 3, Page 1, Line 1, Pos (154,11)
+#. ID 4, Page 1, Line 1, Pos (155,11)
+#. ID 5, Page 1, Line 1, Pos (156,11)
+#. ID 6, Page 1, Line 1, Pos (157,11)
+#. ID 7, Page 1, Line 1, Pos (158,11)
+#. ID 8, Page 1, Line 1, Pos (159,11)
+#. ID 9, Page 1, Line 1, Pos (160,11)
+#. ID 10, Page 1, Line 1, Pos (161,11)
+msgid "バスだ。もう動かない。"
+msgstr "巴士车。但是已经完全一动不动了。"
+
+#. ID 12, Page 1, Line 1, Pos (162,12)
+#. ID 13, Page 1, Line 1, Pos (162,13)
+#. ID 14, Page 1, Line 1, Pos (162,14)
+msgid "来たはずの道は暗闇に包まれ閉ざされている･･･。"
+msgstr "来的道路被黑暗所包围着……。"
+
+#. ID 20, Page 1, Line 1, Pos (131,11)
+msgid "『逃げもげ』"
+msgstr "『出逃moge』"
+
+#. ID 21, Page 1, Line 1, Pos (109,11)
+msgid "『出会いもげ』"
+msgstr "『邂逅moge』"
+
+#. ID 23, Page 1, Line 1, Pos (83,11)
+msgid "『きちがいもげ』"
+msgstr "『疯子moge』"
+
+#. ID 27, Page 1, Line 1, Pos (62,11)
+msgid "『ななひきのもげこもげ』"
+msgstr "『七只mogekomoge』"
+
+#. ID 35, Page 1, Line 1, Pos (40,11)
+msgid "『たいけつもげ』"
+msgstr "『对决moge』"
+
+#. ID 38, Page 1, Line 7, Pos (9,11)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「･･･････。」"
+msgstr ""
+"mogeko王\n"
+"「诶？等……」"
+
+#. ID 38, Page 1, Line 11, Pos (9,11)
+msgid ""
+"もげこ王\n"
+"「やあ♪\n"
+"　おかえり♪」"
+msgstr ""
+"mogeko王\n"
+"「啊拉(音符)\n"
+"　欢迎回来(音符)」"
+
+#. ID 38, Page 1, Line 14, Pos (9,11)
+msgid ""
+"モゲコ\n"
+"「もげげげげげ♪」"
+msgstr ""
+"mogeko\n"
+"「mogegegegege(音符)」"
+
+#. ID 38, Page 1, Line 17, Pos (9,11)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「･････････。」"
+msgstr ""
+"mogeko王\n"
+"「喂，你！给我等等！」"
+
+#. ID 38, Page 1, Line 20, Pos (9,11)
+msgid ""
+"ヨナカ\n"
+"「何を言ってるの？」"
+msgstr ""
+"夕夜\n"
+"「你在说什么呢？」"
+
+#. ID 38, Page 1, Line 23, Pos (9,11)
+msgid ""
+"ヨナカ\n"
+"「私が帰るべき場所は別にあるの･･･。」"
+msgstr ""
+"夕夜\n"
+"「我该回去的地方明明不是这里……。」"
+
+#. ID 38, Page 1, Line 26, Pos (9,11)
+msgid ""
+"もげこ王\n"
+"「え？」"
+msgstr ""
+"mogeko王\n"
+"「诶？」"
+
+#. ID 38, Page 1, Line 34, Pos (9,11)
+msgid "ヨナカは大きなナイフを投げつけた！"
+msgstr "夕夜把那把巨大的匕首丢了出去！"
+
+#. ID 38, Page 1, Line 38, Pos (9,11)
+msgid ""
+"もげこ王\n"
+"「ぎゃーーす！痛ぇ！」"
+msgstr ""
+"mogeko王\n"
+"「呀嘶！好痛！」"
+
+#. ID 38, Page 1, Line 40, Pos (9,11)
+msgid ""
+"モゲコ\n"
+"「隊長！」"
+msgstr ""
+"mogeko\n"
+"「队长！」"
+
+#. ID 38, Page 1, Line 43, Pos (9,11)
+msgid ""
+"ヨナカ\n"
+"「どいて･･･私は帰るの\n"
+"　兄さんのところへ」"
+msgstr ""
+"夕夜\n"
+"「让开……\n"
+"　我要回到哥哥身边去」"
+
+#. ID 38, Page 1, Line 47, Pos (9,11)
+msgid ""
+"ヨナカ\n"
+"「こんなところで道草食ってる\n"
+"　場合じゃないの･･･。」"
+msgstr ""
+"夕夜\n"
+"「现在不是在这里磨磨蹭蹭的时候……。」"
+
+#. ID 38, Page 1, Line 51, Pos (9,11)
+#, fuzzy
+msgid ""
+"もげこ王\n"
+"「えっ？ちょ･････」"
+msgstr ""
+"mogeko王\n"
+"「对不起！这么纠缠不休！\n"
+"　我会道歉的！所以你等一等嘛！」"
+
+#. ID 38, Page 1, Line 53, Pos (9,11)
+#, fuzzy
+msgid ""
+"もげこ王\n"
+"「待つんだ！キミ！」"
+msgstr "夕夜飞快的跑走了……。"
+
+#. ID 38, Page 1, Line 55, Pos (9,11)
+msgid ""
+"もげこ王\n"
+"「ごめん！しつこかった！\n"
+"　謝るから！待ってぇー！」"
+msgstr ""
+
+#. ID 38, Page 1, Line 60, Pos (9,11)
+msgid "ヨナカは猛ダッシュで走り去っていった･･･。"
+msgstr ""
+
+#. ID 56, Page 1, Line 1, Pos (59,11)
+msgid "･･･････。"
+msgstr "……。"
+
+#. ID 57, Page 1, Line 1, Pos (85,14)
+msgid "泣いている。"
+msgstr "在哭。"
+

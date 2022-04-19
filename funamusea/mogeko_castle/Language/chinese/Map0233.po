@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 1, Pos (3,11)
+msgid "『モフコの降る道』"
+msgstr "『mofuko之路』"
+
+#. ID 3, Page 1, Line 2, Pos (3,11)
+msgid ""
+"『死んだモフコの魂が星となり\\.\\.\n"
+"　この地に降り注ぐ』"
+msgstr ""
+"『死掉的mofuko的灵魂会变成星星，\\.\\.\n"
+"　降落到这个大地上』"
+

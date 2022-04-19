@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (7,8)
+msgid ""
+"モゲコ\n"
+"「静かに、ここで、漫画でも読んでれば\n"
+"　気に触れないよ･･･きっと････。」"
+msgstr ""
+"mogeko\n"
+"「在这里安静地看漫画，\n"
+"　不会生气的吧……一定……。」"
+
+#. ID 2, Page 1, Line 2, Pos (9,10)
+msgid ""
+"モゲコ\n"
+"「ぐすっ････ふぇ･･･泣きたい･･･\n"
+"　でも、泣くと磔にされるの･･･。」"
+msgstr ""
+"mogeko\n"
+"「虽然……想要……哭……\n"
+"　但哭了的话会被绑上十字架……。」"
+
+#. ID 2, Page 1, Line 5, Pos (9,10)
+msgid ""
+"モゲコ\n"
+"「が、我慢するの･･･。」"
+msgstr ""
+"mogeko\n"
+"「我要忍住才行……。」"
+
+#. ID 3, Page 1, Line 2, Pos (11,8)
+msgid ""
+"モゲコ\n"
+"「ガクガク････。」"
+msgstr ""
+"mogeko\n"
+"「嘎咕嘎咕……。」"
+
+#. ID 5, Page 1, Line 1, Pos (5,6)
+#. ID 6, Page 1, Line 1, Pos (6,6)
+#. ID 7, Page 1, Line 1, Pos (7,6)
+#. ID 8, Page 1, Line 1, Pos (8,6)
+#. ID 9, Page 1, Line 1, Pos (9,6)
+#. ID 10, Page 1, Line 1, Pos (10,6)
+msgid "カピカピしてくっついたページのある本だ。"
+msgstr "两张页面黏在一起的一本书。"
+
+#. ID 11, Page 1, Line 1, Pos (11,6)
+#. ID 12, Page 1, Line 1, Pos (12,6)
+#. ID 13, Page 1, Line 1, Pos (13,6)
+msgid "原形をとどめていない肉塊が入っている。"
+msgstr "里面放着已经认不出原型的肉块。"
+

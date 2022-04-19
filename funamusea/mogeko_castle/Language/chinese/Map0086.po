@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 3, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･････。」"
+msgstr ""
+"夕夜\n"
+"「………。」"
+
+#. ID 1, Page 1, Line 7, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･\\.･\\.･\\.･\\.兄さん。」"
+msgstr ""
+"夕夜\n"
+"「…\\.…\\.…\\.…\\.哥哥。」"
+
+#. ID 1, Page 1, Line 9, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「一体何処へ行ったの？」"
+msgstr ""
+"夕夜\n"
+"「去了哪里呢？」"
+
+#. ID 1, Page 1, Line 11, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「もう何日も帰ってきてない･･･。」"
+msgstr ""
+"夕夜\n"
+"「已经好几天没有回家了…。」"
+
+#. ID 1, Page 1, Line 13, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「････。」"
+msgstr ""
+"夕夜\n"
+"「……。」"
+
+#. ID 1, Page 1, Line 15, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「心配だよ･････。」"
+msgstr ""
+"夕夜\n"
+"「好担心………。」"
+
+#. ID 1, Page 1, Line 17, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･･･。」"
+msgstr ""
+"夕夜\n"
+"「…。」"
+
+#. ID 1, Page 1, Line 19, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「何か事件に\n"
+"　巻き込まれてたりしたら･･･。」"
+msgstr ""
+"夕夜\n"
+"「难道被卷入\n"
+"　什么事件中了吗…。」"
+
+#. ID 1, Page 1, Line 22, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「ああ････」"
+msgstr ""
+"夕夜\n"
+"「啊啊……」"
+
+#. ID 1, Page 1, Line 24, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「私、どうすれば････。」"
+msgstr ""
+"夕夜\n"
+"「我到底该怎么做……。」"
+
+#. ID 1, Page 1, Line 26, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「兄さん･･･････････。」"
+msgstr ""
+"夕夜\n"
+"「哥哥……………。」"
+

@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 5, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「そういえば今何時だろう」"
+msgstr ""
+"夕夜\n"
+"「话说现在几点了？」"
+
+#. ID 1, Page 1, Line 7, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「兄さんもう帰ってるかな？」"
+msgstr ""
+"夕夜\n"
+"「哥哥他已经回来了吧？」"
+
+#. ID 1, Page 1, Line 10, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「ここの世界と時間の流れが同じなのか、\\.\\.\n"
+"　わからないけど･･･」"
+msgstr ""
+"夕夜\n"
+"「不过我不知道\\.\\.这个世界的时间\n"
+"  是不是还和原先一样……」"
+
+#. ID 1, Page 1, Line 13, Pos (0,0)
+#. ID 1, Page 1, Line 19, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･････。」"
+msgstr ""
+"夕夜\n"
+"「………。」"
+
+#. ID 1, Page 1, Line 16, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「未だにこれが現実ってことが\n"
+"　信じられないや･･･。」"
+msgstr ""
+"夕夜\n"
+"「我还是没法相信\n"
+"　这些都是现实……。」"
+
+#. ID 1, Page 1, Line 22, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「兄さん、早く会いたいな」"
+msgstr ""
+"夕夜\n"
+"「哥哥，好想早点见到你」"
+
+#. ID 1, Page 1, Line 25, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「変わってないだろうなぁ･･･うふふ」"
+msgstr ""
+"夕夜\n"
+"「还真是一点也没变呢……嘿嘿」"
+
+#. ID 1, Page 1, Line 27, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･･･････････。」"
+msgstr ""
+"夕夜\n"
+"「…………………。」"
+
+#. ID 1, Page 1, Line 29, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「そう、早く帰らなくちゃね。」"
+msgstr ""
+"夕夜\n"
+"「啊，要早点回去呢。」"
+
+#. ID 1, Page 1, Line 31, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「兄さんが待ってるから」"
+msgstr ""
+"夕夜\n"
+"「哥哥还在等着呢」"
+

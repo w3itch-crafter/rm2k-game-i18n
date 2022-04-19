@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 55, Page 1, Line 4, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「･････････････。」"
+msgstr ""
+
+#. ID 55, Page 1, Line 7, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（！！！！！！！！！！）」"
+msgstr ""
+"夕夜\n"
+"「（！！！！！！！！！！）」"
+
+#. ID 55, Page 1, Line 10, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「哀れな最期だねえ？」"
+msgstr ""
+"mogeko王\n"
+"「真是寒碜的死法啊。」"
+
+#. ID 55, Page 1, Line 13, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「････････････。」"
+msgstr ""
+
+#. ID 55, Page 1, Line 16, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「準備完了であります！」"
+msgstr ""
+"mogeko\n"
+"「准备完毕！」"
+
+#. ID 55, Page 1, Line 18, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「宜しい･････。」"
+msgstr ""
+"mogeko王\n"
+"「干得不错……。」"
+
+#. ID 55, Page 1, Line 23, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「･･･････お前らには」"
+msgstr ""
+"异端mogeko\n"
+"「………………你们啊」"
+
+#. ID 55, Page 1, Line 26, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「あん？」"
+msgstr ""
+"mogeko王\n"
+"「啊嗯？」"
+
+#. ID 55, Page 1, Line 30, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「･･･････お前らには\n"
+"　わかるまい･･････････。」"
+msgstr ""
+"異端mogeko\n"
+"「………………你们啊\n"
+"　是不会明白的…………。」"
+
+#. ID 55, Page 1, Line 35, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「･･････････････。」"
+msgstr ""
+"mogeko王\n"
+"「……………………。」"
+
+#. ID 55, Page 1, Line 37, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「フッ」"
+msgstr ""
+"mogeko王\n"
+"「哼」"
+
+#. ID 55, Page 1, Line 41, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「火を放て」"
+msgstr ""
+"mogeko王\n"
+"「放火」"
+
+#. ID 55, Page 1, Line 43, Pos (0,0)
+msgid ""
+"モゲコたち\n"
+"「はッ！！」"
+msgstr ""
+"mogeko们\n"
+"「遵命！！」"
+
+#. ID 55, Page 1, Line 46, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（嫌････嫌････\n"
+"　だめ！！！！！！！！！）」"
+msgstr ""
+"夕夜\n"
+"「（不要……不要……\n"
+"　快住手！！！！！！！！！）」"
+
+#. ID 55, Page 1, Line 62, Pos (0,0)
+msgid ""
+"　\n"
+"　　　　　　　　『･････････ヨナカ』"
+msgstr ""
+"　\n"
+"　　　　　　　　『…………夕夜』"
+
+#. ID 55, Page 1, Line 68, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（！！！）」"
+msgstr ""
+"夕夜\n"
+"「（！！！）」"
+

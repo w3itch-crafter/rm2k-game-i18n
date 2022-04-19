@@ -1,0 +1,296 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 3, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「む～？」"
+msgstr ""
+"moge子\n"
+"「嗯～？」"
+
+#. ID 1, Page 1, Line 6, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「なんだよーお前ー\n"
+"　もげ子の邪魔するのー？」"
+msgstr ""
+"moge子，\n"
+"「想干嘛啊你，\n"
+"　想妨碍moge子么？」"
+
+#. ID 1, Page 1, Line 10, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「クソッ　\\.\\.\\.化け物め」"
+msgstr ""
+"异端mogeko\n"
+"「可恶　\\.\\.\\.你个怪物」"
+
+#. ID 1, Page 1, Line 13, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「あわわわわわ････！！！！」"
+msgstr ""
+"夕夜\n"
+"「啊哇哇哇哇哇哇……！！！！」"
+
+#. ID 1, Page 1, Line 16, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「･･････････。」"
+msgstr ""
+"moge子\n"
+"「………………。」"
+
+#. ID 1, Page 1, Line 18, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「もげ～･･･････。」"
+msgstr ""
+"moge子\n"
+"「moge～…………。」"
+
+#. ID 1, Page 1, Line 21, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「苛々してきたな」"
+msgstr ""
+"moge子\n"
+"「我心里有点不爽啦」"
+
+#. ID 1, Page 1, Line 23, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「････････。」"
+msgstr ""
+"moge子\n"
+"「……………。」"
+
+#. ID 1, Page 1, Line 26, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「あ゛ー」"
+msgstr ""
+"moge子\n"
+"「啊啊」"
+
+#. ID 1, Page 1, Line 31, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「あ゛ーーーー！！！！！！」"
+msgstr ""
+"moge子\n"
+"「啊啊啊啊啊啊！！！！！！」"
+
+#. ID 1, Page 1, Line 34, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「邪魔するならーーーーーーーーーーー\n"
+"　死ねよ！？！？死ね！！！！！！！！」"
+msgstr ""
+"moge子\n"
+"「如果要妨碍我的话，\n"
+"　去死吧！？！？去死！！！！！！！！」"
+
+#. ID 1, Page 1, Line 38, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「！？！？」"
+msgstr ""
+"夕夜\n"
+"「！？！？」"
+
+#. ID 1, Page 1, Line 41, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「あぎゃぎゃぎゃぎゃぎゃぎゃぎゃ！！\n"
+"　殺す！！！殺してやる！！！！」"
+msgstr ""
+"moge子\n"
+"「啊哈哈哈哈哈哈哈哈哈！！\n"
+"　杀！！！杀了你！！！！」"
+
+#. ID 1, Page 1, Line 45, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「キチガイが････！！！」"
+msgstr ""
+"异端mogeko\n"
+"「真是个奇葩……！！！」"
+
+#. ID 1, Page 1, Line 48, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「あのねあのね♪」"
+msgstr ""
+"moge子\n"
+"「那个啊那个啊(音符)」"
+
+#. ID 1, Page 1, Line 50, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「もげ子の事が好きな子は\n"
+"　もげ子も好き！」"
+msgstr ""
+"moge子\n"
+"「喜欢moge子的人呢，\n"
+"　moge子也喜欢他！」"
+
+#. ID 1, Page 1, Line 54, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「そうじゃないヤツは死ね！！！」"
+msgstr ""
+"moge子\n"
+"「不是这样的人呢就去死吧！！！」"
+
+#. ID 1, Page 1, Line 57, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「もげ子の思い通りになる子は\n"
+"　好き好き！」"
+msgstr ""
+"moge子\n"
+"「能够按照moge子想法去做的孩子呢，\n"
+"　喜欢喜欢！」"
+
+#. ID 1, Page 1, Line 61, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「そうじゃねえヤツは臓物散らして\n"
+"　死ね！！！カスが！！！！」"
+msgstr ""
+"moge子\n"
+"「不这样做的家伙呢，我就把他的\n"
+"  内脏都弄乱，去死！！！渣渣！！」"
+
+#. ID 1, Page 1, Line 65, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「うふふ～～～～♪」"
+msgstr ""
+"moge子\n"
+"「嘿嘿～～～～(音符)」"
+
+#. ID 1, Page 1, Line 68, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「あ゛ぎゃぎゃぎゃぎゃぎゃ！！！！！！\n"
+"　どいつもこいつもよォ！！！！！！！」"
+msgstr ""
+"moge子\n"
+"「啊哈哈哈哈哈哈哈哈！！！！！！\n"
+"　每个人都要这样！！！！！！！」"
+
+#. ID 1, Page 1, Line 72, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「殺してやるよ！！！！\n"
+"　だから苦しんで死ねよ！！！！！」"
+msgstr ""
+"moge子\n"
+"「杀了你哟！！！！\n"
+"　要让你痛苦地去死了哟！！！！！」"
+
+#. ID 1, Page 1, Line 76, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「もげ子もげ子もげ子もげ子もげ子もげ子\n"
+"　もげ子もげ子もげ子もげ子もげ子」"
+msgstr ""
+"moge子\n"
+"「moge子moge子moge子moge子moge子moge子\n"
+"　moge子moge子moge子moge子moge子」"
+
+#. ID 1, Page 1, Line 79, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「私あなたを殺したいの！！！！」"
+msgstr ""
+"moge子\n"
+"「我想杀了你呢！！！！」"
+
+#. ID 1, Page 1, Line 82, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「あのね！！！この前カタツムリを\n"
+"　踏み潰したのよ！！！！」"
+msgstr ""
+"moge子\n"
+"「那个啊！！！前一阵子，\n"
+"　我把一只蜗牛给踩碎了！」"
+
+#. ID 1, Page 1, Line 86, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「あれね♪すごく楽しいの♪\n"
+"　パキッてね♪うふ♪」"
+msgstr ""
+"moge子\n"
+"「那下啊(音符)真是十分痛快呢(音符)\n"
+"　啪的一声(音符)呼呼(音符)」"
+
+#. ID 1, Page 1, Line 90, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「カタツムリさんは死にました。\n"
+"　もげ子が殺したからです。」"
+msgstr ""
+"moge子\n"
+"「蜗牛先生死了。\n"
+"　因为moge子把他杀了。」"
+
+#. ID 1, Page 1, Line 94, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「だから目の前にいるキミたちもね、\\.\\.\n"
+"　殺さなくっちゃ♪ちゃんちゃん♪」"
+msgstr ""
+"moge子\n"
+"「所以在我眼前的你们也是，\\.\\.\n"
+"　要杀了才好(音符)锵锵(音符)」"
+
+#. ID 1, Page 1, Line 98, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「あぎゃぎゃぎゃぎゃぎゃ！！！！！！！\n"
+"　！！！！！！！！！！！！！！！！！」"
+msgstr ""
+"moge子\n"
+"「啊哈哈哈哈哈哈哈哈哈！！！！！！！\n"
+"　！！！！！！！！！！！！！！！！！」"
+
+#. ID 1, Page 1, Line 103, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･････････！！！\n"
+"　･････････････！！！！！」"
+msgstr ""
+"夕夜\n"
+"「………………！！！\n"
+"　……………………！！！！！」"
+
+#. ID 1, Page 1, Line 107, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「こいつはやべーな･･･」"
+msgstr ""
+"异端mogeko\n"
+"「这家伙不太妙呢……」"
+
+#. ID 1, Page 1, Line 109, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「嬢ちゃん、走るぞ！」"
+msgstr ""
+"异端mogeko\n"
+"「小姐，快跑！」"
+

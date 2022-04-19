@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 62, Page 1, Line 2, Pos (5,6)
+#. ID 63, Page 1, Line 2, Pos (6,9)
+#. ID 64, Page 1, Line 2, Pos (8,4)
+#. ID 65, Page 1, Line 2, Pos (10,7)
+#. ID 66, Page 1, Line 2, Pos (13,6)
+#. ID 72, Page 1, Line 2, Pos (14,8)
+#. ID 73, Page 1, Line 2, Pos (11,10)
+#. ID 74, Page 1, Line 2, Pos (13,4)
+#. ID 75, Page 1, Line 2, Pos (13,10)
+#. ID 76, Page 1, Line 2, Pos (4,9)
+#. ID 77, Page 1, Line 2, Pos (15,4)
+msgid ""
+"モゲコの幼虫\n"
+"「ママー！」"
+msgstr ""
+"mogeko的幼虫\n"
+"「妈妈——！」"
+

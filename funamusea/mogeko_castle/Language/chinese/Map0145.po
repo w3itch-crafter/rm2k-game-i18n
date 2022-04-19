@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 40, Page 1, Line 7, Pos (0,0)
+msgid ""
+"？？？\n"
+"「･･････････。」"
+msgstr ""
+"？？？\n"
+"「………………。」"
+
+#. ID 40, Page 1, Line 12, Pos (0,0)
+msgid ""
+"？？？\n"
+"「あはっ」"
+msgstr ""
+"？？？\n"
+"「啊哈」"
+
+#. ID 40, Page 1, Line 14, Pos (0,0)
+msgid ""
+"？？？\n"
+"「あははは～～～☆\n"
+"　こんにちはー！！！」"
+msgstr ""
+"？？？\n"
+"「啊哈哈哈～～～☆\n"
+"　你好啊！！！」"
+
+#. ID 40, Page 1, Line 18, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「えっ？\\.\\.\\.　えええっ？？」"
+msgstr ""
+"夕夜\n"
+"「诶？\\.\\.\\.　诶诶诶诶？？」"
+
+#. ID 40, Page 1, Line 21, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「しまった････！！！\n"
+"　もげ子だ！！！！」"
+msgstr ""
+"异端mogeko\n"
+"「不好……！！！\n"
+"　是moge子！！！！」"
+
+#. ID 40, Page 1, Line 25, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「ええぇぇぇえーーーーーッッ！？！？」"
+msgstr ""
+"夕夜\n"
+"「诶诶诶诶诶诶诶诶诶诶诶诶诶！？！？」"
+
+#. ID 40, Page 1, Line 29, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「はろーはろーこんにちは♪\n"
+"　もげ子でーす☆」"
+msgstr ""
+"moge子\n"
+"「HELLO—HELLO—你好啊(音符)\n"
+"　我就是moge子☆」"
+
+#. ID 40, Page 1, Line 33, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「生ハムも好きだけど･･･マカロンと\n"
+"　マシュマロも、好きなの☆」"
+msgstr ""
+"moge子\n"
+"「虽然很喜欢生火腿啦……但是\n"
+"　我也很喜欢马卡龙和棉花糖的☆」"
+
+#. ID 40, Page 1, Line 37, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「お昼寝もだーいすき♪」"
+msgstr ""
+"moge子\n"
+"「也很喜欢睡午觉啊(音符)」"
+
+#. ID 40, Page 1, Line 40, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「貴様･･･いつから俺らの行動に\n"
+"　気付いていた！？」"
+msgstr ""
+"异端mogeko\n"
+"「你这家伙……从什么时候开始\n"
+"　注意到我们的行动的！？」"
+
+#. ID 40, Page 1, Line 44, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「んー？\\.\\.　んー。\\.\\.\n"
+"　結構最初のほうからかな？\\.\\.もげげー♪」"
+msgstr ""
+"moge子\n"
+"「诶？\\.\\.嗯。\\.\\.可能从最开始\n"
+"  就注意到了吧？\\.\\.mogege(音符)」"
+
+#. ID 40, Page 1, Line 48, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「クソッ････俺としたことが･･･。」"
+msgstr ""
+"异端mogeko\n"
+"「可恶啊……我居然大意了……。」"
+
+#. ID 40, Page 1, Line 51, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「わかるわけないじゃーん♪\n"
+"　もげ子気配消せるもん♪」"
+msgstr ""
+"moge子\n"
+"「你是不可能注意到我的吧(音符)\n"
+"　人家隐藏了自己的气息呢(音符)」"
+
+#. ID 40, Page 1, Line 55, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「わかられてたまるか」"
+msgstr ""
+"moge子\n"
+"「怎么可能让你们发现啊」"
+
+#. ID 40, Page 1, Line 59, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「異端モゲコさん、ほんとにこの人が\n"
+"　もげ子さんなんですか？」"
+msgstr ""
+"夕夜\n"
+"「异端mogeko，这个人\n"
+"　真的是moge子么？」"
+
+#. ID 40, Page 1, Line 62, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「普通の女の子じゃないですか･･･」"
+msgstr ""
+"夕夜\n"
+"「这不就是普通的女孩子嘛……」"
+
+#. ID 40, Page 1, Line 65, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「嬢ちゃん、見た目に騙されるな。\n"
+"　こいつは――――」"
+msgstr ""
+"异端mogeko\n"
+"「小姐，不要被表象迷惑了。\n"
+"　这家伙她――――」"
+
+#. ID 40, Page 1, Line 69, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「あははー♪\n"
+"　女子高生カワイイ♪」"
+msgstr ""
+"moge子\n"
+"「啊哈哈(音符)\n"
+"　女高中生好可爱(音符)」"
+
+#. ID 40, Page 1, Line 73, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「！　　\\.\\.･････！？」"
+msgstr ""
+"夕夜\n"
+"「！　　\\.\\.………！？」"
+
+#. ID 40, Page 1, Line 76, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「ねぇねぇ♪」"
+msgstr ""
+"moge子\n"
+"「喂喂(音符)」"
+
+#. ID 40, Page 1, Line 78, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「キミはもげ子のこと好きー？」"
+msgstr ""
+"moge子\n"
+"「你喜欢moge子么？」"
+
+#. ID 40, Page 1, Line 81, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「えぇぇっ！？\n"
+"　いきなり何を･･･」"
+msgstr ""
+"夕夜\n"
+"「诶诶诶！？\n"
+"　这么直接……」"
+
+#. ID 40, Page 1, Line 85, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「好きー？」"
+msgstr ""
+"moge子\n"
+"「喜欢么？」"
+
+#. ID 40, Page 1, Line 88, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「え、わわ、そんなこと言われても･･･\n"
+"　私にはお兄ちゃんが･･･」"
+msgstr ""
+"夕夜\n"
+"「诶，哇哇，就算你那么说……\n"
+"　我也还有哥哥呢……」"
+
+#. ID 40, Page 1, Line 92, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「何言ってんだお前」"
+msgstr ""
+"异端mogeko\n"
+"「你说什么呢」"
+
+#. ID 40, Page 1, Line 97, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「もげ子のことが好きじゃないなら\n"
+"　死んでいーよ♪」"
+msgstr ""
+"moge子\n"
+"「既然不喜欢moge子的话，\n"
+"　可以去死么(音符)」"
+
+#. ID 40, Page 1, Line 101, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「！？！？」"
+msgstr ""
+"夕夜\n"
+"「！？！？」"
+
+#. ID 40, Page 1, Line 104, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「！！」"
+msgstr ""
+"异端mogeko\n"
+"「！！」"
+

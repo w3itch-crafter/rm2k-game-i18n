@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 3, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･･････････。」"
+msgstr ""
+"夕夜\n"
+"「………。」"
+
+#. ID 1, Page 1, Line 6, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「････････････え？」"
+msgstr ""
+"夕夜\n"
+"「…………嗯？」"
+
+#. ID 1, Page 1, Line 12, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･･･えっ？えっ？\n"
+"　\\.なに･･･\\.こんな駅･･･」"
+msgstr ""
+"夕夜\n"
+"「…嗯？嗯？\n"
+"　\\.这个车站…\\.是哪里啊…」"
+
+#. ID 1, Page 1, Line 16, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･････\\.えっ？？？」"
+msgstr ""
+"夕夜\n"
+"「………\\.嗯？？？」"
+

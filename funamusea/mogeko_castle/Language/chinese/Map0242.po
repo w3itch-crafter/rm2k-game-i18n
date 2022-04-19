@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 16, Page 1, Line 27, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「･･････････。」"
+msgstr ""
+"mogeko王\n"
+"「………………。」"
+
+#. ID 16, Page 1, Line 31, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「チーーーーーーッス！！！！」"
+msgstr ""
+"mogeko王\n"
+"「你们好呀————！！！！」"
+
+#. ID 16, Page 1, Line 33, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「我が城、モゲコキャッスルへ\n"
+"　ようこそ！」"
+msgstr ""
+"mogeko王\n"
+"「欢迎来到我的城堡\n"
+"　Mogeko Castle！」"
+
+#. ID 16, Page 1, Line 37, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「ええ？！\\.\\.どういうことですか！？\\.\\.\n"
+"　異端モゲコさん！」"
+msgstr ""
+"夕夜\n"
+"「咦咦？！\\.\\.怎么回事！？\\.\\.\n"
+"　异端mogeko！」"
+
+#. ID 16, Page 1, Line 41, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「ヤツが････\\.\\.さっき話した\n"
+"　もげこ王、\\.\\.この世界の創造主だ」"
+msgstr ""
+"异端mogeko\n"
+"「那家伙就是…\\.\\.之前跟你提起过的\n"
+"　mogeko王，\\.\\.也就是这个世界的创造者」"
+
+#. ID 16, Page 1, Line 45, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「あ、\n"
+"　また字が違うだけのひとか（？）･･･」"
+msgstr ""
+"夕夜\n"
+"「啊…又是个名字的写法\n"
+"  稍有不同的人（？）……」"
+
+#. ID 16, Page 1, Line 49, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「いやあー！ヨナカちゃん！きみも\n"
+"　中々すごいんだねえ！」"
+msgstr ""
+"mogeko王\n"
+"「哎呀——！小夕夜！\n"
+"　你也是个相当厉害的人物呢！」"
+
+#. ID 16, Page 1, Line 52, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「さっきもげ子に怒られちゃったよ～\\.\\.\n"
+"　もげははは」"
+msgstr ""
+"mogeko王\n"
+"「刚刚啊我还被moge子当做出气筒了呢～\\.\\.\n"
+"　moge哈哈哈」"
+
+#. ID 16, Page 1, Line 56, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（見た目が他のモゲコと全く同じで\n"
+"　見分けがつかない！）」"
+msgstr ""
+"夕夜\n"
+"「（明明看上去跟其他mogeko一模一样嘛，\n"
+"　根本就分辨不出来有什么区别啦！）」"
+
+#. ID 16, Page 1, Line 60, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「いやあーー、\\.\\.まさかキミが手を貸して\n"
+"　いたとはねえ･････。」"
+msgstr ""
+"mogeko王\n"
+"「咿呀——，\\.\\.真没想到竟然是你\n"
+"　在帮她呢呢……。」"
+
+#. ID 16, Page 1, Line 64, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「･････････････。」"
+msgstr ""
+"异端mogeko\n"
+"「………………。」"
+
+#. ID 16, Page 1, Line 66, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「貴様！図書館を何処へやった。\\.\\.\n"
+"　お前はこの領域には干渉できないはず」"
+msgstr ""
+"异端mogeko\n"
+"「喂！图书馆到底到哪里去了，\\.\\.\n"
+"　你应该没法干预这一块领域才对」"
+
+#. ID 16, Page 1, Line 70, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「え？\\.\\.そんなん知らんし。\\.\\.\n"
+"　ぶっ壊したもげ」"
+msgstr ""
+"mogeko王\n"
+"「诶？\\.\\.那种事情我才不知道啦。\\.\\.\n"
+"　我把那玩意搞坏掉啦moge」"
+
+#. ID 16, Page 1, Line 73, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「あんなのいらないもんねー」"
+msgstr ""
+"mogeko王\n"
+"「那种完全不需要的玩意儿——」"
+
+#. ID 16, Page 1, Line 76, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「もげげ！」"
+msgstr ""
+"mogeko王\n"
+"「mogege！」"
+
+#. ID 16, Page 1, Line 79, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「なんてことを････！」"
+msgstr ""
+"异端mogeko\n"
+"「你做了什么……！」"
+
+#. ID 16, Page 1, Line 82, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「キミはやっぱり邪魔だねえ！\\.\\.\n"
+"　あの時殺しておくんだったよ！」"
+msgstr ""
+"mogeko王\n"
+"「你果然是个绊脚石啊！\\.\\.\n"
+"　早知道那时候就该杀了你的！」"
+
+#. ID 16, Page 1, Line 86, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「勝手なことをぬかしやがるぜ･･･」"
+msgstr ""
+"异端mogeko\n"
+"「你、你胡说什么……」"
+
+#. ID 16, Page 1, Line 89, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「もげたんの世界にいる以上お前の\n"
+"　好きにはさせなーいもげ！」"
+msgstr ""
+"mogeko王\n"
+"「只要你还在moge酱的世界里，\n"
+"　我就绝对不会让你随心所欲的——moge！」"
+
+#. ID 16, Page 1, Line 92, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「観念するもげね！」"
+msgstr ""
+"mogeko王\n"
+"「你给我受死吧moge！」"
+
+#. ID 16, Page 1, Line 95, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「･･･････････。」"
+msgstr ""
+"异端mogeko\n"
+"「…………。」"
+
+#. ID 16, Page 1, Line 98, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「嫌だね！」"
+msgstr ""
+"异端mogeko\n"
+"「我才不要呢！」"
+

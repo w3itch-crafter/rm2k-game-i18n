@@ -1,0 +1,437 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 1, Line 1, Pos (7,12)
+#. ID 8, Page 1, Line 1, Pos (15,12)
+msgid "血で作られた十字架だ。"
+msgstr "是用血液做成的十字架。"
+
+#. ID 10, Page 1, Line 2, Pos (10,12)
+msgid ""
+"異端モゲコ\n"
+"「ハス･･･････････。」"
+msgstr ""
+"异端mogeko\n"
+"「hs…………………。」"
+
+#. ID 12, Page 1, Line 4, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「ああ、またここでも･･･。」"
+msgstr ""
+"夕夜\n"
+"「啊啊，这里也是……。」"
+
+#. ID 12, Page 1, Line 7, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「･･･････。」"
+msgstr ""
+"异端mogeko\n"
+"「…………。」"
+
+#. ID 12, Page 1, Line 10, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「？　\\.\\.異端モゲコさん･･･？」"
+msgstr ""
+"夕夜\n"
+"「？\\.\\.异端mogeko先生……？」"
+
+#. ID 12, Page 1, Line 13, Pos (0,0)
+#. ID 12, Page 2, Line 67, Pos (0,0)
+#. ID 12, Page 2, Line 73, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「･･･････････。」"
+msgstr ""
+"异端mogeko\n"
+"「…………………。」"
+
+#. ID 12, Page 1, Line 15, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「みかけないと思ったら･･･\n"
+"　ここにいたのか･･･」"
+msgstr ""
+"异端mogeko\n"
+"「我还在想怎么一直都见不到呢……\n"
+"　原来是在这里啊……」"
+
+#. ID 12, Page 1, Line 19, Pos (0,0)
+msgid ""
+"？？？\n"
+"「････････。」"
+msgstr ""
+"？？？\n"
+"「……………。」"
+
+#. ID 12, Page 1, Line 22, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「ハス。お前までもげ子の手に\n"
+"　かかっていたとはな･･･」"
+msgstr ""
+"异端mogeko\n"
+"「hs。没想到连你也惨遭\n"
+"　moge子的毒手了啊……」"
+
+#. ID 12, Page 1, Line 28, Pos (0,0)
+msgid ""
+"ハス\n"
+"「おひさしぶりでごんす」"
+msgstr ""
+"hs\n"
+"「好久不见」"
+
+#. ID 12, Page 1, Line 30, Pos (0,0)
+#. ID 12, Page 1, Line 44, Pos (0,0)
+msgid ""
+"ハス\n"
+"「ごぽっ」"
+msgstr ""
+"hs\n"
+"「咳咳」"
+
+#. ID 12, Page 1, Line 33, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（あ、このモゲコ生きてたんだ･･･）」"
+msgstr ""
+"夕夜\n"
+"「（啊，这个mogeko原来还活着啊……）」"
+
+#. ID 12, Page 1, Line 36, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「一体何があったんだ？」"
+msgstr ""
+"异端mogeko\n"
+"「到底发生了什么事？」"
+
+#. ID 12, Page 1, Line 39, Pos (0,0)
+msgid ""
+"ハス\n"
+"「いやぁ俺も捕まるとは思って\n"
+"　なかったんだけどさー」"
+msgstr ""
+"hs\n"
+"「其实我也没有想到\n"
+"　会被抓住」"
+
+#. ID 12, Page 1, Line 42, Pos (0,0)
+msgid ""
+"ハス\n"
+"「うん･･･････････。」"
+msgstr ""
+"hs\n"
+"「呜…………………。」"
+
+#. ID 12, Page 1, Line 46, Pos (0,0)
+#. ID 12, Page 2, Line 30, Pos (0,0)
+#. ID 12, Page 2, Line 76, Pos (0,0)
+msgid ""
+"ハス\n"
+"「･････････。」"
+msgstr ""
+"hs\n"
+"「………………。」"
+
+#. ID 12, Page 1, Line 49, Pos (0,0)
+msgid ""
+"ハス\n"
+"「話せば長くなっちゃうけど･･･」"
+msgstr ""
+"hs\n"
+"「这可就说来话长了……」"
+
+#. ID 12, Page 2, Line 4, Pos (0,0)
+msgid ""
+"ハス\n"
+"「そして･･･\\.\\.今、お前たちがここへ来た」"
+msgstr ""
+"hs\n"
+"「然后就是……\\.\\.你们就到这儿来了」"
+
+#. ID 12, Page 2, Line 7, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･･････････。」"
+msgstr ""
+"夕夜\n"
+"「………………。」"
+
+#. ID 12, Page 2, Line 10, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「････････････。」"
+msgstr ""
+"异端mogeko\n"
+"「……………………。」"
+
+#. ID 12, Page 2, Line 13, Pos (0,0)
+msgid ""
+"ハス\n"
+"「ハハハ････」"
+msgstr ""
+"hs\n"
+"「哈哈哈……」"
+
+#. ID 12, Page 2, Line 15, Pos (0,0)
+#. ID 13, Page 1, Line 2, Pos (11,10)
+msgid ""
+"ハス\n"
+"「････････。」"
+msgstr ""
+"hs\n"
+"「……………。」"
+
+#. ID 12, Page 2, Line 17, Pos (0,0)
+msgid ""
+"ハス\n"
+"「あいつ危ないからさあ･･･\\.\\.\n"
+"　早く逃げなよ」"
+msgstr ""
+"hs\n"
+"「那家伙很危险的……\\.\\.\n"
+"　得快点逃啊」"
+
+#. ID 12, Page 2, Line 21, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「もう見つかったんだ\\.\\.\n"
+"　エレベーターに乗る前にな」"
+msgstr ""
+"异端mogeko\n"
+"「已经被发现了\\.\\.\n"
+"　就在上电梯之前」"
+
+#. ID 12, Page 2, Line 25, Pos (0,0)
+msgid ""
+"ハス\n"
+"「あー\\.\\.\n"
+"　そっかー　\\.\\.そりゃ残念だな」"
+msgstr ""
+"hs\n"
+"「啊啊\\.\\.\n"
+"　这样啊　\\.\\.那还真是遗憾呢」"
+
+#. ID 12, Page 2, Line 28, Pos (0,0)
+msgid ""
+"ハス\n"
+"「となるともう引き返すのはまずいな…」"
+msgstr ""
+"hs\n"
+"「这样你们再往回走就有点…」"
+
+#. ID 12, Page 2, Line 33, Pos (0,0)
+msgid ""
+"ハス\n"
+"「･････････\\.\\.あ！」"
+msgstr ""
+"hs\n"
+"「………………\\.\\.啊！」"
+
+#. ID 12, Page 2, Line 36, Pos (0,0)
+msgid ""
+"ハス\n"
+"「そういえば隠し通路があるよ」"
+msgstr ""
+"hs\n"
+"「话说有个秘密通道来着」"
+
+#. ID 12, Page 2, Line 39, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「何？」"
+msgstr ""
+"异端mogeko\n"
+"「什么？」"
+
+#. ID 12, Page 2, Line 42, Pos (0,0)
+msgid ""
+"ハス\n"
+"「もげ子の部屋のベッドの下だ\\.\\.\n"
+"　確か通路があったはず」"
+msgstr ""
+"hs\n"
+"「moge子房间里的床的下面，\\.\\.\n"
+"　确实是有过一个暗道的」"
+
+#. ID 12, Page 2, Line 45, Pos (0,0)
+msgid ""
+"ハス\n"
+"「俺もそこから逃げようと思ったんだけど\n"
+"　････手足を潰されちゃってな」"
+msgstr ""
+"hs\n"
+"「我本来也想从那里逃跑来着\n"
+"　……可惜手脚都被弄烂了」"
+
+#. ID 12, Page 2, Line 49, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「･････････。」"
+msgstr ""
+"异端mogeko\n"
+"「………………。」"
+
+#. ID 12, Page 2, Line 51, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「ハス･･･\\.\\.お前も俺らと一緒に行こう」"
+msgstr ""
+"异端mogeko\n"
+"「hs……\\.\\.你也和我们一起走吧」"
+
+#. ID 12, Page 2, Line 54, Pos (0,0)
+msgid ""
+"ハス\n"
+"「ははは･･･ありがとう。\\.\\.でも俺はいいよ\\.\\.\n"
+"　多分もう･･･だめ････」"
+msgstr ""
+"hs\n"
+"「哈哈哈……谢谢你了。\\.\\.不过我就算了\\.\\.\n"
+"　大概我……已经不行了……」"
+
+#. ID 12, Page 2, Line 58, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「ハス！」"
+msgstr ""
+"异端mogeko\n"
+"「hs！」"
+
+#. ID 12, Page 2, Line 61, Pos (0,0)
+msgid ""
+"ハス\n"
+"「もう意識もはっきりしなくなって\n"
+"　きたんだ･･･」"
+msgstr ""
+"hs\n"
+"「就连我的意识都快\n"
+"　跑远了……」"
+
+#. ID 12, Page 2, Line 64, Pos (0,0)
+msgid ""
+"ハス\n"
+"「体の感覚もなくなってきてる･･･」"
+msgstr ""
+"hs\n"
+"「身体的感觉也越来越弱……」"
+
+#. ID 12, Page 2, Line 70, Pos (0,0)
+msgid ""
+"ハス\n"
+"「またみんなと遊びたかったな･･･」"
+msgstr ""
+"hs\n"
+"「好想再次和大家一起玩呢……」"
+
+#. ID 12, Page 2, Line 79, Pos (0,0)
+msgid ""
+"ハス\n"
+"「でも、\\.\\.いいんだ」"
+msgstr ""
+"hs\n"
+"「但是\\.\\.没事的」"
+
+#. ID 12, Page 2, Line 82, Pos (0,0)
+msgid ""
+"ハス\n"
+"「生ハムの園が、\\.\\.ほら、\\.\\.もう、\\.\\.\\.\\.\n"
+"　す\\.ぐ\\.そ\\.こ\\.に\\.･\\.･\\.･\\.･\\.。」"
+msgstr ""
+"hs\n"
+"「是生火腿的花园么，\\.\\.啊、\\.\\.就、\\.\\.\\.\\.\n"
+"　就\\.在\\.眼\\.前\\.啊\\.…\\.…\\.。」"
+
+#. ID 12, Page 2, Line 96, Pos (0,0)
+msgid "ハスは　\\.\\.天へ　\\.\\.昇った"
+msgstr "hs他　\\.\\.升　\\.\\.天了"
+
+#. ID 12, Page 2, Line 98, Pos (0,0)
+msgid "天の園へ\\.\\."
+msgstr "向着天空的花园\\.\\."
+
+#. ID 12, Page 2, Line 99, Pos (0,0)
+msgid "そう"
+msgstr "是的"
+
+#. ID 12, Page 2, Line 101, Pos (0,0)
+msgid "苦しみのない　\\.\\.生ハムの園へ"
+msgstr "向着毫无痛苦的　\\.\\.生火腿的花园"
+
+#. ID 12, Page 2, Line 103, Pos (0,0)
+msgid "モゲコ"
+msgstr "mogeko"
+
+#. ID 12, Page 2, Line 105, Pos (0,0)
+msgid "全てのモゲコは血に還る"
+msgstr "所有的mogeko回归成为血液吧。"
+
+#. ID 12, Page 2, Line 106, Pos (0,0)
+msgid ""
+"血に還ったモゲコは、\\.\\.\n"
+"楽園へと導かれる"
+msgstr ""
+"回归成为血液的mogeko，\\.\\.\n"
+"被指引着走向乐园。"
+
+#. ID 12, Page 2, Line 109, Pos (0,0)
+msgid ""
+"生ハムの神は慈悲深く\\.\\.\n"
+"全てのモゲコの罪を赦す"
+msgstr ""
+"生火腿之神是大慈大悲的，\\.\\.\n"
+"会宽恕所有mogeko的罪行。"
+
+#. ID 12, Page 2, Line 111, Pos (0,0)
+msgid "汝　\\.\\.生ハムを愛せよ"
+msgstr "你　\\.\\.也来爱生火腿吧"
+
+#. ID 12, Page 2, Line 113, Pos (0,0)
+msgid ""
+"おお！\\.\\.神よ！\\.\\.美しき輝きを纏いし、\\.\\.\n"
+"唯一絶対の生ハムの神よ！"
+msgstr ""
+"噢噢！\\.\\.神哟！\\.\\.美丽的光辉缠绕着你，\\.\\.\n"
+"我们唯一的生火腿之神哟！"
+
+#. ID 12, Page 2, Line 116, Pos (0,0)
+msgid "この哀れな世界と共に･････"
+msgstr "和这个悲哀的世界一起………"
+
+#. ID 12, Page 2, Line 119, Pos (0,0)
+msgid "嗚呼"
+msgstr "呜呼呀"
+
+#. ID 12, Page 2, Line 120, Pos (0,0)
+msgid "モゲコの魂が、\\.\\.またひとつ"
+msgstr "还有一个、\\.\\.mogeko的灵魂"
+
+#. ID 12, Page 2, Line 121, Pos (0,0)
+msgid "昇\\.\\.っ\\.\\.て\\.\\.\\.ゆ\\.\\.く\\.\\.\\.･\\.\\.･\\.\\.･\\.\\.･\\.\\.。"
+msgstr "渐\\.\\.渐\\.\\.地\\.\\.\\.飘\\.\\.远\\.\\.\\.…\\.\\.…\\.\\.…\\.\\.。"
+
+#. ID 13, Page 1, Line 5, Pos (11,10)
+#. Contains choice at line 2 (2 options)
+msgid "ハスの死体を切り刻みますか？"
+msgstr "要把hs的尸体切碎么？"
+
+#. ID 13, Page 1, Line 6, Pos (11,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+

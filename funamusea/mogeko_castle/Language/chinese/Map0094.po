@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 3, Pos (16,9)
+msgid ""
+"モゲコ\n"
+"「宇宙ってなんだろう･･･。」"
+msgstr ""
+"mogeko\n"
+"「宇宙到底是什么呢…。」"
+
+#. ID 42, Page 1, Line 4, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「はいはいもう逃がさない逃がさない」"
+msgstr ""
+"mogeko\n"
+"「这回不会再让你逃掉了哦」"
+
+#. ID 42, Page 1, Line 7, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「またこのパターーーーン！！」"
+msgstr ""
+"夕夜\n"
+"「又来！！」"
+
+#. ID 42, Page 1, Line 10, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「もう無理もげ！\\.\\.\n"
+"　ムラムラして待てないもげ！」"
+msgstr ""
+"mogeko\n"
+"「已经不行了moge！\\.\\.\n"
+"　无法再忍耐下去了moge！」"
+
+#. ID 42, Page 1, Line 13, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「遊びは終わりだ！」"
+msgstr ""
+"mogeko\n"
+"「游戏结束了！」"
+
+#. ID 42, Page 1, Line 15, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「さあーー野郎共ーーー\\.\\.\n"
+"　とっ捕まえろーーーー」"
+msgstr ""
+"mogeko\n"
+"「上吧～～小的们～～～\\.\\.\n"
+"　把她给我抓住～～」"
+
+#. ID 42, Page 1, Line 19, Pos (0,0)
+msgid ""
+"野郎共\n"
+"「もげげ！！！」"
+msgstr ""
+"小的们\n"
+"「mogege！！！」"
+
+#. ID 42, Page 1, Line 22, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「えっ！？\n"
+"　ちょっ･･･････！！！！！」"
+msgstr ""
+"夕夜\n"
+"「诶！？\n"
+"　等……！！！！！」"
+

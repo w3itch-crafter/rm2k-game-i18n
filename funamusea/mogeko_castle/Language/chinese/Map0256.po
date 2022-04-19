@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 4, Pos (0,0)
+msgid ""
+"もげ子のかけら\n"
+"「もげげ♪」"
+msgstr ""
+"moge子的碎片\n"
+"「mogege(音符)」"
+
+#. ID 4, Page 1, Line 9, Pos (0,0)
+msgid ""
+"もげ子のかけら\n"
+"「やるじゃない」"
+msgstr ""
+"moge子的碎片\n"
+"「不来干一场吗」"
+
+#. ID 4, Page 1, Line 11, Pos (0,0)
+msgid ""
+"もげ子のかけら\n"
+"「イヒヒ」"
+msgstr ""
+"moge子的碎片\n"
+"「噫嘿嘿」"
+
+#. ID 5, Page 1, Line 1, Pos (3,10)
+#. ID 6, Page 1, Line 1, Pos (16,10)
+msgid "『全てのモゲコに血塗れた肉を』"
+msgstr "『全部的mogeko都变成被血沾染的肉块』"
+
+#. ID 7, Page 1, Line 2, Pos (10,9)
+msgid "カギ２を手に入れた！"
+msgstr "入手了钥匙2！"
+

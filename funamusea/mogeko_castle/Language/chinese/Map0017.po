@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 7, Page 1, Line 1, Pos (33,11)
+msgid ""
+"　　　　　　　　　『鳴かぬなら\\.\\.\n"
+"　　　　　　　　　　犯して孕ませ\\.\\.\n"
+"　　　　　　　　　　ホトトギス』\n"
+"　　"
+msgstr ""
+"　　　　　　　　　『不叫的话，\\.\\.\n"
+"　　　　　　　　　　奸至怀孕，\\.\\.\n"
+"　　　　　　　　　　小杜鹃。』\n"
+"　　"
+
+#. ID 8, Page 1, Line 1, Pos (31,11)
+msgid ""
+"「ばーか！花粉症で死ね！」\n"
+"「なんだと貴様！\n"
+"　首吊って溺死しろ！クソボケ！」"
+msgstr ""
+"「笨蛋！患上花粉症去死吧！」\n"
+"「你说什么！\n"
+"　去上吊去淹死吧！你个混蛋！」"
+
+#. ID 9, Page 1, Line 1, Pos (9,11)
+msgid ""
+"\n"
+"　　　　　　『汝、生ハムを知れ。』"
+msgstr ""
+"\n"
+"　　　　　　『你赶紧给我了解生火腿！』"
+
+#. ID 10, Page 1, Line 1, Pos (51,11)
+msgid ""
+"　　『　　　　防犯！火炎放射練習会\n"
+"　　　みんなで火を放とう！参加費無料！\n"
+"　　　持ち物は口から火を吐く力、これだけ！　　』\n"
+"　"
+msgstr ""
+"　　『　　　　防灾！火灾喷射练习会！\n"
+"　　　一起来放火吧！无需参加费！\n"
+"　　　只需把能喷火的东西带来即可！　　』\n"
+"　"
+
+#. ID 11, Page 1, Line 1, Pos (67,11)
+msgid ""
+"　　　　　　　『色んな結末\n"
+"　　　　　　　　ほら楽しいね\n"
+"　　　　　　　　モゲコキャッスル』"
+msgstr ""
+"　　　　　　　『各种各样的结果\n"
+"　　　　　　　　真令人期待呢\n"
+"　　　　　　　　mogeko 城堡』"
+
+#. ID 12, Page 1, Line 1, Pos (112,11)
+msgid ""
+"　　　『この先３キロ⇒\n"
+"　　　　Mxxxkx Cxsxxe\n"
+"　　　 （文字が消えかかっていて読めない。）』"
+msgstr ""
+"　　　『前方3公里→\n"
+"　　　　Mxxxkx Cxsxxe\n"
+"　　　 （因部分文字缺失，看不懂。）』"
+
+#. ID 13, Page 1, Line 1, Pos (141,11)
+msgid ""
+"　　　　　『肩こりや腰痛がひどい･･･\n"
+"　　　　　　そんなあなたに\n"
+"　　　　　　生　ハ　ム　！　』"
+msgstr ""
+"　　　　　『腰酸又背痛…\n"
+"　　　　　　这样的你就需要\n"
+"　　　　　　生  火  腿　！』"
+
+#. ID 13, Page 1, Line 5, Pos (141,11)
+msgid ""
+"ヨナカ\n"
+"「いやいやいや。」"
+msgstr ""
+"夕夜\n"
+"「不不不。」"
+
+#. ID 14, Page 1, Line 1, Pos (161,11)
+msgid ""
+"　『　毎週月、火、水、木、金、土、日は\n"
+"　　　生ハムデー！\n"
+"　　　生ハムおいしい！！！　　　　　　　　　』"
+msgstr ""
+"　『　每星期一、二、三、四、五、六、日\n"
+"　　　都是生火腿日！\n"
+"　　　生火腿真好吃！！！　　　　　　　　　』"
+
+#. ID 14, Page 1, Line 5, Pos (161,11)
+msgid ""
+"ヨナカ\n"
+"「…さっきからあるこの変なポスターは\n"
+"　なんなの…どんだけ生ハム好きなの…」"
+msgstr ""
+"夕夜\n"
+"「…一路上到处都是这样奇怪的海报\n"
+"　到底有多喜欢生火腿啊…」"
+
+#. ID 14, Page 1, Line 8, Pos (161,11)
+msgid ""
+"ヨナカ\n"
+"「なんかもう生ハムが\n"
+"　ゲシュタルト崩壊してきたよ･･･。」"
+msgstr ""
+"夕夜\n"
+"「快给生火腿\n"
+"　跪了…。」"
+
+#. ID 15, Page 1, Line 1, Pos (174,11)
+msgid "旅行の宣伝ポスターだ。"
+msgstr "旅行的宣传海报。"
+
+#. ID 16, Page 1, Line 1, Pos (183,11)
+msgid ""
+"地図？のようなものが書かれているが\n"
+"文字が読めない･･･何語だろうか。"
+msgstr ""
+"像是地图？\n"
+"看不懂…用的是什么语言呢。"
+
+#. ID 17, Page 1, Line 1, Pos (184,11)
+msgid ""
+"　　　　『　はすはすの極意\n"
+"\n"
+"　　　　　　はすはすは己を鍛える。\n"
+"　　　　　　 自らの心を解き放て…"
+msgstr ""
+"　　　　『　hshs的深意为\n"
+"\n"
+"　　　　　　磨练自身。\n"
+"　　　　　　 解放心灵…"
+
+#. ID 17, Page 1, Line 5, Pos (184,11)
+msgid ""
+"　　　　　　 さすれば与えられん　　　』\n"
+"　　　　　　　　　　　　　　　"
+msgstr ""
+"　　　　　　 才能得到救赎　　　』\n"
+"　　　　　　　　　　　　　　　"
+
+#. ID 18, Page 1, Line 1, Pos (186,11)
+msgid ""
+"血文字で『餃子食べたい』\n"
+"と書かれている。"
+msgstr ""
+"用血字写着\n"
+"『想吃饺子』。"
+
+#. ID 20, Page 1, Line 1, Pos (74,11)
+#. ID 21, Page 1, Line 1, Pos (121,11)
+#. ID 22, Page 1, Line 1, Pos (148,11)
+#. ID 23, Page 1, Line 1, Pos (192,11)
+msgid "穴が開いている。"
+msgstr "有个洞。"
+
+#. ID 24, Page 1, Line 1, Pos (194,11)
+msgid "『モゲコフォレスト⇒』"
+msgstr "『mogeko之森→』"
+

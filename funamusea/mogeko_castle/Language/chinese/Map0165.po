@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 2, Pos (14,12)
+msgid ""
+"モゲコ\n"
+"「うっ･･･うっ･･･ううっ･･･」"
+msgstr ""
+"mogeko\n"
+"「呜……呜……呜呜……」"
+
+#. ID 3, Page 1, Line 2, Pos (14,10)
+msgid ""
+"モゲコ\n"
+"「俺らはただ、流れに乗って\n"
+"　生きるしかないのか･･･」"
+msgstr ""
+"mogeko\n"
+"「我们只不过是随波逐流地\n"
+"　活着么……」"
+
+#. ID 4, Page 1, Line 2, Pos (14,8)
+msgid ""
+"モゲコ\n"
+"「ハハ･･･」"
+msgstr ""
+"mogeko\n"
+"「哈哈……」"
+
+#. ID 5, Page 1, Line 2, Pos (4,8)
+msgid ""
+"モゲコ\n"
+"「･･････。」"
+msgstr ""
+"mogeko\n"
+"「…………。」"
+
+#. ID 6, Page 1, Line 2, Pos (12,6)
+msgid ""
+"モゲコ\n"
+"「生きるってなんだろう･･･\n"
+"　死ぬってなんだろう･･･」"
+msgstr ""
+"mogeko\n"
+"「活着是什么……\n"
+"　死了又是什么……」"
+
+#. ID 8, Page 1, Line 2, Pos (15,9)
+msgid ""
+"マスター\n"
+"「･････。」"
+msgstr ""
+"店主\n"
+"「………。」"
+
+#. ID 11, Page 1, Line 2, Pos (6,11)
+msgid ""
+"モゲコ\n"
+"「ああ････あ゛･･･あ゛あ゛あ゛！」"
+msgstr ""
+"mogeko\n"
+"「啊啊……啊……啊啊啊！」"
+
+#. ID 11, Page 1, Line 4, Pos (6,11)
+msgid ""
+"モゲコ\n"
+"「うう･････」"
+msgstr ""
+"mogeko\n"
+"「呜呜………」"
+
+#. ID 12, Page 1, Line 1, Pos (15,5)
+#. ID 13, Page 1, Line 1, Pos (16,5)
+msgid "変な絵だ。"
+msgstr "真是奇怪的画。"
+

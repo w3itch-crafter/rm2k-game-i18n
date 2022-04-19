@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 6, Pos (0,0)
+msgid ""
+"？？？\n"
+"「はぁ･･･････････。」"
+msgstr ""
+"？？？\n"
+"「哈啊…………。」"
+
+#. ID 1, Page 1, Line 8, Pos (0,0)
+msgid ""
+"？？？\n"
+"「･････････。」"
+msgstr ""
+"？？？\n"
+"「…………。」"
+
+#. ID 1, Page 1, Line 10, Pos (0,0)
+msgid ""
+"？？？\n"
+"「ふふ」"
+msgstr ""
+"？？？\n"
+"「嘿嘿」"
+
+#. ID 1, Page 1, Line 12, Pos (0,0)
+msgid ""
+"？？？\n"
+"「ふふふふふふ」"
+msgstr ""
+"？？？\n"
+"「嘿嘿嘿嘿嘿嘿」"
+
+#. ID 1, Page 1, Line 14, Pos (0,0)
+msgid ""
+"？？？\n"
+"「今日」"
+msgstr ""
+"？？？\n"
+"「今天」"
+
+#. ID 1, Page 1, Line 16, Pos (0,0)
+msgid ""
+"？？？\n"
+"「今日かぁ」"
+msgstr ""
+"？？？\n"
+"「今天呐」"
+
+#. ID 1, Page 1, Line 18, Pos (0,0)
+msgid ""
+"？？？\n"
+"「帰ろう」"
+msgstr ""
+"？？？\n"
+"「回去吧」"
+
+#. ID 1, Page 1, Line 20, Pos (0,0)
+msgid ""
+"？？？\n"
+"「さあ帰ろう」"
+msgstr ""
+"？？？\n"
+"「快~回去吧」"
+
+#. ID 1, Page 1, Line 22, Pos (0,0)
+msgid ""
+"？？？\n"
+"「今日で全て･･････････。」"
+msgstr ""
+"？？？\n"
+"「在今天全部都…………。」"
+
+#. ID 1, Page 1, Line 25, Pos (0,0)
+msgid ""
+"？？？\n"
+"「ふふふふ」"
+msgstr ""
+"？？？\n"
+"「嘿嘿嘿嘿」"
+

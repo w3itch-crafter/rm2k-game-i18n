@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 5, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「今日はいい天気だね」"
+msgstr ""
+"夕夜\n"
+"「今天天气真好」"
+
+#. ID 1, Page 1, Line 8, Pos (0,0)
+#. ID 1, Page 1, Line 14, Pos (0,0)
+msgid ""
+"？？？\n"
+"「････うん。」"
+msgstr ""
+"？？？\n"
+"「……嗯。」"
+
+#. ID 1, Page 1, Line 11, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「帰ったら宿題やらなきゃなー」"
+msgstr ""
+"夕夜\n"
+"「回去之后要好好做功课呢。」"
+
+#. ID 1, Page 1, Line 16, Pos (0,0)
+msgid ""
+"？？？\n"
+"「･････････。」"
+msgstr ""
+"？？？\n"
+"「………。」"
+
+#. ID 1, Page 1, Line 19, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･･････。」"
+msgstr ""
+"夕夜\n"
+"「……。」"
+
+#. ID 1, Page 1, Line 22, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「兄さん････\\.\\.どうしたの？」"
+msgstr ""
+"夕夜\n"
+"「哥哥……\\.\\.怎么了？」"
+
+#. ID 1, Page 1, Line 25, Pos (0,0)
+msgid ""
+"？？？\n"
+"「･\\.･\\.･\\.･\\.！\\.」"
+msgstr ""
+"？？？\n"
+"「…\\.…\\.…\\.…\\.！\\.」"
+
+#. ID 1, Page 1, Line 27, Pos (0,0)
+msgid ""
+"？？？\n"
+"「ごめんごめん、\\.\\.なんでもないよ」"
+msgstr ""
+"？？？\n"
+"「抱歉抱歉，\\.\\.没事啦」"
+
+#. ID 1, Page 1, Line 30, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「？\\.\\.　ほんとにー？」"
+msgstr ""
+"夕夜\n"
+"「？\\.\\.　真的吗？」"
+
+#. ID 1, Page 1, Line 33, Pos (0,0)
+msgid ""
+"？？？\n"
+"「ほんとだよ」"
+msgstr ""
+"？？？\n"
+"「真的啦」"
+
+#. ID 1, Page 1, Line 35, Pos (0,0)
+msgid ""
+"？？？\n"
+"「それよりヨナカ、\\.\\.帰りになにか食べる？\\.\\.\n"
+"　アイスでも買ってあげるよ」"
+msgstr ""
+"？？？\n"
+"「话说夕夜，\\.\\.有没有什么想吃的？\\.\\.\n"
+"　我给你买冰淇淋吧」"
+
+#. ID 1, Page 1, Line 39, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「えっ！\\.\\.ほんとに！」"
+msgstr ""
+"夕夜\n"
+"「诶！\\.\\.真的吗！」"
+
+#. ID 1, Page 1, Line 42, Pos (0,0)
+msgid ""
+"？？？\n"
+"「うん」"
+msgstr ""
+"？？？\n"
+"「嗯」"
+
+#. ID 1, Page 1, Line 45, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「やった！」"
+msgstr ""
+"夕夜\n"
+"「太好了！」"
+

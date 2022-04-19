@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「な、\\.\\.なに！？\\.\\.なにをす････\\.\\.ぶわぁ！」"
+msgstr ""
+"夕夜\n"
+"「什、\\.\\.什么！？\\.\\.要做什么……\\.\\.咕哇！」"
+
+#. ID 1, Page 1, Line 5, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「しばらくじっとしててね♪」"
+msgstr ""
+"mogeko\n"
+"「稍微忍耐一下哦(音符)」"
+
+#. ID 1, Page 1, Line 7, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「で、どこに運びますかい？」"
+msgstr ""
+"mogeko\n"
+"「该把她运到哪里去呢？」"
+
+#. ID 1, Page 1, Line 9, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「この階の牢屋にでも入れておけ」"
+msgstr ""
+"mogeko\n"
+"「把她关到这层的牢房里去就行了」"
+
+#. ID 1, Page 1, Line 11, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「今はヤツがいますぜ？」"
+msgstr ""
+"mogeko\n"
+"「可是现在那个家伙在那里啊。」"
+
+#. ID 1, Page 1, Line 13, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「空きの牢屋はいくらでもあるだろう？\\.\\.\n"
+"　どうせヤツは足枷で動けんさ」"
+msgstr ""
+"mogeko\n"
+"「空着的牢房还有很多的吧？\\.\\.\n"
+"　反正那个家伙带着脚镣动不了的」"
+
+#. ID 1, Page 1, Line 16, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「御意！」"
+msgstr ""
+"mogeko\n"
+"「明白了！」"
+
+#. ID 1, Page 1, Line 18, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「さぁて♪\\.\\.　どうやって遊ぶか\n"
+"　ヨナカたんをしまってから会議だー♪」"
+msgstr ""
+"mogeko\n"
+"「接下来(音符)\\.\\.　该怎么玩呢\n"
+"　把夕夜酱关起来后我们开会讨论吧(音符)」"
+
+#. ID 1, Page 1, Line 22, Pos (0,0)
+msgid ""
+"野郎共\n"
+"「もげげーーっ！！」"
+msgstr ""
+"小的们\n"
+"「mogege～～！！」"
+
+#. ID 1, Page 1, Line 32, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「痛ッ！」"
+msgstr ""
+"夕夜\n"
+"「好痛！」"
+
+#. ID 1, Page 1, Line 35, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「えっ･･･！\\.\\.ちょっと！」"
+msgstr ""
+"夕夜\n"
+"「诶……！\\.\\.喂！」"
+
+#. ID 1, Page 1, Line 37, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「ここ何処！？」"
+msgstr ""
+"夕夜\n"
+"「这是哪里！？」"
+
+#. ID 1, Page 1, Line 39, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「出してよ！\\.\\.\n"
+"　何･･･なんなのよ････！」"
+msgstr ""
+"夕夜\n"
+"「放我出去！\\.\\.\n"
+"　搞…搞什么……！」"
+
+#. ID 1, Page 1, Line 50, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「ちょっとーー！！！」"
+msgstr ""
+"夕夜\n"
+"「喂！！！」"
+
+#. ID 1, Page 1, Line 60, Pos (0,0)
+msgid ""
+"？？？\n"
+"「うるせえヤツだな･･･\\.\\.\n"
+"　今何時だと思ってやがる･･･」"
+msgstr ""
+"？？？\n"
+"「你这家伙还真是吵啊……\\.\\.\n"
+"　你以为现在几点了啊……」"
+
+#. ID 1, Page 1, Line 64, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「へっ！？」"
+msgstr ""
+"夕夜\n"
+"「啥！？」"
+

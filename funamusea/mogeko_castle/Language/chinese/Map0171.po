@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 3, Pos (0,0)
+msgid "そこから、悪夢の日々が始まった･･･。"
+msgstr "从那以后噩梦般的每一天就开始了……。"
+
+#. ID 3, Page 1, Line 5, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「可愛いハスちゃーん♪\n"
+"　今日はなにて遊ぼうかぁー♪」"
+msgstr ""
+"moge子\n"
+"「小hs好可爱(音符)\n"
+"　今天要玩什么呢(音符)」"
+
+#. ID 3, Page 1, Line 9, Pos (0,0)
+msgid ""
+"ハス\n"
+"「いやぁああぁああああっ！！\\.\\.\n"
+"　やめてえええええええええええ！！！\\.\\.\n"
+"　もう許してえええええええ！！！！」"
+msgstr ""
+"hs\n"
+"「不要要要要要要要要要！！\\.\\.\n"
+"　住手手手手手手手手手！！！\\.\\.\n"
+"　不会原谅你的的的的的！！！！」"
+
+#. ID 3, Page 1, Line 14, Pos (0,0)
+msgid ""
+"毎日毎日、拷問という拷問を受けた。\\.\\.\n"
+"死ぬより酷かった。\\.\\.\n"
+"ヤツは俺を笑顔で蹂躙した･･･。"
+msgstr ""
+"每一天都要接受名为拷问的拷问。\\.\\.\n"
+"比死还要残酷。\\.\\.\n"
+"她笑着蹂躏着我……。"
+
+#. ID 3, Page 1, Line 18, Pos (0,0)
+msgid ""
+"ハス\n"
+"「ぎゃああああああああああ･････」"
+msgstr ""
+"hs\n"
+"「咦啊啊啊啊啊啊啊啊啊………」"
+
+#. ID 3, Page 1, Line 21, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「もーーげげげげげっ♪」"
+msgstr ""
+"moge子\n"
+"「mooogegegegegege(音符)」"
+

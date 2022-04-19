@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 5, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「おいちい！おいちい！」"
+msgstr ""
+"mogeko\n"
+"「好吃！好吃！」"
+
+#. ID 1, Page 1, Line 7, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「やっぱ生ハムだよなー！」"
+msgstr ""
+"mogeko\n"
+"「果然还是非生火腿不可！」"
+
+#. ID 1, Page 1, Line 9, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「でりしゃす！」"
+msgstr ""
+"mogeko\n"
+"「没错！」"
+
+#. ID 1, Page 1, Line 11, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「ン～～～～～マイッ！！！」"
+msgstr ""
+"mogeko\n"
+"「好～～～～～吃！！！」"
+
+#. ID 1, Page 1, Line 13, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「ＮＯ　生ハム\\.\\.　\n"
+"　ＮＯ　ＬＩＦＥ」"
+msgstr ""
+"mogeko\n"
+"「ＮＯ　生火腿\\.\\.　\n"
+"　ＮＯ　ＬＩＦＥ」"
+
+#. ID 1, Page 1, Line 16, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「おいしい！生ハムおいしい！」"
+msgstr ""
+"mogeko\n"
+"「好吃！生火腿好吃！」"
+
+#. ID 1, Page 1, Line 18, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「サーモンおいしい！」"
+msgstr ""
+"mogeko\n"
+"「三文鱼好吃！」"
+
+#. ID 1, Page 1, Line 20, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「ポテチうめえもげ！！！」"
+msgstr ""
+"mogeko\n"
+"「薯片好吃moge！！！」"
+
+#. ID 1, Page 1, Line 22, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「おお、神よ！\n"
+"　生ハムの神よ！！」"
+msgstr ""
+"mogeko\n"
+"「哦哦，神啊！\n"
+"　生火腿之神啊！！」"
+
+#. ID 1, Page 1, Line 25, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「ミネストローネは神の血」"
+msgstr ""
+"mogeko\n"
+"「意大利蔬菜汤是神之血」"
+
+#. ID 1, Page 1, Line 27, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「はすはす！おいしいもげ！！！」"
+msgstr ""
+"mogeko\n"
+"「hshs！好吃moge！！！」"
+
+#. ID 1, Page 1, Line 29, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「食事の邪魔するヤツだけは許さん\\.\\.\n"
+"　とくに電話な」"
+msgstr ""
+"mogeko\n"
+"「打扰我吃饭的家伙不可原谅！\\.\\.\n"
+"　特别吃到一半打电话来的！」"
+
+#. ID 1, Page 1, Line 32, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「おいちい！お寿司おいちい！！！！」"
+msgstr ""
+"mogeko\n"
+"「好吃！寿司好吃！！！！」"
+
+#. ID 1, Page 1, Line 34, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「おいしいご飯食べて、\\.\n"
+"　もげたん幸せ/////」"
+msgstr ""
+"mogeko\n"
+"「享受美食，\\.\n"
+"　moge酱很幸福/////」"
+
+#. ID 1, Page 1, Line 44, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･･････････････････。」"
+msgstr ""
+"夕夜\n"
+"「………………。」"
+

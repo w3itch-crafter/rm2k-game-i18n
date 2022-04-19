@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 2, Pos (5,12)
+msgid ""
+"ヨナカ\n"
+"「で、ここはどこですか？」"
+msgstr ""
+"夕夜\n"
+"「那么，这里是哪里呀？」"
+
+#. ID 2, Page 1, Line 5, Pos (5,12)
+msgid ""
+"異端モゲコ\n"
+"「･･･なんかよくわからんところに出たな」"
+msgstr ""
+"异端mogeko\n"
+"「……总觉得好像来到了完全不认识的地方」"
+
+#. ID 2, Page 1, Line 7, Pos (5,12)
+msgid ""
+"異端モゲコ\n"
+"「とりあえず進むか」"
+msgstr ""
+"异端mogeko\n"
+"「总之先往前走吧」"
+
+#. ID 2, Page 1, Line 10, Pos (5,12)
+msgid ""
+"ヨナカ\n"
+"「ええーーーー」"
+msgstr ""
+"夕夜\n"
+"「咦咦咦————」"
+
+#. ID 3, Page 1, Line 2, Pos (66,12)
+msgid ""
+"ヨナカ\n"
+"「異端モゲコさんの勘ってなんか\n"
+"　ことごとくハズレてますね」"
+msgstr ""
+"夕夜\n"
+"「总觉得异端mogeko你的直觉啊，\n"
+"　总是跟实际有偏离的说」"
+
+#. ID 3, Page 1, Line 6, Pos (66,12)
+msgid ""
+"異端モゲコ\n"
+"「･････････････････････。」"
+msgstr ""
+"异端mogeko\n"
+"「……………………。」"
+

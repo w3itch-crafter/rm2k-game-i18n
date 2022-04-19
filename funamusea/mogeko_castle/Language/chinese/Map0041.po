@@ -1,0 +1,608 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 5, Pos (15,51)
+msgid ""
+"ヨナカ\n"
+"「･･･････。」"
+msgstr ""
+"夕夜\n"
+"「………。」"
+
+#. ID 1, Page 1, Line 14, Pos (15,51)
+msgid ""
+"ヨナカ\n"
+"「\\.･･･････。\\.\\.（変な城だなあ）\n"
+"　\\.\\.なにここ。」"
+msgstr ""
+"夕夜\n"
+"「\\.………。\\.\\.（真是奇怪的城堡）\n"
+"　\\.\\.这里是哪。」"
+
+#. ID 1, Page 1, Line 18, Pos (15,51)
+msgid ""
+"ヨナカ\n"
+"「･････････ん？」"
+msgstr ""
+"夕夜\n"
+"「………嗯？」"
+
+#. ID 1, Page 1, Line 23, Pos (15,51)
+msgid ""
+"ヨナカ\n"
+"「･\\.･\\.･\\.･\\.\\.\\.なにあの絵。」"
+msgstr ""
+"夕夜\n"
+"「…\\.…\\.…\\.…\\.\\.\\.奇怪的画。」"
+
+#. ID 1, Page 1, Line 28, Pos (15,51)
+msgid ""
+"ヨナカ\n"
+"「････さっきから嫌な予感しかしないけど\\.\\.\n"
+"　ここってもしかして黄色いやつらの･･･」"
+msgstr ""
+"夕夜\n"
+"「……刚刚就有种不好的预感\\.\\.\n"
+"　这里难道是那些黄色家伙的…」"
+
+#. ID 1, Page 1, Line 38, Pos (15,51)
+msgid ""
+"ヨナカ\n"
+"「･･････！？」"
+msgstr ""
+"夕夜\n"
+"「……！？」"
+
+#. ID 1, Page 1, Line 49, Pos (15,51)
+msgid ""
+"ヨナカ\n"
+"「･\\.･\\.･\\.･\\.･\\.･\\.･\\.･\\.。」"
+msgstr ""
+"夕夜\n"
+"「…\\.…\\.…\\.…\\.…\\.…\\.…\\.…\\.。」"
+
+#. ID 1, Page 1, Line 52, Pos (15,51)
+msgid ""
+"ヨナカ\n"
+"「（閉じこめられたぁぁぁぁぁぁぁ！）」"
+msgstr ""
+"夕夜\n"
+"「（门关上了了了了了了了！）」"
+
+#. ID 1, Page 1, Line 56, Pos (15,51)
+msgid ""
+"？？？\n"
+"「もげげっ　いらっしゃい～」"
+msgstr ""
+"？？？\n"
+"「mogege　欢迎～」"
+
+#. ID 1, Page 1, Line 71, Pos (15,51)
+msgid ""
+"？？？\n"
+"「モゲコキャッスルへようこそ！！！」"
+msgstr ""
+"？？？\n"
+"「欢迎来到mogeko城堡！！！」"
+
+#. ID 1, Page 1, Line 75, Pos (15,51)
+msgid ""
+"ヨナカ\n"
+"「きゃああああああああああああ！！！」"
+msgstr ""
+"夕夜\n"
+"「啊啊啊啊啊啊啊啊啊啊啊啊！！！」"
+
+#. ID 1, Page 1, Line 80, Pos (15,51)
+msgid ""
+"？？？\n"
+"「こんばんは！ヨナカちゃん！」"
+msgstr ""
+"？？？\n"
+"「晚上好！夕夜酱！」"
+
+#. ID 1, Page 1, Line 83, Pos (15,51)
+msgid ""
+"ヨナカ\n"
+"「ッ！？\\.\\.\n"
+"　な、なんで私の名前を？！」\\.\\."
+msgstr ""
+"夕夜\n"
+"「！？\\.\\.\n"
+"　为、为什么会知道我的名字？！」\\.\\."
+
+#. ID 1, Page 1, Line 87, Pos (15,51)
+msgid ""
+"？？？\n"
+"「私の名前はモゲコ。\n"
+"　そなたの事は何でも知っておるぞ。」"
+msgstr ""
+"？？？\n"
+"「我叫mogeko。\n"
+"　我知道你全部的事情哦。」"
+
+#. ID 1, Page 1, Line 91, Pos (15,51)
+msgid ""
+"ヨナカ\n"
+"「！？」"
+msgstr ""
+"夕夜\n"
+"「！？」"
+
+#. ID 1, Page 1, Line 94, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「さ！せっかく来てくれたんだし、\n"
+"　あそぼ！性的な意味で！」"
+msgstr ""
+"mogeko\n"
+"「来！难得你来到这里，\n"
+"　一起玩嘛！一起来做爱做的事~！」"
+
+#. ID 1, Page 1, Line 101, Pos (15,51)
+msgid ""
+"ヨナカ\n"
+"「･････････････････････････････。」"
+msgstr ""
+"夕夜\n"
+"「……………………………。」"
+
+#. ID 1, Page 1, Line 105, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「もげげ！！！！！」"
+msgstr ""
+"mogeko\n"
+"「mogege！！！！！」"
+
+#. ID 1, Page 1, Line 109, Pos (15,51)
+msgid ""
+"ヨナカ\n"
+"「いやあああああああああああああああ\n"
+"　あああああああああああ！！！！！」"
+msgstr ""
+"夕夜\n"
+"「不要啊啊啊啊啊啊啊啊啊啊啊啊\n"
+"　啊啊啊啊啊啊啊啊啊啊啊！！！！！」"
+
+#. ID 1, Page 1, Line 113, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「もげたんがいっちばぁ～～～～ん！！」"
+msgstr ""
+"mogeko\n"
+"「moge酱要第一个上～～～～～！！」"
+
+#. ID 1, Page 1, Line 116, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「あ？ちょっと待てよ\\.\\.\n"
+"　誰が一番だって？」"
+msgstr ""
+"mogeko\n"
+"「啊？等等\\.\\.\n"
+"　你说谁第一个上？」"
+
+#. ID 1, Page 1, Line 121, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「は？」"
+msgstr ""
+"mogeko\n"
+"「哈？」"
+
+#. ID 1, Page 1, Line 124, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「ヨナカたんのはじめては俺んだっつの」"
+msgstr ""
+"mogeko\n"
+"「夕夜酱的第一次是本大爷的啊」"
+
+#. ID 1, Page 1, Line 127, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「なんだと？\n"
+"　全能なるモゲコに逆らうのか」"
+msgstr ""
+"mogeko\n"
+"「你说什么？\n"
+"　要反抗全能的mogeko吗」"
+
+#. ID 1, Page 1, Line 131, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「もげたんも全能もげ！」"
+msgstr ""
+"mogeko\n"
+"「moge酱也是全能的！」"
+
+#. ID 1, Page 1, Line 134, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「もげたんも！！」"
+msgstr ""
+"mogeko\n"
+"「moge酱也是！！」"
+
+#. ID 1, Page 1, Line 136, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「もげたんもー！！！」"
+msgstr ""
+"mogeko\n"
+"「moge酱也是！！！」"
+
+#. ID 1, Page 1, Line 138, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「俺も！」"
+msgstr ""
+"mogeko\n"
+"「本大爷也是！」"
+
+#. ID 1, Page 1, Line 140, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「あたいも。」"
+msgstr ""
+"mogeko\n"
+"「人家也是。」"
+
+#. ID 1, Page 1, Line 142, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「ワシもじゃ」"
+msgstr ""
+"mogeko\n"
+"「老夫也是」"
+
+#. ID 1, Page 1, Line 144, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「おいらも！」"
+msgstr ""
+"mogeko\n"
+"「我也是！」"
+
+#. ID 1, Page 1, Line 146, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「俺様も！！」"
+msgstr ""
+"mogeko\n"
+"「老子也是！！」"
+
+#. ID 1, Page 1, Line 148, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「にｋｆｌにＡＦ＋ｂｎ」"
+msgstr ""
+"mogeko\n"
+"「ＡｋｆｌＡＡＦ＋ｂｎ」"
+
+#. ID 1, Page 1, Line 153, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「ざけんなてめえら！！！！\n"
+"　殺すぞ！！！！！」"
+msgstr ""
+"mogeko\n"
+"「不要开玩笑！！！！\n"
+"　杀了你！！！！！」"
+
+#. ID 1, Page 1, Line 156, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「やんのかクズ！！あぁ！？！？」"
+msgstr ""
+"mogeko\n"
+"「要打架吗废物！！啊啊！？！？」"
+
+#. ID 1, Page 1, Line 158, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「この能無し蛆虫共がァ！！！！」"
+msgstr ""
+"mogeko\n"
+"「这群无能的垃圾！！！！」"
+
+#. ID 1, Page 1, Line 165, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「上等じゃねえか！！！\n"
+"　かかって来いよゲス共が！！！」"
+msgstr ""
+"mogeko\n"
+"「来得正好！！！\n"
+"　一起上吧废物们！！！」"
+
+#. ID 1, Page 1, Line 168, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「んだと！！！\n"
+"　下等生物の分際でよォ！！死ね！！！」"
+msgstr ""
+"mogeko\n"
+"「什么！！！\n"
+"　明明只是低等生物！！去死吧！！！」"
+
+#. ID 1, Page 1, Line 173, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「ゴミ！！ゴミがぁ！！！！\n"
+"　社会不適合者めぇ！！！」"
+msgstr ""
+"mogeko\n"
+"「垃圾！！垃圾！！！！\n"
+"　被社会淘汰的垃圾！！！」"
+
+#. ID 1, Page 1, Line 176, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「ざけんなテメー！！！\n"
+"　死にてえのか？！？！」"
+msgstr ""
+"mogeko\n"
+"「你妹的！！！\n"
+"　找死吗？！？！」"
+
+#. ID 1, Page 1, Line 179, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「はすはす！殺す殺す！！！」"
+msgstr ""
+"mogeko\n"
+"「hshs！杀掉杀掉！！！」"
+
+#. ID 1, Page 1, Line 181, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「クソが！！！！！\n"
+"　死ねよ！！！！ゴミカス！！！！！！」"
+msgstr ""
+"mogeko\n"
+"「可恶！！！！！\n"
+"　去死吧！！！！废物垃圾！！！！！！」"
+
+#. ID 1, Page 1, Line 184, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「もげーーーーーーーッッ！！！！！」"
+msgstr ""
+"mogeko\n"
+"「moge！！！！！」"
+
+#. ID 1, Page 1, Line 192, Pos (15,51)
+msgid ""
+"モゲコ\n"
+"「あれ？\n"
+"　ヨナカたんは？」"
+msgstr ""
+"mogeko\n"
+"「奇怪？\n"
+"　夕夜酱呢？」"
+
+#. ID 1, Page 1, Line 199, Pos (15,51)
+msgid ""
+"みんな\n"
+"「アッ」"
+msgstr ""
+"大家\n"
+"「啊」"
+
+#. ID 1, Page 3, Line 6, Pos (15,51)
+msgid ""
+"ヨナカ\n"
+"「････････････････。」"
+msgstr ""
+"夕夜\n"
+"「………………。」"
+
+#. ID 1, Page 3, Line 9, Pos (15,51)
+msgid ""
+"ヨナカ\n"
+"「ちょっともうわけがわからない。」"
+msgstr ""
+"夕夜\n"
+"「太莫名其妙了。」"
+
+#. ID 1, Page 3, Line 12, Pos (15,51)
+msgid ""
+"ヨナカ\n"
+"「正直泣きたい。」"
+msgstr ""
+"夕夜\n"
+"「老实说，好想哭。」"
+
+#. ID 1, Page 3, Line 16, Pos (15,51)
+msgid ""
+"\n"
+"　　　『･･･････い･････････で････････。』"
+msgstr ""
+"\n"
+"　　　『………过………来…………。』"
+
+#. ID 1, Page 3, Line 20, Pos (15,51)
+msgid ""
+"ヨナカ\n"
+"「･････････････\\.\\.\\.ん？」"
+msgstr ""
+"夕夜\n"
+"「……………\\.\\.\\.嗯？」"
+
+#. ID 1, Page 3, Line 23, Pos (15,51)
+msgid ""
+"\n"
+"　　　　　　『こっちへおいで････。』"
+msgstr ""
+"\n"
+"　　　　　　『到这边来……。』"
+
+#. ID 1, Page 3, Line 26, Pos (15,51)
+msgid ""
+"ヨナカ\n"
+"「ああ！ついに幻聴まで！\n"
+"　終わりだぁ！」"
+msgstr ""
+"夕夜\n"
+"「啊啊！都有幻听了！\n"
+"　我完蛋了！」"
+
+#. ID 1, Page 3, Line 30, Pos (15,51)
+msgid ""
+"\n"
+"　　　　　『キミの力になってあげよう』"
+msgstr ""
+"\n"
+"　　　　　『我会帮你的』"
+
+#. ID 1, Page 3, Line 33, Pos (15,51)
+msgid ""
+"ヨナカ\n"
+"「･･････････えっ？」"
+msgstr ""
+"夕夜\n"
+"「…………什么？」"
+
+#. ID 1, Page 3, Line 36, Pos (15,51)
+msgid ""
+"\n"
+"　　　　　　『こっちに、おいで･･･。　』"
+msgstr ""
+"\n"
+"　　　　　　『快到这边来…。　』"
+
+#. ID 1, Page 3, Line 41, Pos (15,51)
+msgid "あっちのほうから声が聞こえる･･･。"
+msgstr "从那边传来了声音…。"
+
+#. ID 114, Page 2, Line 1, Pos (5,37)
+#. ID 115, Page 2, Line 1, Pos (5,38)
+#. ID 116, Page 2, Line 1, Pos (5,39)
+#. ID 117, Page 2, Line 1, Pos (5,40)
+#. ID 118, Page 2, Line 1, Pos (5,41)
+#. ID 119, Page 2, Line 1, Pos (5,42)
+#. ID 130, Page 2, Line 1, Pos (26,37)
+#. ID 131, Page 2, Line 1, Pos (26,38)
+#. ID 132, Page 2, Line 1, Pos (26,39)
+#. ID 133, Page 2, Line 1, Pos (26,40)
+#. ID 134, Page 2, Line 1, Pos (26,41)
+#. ID 135, Page 2, Line 1, Pos (26,42)
+msgid "とにかく脱出経路を･･･。"
+msgstr "总之要想办法逃出去…。"
+
+#. ID 122, Page 1, Line 3, Pos (12,27)
+#. ID 123, Page 1, Line 3, Pos (13,27)
+#. ID 124, Page 1, Line 3, Pos (14,27)
+#. ID 125, Page 1, Line 3, Pos (15,27)
+#. ID 126, Page 1, Line 3, Pos (16,27)
+#. ID 127, Page 1, Line 3, Pos (17,27)
+#. ID 128, Page 1, Line 3, Pos (18,27)
+#. ID 129, Page 1, Line 3, Pos (19,27)
+msgid ""
+"モゲコ\n"
+"「ここは通さんもげ！」"
+msgstr ""
+"mogeko\n"
+"「禁止通行moge！」"
+
+#. ID 122, Page 2, Line 2, Pos (12,27)
+#. ID 123, Page 2, Line 2, Pos (13,27)
+#. ID 124, Page 2, Line 2, Pos (14,27)
+#. ID 125, Page 2, Line 2, Pos (15,27)
+#. ID 126, Page 2, Line 2, Pos (16,27)
+#. ID 127, Page 2, Line 2, Pos (17,27)
+#. ID 128, Page 2, Line 2, Pos (18,27)
+#. ID 129, Page 2, Line 2, Pos (19,27)
+msgid ""
+"モゲコ\n"
+"「？」"
+msgstr ""
+"mogeko\n"
+"「？」"
+
+#. ID 122, Page 2, Line 5, Pos (12,27)
+#. Contains choice at line 2 (2 options)
+#. ID 123, Page 2, Line 5, Pos (13,27)
+#. Contains choice at line 2 (2 options)
+#. ID 124, Page 2, Line 5, Pos (14,27)
+#. Contains choice at line 2 (2 options)
+#. ID 125, Page 2, Line 5, Pos (15,27)
+#. Contains choice at line 2 (2 options)
+#. ID 126, Page 2, Line 5, Pos (16,27)
+#. Contains choice at line 2 (2 options)
+#. ID 127, Page 2, Line 5, Pos (17,27)
+#. Contains choice at line 2 (2 options)
+#. ID 128, Page 2, Line 5, Pos (18,27)
+#. Contains choice at line 2 (2 options)
+#. ID 129, Page 2, Line 5, Pos (19,27)
+#. Contains choice at line 2 (2 options)
+msgid "道をふさぐモゲコたちを一掃しますか？"
+msgstr "要横扫挡路的mogeko们吗？"
+
+#. ID 122, Page 2, Line 6, Pos (12,27)
+#. Choice (2 options, embedded in a message)
+#. ID 123, Page 2, Line 6, Pos (13,27)
+#. Choice (2 options, embedded in a message)
+#. ID 124, Page 2, Line 6, Pos (14,27)
+#. Choice (2 options, embedded in a message)
+#. ID 125, Page 2, Line 6, Pos (15,27)
+#. Choice (2 options, embedded in a message)
+#. ID 126, Page 2, Line 6, Pos (16,27)
+#. Choice (2 options, embedded in a message)
+#. ID 127, Page 2, Line 6, Pos (17,27)
+#. Choice (2 options, embedded in a message)
+#. ID 128, Page 2, Line 6, Pos (18,27)
+#. Choice (2 options, embedded in a message)
+#. ID 129, Page 2, Line 6, Pos (19,27)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 199, Page 1, Line 1, Pos (31,20)
+#. ID 200, Page 1, Line 1, Pos (31,21)
+#. ID 201, Page 1, Line 1, Pos (31,33)
+#. ID 202, Page 1, Line 1, Pos (31,34)
+#. ID 203, Page 1, Line 1, Pos (31,46)
+#. ID 204, Page 1, Line 1, Pos (31,47)
+msgid "扉は固く閉ざされている････。"
+msgstr "门紧紧地关上了……。"
+
+#. ID 241, Page 1, Line 1, Pos (6,53)
+#. ID 242, Page 1, Line 1, Pos (25,53)
+#. ID 243, Page 1, Line 1, Pos (29,11)
+#. ID 244, Page 1, Line 1, Pos (30,11)
+#. ID 245, Page 1, Line 1, Pos (2,11)
+#. ID 246, Page 1, Line 1, Pos (1,11)
+msgid "こっちを見ているような気がする･･･。"
+msgstr "好像在看着这边。"
+
+#. ID 247, Page 1, Line 1, Pos (15,10)
+#. ID 248, Page 1, Line 1, Pos (16,10)
+#. ID 249, Page 1, Line 1, Pos (14,10)
+#. ID 250, Page 1, Line 1, Pos (13,10)
+#. ID 251, Page 1, Line 1, Pos (17,10)
+#. ID 252, Page 1, Line 1, Pos (18,10)
+#. ID 253, Page 1, Line 1, Pos (9,10)
+#. ID 254, Page 1, Line 1, Pos (8,10)
+#. ID 255, Page 1, Line 1, Pos (4,10)
+#. ID 256, Page 1, Line 1, Pos (3,10)
+#. ID 257, Page 1, Line 1, Pos (22,10)
+#. ID 258, Page 1, Line 1, Pos (23,10)
+#. ID 259, Page 1, Line 1, Pos (27,10)
+#. ID 260, Page 1, Line 1, Pos (28,10)
+msgid "気持ち悪い絵だ。"
+msgstr "恶心的画。"
+

@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 3, Pos (0,0)
+msgid ""
+"『俺は･･･気付いてしまったのだ\n"
+"　俺が、藻毛子の、モゲコの、\n"
+"　裏となる存在であることを･･･』"
+msgstr ""
+"『我……发现了\n"
+"　我其实就是藻毛子、mogeko的\n"
+"　内里一般的存在……』"
+
+#. ID 3, Page 1, Line 7, Pos (0,0)
+msgid ""
+"裏モゲコ\n"
+"「もげこ！」"
+msgstr ""
+"里mogeko\n"
+"「mogeko！」"
+
+#. ID 3, Page 1, Line 9, Pos (0,0)
+msgid ""
+"裏モゲコ\n"
+"「お前のやり方は間違っている！」"
+msgstr ""
+"里mogeko\n"
+"「你的做法是不对的！」"
+
+#. ID 3, Page 1, Line 12, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「Huh?」"
+msgstr ""
+"mogeko王\n"
+"「Huh？」"
+
+#. ID 3, Page 1, Line 15, Pos (0,0)
+msgid ""
+"裏モゲコ\n"
+"「こんなことはすべきではない」"
+msgstr ""
+"里mogeko\n"
+"「你不应该做那样的事情」"
+
+#. ID 3, Page 1, Line 18, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「急にどうしたの？」"
+msgstr ""
+"mogeko王\n"
+"「你突然之间怎么了？」"
+
+#. ID 3, Page 1, Line 21, Pos (0,0)
+msgid ""
+"裏モゲコ\n"
+"「全て･･･全て、間違っている。\n"
+"　これでは自らの身を滅ぼすだけだ！」"
+msgstr ""
+"里mogeko\n"
+"「这一切……这一切都是错误的。\n"
+"　这样下去只会自取灭亡的！」"
+
+#. ID 3, Page 1, Line 25, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「･･･････････････。」"
+msgstr ""
+"mogeko王\n"
+"「……………………。」"
+
+#. ID 3, Page 1, Line 27, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「無知とは幸せ」"
+msgstr ""
+"mogeko王\n"
+"「无知还真是幸福啊」"
+
+#. ID 3, Page 1, Line 30, Pos (0,0)
+msgid ""
+"裏モゲコ\n"
+"「？」"
+msgstr ""
+"里mogeko\n"
+"「？」"
+
+#. ID 3, Page 1, Line 33, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「気付かなければ幸せなこと･･･\n"
+"　いっぱいあるよね」"
+msgstr ""
+"mogeko王\n"
+"「有很多事情啊……\n"
+"　不知道的话才比较好哦」"
+
+#. ID 3, Page 1, Line 37, Pos (0,0)
+msgid ""
+"裏モゲコ\n"
+"「お前は･･･気付かぬふりをして\n"
+"　現実から目を背けているだけだ」"
+msgstr ""
+"里mogeko\n"
+"「你明明……就是假装不知道\n"
+"　逃避着现实而已」"
+
+#. ID 3, Page 1, Line 41, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「悪い？これがもげたんのやり方なの\n"
+"　もげたんなりに考えて･･･\n"
+"　考え抜いた結果の、やり方。」"
+msgstr ""
+"mogeko王\n"
+"「这样不好吗？这不就是moge酱的\n"
+"  处事态度嘛。作为moge酱来考虑的话……\n"
+"　那也只有这个方法了。」"
+
+#. ID 3, Page 1, Line 46, Pos (0,0)
+msgid ""
+"裏モゲコ\n"
+"「藻毛子、何故―――」"
+msgstr ""
+"里mogeko\n"
+"「藻毛子，你为何―――」"
+
+#. ID 3, Page 1, Line 49, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「異端」"
+msgstr ""
+"mogeko王\n"
+"「异端」"
+
+#. ID 3, Page 1, Line 53, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「お前は･･･････\\.\\.異端者だ」"
+msgstr ""
+"mogeko王\n"
+"「你………\\.\\.就是个异端者」"
+
+#. ID 3, Page 1, Line 56, Pos (0,0)
+msgid ""
+"裏モゲコ\n"
+"「ッ！？」"
+msgstr ""
+"里mogeko\n"
+"「嗯！？」"
+
+#. ID 3, Page 1, Line 59, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「我々という同一の存在から離れた以上\n"
+"　お前は異端者だ」"
+msgstr ""
+"mogeko王\n"
+"「既然你已经与我们所脱离开来了，\n"
+"　那么你就是所谓的异端者啊」"
+
+#. ID 3, Page 1, Line 63, Pos (0,0)
+msgid ""
+"裏モゲコ\n"
+"「なッ･････」"
+msgstr ""
+"里mogeko\n"
+"「什……」"
+
+#. ID 3, Page 1, Line 66, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「最初からこうなることはわかっていた\n"
+"　のさ」"
+msgstr ""
+"mogeko王\n"
+"「虽然从最开始我就大概猜到\n"
+"  事情迟早都会变成这样的」"
+
+#. ID 3, Page 1, Line 69, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「全ては･･･世界を作るための\n"
+"　ためし書きにすぎない」"
+msgstr ""
+"mogeko王\n"
+"「一切都是为了创造这个世界……\n"
+"　所做的试验而已」"
+
+#. ID 3, Page 1, Line 73, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「予定調和のうちさ」"
+msgstr ""
+"mogeko王\n"
+"「只不过是在那之前所做的小测试罢了」"
+
+#. ID 3, Page 1, Line 77, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「おい･･･この裏モゲコ･･･いや\n"
+"　異端モゲコを捕まえろ。」"
+msgstr ""
+"mogeko王\n"
+"「来人啊……把这个里mogeko……不对\n"
+"　把这个异端mogeko给我抓起来。」"
+
+#. ID 3, Page 1, Line 80, Pos (0,0)
+msgid ""
+"モゲコたち\n"
+"「サー！イエッサー！」"
+msgstr ""
+"mogeko们\n"
+"「哇啊——！上啊——！」"
+
+#. ID 3, Page 1, Line 83, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「もげこ！！！！」"
+msgstr ""
+"异端mogeko\n"
+"「mogeko！！！！」"
+
+#. ID 3, Page 1, Line 86, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「殺してしまっても構わないぞ。」"
+msgstr ""
+"mogeko王\n"
+"「你们把他给杀了也没关系。」"
+
+#. ID 3, Page 1, Line 89, Pos (0,0)
+msgid ""
+"裏モゲコ\n"
+"「もげこォォオォオオーーーッッ！！！」"
+msgstr ""
+"里mogeko\n"
+"「mogeko啊啊啊啊啊——啊啊啊！！！」"
+

@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 7, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「こっちだ。」"
+msgstr ""
+"异端mogeko\n"
+"「这边。」"
+
+#. ID 2, Page 1, Line 10, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「どこへ行くんですか･･･？」"
+msgstr ""
+"夕夜\n"
+"「去哪里……？」"
+
+#. ID 2, Page 1, Line 13, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「上の階に行くにはちょっと\n"
+"　手間がかかるんだよ。」"
+msgstr ""
+"异端mogeko\n"
+"「要去上层的话，\n"
+"　稍微有点麻烦。」"
+
+#. ID 2, Page 1, Line 16, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「ちゃんと階段があるのは\n"
+"　1階から2階までだからなあ」"
+msgstr ""
+"异端mogeko\n"
+"「有楼梯的楼层其实只有\n"
+"　1楼和2楼而已」"
+
+#. ID 2, Page 1, Line 20, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「ああ、そういえば3階へ行くのも\n"
+"　階段じゃなくてハシゴでしたね…」"
+msgstr ""
+"夕夜\n"
+"「啊啊，说起来上3楼时\n"
+"　是靠爬梯子而不是走楼梯……」"
+
+#. ID 2, Page 1, Line 23, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「なんで階段作らなかったんだろう…」"
+msgstr ""
+"夕夜\n"
+"「为什么不造个楼梯呢……」"
+
+#. ID 2, Page 1, Line 26, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「まあ、あいつらバカだし。\n"
+"　そこまで頭が回らなかったんだろう。」"
+msgstr ""
+"异端mogeko\n"
+"「嘛，因为他们太2了，\n"
+"　可能没有想到这种事吧。」"
+

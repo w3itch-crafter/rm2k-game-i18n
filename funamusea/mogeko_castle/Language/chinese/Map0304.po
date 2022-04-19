@@ -1,0 +1,657 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 29, Page 1, Line 15, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「もげーーーー！！！\n"
+"　もげーーーーーーーーー！！！」"
+msgstr ""
+"moge子\n"
+"「moge！！！\n"
+"　moge！！！」"
+
+#. ID 29, Page 1, Line 19, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「も、もげ子、落ち着くもげ･･･。」"
+msgstr ""
+"mogeko王\n"
+"「mo、moge子，你冷静一点儿…。」"
+
+#. ID 29, Page 1, Line 22, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「あーーー！ヨナカたん！連れて来いよ！\n"
+"　遊び足りないんだよ！！」"
+msgstr ""
+"moge子\n"
+"「哇啊！你把夕夜酱！给我带过来啦！\n"
+"　我还没玩儿够呢！！」"
+
+#. ID 29, Page 1, Line 26, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「だって逃げられちゃったんだもん･･･」"
+msgstr ""
+"mogeko王\n"
+"「但是被她逃掉了啦…」"
+
+#. ID 29, Page 1, Line 30, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「じゃあお前で遊んでやるよ！\n"
+"　来い！まずは三角木馬だ！！！」"
+msgstr ""
+"moge子\n"
+"「那你给我玩！\n"
+"　过来！首先是三角木马！！！」"
+
+#. ID 29, Page 1, Line 34, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「いやあああああああああああ！！！」"
+msgstr ""
+"mogeko王\n"
+"「不要哇啊啊啊啊啊啊啊啊啊啊！！！」"
+
+#. ID 29, Page 1, Line 37, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「あははははは！！ケツから臓物出るまで\n"
+"　嬲ってやるよ！！！」"
+msgstr ""
+"moge子\n"
+"「啊哈哈哈哈哈！！我会好好调教你直到\n"
+"　你的内脏都从菊花里面流出来的！！！」"
+
+#. ID 29, Page 1, Line 48, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･････････････。」"
+msgstr ""
+"夕夜\n"
+"「…………。」"
+
+#. ID 29, Page 1, Line 51, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「あれ･･･････？」"
+msgstr ""
+"夕夜\n"
+"「啊咧……？」"
+
+#. ID 29, Page 1, Line 56, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「！！！」"
+msgstr ""
+"mogeko王\n"
+"「！！！」"
+
+#. ID 29, Page 1, Line 58, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「ほ、ほらぁ！ヨナカたんだよ！\n"
+"　うしろ！（よっしゃあ！セーフ！）」"
+msgstr ""
+"mogeko王\n"
+"「看、快看啊！是夕夜酱啦！\n"
+"　就在你背后！（太好啦！得救啦！）」"
+
+#. ID 29, Page 1, Line 63, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「え？」"
+msgstr ""
+"moge子\n"
+"「诶？」"
+
+#. ID 29, Page 1, Line 71, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「あぁ～～っ！ヨナカたん！」"
+msgstr ""
+"moge子\n"
+"「啊啊～～啊！是夕夜酱！」"
+
+#. ID 29, Page 1, Line 78, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「なに逃げ回ってんだ？あ？\n"
+"　もげ子と遊ぼうよあひひひひひひ！！」"
+msgstr ""
+"moge子\n"
+"「你之前为什么要逃跑呢？嗯？\n"
+"　跟我moge子一起玩儿嘛嘻嘻嘻嘻嘻嘻！！」"
+
+#. ID 29, Page 1, Line 83, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･･･････････。」"
+msgstr ""
+
+#. ID 29, Page 1, Line 85, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（そうだ････私･･･兄さんを･･･\n"
+"　殺しちゃって･･･。）」"
+msgstr ""
+"夕夜\n"
+"「（对了……我好像……把哥哥给……\n"
+"　杀掉了……。）」"
+
+#. ID 29, Page 1, Line 88, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（････途方にくれて歩いてたら）」"
+msgstr ""
+"夕夜\n"
+"「（……实在是走投无路了）」"
+
+#. ID 29, Page 1, Line 90, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（また、此処に･･････。）」"
+msgstr ""
+"夕夜\n"
+"「（没想到，又到了这里……。）」"
+
+#. ID 29, Page 1, Line 93, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「まずは何するー？爪剥がしたら指切って\n"
+"　そこに塩を塗りたくろうか！」"
+msgstr ""
+"moge子\n"
+"「首先我们来玩什么呢？是拔指甲呢\n"
+"  还是砍手指呢。啊然后再在上面撒上盐吧！」"
+
+#. ID 29, Page 1, Line 97, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･･････････。」"
+msgstr ""
+
+#. ID 29, Page 1, Line 100, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「なんか言えよ！！！！！」"
+msgstr ""
+"moge子\n"
+"「为什么不说话啦！！！！！」"
+
+#. ID 29, Page 1, Line 104, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･･････････････。」"
+msgstr ""
+
+#. ID 29, Page 1, Line 108, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「兄･･･さん････････。」"
+msgstr ""
+"夕夜\n"
+"「哥……哥……。」"
+
+#. ID 29, Page 1, Line 115, Pos (0,0)
+msgid ""
+"\n"
+"　　　　　　　　　　　ぷつん"
+msgstr ""
+"\n"
+"　　　　　　　　　　　噗呲"
+
+#. ID 29, Page 1, Line 121, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「ハースジェット」"
+msgstr ""
+"夕夜\n"
+"「杀虫剂」"
+
+#. ID 29, Page 1, Line 127, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「もげ！？」"
+msgstr ""
+"moge子\n"
+"「moge！？」"
+
+#. ID 29, Page 1, Line 133, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「きゅーーん」"
+msgstr ""
+"moge子\n"
+"「我晕……」"
+
+#. ID 29, Page 1, Line 137, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「！？」"
+msgstr ""
+"mogeko王\n"
+"「！？」"
+
+#. ID 29, Page 1, Line 140, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「も････もげ子！？」"
+msgstr ""
+"mogeko王\n"
+"「mo……moge子！？」"
+
+#. ID 29, Page 1, Line 144, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「･････････。」"
+msgstr ""
+"moge子\n"
+"「……。」"
+
+#. ID 29, Page 1, Line 150, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「安心して･･･殺してはいないわ」"
+msgstr ""
+"夕夜\n"
+"「放心吧……我不会杀掉她的」"
+
+#. ID 29, Page 1, Line 153, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「え？（なんでだよ！殺せよ！）」"
+msgstr ""
+"mogeko王\n"
+"「诶？（为啥嘛！杀掉她也没关系啦 ！）」"
+
+#. ID 29, Page 1, Line 157, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「死ぬのは　　\\.\\.あなた」"
+msgstr ""
+"夕夜\n"
+"「该死的是\\.\\.你啦」"
+
+#. ID 29, Page 1, Line 165, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「え？」"
+msgstr ""
+"mogeko王\n"
+"「咦？」"
+
+#. ID 29, Page 1, Line 173, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「おごぉッ！？！？」"
+msgstr ""
+"mogeko王\n"
+"「唔哦哦！？！？」"
+
+#. ID 29, Page 1, Line 176, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「私、握力70なの」"
+msgstr ""
+"夕夜\n"
+"「我啊，握力有70哦」"
+
+#. ID 29, Page 1, Line 179, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「もごおおおお！？やめて！顔が\n"
+"　つぶれる！つぶれる！つぶれ･･･」"
+msgstr ""
+"mogeko王\n"
+"「mogo噢噢噢噢噢噢！？住手！我的脸\n"
+"　会坏的！会坏的！会坏……」"
+
+#. ID 29, Page 1, Line 184, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「んお゛お゛お゛お゛お゛お゛お゛お゛\n"
+"　お゛お゛お゛！！！！！！！」"
+msgstr ""
+"mogeko王\n"
+"「嗯咔滋 咔滋 咔滋 咔滋 咔滋 咔滋 咔滋 咔滋\n"
+"　噗滋 噗滋 噗滋！！！！！！！」"
+
+#. ID 29, Page 1, Line 196, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「･････････････。」"
+msgstr ""
+"mogeko王\n"
+"「……。」"
+
+#. ID 29, Page 1, Line 199, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「隊長？！」"
+msgstr ""
+"mogeko\n"
+"「队长？！」"
+
+#. ID 29, Page 1, Line 202, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「な、なんで酷いことを･･･！」"
+msgstr ""
+"mogeko\n"
+"「为、为何要做如此过分的事情……！」"
+
+#. ID 29, Page 1, Line 205, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「････････。」"
+msgstr ""
+
+#. ID 29, Page 1, Line 218, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「！？　頭に･･･もげこ王の皮を、\n"
+"　かぶった･･･！？」"
+msgstr ""
+"mogeko\n"
+"「！？为什么把…mogeko王的皮\n"
+"　戴在脑袋上……！？」"
+
+#. ID 29, Page 1, Line 222, Pos (0,0)
+msgid ""
+"ヨナカ王\n"
+"「これで私は」"
+msgstr ""
+"夕夜王\n"
+"「这样一来我就是」"
+
+#. ID 29, Page 1, Line 225, Pos (0,0)
+msgid ""
+"ヨナカ王\n"
+"「この国の王よ」"
+msgstr ""
+"夕夜王\n"
+"「这个国家的王了」"
+
+#. ID 29, Page 1, Line 228, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「な、なにィ～～～～ッ！？」"
+msgstr ""
+"mogeko\n"
+"「什、什么～～～～！？」"
+
+#. ID 29, Page 1, Line 231, Pos (0,0)
+msgid ""
+"ヨナカ王\n"
+"「今日からここは\n"
+"　ヨナカキャッスルとなった」"
+msgstr ""
+"夕夜王\n"
+"「从今天开始这里就是\n"
+"　夕夜城堡」"
+
+#. ID 29, Page 1, Line 235, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「にゃにを！バカなことを抜かすな！」"
+msgstr ""
+"mogeko\n"
+"「神、神马！不要说这种荒唐话啦！」"
+
+#. ID 29, Page 1, Line 239, Pos (0,0)
+msgid ""
+"ヨナカ王\n"
+"「ハースジェット」"
+msgstr ""
+"夕夜王\n"
+"「哈斯喷雾剂」"
+
+#. ID 29, Page 1, Line 244, Pos (0,0)
+#. ID 29, Page 1, Line 298, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「！？」"
+msgstr ""
+"mogeko\n"
+"「！？」"
+
+#. ID 29, Page 1, Line 249, Pos (0,0)
+msgid ""
+"ヨナカ王\n"
+"「もげこ王の力を受け継ぎし者、\n"
+"　其の国の王となる･･･」"
+msgstr ""
+"夕夜王\n"
+"「继承了mogeko王的力量的人，\n"
+"　也就将成为他的国家的王……」"
+
+#. ID 29, Page 1, Line 253, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「！？！？」"
+msgstr ""
+"mogeko\n"
+"「！？！？」"
+
+#. ID 29, Page 1, Line 256, Pos (0,0)
+msgid ""
+"ヨナカ王\n"
+"「私に従え」"
+msgstr ""
+"夕夜王\n"
+"「都来服从我」"
+
+#. ID 29, Page 1, Line 263, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「ヴぁああああああああ！！\n"
+"　オアアアーーーーー！！！！」"
+msgstr ""
+"mogeko\n"
+"「噗啊啊啊啊啊啊啊啊啊！！\n"
+"　哦啊啊啊！！！！」"
+
+#. ID 29, Page 1, Line 269, Pos (0,0)
+msgid ""
+"ヨナカ王\n"
+"「くっくっくっく････。」"
+msgstr ""
+"夕夜王\n"
+"「库 库 库 库 库…。」"
+
+#. ID 29, Page 1, Line 272, Pos (0,0)
+msgid ""
+"ヨナカ王\n"
+"「あーーはっはっはっはっは！！！」"
+msgstr ""
+"夕夜王\n"
+"「啊！哈 哈 哈 哈 哈！！！」"
+
+#. ID 29, Page 1, Line 275, Pos (0,0)
+msgid ""
+"ヨナカ王\n"
+"「モゲコキャッスルでの王は何もかもが\n"
+"　思い通りになる」"
+msgstr ""
+"夕夜王\n"
+"「一旦成为了mogeko城堡的国王啊，\n"
+"　想要做什么就能做什么了」"
+
+#. ID 29, Page 1, Line 278, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「私は････」"
+msgstr ""
+"夕夜\n"
+"「我……」"
+
+#. ID 29, Page 1, Line 281, Pos (0,0)
+msgid ""
+"ヨナカ王\n"
+"「兄さんの復活のために、\n"
+"　全てを―――！！！」"
+msgstr ""
+"夕夜王\n"
+"「为了让哥哥复活，\n"
+"　把这一切都……！！！」"
+
+#. ID 29, Page 1, Line 285, Pos (0,0)
+msgid ""
+"ヨナカ王\n"
+"「ああ･･･！」"
+msgstr ""
+"夕夜王\n"
+"「啊啊…！」"
+
+#. ID 29, Page 1, Line 293, Pos (0,0)
+msgid ""
+"ヨナカ王\n"
+"「Nama-hamu-namu-san」"
+msgstr ""
+"夕夜王\n"
+"「Nama-hamu-namu-san」"
+
+#. ID 29, Page 1, Line 309, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「あ･･･ああ･･･。」"
+msgstr ""
+"mogeko\n"
+"「啊……啊啊……。」"
+
+#. ID 29, Page 1, Line 311, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「なんてことだ･･･。」"
+msgstr ""
+"mogeko\n"
+"「这是怎么一回事……。」"
+
+#. ID 29, Page 1, Line 315, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「！？　　まさか･･･」"
+msgstr ""
+"mogeko\n"
+"「！？　　难道说……」"
+
+#. ID 29, Page 1, Line 318, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「生ハムの･･･神！？」"
+msgstr ""
+"mogeko\n"
+"「生火腿……之神！？」"
+
+#. ID 29, Page 1, Line 321, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「あなたは･･･生ハムの神！？」"
+msgstr ""
+"mogeko\n"
+"「你是……生火腿之神！？」"
+
+#. ID 29, Page 1, Line 325, Pos (0,0)
+msgid ""
+"ヨナカ王（生ハムの神）\n"
+"「･･････････。」"
+msgstr ""
+"夕夜王（生火腿之神）\n"
+"「……。」"
+
+#. ID 29, Page 1, Line 330, Pos (0,0)
+msgid ""
+"\n"
+"　　　　　　　　　　神の、覚醒――。"
+msgstr ""
+"\n"
+"　　　　　　　　　　神，觉醒了――。"
+
+#. ID 29, Page 1, Line 336, Pos (0,0)
+msgid ""
+"ヨナカ王（生ハムの神）\n"
+"「全てのモゲコの罪を赦そう」"
+msgstr ""
+"夕夜王（生火腿之神）\n"
+"「把所有的mogeko的罪恶都赦免吧」"
+
+#. ID 29, Page 1, Line 340, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「おお･････････おお！！！！！」"
+msgstr ""
+"mogeko\n"
+"「哦哦……哦哦！！！！！」"
+
+#. ID 29, Page 1, Line 342, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「神よ！！！！」"
+msgstr ""
+"mogeko\n"
+"「神啊！！！！」"
+
+#. ID 29, Page 1, Line 344, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「おお！」"
+msgstr ""
+"mogeko\n"
+"「哦哦！」"
+
+#. ID 29, Page 1, Line 346, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「おお！神よ！美しき輝きを纏いし\n"
+"　唯一絶対の生ハムの神よ！」"
+msgstr ""
+"mogeko\n"
+"「哦哦！神啊！美丽的被光辉所缠绕着的\n"
+"　唯一绝对的生火腿之神啊！」"
+
+#. ID 29, Page 1, Line 350, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「おお････！！おお････！！！」"
+msgstr ""
+"mogeko\n"
+"「哦哦……！！哦哦……！！！」"
+
+#. ID 29, Page 1, Line 355, Pos (0,0)
+msgid "神よ･････････！"
+msgstr "神啊…………！"
+
+#. ID 29, Page 1, Line 364, Pos (0,0)
+msgid "こうしてモゲコキングダムは神の光に包まれ"
+msgstr "从此以后mogeko王国被神的光辉所环绕"
+
+#. ID 29, Page 1, Line 365, Pos (0,0)
+msgid "世界は平和になった"
+msgstr "世界变得和平起来"
+
+#. ID 29, Page 1, Line 367, Pos (0,0)
+msgid "おお"
+msgstr "哦哦"
+
+#. ID 29, Page 1, Line 369, Pos (0,0)
+msgid "神よ"
+msgstr "神呐"
+
+#. ID 29, Page 1, Line 371, Pos (0,0)
+msgid "美しき輝きを纏いし"
+msgstr "美丽的被光辉所缠绕着的"
+
+#. ID 29, Page 1, Line 372, Pos (0,0)
+msgid "唯一絶対の生ハムの神よ　"
+msgstr "唯一绝对的生火腿之神啊"
+

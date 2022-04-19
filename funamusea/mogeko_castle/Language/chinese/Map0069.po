@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 6, Pos (0,9)
+msgid ""
+"ヨナカ\n"
+"「ぼーーーっ.....。」"
+msgstr ""
+"夕夜\n"
+"「呆———……。」"
+
+#. ID 1, Page 1, Line 8, Pos (0,9)
+msgid ""
+"ヨナカ\n"
+"「････。」"
+msgstr ""
+"夕夜\n"
+"「……。」"
+
+#. ID 1, Page 1, Line 10, Pos (0,9)
+msgid ""
+"ヨナカ\n"
+"「さっきからあるこの絵って自画像だよね\n"
+"　そんなに自分が好きなの･･･」"
+msgstr ""
+"夕夜\n"
+"「刚刚开始就一直能看到的这个画，\n"
+"　是自画像吧…就那么自恋吗…」"
+
+#. ID 1, Page 1, Line 16, Pos (0,9)
+msgid ""
+"？？？\n"
+"「もちろんだよ♪」"
+msgstr ""
+"？？？\n"
+"「当然咯(音符)」"
+
+#. ID 1, Page 1, Line 19, Pos (0,9)
+msgid ""
+"ヨナカ\n"
+"「！？」"
+msgstr ""
+"夕夜\n"
+"「！？」"
+
+#. ID 1, Page 1, Line 24, Pos (0,9)
+msgid ""
+"ヨナカ\n"
+"「誰！？　ど、どこ！？」"
+msgstr ""
+"夕夜\n"
+"「是谁！？在、在哪里！？」"
+
+#. ID 1, Page 1, Line 27, Pos (0,9)
+msgid ""
+"？？？\n"
+"「ここだよ、ここ♪」"
+msgstr ""
+"？？？\n"
+"「这里哦，这里(音符)」"
+

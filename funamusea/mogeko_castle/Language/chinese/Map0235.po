@@ -1,0 +1,264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 7, Pos (0,1)
+msgid ""
+"もっふる\n"
+"「さあ、\\.\\.生ハムの神の光に\n"
+"　向かってゆくのだ･･･。」"
+msgstr ""
+"mohhuru\n"
+"「来吧，\\.\\.向着生火腿之神的光辉……\n"
+"　前进吧……。」"
+
+#. ID 5, Page 1, Line 11, Pos (0,1)
+msgid ""
+"異端モゲコ\n"
+"「････ああ」"
+msgstr ""
+"异端mogeko\n"
+"「……啊啊」"
+
+#. ID 5, Page 1, Line 14, Pos (0,1)
+msgid ""
+"ヨナカ\n"
+"「････････････？？？」"
+msgstr ""
+"夕夜\n"
+"「………………？？？」"
+
+#. ID 5, Page 1, Line 17, Pos (0,1)
+msgid ""
+"もっふる\n"
+"「汝らに、\\.\\.生ハムの神のご加護が\n"
+"　あらんことを･････。」"
+msgstr ""
+"mohhuru\n"
+"「汝等，\\.\\.生火腿之神圣洁之守护\n"
+"　将与汝等同在……。」"
+
+#. ID 5, Page 1, Line 21, Pos (0,1)
+msgid ""
+"異端モゲコ\n"
+"「･･･････。」"
+msgstr ""
+"异端mogeko\n"
+"「…………。」"
+
+#. ID 5, Page 1, Line 24, Pos (0,1)
+msgid ""
+"もっふる\n"
+"「････････いいのか」"
+msgstr ""
+"mohhuru\n"
+"「………………可以吗」"
+
+#. ID 5, Page 1, Line 27, Pos (0,1)
+msgid ""
+"ヨナカ\n"
+"「え？」"
+msgstr ""
+"夕夜\n"
+"「诶？」"
+
+#. ID 5, Page 1, Line 30, Pos (0,1)
+msgid ""
+"もっふる\n"
+"「それで････いいのか？」"
+msgstr ""
+"mohhuru\n"
+"「这样子……真的可以吗？」"
+
+#. ID 5, Page 1, Line 33, Pos (0,1)
+msgid ""
+"ヨナカ\n"
+"「？」"
+msgstr ""
+"夕夜\n"
+"「？」"
+
+#. ID 5, Page 1, Line 36, Pos (0,1)
+msgid ""
+"もっふる\n"
+"「････････いや」"
+msgstr ""
+"mohhuru\n"
+"「…………不」"
+
+#. ID 5, Page 1, Line 38, Pos (0,1)
+msgid ""
+"もっふる\n"
+"「なんでもない････」"
+msgstr ""
+"mohhuru\n"
+"「没什么…………」"
+
+#. ID 5, Page 1, Line 41, Pos (0,1)
+msgid ""
+"もっふる\n"
+"「さあ、ゆけ！\\.\\.\n"
+"　神の光の導きに身を任せて･･･。」"
+msgstr ""
+"mohhuru\n"
+"「那么，去吧！\\.\\.\n"
+"　你们就把自身交给神之光来指引吧……。」"
+
+#. ID 9, Page 1, Line 2, Pos (10,9)
+msgid ""
+"異端モゲコ\n"
+"「あと少し、だな････。」"
+msgstr ""
+"异端mogeko\n"
+"「就只差一点了……。」"
+
+#. ID 10, Page 1, Line 3, Pos (12,7)
+msgid ""
+"もっふる\n"
+"「？」"
+msgstr ""
+"mohhuru\n"
+"「？」"
+
+#. ID 10, Page 1, Line 6, Pos (12,7)
+#. Contains choice at line 2 (2 options)
+msgid "もっふるを殺しますか？"
+msgstr "要杀掉mohhuru吗？"
+
+#. ID 10, Page 1, Line 7, Pos (12,7)
+#. Choice (2 options, embedded in a message)
+#. ID 48, Page 1, Line 2, Pos (9,6)
+#. Choice (2 options, embedded in a message)
+#. ID 49, Page 1, Line 2, Pos (10,6)
+#. Choice (2 options, embedded in a message)
+#. ID 50, Page 1, Line 2, Pos (11,6)
+#. Choice (2 options, embedded in a message)
+#. ID 51, Page 1, Line 2, Pos (8,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"要\n"
+"不要"
+
+#. ID 48, Page 1, Line 1, Pos (9,6)
+#. Contains choice at line 2 (2 options)
+#. ID 49, Page 1, Line 1, Pos (10,6)
+#. Contains choice at line 2 (2 options)
+#. ID 50, Page 1, Line 1, Pos (11,6)
+#. Contains choice at line 2 (2 options)
+#. ID 51, Page 1, Line 1, Pos (8,6)
+#. Contains choice at line 2 (2 options)
+msgid "神の光に身を任せますか？"
+msgstr "要把身体交给神之光来指引吗？"
+
+#. ID 48, Page 1, Line 15, Pos (9,6)
+#. ID 49, Page 1, Line 15, Pos (10,6)
+#. ID 50, Page 1, Line 15, Pos (11,6)
+#. ID 51, Page 1, Line 15, Pos (8,6)
+msgid ""
+"？？？\n"
+"「ンンン～ン～ン～～♪\n"
+"　ンンン～ン～～ン～ン～ン～～ン･･･」"
+msgstr ""
+"？？？\n"
+"「哼哼哼~哼~哼~~(音符)\n"
+"　哼哼哼~哼~~哼~哼~哼~哼~~哼……」"
+
+#. ID 48, Page 1, Line 24, Pos (9,6)
+#. ID 49, Page 1, Line 24, Pos (10,6)
+#. ID 50, Page 1, Line 24, Pos (11,6)
+#. ID 51, Page 1, Line 24, Pos (8,6)
+msgid ""
+"もげ子\n"
+"「ちょっと！！！」"
+msgstr ""
+"moge子\n"
+"「喂你给我停下！！！」"
+
+#. ID 48, Page 1, Line 27, Pos (9,6)
+#. ID 49, Page 1, Line 27, Pos (10,6)
+#. ID 50, Page 1, Line 27, Pos (11,6)
+#. ID 51, Page 1, Line 27, Pos (8,6)
+msgid ""
+"？？？\n"
+"「ヴァア！！！\n"
+"　なんだ、もげ子か････」"
+msgstr ""
+"？？？\n"
+"「咦诶！！！\n"
+"　什么呀，原来是moge子啊…」"
+
+#. ID 48, Page 1, Line 31, Pos (9,6)
+#. ID 49, Page 1, Line 31, Pos (10,6)
+#. ID 50, Page 1, Line 31, Pos (11,6)
+#. ID 51, Page 1, Line 31, Pos (8,6)
+msgid ""
+"もげ子\n"
+"「新しいおもちゃ！！！！！！」"
+msgstr ""
+"moge子\n"
+"「有新玩具哦！！！！！！」"
+
+#. ID 48, Page 1, Line 34, Pos (9,6)
+#. ID 49, Page 1, Line 34, Pos (10,6)
+#. ID 50, Page 1, Line 34, Pos (11,6)
+#. ID 51, Page 1, Line 34, Pos (8,6)
+msgid ""
+"？？？\n"
+"「えっ？？？」"
+msgstr ""
+"？？？\n"
+"「嗯？？？」"
+
+#. ID 48, Page 1, Line 37, Pos (9,6)
+#. ID 49, Page 1, Line 37, Pos (10,6)
+#. ID 50, Page 1, Line 37, Pos (11,6)
+#. ID 51, Page 1, Line 37, Pos (8,6)
+msgid ""
+"もげ子\n"
+"「全然壊れない！！！\n"
+"　つまらないじゃないの！！！」"
+msgstr ""
+"moge子\n"
+"「但是完全都玩不坏！！！\n"
+"　简直无聊死啦！！！」"
+
+#. ID 48, Page 1, Line 41, Pos (9,6)
+#. ID 49, Page 1, Line 41, Pos (10,6)
+#. ID 50, Page 1, Line 41, Pos (11,6)
+#. ID 51, Page 1, Line 41, Pos (8,6)
+msgid ""
+"？？？\n"
+"「ちょっ待っ落ち着いて」"
+msgstr ""
+"？？？\n"
+"「诶、等、你冷静一点儿啦」"
+
+#. ID 48, Page 1, Line 44, Pos (9,6)
+#. ID 49, Page 1, Line 44, Pos (10,6)
+#. ID 50, Page 1, Line 44, Pos (11,6)
+#. ID 51, Page 1, Line 44, Pos (8,6)
+msgid ""
+"もげ子\n"
+"「ふざけんなこのど畜生がァァア！！！」"
+msgstr ""
+
+#. ID 48, Page 1, Line 52, Pos (9,6)
+#. ID 49, Page 1, Line 52, Pos (10,6)
+#. ID 50, Page 1, Line 52, Pos (11,6)
+#. ID 51, Page 1, Line 52, Pos (8,6)
+msgid ""
+"？？？\n"
+"「ぎゃあああああああああああ！！！！」"
+msgstr ""
+"？？？\n"
+"「噫啊啊啊啊啊啊啊！！！！」"
+

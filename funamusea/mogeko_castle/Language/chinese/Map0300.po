@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「ん？\n"
+"　なにこの虫･･･････････。」"
+msgstr ""
+"夕夜\n"
+"「嗯？\n"
+"　这只虫是什么……。」"
+
+#. ID 1, Page 1, Line 10, Pos (0,0)
+msgid "謎の虫はヨナカの口の中に飛び込んだ！"
+msgstr "迷之虫飞进了夕夜的口中！"
+
+#. ID 1, Page 1, Line 15, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「もごぉーーー！？！？！？！？」"
+msgstr ""
+"夕夜\n"
+"「唔哦哦！？！？！？！？」"
+
+#. ID 1, Page 1, Line 18, Pos (0,0)
+msgid "謎の虫はヨナカの体内に侵入した！"
+msgstr "迷之虫侵入了夕夜的体内！"
+
+#. ID 1, Page 1, Line 20, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「ん･････\n"
+"　んううううううううう！？！？？」"
+msgstr ""
+"夕夜\n"
+"「嗯……\n"
+"　嗯唔唔唔唔唔唔唔唔唔！？！？？」"
+
+#. ID 1, Page 1, Line 24, Pos (0,0)
+msgid "もぞぞぞぞぞにゅるるるるるるる！"
+msgstr "咔嚓嚓嚓嚓嚓嚓嚓刺啦啦啦啦啦啦！"
+
+#. ID 1, Page 1, Line 26, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「あッ････あああぁぁああッ！？\n"
+"　げえええええ！！！か、体の中････」"
+msgstr ""
+"夕夜\n"
+"「啊…哈啊啊啊啊啊啊啊啊！？\n"
+"　咳呃呃呃呃呃！！！肚、我的肚子…」"
+
+#. ID 1, Page 1, Line 30, Pos (0,0)
+msgid "ずずずずずずず！"
+msgstr "钻钻钻钻钻钻钻钻！"
+
+#. ID 1, Page 1, Line 32, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「ああああああああああああっ？！！？\n"
+"　やだ！やだっ！気持ち悪いいいいいい」"
+msgstr ""
+"夕夜\n"
+"「啊啊啊啊啊啊啊啊啊啊啊啊？！！？\n"
+"　不要！不要！感觉好恶心啊啊啊啊啊」"
+
+#. ID 1, Page 1, Line 36, Pos (0,0)
+msgid "にゅるるるずずずずにゅるるるん！"
+msgstr "咬咬咬咬咬咬咬咬！"
+
+#. ID 1, Page 1, Line 38, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「ぎゃーー！お腹の中で！暴れまわって･･･\n"
+"　ヴぁああああああああ！！！」"
+msgstr ""
+"夕夜\n"
+"「呀啊！别在我肚子里面！钻来钻去了…\n"
+"　唔啊啊啊啊啊啊啊啊啊！！！」"
+
+#. ID 1, Page 1, Line 43, Pos (0,0)
+msgid "にゅる！にゅる！にゅる！"
+msgstr "钻！钻！钻！"
+
+#. ID 1, Page 1, Line 46, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「びええええええええええええ！！！」"
+msgstr ""
+"夕夜\n"
+"「哔诶诶诶诶诶诶诶诶诶诶！！！」"
+

@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 1, Pos (10,0)
+#. Contains choice at line 2 (2 options)
+msgid "上の階に進みますか？"
+msgstr "要去楼上吗？"
+
+#. ID 4, Page 1, Line 3, Pos (10,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 4, Page 1, Line 13, Pos (10,0)
+msgid ""
+"モゲコ\n"
+"「行ったもげ」"
+msgstr ""
+"mogeko\n"
+"「去吧moge」"
+
+#. ID 4, Page 1, Line 15, Pos (10,0)
+msgid ""
+"モゲコ\n"
+"「行ったもげね」"
+msgstr ""
+"mogeko\n"
+"「快去吧moge」"
+
+#. ID 4, Page 1, Line 17, Pos (10,0)
+msgid ""
+"モゲコ\n"
+"「このままの調子で行けば」"
+msgstr ""
+"mogeko\n"
+"「就这样往前走的话」"
+
+#. ID 4, Page 1, Line 19, Pos (10,0)
+msgid ""
+"モゲコ\n"
+"「もげたんたちの」"
+msgstr ""
+"mogeko\n"
+"「正中moge酱们的」"
+
+#. ID 4, Page 1, Line 21, Pos (10,0)
+msgid ""
+"モゲコ\n"
+"「計画通り。」"
+msgstr ""
+"mogeko\n"
+"「下怀。」"
+
+#. ID 4, Page 1, Line 23, Pos (10,0)
+#. ID 4, Page 1, Line 25, Pos (10,0)
+msgid ""
+"モゲコ\n"
+"「ふふふ」"
+msgstr ""
+"mogeko\n"
+"「呼呼呼」"
+
+#. ID 4, Page 1, Line 29, Pos (10,0)
+msgid ""
+"モゲコ＆モゲコ\n"
+"「ふふふふふふふふふふふふ」"
+msgstr ""
+"mogeko＆mogeko\n"
+"「呼呼呼呼呼呼呼呼呼」"
+

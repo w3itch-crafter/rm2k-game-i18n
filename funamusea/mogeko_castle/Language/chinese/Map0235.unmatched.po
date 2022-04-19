@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 48, Page 1, Line 44, Pos (9,6)
+msgid ""
+"moge子\n"
+"「吵死啦你这个混蛋啊啊啊！！！」"
+msgstr ""
+
+#. ID 49, Page 1, Line 44, Pos (10,6)
+#. ID 50, Page 1, Line 44, Pos (11,6)
+#. ID 51, Page 1, Line 44, Pos (8,6)
+msgid ""
+"moge子\n"
+"「吵死啦你这个畜生啊啊啊！！！」"
+msgstr ""
+

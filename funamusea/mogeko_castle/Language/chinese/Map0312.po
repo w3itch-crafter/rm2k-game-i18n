@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 3, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「なんで･･･よけなかったの･･･！！」"
+msgstr ""
+"夕夜\n"
+"「为什么……不躲开呢……！！」"
+
+#. ID 1, Page 1, Line 6, Pos (0,0)
+msgid ""
+"シンヤ\n"
+"「････････。」"
+msgstr ""
+"真夜\n"
+"「……。」"
+
+#. ID 1, Page 2, Line 4, Pos (0,0)
+msgid ""
+"シンヤ\n"
+"「････････僕はね」"
+msgstr ""
+"真夜\n"
+"「……我啊」"
+
+#. ID 1, Page 2, Line 7, Pos (0,0)
+msgid ""
+"シンヤ\n"
+"「全部終わりにしたかったんだ」"
+msgstr ""
+"真夜\n"
+"「希望能够把这一切都结束掉」"
+
+#. ID 1, Page 2, Line 10, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「！」"
+msgstr ""
+"夕夜\n"
+"「！」"
+
+#. ID 1, Page 2, Line 14, Pos (0,0)
+msgid ""
+"シンヤ\n"
+"「ごめんね･･･キミに迷惑ばかり\n"
+"　かけてしまって････。」"
+msgstr ""
+"真夜\n"
+"「对不起啊……给你\n"
+"　添了这么多麻烦……。」"
+
+#. ID 1, Page 2, Line 19, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･･････ううん\n"
+"　全然そんなことない」"
+msgstr ""
+"夕夜\n"
+"「……不\n"
+"　完全没有」"
+
+#. ID 1, Page 2, Line 24, Pos (0,0)
+msgid ""
+"シンヤ\n"
+"「キミが終わらせてくれて、僕はとても\n"
+"　幸せだよ････。」"
+msgstr ""
+"真夜\n"
+"「由你来终结这一切，\n"
+"　我已经相当的幸福了……。」"
+
+#. ID 1, Page 2, Line 29, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「････････。」"
+msgstr ""
+"夕夜\n"
+"「……。」"
+
+#. ID 1, Page 2, Line 33, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「兄さん･･･････。」"
+msgstr ""
+"夕夜\n"
+"「哥哥……。」"
+
+#. ID 1, Page 2, Line 38, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「兄さん･･･戻ってきたのね」"
+msgstr ""
+"夕夜\n"
+"「哥哥……你变回来了」"
+
+#. ID 1, Page 2, Line 41, Pos (0,0)
+msgid ""
+"シンヤ\n"
+"「ごめんね････不器用で････。」"
+msgstr ""
+"真夜\n"
+"「对不起……这么不争气……。」"
+
+#. ID 1, Page 2, Line 44, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･･････兄さん」"
+msgstr ""
+"夕夜\n"
+"「……哥哥」"
+
+#. ID 1, Page 2, Line 48, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「やっと･･････。」"
+msgstr ""
+"夕夜\n"
+"「总算……。」"
+
+#. ID 1, Page 2, Line 52, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「やっと会えた･･････。」"
+msgstr ""
+"夕夜\n"
+"「总算与你重逢了……。」"
+
+#. ID 1, Page 2, Line 56, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「おかえり、兄さん」"
+msgstr ""
+"夕夜\n"
+"「欢迎回家，哥哥」"
+
+#. ID 1, Page 2, Line 60, Pos (0,0)
+msgid ""
+"シンヤ\n"
+"「ただいま」"
+msgstr ""
+"真夜\n"
+"「我回来了」"
+
+#. ID 1, Page 2, Line 67, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･････････おやすみなさい」"
+msgstr ""
+"夕夜\n"
+"「……安」"
+
+#. ID 1, Page 2, Line 72, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「ああ････････」"
+msgstr ""
+"夕夜\n"
+"「啊啊……」"
+
+#. ID 1, Page 2, Line 76, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「私･･････」"
+msgstr ""
+"夕夜\n"
+"「我……」"
+
+#. ID 1, Page 2, Line 82, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「とっても幸せよ････････。」"
+msgstr ""
+"夕夜\n"
+"「现在感到相当的幸福哦……。」"
+

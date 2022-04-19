@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 2, Pos (6,9)
+msgid ""
+"異端モゲコ\n"
+"「メガネのどこがいいんだよ･･･」"
+msgstr ""
+"异端mogeko\n"
+"「眼镜到底哪里好了……」"
+
+#. ID 3, Page 1, Line 2, Pos (11,10)
+msgid ""
+"異端モゲコ\n"
+"「あそこのラーメン屋まずいだろ！\n"
+"　なんでわからんのかね！」"
+msgstr ""
+"异端mogeko\n"
+"「那家店的拉面很难吃！\n"
+"　为什么就是不明白呢！」"
+
+#. ID 4, Page 1, Line 2, Pos (12,7)
+msgid ""
+"異端モゲコ\n"
+"「生ハムを328円の時に買ったんだ\n"
+"　そしたら異端扱いだよ･･･」"
+msgstr ""
+"异端mogeko\n"
+"「花328日元买了生火腿，\n"
+"　就被当做异端抓进来了……」"
+

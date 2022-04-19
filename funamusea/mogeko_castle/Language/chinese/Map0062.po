@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 6, Pos (0,0)
+msgid ""
+"？？？\n"
+"「待ってよ兄さん！」"
+msgstr ""
+"？？？\n"
+"「等等我哥哥！」"
+
+#. ID 2, Page 1, Line 16, Pos (0,0)
+msgid ""
+"？？？\n"
+"「おいていかないでよ～！」"
+msgstr ""
+"？？？\n"
+"「不要丢下我～！」"
+
+#. ID 2, Page 1, Line 20, Pos (0,0)
+msgid ""
+"？？？\n"
+"「ははは\\.\\.\n"
+"　ごめんごめん、ヨナカ」"
+msgstr ""
+"？？？\n"
+"「哈哈哈\\.\\.\n"
+"　抱歉抱歉，夕夜」"
+
+#. ID 2, Page 1, Line 24, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「早いって～！」"
+msgstr ""
+"夕夜\n"
+"「你走太快了～！」"
+
+#. ID 2, Page 1, Line 27, Pos (0,0)
+msgid ""
+"？？？\n"
+"「考え事してたら、ついつい、ね」"
+msgstr ""
+"？？？\n"
+"「我在想事情啦，一不小心把你丢下了」"
+
+#. ID 2, Page 1, Line 30, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「むっ　\\.\\.またいつもの考え事なの？」"
+msgstr ""
+"夕夜\n"
+"「啊　\\.\\.又像平时一样在想事情吗？」"
+
+#. ID 2, Page 1, Line 33, Pos (0,0)
+msgid ""
+"？？？\n"
+"「考え事に夢中だと前が\n"
+"　見えなくなっちゃうんだ」"
+msgstr ""
+"？？？\n"
+"「一沉醉于自己的世界\n"
+"　便管不了其他事啊」"
+
+#. ID 2, Page 1, Line 37, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「不安だな...。」"
+msgstr ""
+"夕夜\n"
+"「我很不安啊…。」"
+
+#. ID 2, Page 1, Line 40, Pos (0,0)
+msgid ""
+"？？？\n"
+"「隣にヨナカがいるから大丈夫だよ」"
+msgstr ""
+"？？？\n"
+"「有夕夜在身边的话我就会很安心」"
+
+#. ID 2, Page 1, Line 43, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「もー、なにそれっ！」"
+msgstr ""
+"夕夜\n"
+"「真是的，你在说什么啊！」"
+
+#. ID 2, Page 1, Line 46, Pos (0,0)
+msgid ""
+"？？？\n"
+"「ふふふ」"
+msgstr ""
+"？？？\n"
+"「呼呼呼」"
+
+#. ID 2, Page 1, Line 51, Pos (0,0)
+msgid ""
+"？？？\n"
+"「行こ。」"
+msgstr ""
+"？？？\n"
+"「走吧。」"
+
+#. ID 2, Page 1, Line 54, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「････うん」"
+msgstr ""
+"夕夜\n"
+"「……嗯」"
+

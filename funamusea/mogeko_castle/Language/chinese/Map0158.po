@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (7,8)
+msgid ""
+"モゲコ\n"
+"「未来に、希望などない･･･。」"
+msgstr ""
+"mogeko\n"
+"「未来毫无希望……。」"
+
+#. ID 9, Page 1, Line 1, Pos (3,10)
+#. ID 12, Page 1, Line 1, Pos (3,11)
+msgid "フカフカのベッドだ。"
+msgstr "软绵绵的床。"
+
+#. ID 10, Page 1, Line 2, Pos (13,7)
+msgid ""
+"モゲコ\n"
+"「生きる意味を見出せない･･･\n"
+"　僕らはそんな哀れな生き物･･･」"
+msgstr ""
+"mogeko\n"
+"「找不到活着的意义……\n"
+"　我们还真是悲哀的生物呢……」"
+
+#. ID 11, Page 1, Line 2, Pos (2,7)
+msgid ""
+"モゲコ\n"
+"「ああああああああああ･････」"
+msgstr ""
+"mogeko\n"
+"「啊啊啊啊啊啊啊啊啊………」"
+

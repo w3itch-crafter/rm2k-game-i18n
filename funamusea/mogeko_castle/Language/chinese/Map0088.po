@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 8, Page 1, Line 1, Pos (16,10)
+#. ID 9, Page 1, Line 1, Pos (16,11)
+msgid "フカフカのベッドだ。"
+msgstr "很舒服的床。"
+
+#. ID 10, Page 1, Line 2, Pos (7,5)
+msgid ""
+"モゲコ\n"
+"「俺の親友は花粉症で死んだ･･･。」"
+msgstr ""
+"mogeko\n"
+"「我的好友因为花粉症死掉了…。」"
+

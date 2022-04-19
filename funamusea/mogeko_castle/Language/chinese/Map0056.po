@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 4, Pos (0,0)
+#. ID 1, Page 1, Line 8, Pos (0,0)
+#. ID 1, Page 1, Line 12, Pos (0,0)
+#. ID 1, Page 1, Line 16, Pos (0,0)
+msgid ""
+"？？？\n"
+"「･･･････。」"
+msgstr ""
+"？？？\n"
+"「………。」"
+
+#. ID 1, Page 1, Line 6, Pos (0,0)
+msgid ""
+"？？？\n"
+"「やあ　\\.\\.\\.眠れないのかい？」"
+msgstr ""
+"？？？\n"
+"「哟　\\.\\.\\.睡不着吗？」"
+
+#. ID 1, Page 1, Line 10, Pos (0,0)
+msgid ""
+"？？？\n"
+"「薬を飲んでもだめかい？」"
+msgstr ""
+"？？？\n"
+"「吃药也没用吗？」"
+
+#. ID 1, Page 1, Line 14, Pos (0,0)
+msgid ""
+"？？？\n"
+"「････\\.\\.そっか」"
+msgstr ""
+"？？？\n"
+"「……\\.\\.是吗」"
+
+#. ID 1, Page 1, Line 18, Pos (0,0)
+msgid ""
+"？？？\n"
+"「大丈夫だよ、\\.\\.僕が傍にいる」"
+msgstr ""
+"？？？\n"
+"「没事的，\\.\\.我会在你身边的」"
+
+#. ID 1, Page 1, Line 20, Pos (0,0)
+msgid ""
+"？？？\n"
+"「････\\.\\.はやくよくなるといいね」"
+msgstr ""
+"？？？\n"
+"「……\\.\\.能快点康复就好了」"
+
+#. ID 1, Page 1, Line 22, Pos (0,0)
+msgid ""
+"？？？\n"
+"「･･････････。」"
+msgstr ""
+"？？？\n"
+"「…………。」"
+
+#. ID 1, Page 1, Line 25, Pos (0,0)
+msgid ""
+"？？？\n"
+"「･･･あ、\\.\\.そうそう。」"
+msgstr ""
+"？？？\n"
+"「…啊，\\.\\.对了对了。」"
+
+#. ID 1, Page 1, Line 27, Pos (0,0)
+msgid ""
+"？？？\n"
+"「････\\.\\.今日は絵本を読んであげるよ」"
+msgstr ""
+"？？？\n"
+"「……\\.\\.今天我给你念故事书吧」"
+
+#. ID 1, Page 1, Line 29, Pos (0,0)
+msgid ""
+"？？？\n"
+"「どんな内容かって？」"
+msgstr ""
+"？？？\n"
+"「你问我是关于什么内容的？」"
+
+#. ID 1, Page 1, Line 31, Pos (0,0)
+msgid ""
+"？？？\n"
+"「おもしろおかしく、\\.\\.悲しい\\.\\.エログロ\\.\\.\\.\n"
+"　そんな物語さ」"
+msgstr ""
+"？？？\n"
+"「既有趣又奇怪、\\.\\.令人伤感\\.\\.又色色的\n"
+"  猎奇的\\.\\.\\.故事」"
+
+#. ID 1, Page 1, Line 34, Pos (0,0)
+msgid ""
+"？？？\n"
+"「きっとキミも喜んでくれると思う」"
+msgstr ""
+"？？？\n"
+"「我想你会很喜欢这个故事的」"
+
+#. ID 1, Page 1, Line 36, Pos (0,0)
+msgid ""
+"？？？\n"
+"「･･･････････。」"
+msgstr ""
+"？？？\n"
+"「……………。」"
+
+#. ID 1, Page 1, Line 39, Pos (0,0)
+msgid ""
+"？？？\n"
+"「それじゃあ、\\.\\.はじめるね」"
+msgstr ""
+"？？？\n"
+"「那么，\\.\\.开始吧」"
+

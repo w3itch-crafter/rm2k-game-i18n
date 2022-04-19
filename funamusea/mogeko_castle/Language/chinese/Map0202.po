@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 7, Page 1, Line 2, Pos (9,8)
+msgid ""
+"ヨナカ\n"
+"「なんじゃこりゃーーーーー！」"
+msgstr ""
+"夕夜\n"
+"「这是啥啊啊啊啊啊啊！」"
+
+#. ID 7, Page 1, Line 5, Pos (9,8)
+msgid ""
+"異端モゲコ\n"
+"「よく昔ここに来たものだ･･･。」"
+msgstr ""
+"异端mogeko\n"
+"「很久以前我来过这里……。」"
+
+#. ID 7, Page 1, Line 7, Pos (9,8)
+msgid ""
+"異端モゲコ\n"
+"「よし。これだな。」"
+msgstr ""
+"异端mogeko\n"
+"「好的。就是这个。」"
+
+#. ID 7, Page 1, Line 10, Pos (9,8)
+msgid ""
+"ヨナカ\n"
+"「？　\\.\\.それは････？」"
+msgstr ""
+"夕夜\n"
+"「？\\.\\.那是……？」"
+
+#. ID 7, Page 1, Line 17, Pos (9,8)
+msgid ""
+"異端モゲコ\n"
+"「これさえあれば\n"
+"　あの化け物はイチコロだな。」"
+msgstr ""
+"异端mogeko\n"
+"「只要有了这个，\n"
+"　那个怪物就能一击必杀了。」"
+
+#. ID 7, Page 1, Line 21, Pos (9,8)
+msgid ""
+"ヨナカ\n"
+"「いやそれ色んなものをイチコロに\n"
+"　できると思いますけど！？」"
+msgstr ""
+"夕夜\n"
+"「不不不我认为那样各种意义上来说，\n"
+"　什么东西都能一击必杀了！？」"
+
+#. ID 7, Page 1, Line 25, Pos (9,8)
+msgid ""
+"異端モゲコ\n"
+"「まあいい。用は済んだ。\n"
+"　先刻の場所まで戻ろう。」"
+msgstr ""
+"异端mogeko\n"
+"「总之。有这个就没事了。\n"
+"　回去之前那地方吧。」"
+
+#. ID 7, Page 2, Line 2, Pos (9,8)
+msgid ""
+"異端モゲコ\n"
+"「さあ、戻ろう。」"
+msgstr ""
+"异端mogeko\n"
+"「那么回去吧。」"
+
+#. ID 8, Page 1, Line 1, Pos (5,19)
+#. ID 9, Page 1, Line 1, Pos (5,18)
+#. ID 10, Page 1, Line 1, Pos (5,17)
+#. ID 11, Page 1, Line 1, Pos (5,16)
+#. ID 12, Page 1, Line 1, Pos (5,15)
+#. ID 13, Page 1, Line 1, Pos (5,14)
+#. ID 14, Page 1, Line 1, Pos (5,13)
+#. ID 15, Page 1, Line 1, Pos (5,12)
+#. ID 16, Page 1, Line 1, Pos (5,11)
+#. ID 17, Page 1, Line 1, Pos (5,10)
+#. ID 18, Page 1, Line 1, Pos (5,9)
+#. ID 19, Page 1, Line 1, Pos (5,8)
+#. ID 20, Page 1, Line 1, Pos (5,7)
+#. ID 21, Page 1, Line 1, Pos (14,7)
+#. ID 22, Page 1, Line 1, Pos (14,8)
+#. ID 23, Page 1, Line 1, Pos (14,9)
+#. ID 24, Page 1, Line 1, Pos (14,10)
+#. ID 25, Page 1, Line 1, Pos (14,11)
+#. ID 26, Page 1, Line 1, Pos (14,12)
+#. ID 27, Page 1, Line 1, Pos (14,13)
+#. ID 28, Page 1, Line 1, Pos (14,14)
+#. ID 29, Page 1, Line 1, Pos (14,15)
+#. ID 30, Page 1, Line 1, Pos (14,16)
+#. ID 31, Page 1, Line 1, Pos (14,17)
+#. ID 32, Page 1, Line 1, Pos (14,18)
+#. ID 33, Page 1, Line 1, Pos (14,19)
+msgid "武器がたくさんある。"
+msgstr "有大量的武器。"
+

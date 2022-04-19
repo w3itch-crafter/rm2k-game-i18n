@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 1, Pos (17,8)
+msgid "スイッチがある････。"
+msgstr "有个开关……。"
+
+#. ID 3, Page 1, Line 2, Pos (17,8)
+#. Contains choice at line 2 (2 options)
+msgid "何かのスイッチを押してみますか？"
+msgstr "不知道是什么的开关要按么？"
+
+#. ID 3, Page 1, Line 3, Pos (17,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 3, Page 1, Line 9, Pos (17,8)
+msgid "どこかの電気がついたようだ･･･。"
+msgstr "好像哪里的电通了……。"
+
+#. ID 4, Page 1, Line 1, Pos (2,5)
+msgid "木だ。"
+msgstr "树。"
+
+#. ID 9, Page 1, Line 1, Pos (10,13)
+#. ID 10, Page 1, Line 1, Pos (10,12)
+#. ID 11, Page 1, Line 1, Pos (10,8)
+#. ID 12, Page 1, Line 1, Pos (10,7)
+#. ID 13, Page 1, Line 1, Pos (17,7)
+#. ID 14, Page 1, Line 1, Pos (17,13)
+#. ID 15, Page 1, Line 1, Pos (17,12)
+msgid "かたい机だ。"
+msgstr "很硬的桌子。"
+
+#. ID 16, Page 1, Line 1, Pos (8,7)
+#. ID 17, Page 1, Line 1, Pos (9,6)
+#. ID 18, Page 1, Line 1, Pos (8,12)
+#. ID 19, Page 1, Line 1, Pos (9,11)
+#. ID 20, Page 1, Line 1, Pos (15,12)
+#. ID 21, Page 1, Line 1, Pos (16,11)
+#. ID 22, Page 1, Line 1, Pos (15,7)
+#. ID 23, Page 1, Line 1, Pos (16,6)
+msgid "ベッドだ。"
+msgstr "床。"
+

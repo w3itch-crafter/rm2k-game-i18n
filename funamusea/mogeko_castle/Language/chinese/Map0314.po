@@ -1,0 +1,1205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 2, Pos (2,8)
+msgid "『倉井 ヨナカ』"
+msgstr "『仓井 夕夜』"
+
+#. ID 4, Page 1, Line 4, Pos (2,8)
+msgid "このゲームの主人公"
+msgstr "这个游戏的主人公。"
+
+#. ID 4, Page 1, Line 5, Pos (2,8)
+msgid ""
+"女子高生\n"
+"普通の女の子"
+msgstr ""
+"女高中生，\n"
+"是个普通的女孩子。"
+
+#. ID 4, Page 1, Line 7, Pos (2,8)
+msgid ""
+"趣味は夜空を眺めながら金平糖を\n"
+"貪ること"
+msgstr ""
+"兴趣是一边眺望夜空，\n"
+"一边吃很多的金平糖。"
+
+#. ID 4, Page 1, Line 9, Pos (2,8)
+msgid ""
+"ナヨそうに見えて意外と運動できる。\n"
+"握力が高い\n"
+"あと陸上部"
+msgstr ""
+"虽然看起来很柔弱但是意外地相当擅长运动。\n"
+"握力很高，\n"
+"此外也经常参加田径部的比赛。"
+
+#. ID 4, Page 1, Line 12, Pos (2,8)
+msgid "兄が大好き"
+msgstr "最喜欢哥哥。"
+
+#. ID 4, Page 1, Line 13, Pos (2,8)
+msgid "好きな食べ物はそうめん"
+msgstr "喜欢的食物是挂面。"
+
+#. ID 5, Page 1, Line 2, Pos (6,8)
+msgid "『モゲコ』"
+msgstr "『mogeko』"
+
+#. ID 5, Page 1, Line 4, Pos (6,8)
+msgid "学名「Namahamukichigai ikirukuzu」"
+msgstr "学名「Namahamukichigai ikirukuzu」"
+
+#. ID 5, Page 1, Line 5, Pos (6,8)
+msgid "丸い口の中には数千本の歯が並ぶ"
+msgstr "圆圆的嘴巴里面有数千颗牙齿。"
+
+#. ID 5, Page 1, Line 6, Pos (6,8)
+#. ID 14, Page 1, Line 9, Pos (2,10)
+msgid "趣味はひきこもり"
+msgstr "兴趣是宅在家里。"
+
+#. ID 5, Page 1, Line 7, Pos (6,8)
+msgid ""
+"興奮すると血を吐き　それが続くと死ぬ\n"
+"儚い生き物である"
+msgstr ""
+"感到兴奋的时候会吐血，吐啊吐啊的就死掉了，\n"
+"是一种非常脆弱的生物。"
+
+#. ID 5, Page 1, Line 9, Pos (6,8)
+msgid "だがすぐ増えるので問題ない"
+msgstr "不过因为数量很快又会变多所以没有问题。"
+
+#. ID 5, Page 1, Line 10, Pos (6,8)
+msgid ""
+"尻尾を引っこ抜くと即死する\n"
+"あとはウニを食わせると即死する"
+msgstr ""
+"如果拔掉他的尾巴的话会马上死掉，\n"
+"除此之外如果吃了海胆也会即死。"
+
+#. ID 5, Page 1, Line 12, Pos (6,8)
+msgid "あとホラー画像を見せると即死する"
+msgstr "以及如果看到了恐怖的画像也会即死。"
+
+#. ID 5, Page 1, Line 13, Pos (6,8)
+#. ID 14, Page 1, Line 6, Pos (2,10)
+msgid "すぐ泣く弱虫のクズ"
+msgstr ""
+
+#. ID 5, Page 1, Line 14, Pos (6,8)
+#, fuzzy
+msgid ""
+"モゲコを殴ったり暴言を吐くとショックで倒れて\n"
+"やがて死ぬ"
+msgstr "而且是个相当爱哭的废柴。"
+
+#. ID 6, Page 1, Line 2, Pos (8,8)
+msgid "『ちょっと変なモゲコ』"
+msgstr "『有点奇怪的mogeko』"
+
+#. ID 6, Page 1, Line 4, Pos (8,8)
+msgid "紅茶とお菓子を食って一日を潰す"
+msgstr "总是吃着点心喝着红茶打发一天的时光。"
+
+#. ID 6, Page 1, Line 5, Pos (8,8)
+msgid ""
+"趣味は読書とゲーム\n"
+"あと時計を眺めて1日を潰すこと"
+msgstr ""
+"兴趣是读书和打游戏，\n"
+"以及看着时钟打发一整天的时间。"
+
+#. ID 6, Page 1, Line 7, Pos (8,8)
+msgid ""
+"ちょっと変なとか言われちゃってるけど\n"
+"他のモゲコの方がよっぽど変である\n"
+"というかクズ"
+msgstr ""
+"虽说他是个有点奇怪的mogeko，\n"
+"但是其他的mogeko才更奇怪，\n"
+"说到底都是群废柴。"
+
+#. ID 6, Page 1, Line 10, Pos (8,8)
+msgid "しかし本人は気にしてないようである"
+msgstr "可是本人好像并不在意这件事情。"
+
+#. ID 7, Page 1, Line 2, Pos (10,8)
+msgid "『生ハムの妖精』"
+msgstr "『生火腿妖精』"
+
+#. ID 7, Page 1, Line 4, Pos (10,8)
+msgid "オカマみたいな妖精"
+msgstr "看上去像个人妖一样的妖精。"
+
+#. ID 7, Page 1, Line 5, Pos (10,8)
+msgid "趣味は風呂"
+msgstr "兴趣是泡澡。"
+
+#. ID 7, Page 1, Line 6, Pos (10,8)
+msgid "気が強くてうざい"
+msgstr "有气量但很麻烦。"
+
+#. ID 7, Page 1, Line 7, Pos (10,8)
+msgid "モゲコの幼虫たちの面倒をみている"
+msgstr "照顾着mogeko们的幼虫。"
+
+#. ID 7, Page 1, Line 8, Pos (10,8)
+msgid "空を飛べるよ　羽は使わないけど"
+msgstr "虽然能飞，但不是用翅膀。"
+
+#. ID 8, Page 1, Line 2, Pos (12,8)
+msgid "『血の精霊』"
+msgstr "『血之精灵』"
+
+#. ID 8, Page 1, Line 4, Pos (12,8)
+msgid "血を浴びすぎて体色が変わっちゃった残念なやつ"
+msgstr ""
+"因为一直泡在血里，\n"
+"所以连肤色都变成这样的让人同情的家伙。"
+
+#. ID 8, Page 1, Line 5, Pos (12,8)
+#, fuzzy
+msgid "趣味はおさんぽ♪"
+msgstr "杀他的话会死。"
+
+#. ID 8, Page 1, Line 6, Pos (12,8)
+msgid "叩くと泣く"
+msgstr "兴趣是散步(音符)"
+
+#. ID 8, Page 1, Line 7, Pos (12,8)
+msgid "蹴ると泣く"
+msgstr "揍他的话会哭。"
+
+#. ID 8, Page 1, Line 8, Pos (12,8)
+msgid "殺すと死ぬ"
+msgstr "踢他的话会哭。"
+
+#. ID 9, Page 1, Line 2, Pos (14,8)
+msgid "『ハス』"
+msgstr "『hs』"
+
+#. ID 9, Page 1, Line 4, Pos (14,8)
+msgid "生ハムの神の使いの天使"
+msgstr "作为生火腿之神使者的天使。"
+
+#. ID 9, Page 1, Line 5, Pos (14,8)
+msgid "趣味は布教"
+msgstr "兴趣是写真集。"
+
+#. ID 9, Page 1, Line 6, Pos (14,8)
+msgid ""
+"本当に生ハムの神が存在するのかは\n"
+"誰も知らない"
+msgstr ""
+"其实究竟生火腿之神存不存在\n"
+"谁都不知道。"
+
+#. ID 9, Page 1, Line 8, Pos (14,8)
+msgid ""
+"もしかしたら彼らが勝手に頭の中で\n"
+"妄想して勝手に信仰しちゃってる\n"
+"ありもしない話なのかもしれない"
+msgstr ""
+"说不定生火腿之神\n"
+"是他们擅自地妄想出来，\n"
+"并擅自对其崇拜信仰的也说不定。"
+
+#. ID 9, Page 1, Line 11, Pos (14,8)
+msgid "狂信とはめくらを生む恐ろしいものだ"
+msgstr "由此所滋生的狂热与盲目也非常让人恐惧。"
+
+#. ID 10, Page 1, Line 2, Pos (16,8)
+msgid "『もっふる』"
+msgstr "『mohhuru』"
+
+#. ID 10, Page 1, Line 4, Pos (16,8)
+msgid ""
+"もふもふしている\n"
+"抱きつくとやわらかい"
+msgstr ""
+"看上去毛茸茸软绵绵的，\n"
+"抱起来也软乎乎的。"
+
+#. ID 10, Page 1, Line 6, Pos (16,8)
+msgid ""
+"強く抱きしめると内臓がケツから出て\n"
+"死ぬので注意"
+msgstr ""
+"如果用力的抱紧他的话内脏\n"
+"会从菊花里挤压出来。\n"
+"然后死掉，所以请注意力道。"
+
+#. ID 10, Page 1, Line 8, Pos (16,8)
+#, fuzzy
+msgid ""
+"趣味はワッフル食うこと\n"
+"だがモッフルのほうが好き"
+msgstr ""
+"兴趣是吃华夫，\n"
+"不过，也很喜欢吃烤煎饼。"
+
+#. ID 10, Page 1, Line 10, Pos (16,8)
+#, fuzzy
+msgid ""
+"モフコと間違われて何度も化け物に\n"
+"襲われている"
+msgstr ""
+"因为与mofuko很像，\n"
+"所以老是被怪物袭击。"
+
+#. ID 10, Page 1, Line 12, Pos (16,8)
+#, fuzzy
+msgid "数回犯されそうになったらしい"
+msgstr "不过对本人来说这好像并没造成很大的麻烦。"
+
+#. ID 10, Page 1, Line 13, Pos (16,8)
+msgid "本人にとってこの上なく迷惑だろう"
+msgstr "一直被追着打。"
+
+#. ID 11, Page 1, Line 2, Pos (18,8)
+msgid "『モゲコッコ』"
+msgstr "『mogekokko』"
+
+#. ID 11, Page 1, Line 4, Pos (18,8)
+msgid ""
+"これはきぐるみではなく\n"
+"モゲコッコ自身の体である"
+msgstr ""
+"他身上的其实不是玩偶戏服，\n"
+"其实那就是mogekokko的身体。"
+
+#. ID 11, Page 1, Line 6, Pos (18,8)
+msgid ""
+"だから間違ってもちぎったり引っ張ってはいけない\n"
+"脱がしたりしたら地獄を見る\n"
+"鶏肉の生々しいにおいがあたりを包むだろう"
+msgstr ""
+"所以如果强行把那个脱下来的话，\n"
+"就会看见地狱 。\n"
+"以及他全身都缭绕着一股鸡肉的味道。"
+
+#. ID 11, Page 1, Line 9, Pos (18,8)
+msgid "趣味はトウモロコシをバラすこと"
+msgstr "兴趣是掰玉米棒子上的玉米粒。"
+
+#. ID 11, Page 1, Line 10, Pos (18,8)
+msgid "嫌いなものは骨スキ刀"
+msgstr "讨厌的东西是骨刀。"
+
+#. ID 12, Page 1, Line 2, Pos (20,8)
+msgid "『裏モゲコ』"
+msgstr "『里mogeko』"
+
+#. ID 12, Page 1, Line 4, Pos (20,8)
+msgid "異端モゲコの正体　たぶん"
+msgstr "大概是异端mogeko的正体。"
+
+#. ID 12, Page 1, Line 5, Pos (20,8)
+msgid "もげこ王の裏の存在"
+msgstr "mogeko王的内里的存在。"
+
+#. ID 12, Page 1, Line 6, Pos (20,8)
+msgid "その詳細は、ほとんどが謎のままである"
+msgstr "其他的详情，几乎都是谜。"
+
+#. ID 13, Page 1, Line 2, Pos (4,8)
+msgid "『異端モゲコ』"
+msgstr "『异端mogeko』"
+
+#. ID 13, Page 1, Line 4, Pos (4,8)
+msgid "異端扱いされ死刑を控えてる"
+msgstr "因为是异端所以被控告死刑。"
+
+#. ID 13, Page 1, Line 5, Pos (4,8)
+msgid "運動神経抜群"
+msgstr "运动神经超群。"
+
+#. ID 13, Page 1, Line 6, Pos (4,8)
+msgid "趣味は特になし"
+msgstr "没有什么特别的兴趣。"
+
+#. ID 13, Page 1, Line 7, Pos (4,8)
+msgid "彼も生ハムは大好きである"
+msgstr "他其实也非常喜欢生火腿。"
+
+#. ID 13, Page 1, Line 8, Pos (4,8)
+msgid ""
+"気にしてるところはたまに「もげげ」って\n"
+"言っちゃうところ"
+msgstr ""
+"虽然有的时候也习惯性地想说「mogege」\n"
+"但是总会忍住不说。"
+
+#. ID 13, Page 1, Line 10, Pos (4,8)
+msgid "彼は一体何者なのか･･･？"
+msgstr "他究竟是谁呢……？"
+
+#. ID 13, Page 1, Line 11, Pos (4,8)
+msgid "ちなみに付けられていた足かせの重さは10ｔ"
+msgstr "顺带一说当时他的脚镣重10吨。"
+
+#. ID 14, Page 1, Line 2, Pos (2,10)
+msgid "『もげこ王』"
+msgstr "『mogeko王』"
+
+#. ID 14, Page 1, Line 4, Pos (2,10)
+msgid ""
+"「モゲコワールド」及び「モゲコキングダム」の\n"
+"創造主"
+msgstr ""
+"「mogeko世界」以及「mogeko王国」的\n"
+"创造者"
+
+#. ID 14, Page 1, Line 7, Pos (2,10)
+#, fuzzy
+msgid ""
+"殴ったり、暴言を吐くと胃を痛めて\n"
+"血と胃液をゲーゲー吐く"
+msgstr "是个相当爱哭的废柴"
+
+#. ID 14, Page 1, Line 10, Pos (2,10)
+#, fuzzy
+msgid ""
+"生ハムの神と同じ姿をしていると\n"
+"言われている"
+msgstr ""
+"打他或者骂他的话会胃痛，\n"
+"然后“噗噗”地吐血吐胃液。"
+
+#. ID 14, Page 1, Line 12, Pos (2,10)
+#, fuzzy
+msgid ""
+"もしくは生ハムの神の生まれ変わりとも\n"
+"言われている"
+msgstr ""
+"有传言说，\n"
+"他是与生火腿之神长相一模一样。"
+
+#. ID 14, Page 1, Line 14, Pos (2,10)
+#, fuzzy
+msgid ""
+"どこかに名前が同じ人をみたかもしれないが\n"
+"全くの別人である"
+msgstr ""
+"也有传言说，\n"
+"他就是生火腿之神的转世。"
+
+#. ID 15, Page 1, Line 2, Pos (12,10)
+msgid "『もげ子』"
+msgstr "『moge子』"
+
+#. ID 15, Page 1, Line 4, Pos (12,10)
+msgid "モゲコキングダムの中で一番キチガイ"
+msgstr "mogeko王国中最疯狂的人。"
+
+#. ID 15, Page 1, Line 5, Pos (12,10)
+msgid "人の嫌がることをするのが大好き"
+msgstr "最喜欢做别人讨厌的事情。"
+
+#. ID 15, Page 1, Line 6, Pos (12,10)
+msgid "平気で嘘を吐く"
+msgstr "可以脸不红气不喘地撒谎。"
+
+#. ID 15, Page 1, Line 7, Pos (12,10)
+msgid ""
+"人を食べるのが大好き\n"
+"特に心臓が好きだとさ"
+msgstr ""
+"最喜欢吃人，\n"
+"特别是喜欢吃人的心脏。"
+
+#. ID 15, Page 1, Line 9, Pos (12,10)
+msgid "趣味は拷問"
+msgstr "兴趣是拷问。"
+
+#. ID 15, Page 1, Line 10, Pos (12,10)
+msgid ""
+"存在の99％が悪意でできていて\n"
+"残りの1％はコンクリート"
+msgstr ""
+"她的存在由99％的恶意，\n"
+"以及剩下的1％的混凝土构成。"
+
+#. ID 15, Page 1, Line 12, Pos (12,10)
+msgid ""
+"即死させるのも好きだが\n"
+"じわじわゆっくり嬲り殺すのが最高に好き"
+msgstr ""
+"虽然也很喜欢秒杀对手，\n"
+"但是还是最喜欢一点一点慢慢折磨杀死对方。"
+
+#. ID 15, Page 1, Line 14, Pos (12,10)
+msgid "世界は自分を中心に回るのがあたりまえ"
+msgstr "认为世界理所应得围绕着自己旋转。"
+
+#. ID 15, Page 1, Line 15, Pos (12,10)
+msgid ""
+"尻尾を引っこ抜くと普通の可愛らしい\n"
+"女の子になる"
+msgstr ""
+"如果拔掉她的尾巴，\n"
+"就会变成普通的貌似可爱的女孩子。"
+
+#. ID 16, Page 1, Line 2, Pos (6,10)
+msgid "『モゲコの幼虫』"
+msgstr "『mogeko的幼虫』"
+
+#. ID 16, Page 1, Line 4, Pos (6,10)
+msgid "モゲコが卵から生まれてまもない姿"
+msgstr "是mogeko刚从卵里孵化出来的姿态。"
+
+#. ID 16, Page 1, Line 5, Pos (6,10)
+msgid "このあと蛹になる"
+msgstr "之后会变成蛹。"
+
+#. ID 16, Page 1, Line 6, Pos (6,10)
+msgid ""
+"モゲコは卵を口からオエッと吐いて生み出すが\n"
+"人などに生みつけることもできる"
+msgstr ""
+"mogeko的生育方式是把卵从口中吐出来。\n"
+"当然他们也可以像人那样进行生产。"
+
+#. ID 16, Page 1, Line 8, Pos (6,10)
+msgid "あと別に卵じゃなくも分裂して増えることができる"
+msgstr "除此之外还可以选择不卵生而通过分裂增殖。"
+
+#. ID 16, Page 1, Line 9, Pos (6,10)
+msgid "つまりこいつの存在意義なし"
+msgstr "总之这家伙没啥存在意义。"
+
+#. ID 17, Page 1, Line 2, Pos (8,10)
+msgid "『狂気のモゲコ』"
+msgstr "『疯狂mogeko』"
+
+#. ID 17, Page 1, Line 4, Pos (8,10)
+msgid "狂気に包まれてしまったモゲコ"
+msgstr "被狂气所包围的mogeko。"
+
+#. ID 17, Page 1, Line 5, Pos (8,10)
+msgid "彼らを救い出す手立てはもはやない"
+msgstr "他们已经根本无法拯救了。"
+
+#. ID 17, Page 1, Line 6, Pos (8,10)
+msgid "そう、彼らを救うもの――それは「死」だ"
+msgstr "对了，拯救他们的唯一办法就是――「死」。"
+
+#. ID 18, Page 1, Line 2, Pos (10,10)
+msgid "『モフコ』"
+msgstr "『mofuko』"
+
+#. ID 18, Page 1, Line 4, Pos (10,10)
+msgid "寄生虫につかれたモゲコの成れの果て"
+msgstr "mogeko被寄生虫寄生而变成这样。"
+
+#. ID 18, Page 1, Line 5, Pos (10,10)
+msgid "抱きしめるとやわらかく気持ちいい"
+msgstr "抱着他的时候会觉得非常舒服。"
+
+#. ID 18, Page 1, Line 6, Pos (10,10)
+msgid ""
+"引っ掴んで床に叩きつけたり\n"
+"壁に向かってぶん投げたり"
+msgstr ""
+"把他丢到墙壁上，\n"
+"或者砸到天花板上。"
+
+#. ID 18, Page 1, Line 8, Pos (10,10)
+msgid "蹴ったり殴ったりしてストレス解消しよう"
+msgstr "或者踢他或者打他都是纾解压力的方法。"
+
+#. ID 18, Page 1, Line 9, Pos (10,10)
+msgid "すごい声で泣きます"
+msgstr "但是他会哭的很大声。"
+
+#. ID 19, Page 1, Line 2, Pos (14,10)
+msgid "『モゲコフ・ハスハスキー』"
+msgstr "『mogekofu hshski』"
+
+#. ID 19, Page 1, Line 4, Pos (14,10)
+msgid "自称ロシア在住"
+msgstr "自称住在俄罗斯。"
+
+#. ID 19, Page 1, Line 5, Pos (14,10)
+msgid ""
+"ロシアのモゲコキャッスルからもげ子に\n"
+"拉致られ監禁されていた"
+msgstr ""
+"被moge子从俄罗斯的mogeko城堡\n"
+"绑架过来监禁在这里。"
+
+#. ID 19, Page 1, Line 7, Pos (14,10)
+msgid "強がっているが影でめそめそ泣いている"
+msgstr "平时都在逞强，但在别人看不到的时候总是偷偷的哭。"
+
+#. ID 19, Page 1, Line 8, Pos (14,10)
+msgid ""
+"「ロシア語話せよ」っていうと\n"
+"しばらく無言になったあと\n"
+"「ハラショー」とただ一言いう"
+msgstr ""
+"如果对他说「说一句俄语吧」，\n"
+"他会稍稍沉默一下，\n"
+"然后对你说一句「хорошо」。"
+
+#. ID 19, Page 1, Line 11, Pos (14,10)
+msgid "たぶんこいつ九州あたりに住んでる"
+msgstr "但大概这家伙根本就住在九州一带。"
+
+#. ID 19, Page 1, Line 12, Pos (14,10)
+#. ID 25, Page 1, Line 5, Pos (16,10)
+msgid "趣味はゆきだるまを作ること"
+msgstr ""
+
+#. ID 20, Page 1, Line 2, Pos (18,10)
+msgid "『モゲコエル』"
+msgstr "『mogekoeru』"
+
+#. ID 20, Page 1, Line 4, Pos (18,10)
+msgid "神の使い"
+msgstr "神的使者"
+
+#. ID 20, Page 1, Line 5, Pos (18,10)
+msgid ""
+"あの矢で打たれると激しい腹痛に見舞われ\n"
+"下痢・嘔吐の症状　更に高熱の症状が出て\n"
+"最後には死に至るので絶対避けましょう"
+msgstr ""
+"被他的箭射中之后会感到肚子痛，\n"
+"并且伴随上吐下泻的症状，除此之外还会发烧。\n"
+"然后死掉，所以请一定要避开他。"
+
+#. ID 21, Page 1, Line 2, Pos (20,10)
+msgid "『ラッパモゲコ』"
+msgstr "『喇叭mogeko』"
+
+#. ID 21, Page 1, Line 4, Pos (20,10)
+msgid "このモゲコ　一見ラッパを吹いているように見えるが"
+msgstr "虽然看着这个mogeko好像在吹着喇叭一样的东西。"
+
+#. ID 21, Page 1, Line 5, Pos (20,10)
+msgid "これはラッパではなく口の形が変化したもの"
+msgstr "但是那个喇叭其实是他的嘴巴变形的形态。"
+
+#. ID 21, Page 1, Line 6, Pos (20,10)
+msgid "だからラッパを正面から見ると歯がびっしりついてる"
+msgstr "所以如果从喇叭的正面看进去的话可以看得到牙齿。"
+
+#. ID 21, Page 1, Line 7, Pos (20,10)
+msgid ""
+"ラッパを引き剥がすとすごい奇声をあげながら\n"
+"暴れて死ぬ"
+msgstr ""
+"如果把他的喇叭扒出来的话，\n"
+"他会发出奇怪的声音然后暴毙而亡。"
+
+#. ID 22, Page 1, Line 2, Pos (4,10)
+msgid "『生ハムを失い悲しみにくれるモゲコ』"
+msgstr "『失去生火腿而感到无比伤心的mogeko』"
+
+#. ID 22, Page 1, Line 4, Pos (4,10)
+msgid ""
+"「私の悲しみが消え去ることは\n"
+"　永遠にないだろう"
+msgstr ""
+"「（只会讲火星文）\n"
+"  珴dě這緟鎄傷槩詠杬\n"
+"　乜呒琺綃逝旳ロ巴"
+
+#. ID 22, Page 1, Line 6, Pos (4,10)
+#, fuzzy
+msgid "　この胸にぽっかりと開いた虚無の穴"
+msgstr ""
+"　阿錒銪誰螚淶捄捄皒嗎……」\n"
+"\n"
+"　BY夨魼鉎钬骽爾蕜饬慾蕝菂mΟＧekο"
+
+#. ID 22, Page 1, Line 7, Pos (4,10)
+msgid "　氷のように冷たくなった心"
+msgstr "　恠щǒ胷囗裂幵dě這虛蕪白勺倥洞裏"
+
+#. ID 22, Page 1, Line 8, Pos (4,10)
+msgid "　明けない夜が私を包み込む"
+msgstr "　遍嘚侞寒栤ㄚi褩栤冷啲惢"
+
+#. ID 22, Page 1, Line 9, Pos (4,10)
+msgid ""
+"　ああ、誰か私を助けてください･･･」\n"
+"\n"
+"　BY生ハムを失い悲しみにくれるモゲコ"
+msgstr "　詠杬嘸鍅日月喨d 潶亱齙裹嗻ωō"
+
+#. ID 23, Page 1, Line 2, Pos (4,12)
+msgid "『ゾンビモゲコ』"
+msgstr "『僵尸mogeko』"
+
+#. ID 23, Page 1, Line 4, Pos (4,12)
+msgid "死に切れなかった哀れなモゲコ"
+msgstr "其实是没有死透很可怜的mogeko。"
+
+#. ID 23, Page 1, Line 5, Pos (4,12)
+msgid ""
+"喋れないふりをしているが\n"
+"実はとても流暢に話す"
+msgstr ""
+"虽然老是一副无法说话的样子，\n"
+"实际上说话倍儿溜儿倍儿溜儿的。"
+
+#. ID 23, Page 1, Line 7, Pos (4,12)
+msgid "趣味はガーデニング"
+msgstr "兴趣是园艺。"
+
+#. ID 24, Page 1, Line 2, Pos (2,12)
+msgid "『シロモフモゲコ虫』"
+msgstr "『白色mofu mogeko虫』"
+
+#. ID 24, Page 1, Line 4, Pos (2,12)
+msgid "モフコの原因となる寄生虫"
+msgstr "会让mogeko变成mofuko的寄生虫，"
+
+#. ID 24, Page 1, Line 5, Pos (2,12)
+msgid ""
+"体内に侵入すると体中に\n"
+"触手を伸ばす"
+msgstr ""
+"侵入人体之后，\n"
+"会在人的体内伸出触手，"
+
+#. ID 24, Page 1, Line 7, Pos (2,12)
+msgid "拡大するとものすごくグロい姿をしている"
+msgstr "扩大之后的样子会变得相当猎奇。"
+
+#. ID 25, Page 1, Line 2, Pos (16,10)
+msgid "『ハスハスキー』"
+msgstr "『hshski』"
+
+#. ID 25, Page 1, Line 4, Pos (16,10)
+msgid "モゲコフの部下たち"
+msgstr "mogekofu的部下,"
+
+#. ID 25, Page 1, Line 6, Pos (16,10)
+#, fuzzy
+msgid "それ以外一切の情報なし"
+msgstr "兴趣是堆雪人,"
+
+#. ID 26, Page 1, Line 2, Pos (6,12)
+msgid "『処刑モゲコ』"
+msgstr "『处刑mogeko』"
+
+#. ID 26, Page 1, Line 4, Pos (6,12)
+msgid "処刑人ならぬ処刑モゲコ"
+msgstr "不是处刑人而是处刑mogeko。"
+
+#. ID 26, Page 1, Line 5, Pos (6,12)
+msgid "自分を燃やしたくて仕方ないらしい"
+msgstr "总是很斗志昂扬让人很没辙。"
+
+#. ID 27, Page 1, Line 2, Pos (8,12)
+msgid "『死んだモゲコ』"
+msgstr "『死掉了的mogeko』"
+
+#. ID 27, Page 1, Line 4, Pos (8,12)
+msgid "どこにでもいる死んだモゲコ"
+msgstr "随处可见的死掉了的mogeko。"
+
+#. ID 27, Page 1, Line 5, Pos (8,12)
+msgid "きのこ栽培に使える"
+msgstr "可以用来种蘑菇。"
+
+#. ID 27, Page 1, Line 6, Pos (8,12)
+msgid "あとは犬のエサになる"
+msgstr "此外还可以当做狗狗的饲料。"
+
+#. ID 27, Page 1, Line 7, Pos (8,12)
+msgid "便利だね"
+msgstr "相当的便利啊。"
+
+#. ID 28, Page 1, Line 2, Pos (10,12)
+msgid "『黒川 ナタカ』"
+msgstr "『黑川奈多』"
+
+#. ID 28, Page 1, Line 4, Pos (10,12)
+#. ID 29, Page 1, Line 4, Pos (12,12)
+msgid "電車に乗ってた女子高生"
+msgstr "乘坐电车的女高中生，"
+
+#. ID 28, Page 1, Line 5, Pos (10,12)
+msgid "電車が嫌いだけど遊び帰りだったので渋々乗ってた"
+msgstr "虽然很讨厌电车但是因为要回家所以勉为其难坐上车。"
+
+#. ID 28, Page 1, Line 6, Pos (10,12)
+msgid ""
+"電車の中では「消しカスの存在意義」\n"
+"について考えていた"
+msgstr ""
+"在电车之中一直在考虑着\n"
+"关于弱者淘汰的存在意义。"
+
+#. ID 29, Page 1, Line 2, Pos (12,12)
+msgid "『夕嶋 イミカ』"
+msgstr "『夕岛伊美』"
+
+#. ID 29, Page 1, Line 5, Pos (12,12)
+msgid ""
+"電車の中がただならぬ邪気に包まれていたのを\n"
+"いち早く察し"
+msgstr ""
+"早早地就察觉到。\n"
+"电车被邪气所包围了"
+
+#. ID 29, Page 1, Line 7, Pos (12,12)
+msgid ""
+"途中で下車したので\n"
+"モゲコキャッスルに取り込まれるのを回避"
+msgstr ""
+"因为在中途就下了车，\n"
+"所以才没有被带到mogeko城堡。"
+
+#. ID 29, Page 1, Line 9, Pos (12,12)
+msgid "良かったなナタカ"
+msgstr "干得好伊美！"
+
+#. ID 29, Page 1, Line 10, Pos (12,12)
+msgid "･･････"
+msgstr "……"
+
+#. ID 29, Page 1, Line 11, Pos (12,12)
+msgid "じゃあヨナカも助けてやれよ･･･"
+msgstr "那你好歹也去帮帮夕夜嘛…"
+
+#. ID 30, Page 1, Line 2, Pos (14,12)
+msgid "『クロツノ』"
+msgstr "『黑角』"
+
+#. ID 30, Page 1, Line 4, Pos (14,12)
+msgid ""
+"モゲコキャッスルに携帯落としちゃって\n"
+"探しに来てた"
+msgstr ""
+"因为手机掉在了mogeko城堡，\n"
+"所以过来找找看。"
+
+#. ID 30, Page 1, Line 6, Pos (14,12)
+#. ID 32, Page 1, Line 5, Pos (18,12)
+msgid "通りすがりの悪魔"
+msgstr "路过打酱油的恶魔。"
+
+#. ID 30, Page 1, Line 7, Pos (14,12)
+msgid "モゲコキャッスルにはたまに遊びに来るらしい"
+msgstr "好像偶尔也会来mogeko城堡玩。"
+
+#. ID 31, Page 1, Line 2, Pos (16,12)
+msgid "『メット』"
+msgstr "『metto』"
+
+#. ID 31, Page 1, Line 4, Pos (16,12)
+#. ID 32, Page 1, Line 4, Pos (18,12)
+msgid "クロツノを探しにモゲコキャッスルに来てた"
+msgstr "为了找黑角而来到mogeko城堡，"
+
+#. ID 31, Page 1, Line 5, Pos (16,12)
+msgid "通りすがりの幽霊"
+msgstr "路过打酱油的幽灵。"
+
+#. ID 31, Page 1, Line 6, Pos (16,12)
+msgid "色々やってる"
+msgstr "好像在做着各种各样的事。"
+
+#. ID 32, Page 1, Line 2, Pos (18,12)
+msgid "『はんてん』"
+msgstr "『斑点』"
+
+#. ID 32, Page 1, Line 6, Pos (18,12)
+msgid "早く家帰って肉食いてえなあって思っている"
+msgstr "就想着早点儿回家吃肉。"
+
+#. ID 33, Page 1, Line 2, Pos (20,12)
+msgid "『倉井 シンヤ』"
+msgstr "『仓井真夜』"
+
+#. ID 33, Page 1, Line 4, Pos (20,12)
+msgid "ヨナカの兄"
+msgstr "夕夜的哥哥，"
+
+#. ID 33, Page 1, Line 5, Pos (20,12)
+msgid "あることがキッカケでぶっ壊れちゃった"
+msgstr "以某件事情为契机而坏掉了，"
+
+#. ID 33, Page 1, Line 6, Pos (20,12)
+msgid "どっか行ってたけど帰ってきた"
+msgstr "虽然之前去了某处但是最近回来了，"
+
+#. ID 33, Page 1, Line 7, Pos (20,12)
+msgid "人を殺すのをなんとも思わない"
+msgstr "对于杀人的事情没有想太多，"
+
+#. ID 33, Page 1, Line 8, Pos (20,12)
+msgid "ヨナカさえいれば世界はどうでもいいらしい"
+msgstr "只要有夕夜在身边其他什么都无所谓。"
+
+#. ID 34, Page 1, Line 1, Pos (21,7)
+#. ID 70, Page 1, Line 1, Pos (22,7)
+#. ID 71, Page 1, Line 1, Pos (23,7)
+#. ID 72, Page 1, Line 1, Pos (24,7)
+msgid "まだ本がないや。"
+msgstr ""
+
+#. ID 34, Page 2, Line 2, Pos (21,7)
+msgid "『うすい本』"
+msgstr "『薄薄的书』"
+
+#. ID 34, Page 2, Line 4, Pos (21,7)
+msgid "「あぁっ･･･そこは･･･！」"
+msgstr "「啊、哈啊……那里……！」"
+
+#. ID 34, Page 2, Line 6, Pos (21,7)
+msgid "「なんだ？どうしたいんだ？」"
+msgstr "「嗯？你想要什么？」"
+
+#. ID 34, Page 2, Line 8, Pos (21,7)
+msgid "「そこ･･･だめ･･･！」"
+msgstr "「那里……不要……！」"
+
+#. ID 34, Page 2, Line 10, Pos (21,7)
+msgid "「だめ･･･？気持ちいいの間違いだろ･･･？」"
+msgstr "「不要……？明明就很舒服不是吗……？」"
+
+#. ID 34, Page 2, Line 12, Pos (21,7)
+msgid "「あぁっ･･･！」"
+msgstr "「啊啊……！」"
+
+#. ID 34, Page 2, Line 15, Pos (21,7)
+#. ID 70, Page 2, Line 22, Pos (22,7)
+#. ID 71, Page 2, Line 7, Pos (23,7)
+msgid "ヨナカは本を閉じて本棚に叩きつけた。"
+msgstr "夕夜把书狠狠地塞回去了。"
+
+#. ID 35, Page 1, Line 3, Pos (2,6)
+#. ID 46, Page 1, Line 3, Pos (3,6)
+msgid ""
+"\n"
+"\n"
+"『月夜のモゲコキャッスル』"
+msgstr ""
+"\n"
+"\n"
+"『月夜里的mogeko城堡』"
+
+#. ID 36, Page 1, Line 1, Pos (6,6)
+#. ID 37, Page 1, Line 1, Pos (10,6)
+#. ID 38, Page 1, Line 1, Pos (14,6)
+#. ID 39, Page 1, Line 1, Pos (18,6)
+#. ID 47, Page 1, Line 1, Pos (7,6)
+#. ID 61, Page 1, Line 1, Pos (11,6)
+#. ID 62, Page 1, Line 1, Pos (15,6)
+#. ID 69, Page 1, Line 1, Pos (19,6)
+msgid "まだなにもない。"
+msgstr "还什么都没有。"
+
+#. ID 36, Page 2, Line 3, Pos (6,6)
+#. ID 47, Page 2, Line 3, Pos (7,6)
+msgid ""
+"\n"
+"\n"
+"『生ハムの妖精と花園』"
+msgstr ""
+"\n"
+"\n"
+"『生火腿的妖精与花园』"
+
+#. ID 37, Page 2, Line 3, Pos (10,6)
+#. ID 61, Page 2, Line 3, Pos (11,6)
+msgid ""
+"\n"
+"\n"
+"『ロシアより凍った生ハムをこめて』"
+msgstr ""
+"\n"
+"\n"
+"『在俄罗斯做冰冻生火腿』"
+
+#. ID 38, Page 2, Line 3, Pos (14,6)
+#. ID 62, Page 2, Line 3, Pos (15,6)
+msgid ""
+"\n"
+"\n"
+"『モゲコキャッスルの怪物』"
+msgstr ""
+"\n"
+"\n"
+"『mogeko城堡里的怪物』"
+
+#. ID 39, Page 2, Line 3, Pos (18,6)
+#. ID 69, Page 2, Line 3, Pos (19,6)
+msgid ""
+"\n"
+"\n"
+"『対決！モゲコとモゲコの闘い』"
+msgstr ""
+"\n"
+"\n"
+"『对决！mogeko与mogeko之间的战争』"
+
+#. ID 48, Page 1, Line 2, Pos (27,8)
+msgid ""
+"受付\n"
+"「はい！\n"
+"　こちら博物館の受付になります！」"
+msgstr ""
+"前台\n"
+"「你好！\n"
+"　这里是博物馆的前台！」"
+
+#. ID 48, Page 1, Line 5, Pos (27,8)
+msgid ""
+"受付\n"
+"「何について説明しますか？」"
+msgstr ""
+"前台\n"
+"「你想听关于什么的说明？」"
+
+#. ID 48, Page 1, Line 8, Pos (27,8)
+#. Choice (4 options)
+msgid ""
+"ここはなに？\n"
+"展示物に空きがある\n"
+"貴様を見ていると殴りたくなるな\n"
+"特にいい"
+msgstr ""
+"这里是？\n"
+"有的展示物空着\n"
+"看到你这家伙我就想揍你\n"
+"没什么特别想知道的"
+
+#. ID 48, Page 1, Line 11, Pos (27,8)
+msgid ""
+"受付\n"
+"「ここは博物館でーす！」"
+msgstr ""
+"前台\n"
+"「这里是博物馆！」"
+
+#. ID 48, Page 1, Line 13, Pos (27,8)
+msgid ""
+"受付\n"
+"「物語をすすめていくと\n"
+"　展示物が増えていくよ！」"
+msgstr ""
+"前台\n"
+"「随着故事的进行，\n"
+"　展示物也会一点一点的增多！」"
+
+#. ID 48, Page 1, Line 16, Pos (27,8)
+msgid ""
+"受付\n"
+"「展示物を調べるとそれについての\n"
+"　説明が見れちゃいます！」"
+msgstr ""
+"前台\n"
+"「调查展示物的话，\n"
+"　就会看见关于他的说明！」"
+
+#. ID 48, Page 1, Line 19, Pos (27,8)
+msgid ""
+"受付\n"
+"「そこにある本棚では、冒険の中で\n"
+"　手に入れた本を読めるよ！」"
+msgstr ""
+"前台\n"
+"「在那边的书架上，你可以\n"
+"　读到在游戏中得到的书！」"
+
+#. ID 48, Page 1, Line 22, Pos (27,8)
+msgid ""
+"受付\n"
+"「展示物はゲームを普通に\n"
+"　進めて行けば全部揃うけど」"
+msgstr ""
+"前台\n"
+"「展示物的话随着游戏的进行\n"
+"　很普通就可以收集齐全了」"
+
+#. ID 48, Page 1, Line 25, Pos (27,8)
+msgid ""
+"受付\n"
+"「もしかしたら一部\n"
+"　見落としちゃうかも･･･？」"
+msgstr ""
+"前台\n"
+"「不过如果漏看了一部分的话\n"
+"　也许有些展示物就……？」"
+
+#. ID 48, Page 1, Line 28, Pos (27,8)
+msgid ""
+"受付\n"
+"「そうならないようによくあたりを\n"
+"　調べて進めてみて下さい！」"
+msgstr ""
+"前台\n"
+"「如果不希望那样的话，\n"
+"　就请在前进的过程中仔细的调查吧！」"
+
+#. ID 48, Page 1, Line 34, Pos (27,8)
+msgid ""
+"受付\n"
+"「まだストーリーの展開的にその展示物が\n"
+"　置かれるべき時ではないのです」"
+msgstr ""
+"前台\n"
+"「因为根据现阶段故事的进度，\n"
+"　应该出现在那里的展示物还没有出现啦」"
+
+#. ID 48, Page 1, Line 37, Pos (27,8)
+msgid ""
+"受付\n"
+"「ゲームを進めてゆけば見れるようになる\n"
+"　ので少々お待ち下さい！」"
+msgstr ""
+"前台\n"
+"「随着游戏的进行慢慢的就可以看到啦，\n"
+"　请再稍微等等吧！」"
+
+#. ID 48, Page 1, Line 43, Pos (27,8)
+msgid ""
+"受付\n"
+"「えっ」"
+msgstr ""
+"前台\n"
+"「诶嘿」"
+
+#. ID 48, Page 2, Line 2, Pos (27,8)
+msgid ""
+"受付モゲコ\n"
+"「････････････････。」"
+msgstr ""
+"前台mogeko\n"
+"「……。」"
+
+#. ID 70, Page 2, Line 2, Pos (22,7)
+msgid "『怖い本』"
+msgstr "『恐怖的书』"
+
+#. ID 70, Page 2, Line 4, Pos (22,7)
+msgid "『楽しい拷問の仕方！』"
+msgstr "『愉悦的拷问方式！』"
+
+#. ID 70, Page 2, Line 6, Pos (22,7)
+msgid "「はぁーい！みんな元気かな？」"
+msgstr "「嗨！各位都还好吗？」"
+
+#. ID 70, Page 2, Line 8, Pos (22,7)
+msgid ""
+"「この本は楽しい拷問の仕方について\n"
+"　説明しちゃうゾ☆」"
+msgstr ""
+"「这是一本关于如果愉悦地来拷问别人\n"
+"　而做相关说明的书☆」"
+
+#. ID 70, Page 2, Line 11, Pos (22,7)
+msgid "「はい！まずは拷問する人を連れてきましょう」"
+msgstr "「好的！首先把要拷问的人抓过来」"
+
+#. ID 70, Page 2, Line 13, Pos (22,7)
+msgid ""
+"「おい暴れんじゃねえよ！\n"
+"　じっとしてろカスが！」"
+msgstr ""
+"「喂你别闹了啦！\n"
+"　给我老实点儿！」"
+
+#. ID 70, Page 2, Line 16, Pos (22,7)
+msgid ""
+"「えー･･･動かれるとやりずらいので\n"
+"　拘束するか手足をつぶしちゃいましょう！」"
+msgstr ""
+"「诶…因为他乱动的话就会有点儿难办啦\n"
+"　姑且把他铐起来或者直接打断手脚吧！」"
+
+#. ID 70, Page 2, Line 19, Pos (22,7)
+msgid "「さて、下準備が整ったところで･･･」"
+msgstr "「接下来，准备工作就完成啦…」"
+
+#. ID 71, Page 2, Line 2, Pos (23,7)
+msgid "『絵本』"
+msgstr "『故事书』"
+
+#. ID 71, Page 2, Line 3, Pos (23,7)
+msgid ""
+"「おもしろおかしく、悲しい、エログロ。\n"
+"　そんな物語」"
+msgstr ""
+"「这是一个有趣又奇怪、有点儿悲伤、\n"
+"　又有点儿色色的、猎奇的故事。」"
+
+#. ID 72, Page 2, Line 2, Pos (24,7)
+msgid "『鶏肉料理本』"
+msgstr "『鸡肉料理书』"
+
+#. ID 72, Page 2, Line 3, Pos (24,7)
+msgid "鶏肉の調理方法が書いてある！"
+msgstr "书上记载这鸡肉的料理方法！"
+
+#. ID 72, Page 2, Line 4, Pos (24,7)
+msgid ""
+"しかし鶏の解体方法も書いてあったので\n"
+"（フルカラー写真つき）\n"
+"ヨナカは本をそっと閉じた。"
+msgstr ""
+"但是鸡的分解方法也记载了，\n"
+"（其中还有详尽的图片说明）\n"
+"夕夜飞快的把书关起来了。"
+
+#. ID 81, Page 1, Line 2, Pos (22,8)
+msgid ""
+"永遠に苦しむモゲコ\n"
+"「痛い･･･痛い･･･。」"
+msgstr ""
+"永远痛苦的mogeko\n"
+"「好痛……好痛……。」"
+
+#. ID 82, Page 1, Line 2, Pos (24,11)
+msgid ""
+"永遠に苦しむモゲコ\n"
+"「斧で･･･殺して」"
+msgstr ""
+"永远痛苦的mogeko\n"
+"「用斧头……杀了我吧」"
+
+#. ID 83, Page 1, Line 2, Pos (25,9)
+msgid ""
+"永遠に苦しむモゲコ\n"
+"「もう殺して･･････････。」"
+msgstr ""
+"永远痛苦的mogeko\n"
+"「杀掉吧……。」"
+
+#. ID 84, Page 1, Line 2, Pos (27,12)
+msgid ""
+"永遠に苦しむモゲコ\n"
+"「あ゛･･･あ゛お゛お゛････。」"
+msgstr ""
+"永远痛苦的mogeko\n"
+"「嘎啊……嘎咕咕……。」"
+
+#. ID 85, Page 1, Line 2, Pos (22,12)
+msgid ""
+"永遠に苦しむモゲコ\n"
+"「あぁおあぁおああぁぁぁぁああああああ\n"
+"　ああああああああああああああああああ\n"
+"　あああああああああああああああああ」"
+msgstr ""
+"永远痛苦的mogeko\n"
+"「啊啊哦啊啊哦啊啊啊啊啊啊啊啊啊啊啊啊\n"
+"　啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊\n"
+"　啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊」"
+

@@ -1,0 +1,342 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 30, Page 1, Line 3, Pos (0,0)
+msgid ""
+"？？？\n"
+"「コッケーッコッコッコ････。」"
+msgstr ""
+"？？？\n"
+"「咯咯哒——咯咯咯……。」"
+
+#. ID 30, Page 1, Line 5, Pos (0,0)
+msgid ""
+"？？？\n"
+"「お？」"
+msgstr ""
+"？？？\n"
+"「哦？」"
+
+#. ID 30, Page 1, Line 8, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「久しぶりだな」"
+msgstr ""
+"异端mogeko\n"
+"「真是好久不见了啊」"
+
+#. ID 30, Page 1, Line 11, Pos (0,0)
+msgid ""
+"？？？\n"
+"「おお！？」"
+msgstr ""
+"？？？\n"
+"「哦哦！？」"
+
+#. ID 30, Page 1, Line 14, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「モゲコッコ。\n"
+"　死んだかと思ったぜ」"
+msgstr ""
+"异端mogeko\n"
+"「mogekokko。\n"
+"　我还以为你死掉了呢」"
+
+#. ID 30, Page 1, Line 20, Pos (0,0)
+msgid ""
+"モゲコッコ\n"
+"「おおー！こちらこそだよ！」"
+msgstr ""
+"mogekokko\n"
+"「哦哦——！我也以为你死了呢！」"
+
+#. ID 30, Page 1, Line 24, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「なんで図書館に鶏？！」"
+msgstr ""
+"夕夜\n"
+"「为什么在图书馆里有鸡？！」"
+
+#. ID 30, Page 1, Line 28, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「特に意味はないらしい」"
+msgstr ""
+"异端mogeko\n"
+"「其实也没有特殊的意义啦」"
+
+#. ID 30, Page 1, Line 31, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「えーーー！？」"
+msgstr ""
+"夕夜\n"
+"「诶——！？」"
+
+#. ID 30, Page 1, Line 37, Pos (0,0)
+msgid ""
+"モゲコッコ\n"
+"「あのアホもげこ王が急に図書館を\n"
+"　ぶち壊すとか言うからネー」"
+msgstr ""
+"mogekokko\n"
+"「那个笨蛋mogeko王突然说什么\n"
+"　要把图书馆给破坏掉什么的」"
+
+#. ID 30, Page 1, Line 40, Pos (0,0)
+msgid ""
+"モゲコッコ\n"
+"「慌ててこっこに移転したってワケ。\n"
+"　コッコ」"
+msgstr ""
+"mogekokko\n"
+"「所以我就急急忙忙把\n"
+"  图书馆转移到这里来啦。咯咯」"
+
+#. ID 30, Page 1, Line 44, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「ヤツは一体何をするつもりなんだ？」"
+msgstr ""
+"异端mogeko\n"
+"「那家伙到底想做什么啊？」"
+
+#. ID 30, Page 1, Line 47, Pos (0,0)
+msgid ""
+"モゲコッコ\n"
+"「さあーねえー。そこの女子高生ちゃん\n"
+"　手篭めにしたいんじゃないの？」"
+msgstr ""
+"mogekokko\n"
+"「谁知道呢。那里的高中生小姑娘，\n"
+"　你就是那些家伙想要得到的人？」"
+
+#. ID 30, Page 1, Line 51, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（ゾッ）」"
+msgstr ""
+"夕夜\n"
+"「（啧）」"
+
+#. ID 30, Page 1, Line 54, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「あいつの思い通りになんか\n"
+"　させるかよ･･･」"
+msgstr ""
+"异端mogeko\n"
+"「我才不会让那些家伙\n"
+"　称心如意的呢……」"
+
+#. ID 30, Page 1, Line 58, Pos (0,0)
+msgid ""
+"モゲコッコ\n"
+"「しかし、\\.\\.ああ、\\.\\.昔を思い出すなあ･･･」"
+msgstr ""
+"mogekokko\n"
+"「但是，\\.\\.啊啊，\\.\\.我还真是怀念我们的过去啊……」"
+
+#. ID 30, Page 1, Line 60, Pos (0,0)
+msgid ""
+"モゲコッコ\n"
+"「昔のモゲコキャッスルはこんなんじゃ\n"
+"　なかったから、みんなで遊んだなぁ･･･」"
+msgstr ""
+"mogekokko\n"
+"「过去的Mogeko Castle可不是现在\n"
+"  这个破样子，大家都在一起玩很开心的…」"
+
+#. ID 30, Page 2, Line 4, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「なんか血の精霊さんキャラおかしく\n"
+"　ないですか？」"
+msgstr ""
+"夕夜\n"
+"「为什么总觉得血之精灵的性格\n"
+"　有点儿奇怪啊？」"
+
+#. ID 30, Page 2, Line 8, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「ああ、あいつあの時女の子が目の前に\n"
+"　いたから照れてたんだよ･･･」"
+msgstr ""
+"异端mogeko\n"
+"「啊啊，那家伙之前是因为你在啦，\n"
+"　在女孩子面前他容易害羞……」"
+
+#. ID 30, Page 2, Line 12, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「えっじゃあ元はこんな陽気な方\n"
+"　だったんですか･･･」"
+msgstr ""
+"夕夜\n"
+"「诶，那么原本的血之精灵\n"
+"　其实个性很活泼的吗……」"
+
+#. ID 30, Page 2, Line 16, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「そしてだ、モゲコッコ。\\.\\.\n"
+"　俺らがここに来たのは･･･」"
+msgstr ""
+"异端mogeko\n"
+"「说起来啊，mogekokko。\\.\\.\n"
+"　我们来这里是为了……」"
+
+#. ID 30, Page 2, Line 20, Pos (0,0)
+msgid ""
+"モゲコッコ\n"
+"「わかってるヨー\n"
+"　７階に近道したいんでしょ？」"
+msgstr ""
+"mogekokko\n"
+"「我知道的啦，\n"
+"　你们想走近路去7楼对不对？」"
+
+#. ID 30, Page 2, Line 23, Pos (0,0)
+msgid ""
+"モゲコッコ\n"
+"「それっ！」"
+msgstr ""
+"mogekokko\n"
+"「看这个！」"
+
+#. ID 30, Page 2, Line 33, Pos (0,0)
+msgid ""
+"モゲコッコ\n"
+"「さ！ワープの本だよ！コッコッコ」"
+msgstr ""
+"mogekokko\n"
+"「去吧！瞬移之书！咯咯咯」"
+
+#. ID 30, Page 2, Line 36, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「悪いな。」"
+msgstr ""
+"异端mogeko\n"
+"「麻烦你了哪。」"
+
+#. ID 30, Page 2, Line 39, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「嬢ちゃん、これは便利な本でな･･･\n"
+"　これを使えばすぐ７階に行けるぞ」"
+msgstr ""
+"异端mogeko\n"
+"「小姐，这可是一本非常方便的书哦……\n"
+"　有了这个的话我们很快就能到达7楼了」"
+
+#. ID 30, Page 2, Line 44, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･････････本当に大丈夫なんです？」"
+msgstr ""
+"夕夜\n"
+"「…………这个真的靠得住吗？」"
+
+#. ID 30, Page 2, Line 47, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「なんだその疑いの目は」"
+msgstr ""
+"异端mogeko\n"
+"「什么啊你那个怀疑的眼神」"
+
+#. ID 30, Page 2, Line 50, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「だって･･･こういうの\n"
+"　ことごとく失敗してません？」"
+msgstr ""
+"夕夜\n"
+"「因为虽然说是这么说啦……\n"
+"　但是之前不是总是失败吗？」"
+
+#. ID 30, Page 2, Line 54, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「大丈夫だろ、多分」"
+msgstr ""
+"异端mogeko\n"
+"「应该不会出事儿的吧，大概」"
+
+#. ID 30, Page 2, Line 57, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「多分！？」"
+msgstr ""
+"夕夜\n"
+"「大概！？」"
+
+#. ID 30, Page 2, Line 60, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「よし、じゃあ早速使って･･･」"
+msgstr ""
+"异端mogeko\n"
+"「好嘞，那么我们就快点儿……」"
+
+#. ID 30, Page 2, Line 68, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「それっ」"
+msgstr ""
+"异端mogeko\n"
+"「嘿」"
+
+#. ID 30, Page 2, Line 76, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「わわー！\n"
+"　本に引き寄せられるぅー！？」"
+msgstr ""
+"夕夜\n"
+"「哇哇——！\n"
+"　被吸进书里面去了——！？」"
+
+#. ID 30, Page 2, Line 80, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「大丈夫だ、すぐ終わ―――」"
+msgstr ""
+"异端mogeko\n"
+"「没关系的啦，马上就会结——」"
+
+#. ID 30, Page 2, Line 85, Pos (0,0)
+msgid ""
+"？？？\n"
+"「そうはさせん！！！」"
+msgstr ""
+"？？？\n"
+"「不会让你们得逞的！！！」"
+
+#. ID 30, Page 2, Line 89, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「なッ」"
+msgstr ""
+"异端mogeko\n"
+"「啥」"
+
+#. ID 30, Page 2, Line 93, Pos (0,0)
+msgid ""
+"モゲコッコ\n"
+"「危ない！！！」"
+msgstr ""
+"mogekokko\n"
+"「危险！！！」"
+

@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 2, Pos (4,6)
+#. ID 11, Page 1, Line 2, Pos (4,7)
+msgid ""
+"モゲコ\n"
+"「隣で寝る？」"
+msgstr ""
+"mogeko\n"
+"「要睡在旁边吗？」"
+
+#. ID 7, Page 1, Line 1, Pos (7,6)
+#. ID 8, Page 1, Line 1, Pos (6,6)
+#. ID 9, Page 1, Line 1, Pos (6,7)
+#. ID 10, Page 1, Line 1, Pos (7,7)
+msgid "フカフカのベッドだ。"
+msgstr "很舒服的床。"
+
+#. ID 7, Page 1, Line 2, Pos (7,6)
+#. Contains choice at line 2 (2 options)
+#. ID 8, Page 1, Line 2, Pos (6,6)
+#. Contains choice at line 2 (2 options)
+#. ID 9, Page 1, Line 2, Pos (6,7)
+#. Contains choice at line 2 (2 options)
+#. ID 10, Page 1, Line 2, Pos (7,7)
+#. Contains choice at line 2 (2 options)
+msgid "隣で寝ますか？"
+msgstr "要睡在旁边吗？"
+
+#. ID 7, Page 1, Line 3, Pos (7,6)
+#. Choice (2 options, embedded in a message)
+#. ID 8, Page 1, Line 3, Pos (6,6)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 1, Line 3, Pos (6,7)
+#. Choice (2 options, embedded in a message)
+#. ID 10, Page 1, Line 3, Pos (7,7)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 1, Line 9, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 7, Page 1, Line 10, Pos (7,6)
+#. ID 8, Page 1, Line 10, Pos (6,6)
+#. ID 9, Page 1, Line 10, Pos (6,7)
+#. ID 10, Page 1, Line 10, Pos (7,7)
+msgid "モゲコと、甘い夜を過ごした･･･。"
+msgstr "与mogeko渡过了甜美的一晚…。"
+
+#. ID 7, Page 1, Line 15, Pos (7,6)
+#. ChangeHeroTitle (Actor 1)
+#. ID 8, Page 1, Line 15, Pos (6,6)
+#. ChangeHeroTitle (Actor 1)
+#. ID 9, Page 1, Line 15, Pos (6,7)
+#. ChangeHeroTitle (Actor 1)
+#. ID 10, Page 1, Line 15, Pos (7,7)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "女"
+msgstr "彈"
+
+#. ID 12, Page 1, Line 2, Pos (12,5)
+msgid ""
+"モゲコ\n"
+"「生ハムおいちい！\n"
+"　ナマハム=ナムサン！」"
+msgstr ""
+"mogeko\n"
+"「生火腿好吃！\n"
+"　生火腿=菩萨！」"
+
+#. ID 12, Page 1, Line 7, Pos (12,5)
+#. Contains choice at line 2 (2 options)
+msgid "生ハムをとりあげますか？"
+msgstr "要夺走它的生火腿吗？"
+
+#. ID 12, Page 1, Line 14, Pos (12,5)
+msgid ""
+"モゲコ\n"
+"「なにするのおおおおおお！？\n"
+"　かえしてええええええええええ！！！」"
+msgstr ""
+"mogeko\n"
+"「你干嘛啊！！！！！！！！！！？\n"
+"　还给我啊！！！！！！！！！！！」"
+
+#. ID 12, Page 2, Line 2, Pos (12,5)
+msgid ""
+"生ハムを失って悲しみに暮れるモゲコ\n"
+"「えーん！\n"
+"　えーーーーん！」"
+msgstr ""
+"失去生火腿而感到无比伤心的mogeko\n"
+"「呜——！\n"
+"　呜————————呜！」"
+

@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 3, Pos (0,0)
+msgid ""
+"？？？\n"
+"「なあ、\\.\\.見たか？」"
+msgstr ""
+"？？？\n"
+"「呐，\\.\\.看到了吗？」"
+
+#. ID 1, Page 1, Line 5, Pos (0,0)
+msgid ""
+"？？？\n"
+"「はい、\\.\\.見ました！」"
+msgstr ""
+"？？？\n"
+"「是的，\\.\\.看到了！」"
+
+#. ID 1, Page 1, Line 7, Pos (0,0)
+msgid ""
+"？？？\n"
+"「なーんでこんなにモゲコの幼虫がいるの\n"
+"　かと思ったら･･･」"
+msgstr ""
+"？？？\n"
+"「为什么这里会有这么多mogeko幼虫呢……」"
+
+#. ID 1, Page 1, Line 10, Pos (0,0)
+#, fuzzy
+msgid ""
+"？？？\n"
+"「ああ、怖い怖い。」"
+msgstr ""
+"？？？\n"
+"「啊啊，好可怕好可怕。」"
+
+#. ID 1, Page 1, Line 12, Pos (0,0)
+#, fuzzy
+msgid ""
+"？？？\n"
+"「怖いッスねぇ～！」"
+msgstr ""
+"？？？\n"
+"「怕死了啊～！」"
+
+#. ID 1, Page 1, Line 14, Pos (0,0)
+#, fuzzy
+msgid ""
+"？？？\n"
+"「ヒッヒッヒ････。」"
+msgstr ""
+"？？？\n"
+"「嘿嘿嘿……。」"
+

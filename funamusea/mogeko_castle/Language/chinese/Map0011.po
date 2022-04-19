@@ -1,0 +1,163 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (5,8)
+#. Contains choice at line 3 (2 options)
+#. ID 9, Page 1, Line 1, Pos (6,8)
+#. Contains choice at line 3 (2 options)
+#. ID 10, Page 1, Line 1, Pos (7,8)
+#. Contains choice at line 3 (2 options)
+#. ID 11, Page 1, Line 1, Pos (4,8)
+#. Contains choice at line 3 (2 options)
+#. ID 12, Page 1, Line 1, Pos (3,8)
+#. Contains choice at line 3 (2 options)
+#. ID 13, Page 1, Line 1, Pos (9,8)
+#. Contains choice at line 3 (2 options)
+#. ID 14, Page 1, Line 1, Pos (10,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"降りる駅まで時間がかかりそう･･･\n"
+"座って寝てますか？"
+msgstr ""
+"距离目的地还需要一点时间…\n"
+"要坐下睡会吗？"
+
+#. ID 1, Page 1, Line 3, Pos (5,8)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 1, Line 3, Pos (6,8)
+#. Choice (2 options, embedded in a message)
+#. ID 10, Page 1, Line 3, Pos (7,8)
+#. Choice (2 options, embedded in a message)
+#. ID 11, Page 1, Line 3, Pos (4,8)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 1, Line 3, Pos (3,8)
+#. Choice (2 options, embedded in a message)
+#. ID 13, Page 1, Line 3, Pos (9,8)
+#. Choice (2 options, embedded in a message)
+#. ID 14, Page 1, Line 3, Pos (10,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"不好\n"
+"好的"
+
+#. ID 2, Page 1, Line 2, Pos (16,8)
+#. ID 3, Page 1, Line 2, Pos (17,8)
+msgid ""
+"目が死んでる女の子\n"
+"「電車･･･嫌いだわ」"
+msgstr ""
+"死鱼眼的女生\n"
+"「讨厌…坐电车啊」"
+
+#. ID 2, Page 1, Line 5, Pos (16,8)
+#. ID 3, Page 1, Line 5, Pos (17,8)
+msgid ""
+"髪が派手な女の子\n"
+"「あんたバスも嫌いじゃん」"
+msgstr ""
+"发型新潮的女生\n"
+"「你不是也讨厌坐公车吗」"
+
+#. ID 2, Page 1, Line 8, Pos (16,8)
+#. ID 3, Page 1, Line 8, Pos (17,8)
+msgid ""
+"目が死んでる女の子\n"
+"「バス？あれは最悪だね。\n"
+"　息苦しくてしょうがない」"
+msgstr ""
+"死鱼眼的女生\n"
+"「公车？那才是最糟的。\n"
+"　令人难以呼吸的交通工具」"
+
+#. ID 2, Page 1, Line 12, Pos (16,8)
+#. ID 3, Page 1, Line 12, Pos (17,8)
+msgid ""
+"髪が派手な女の子\n"
+"「じゃあ何ならいいのよ？」"
+msgstr ""
+"发型新潮的女生\n"
+"「那什么才好啊？」"
+
+#. ID 2, Page 1, Line 15, Pos (16,8)
+#. ID 3, Page 1, Line 15, Pos (17,8)
+msgid ""
+"目が死んでる女の子\n"
+"「･･････････チャリ。」"
+msgstr ""
+"死鱼眼的女生\n"
+"「………自行车」"
+
+#. ID 2, Page 1, Line 18, Pos (16,8)
+#. ID 3, Page 1, Line 18, Pos (17,8)
+msgid ""
+"髪が派手な女の子\n"
+"「疲れるじゃん」"
+msgstr ""
+"发型新潮的女生\n"
+"「很累人啊」"
+
+#. ID 2, Page 1, Line 21, Pos (16,8)
+#. ID 3, Page 1, Line 21, Pos (17,8)
+msgid ""
+"目が死んでる女の子\n"
+"「アッ」"
+msgstr ""
+"死鱼眼的女生\n"
+"「啊」"
+
+#. ID 2, Page 2, Line 2, Pos (16,8)
+msgid ""
+"目が死んでる女の子\n"
+"「･････。」"
+msgstr ""
+"死鱼眼的女生\n"
+"「…。」"
+
+#. ID 3, Page 2, Line 2, Pos (17,8)
+msgid ""
+"髪が派手な女の子\n"
+"「･････。」"
+msgstr ""
+"发行新潮的女生\n"
+"「…。」"
+
+#. ID 4, Page 1, Line 2, Pos (11,8)
+msgid ""
+"ヨナカ\n"
+"「（走行中の電車の中を歩き回るのは、\n"
+"　危ない･･･。）」"
+msgstr ""
+"夕夜\n"
+"「（徘徊在运行的电车里\n"
+"　很危险的…。）」"
+
+#. ID 5, Page 1, Line 2, Pos (8,8)
+msgid ""
+"ヨナカ\n"
+"「（もうこんな時間･･･早く帰ろう）」"
+msgstr ""
+"夕夜\n"
+"「（都这么晚了…要快点回去才行）」"
+
+#. ID 6, Page 1, Line 2, Pos (13,8)
+msgid ""
+"ヨナカ\n"
+"「（眠い･･･。）」"
+msgstr ""
+"夕夜\n"
+"「（好困…。）」"
+
+#. ID 8, Page 1, Line 1, Pos (1,8)
+msgid "扉は閉まっている。"
+msgstr "门关上了。"
+

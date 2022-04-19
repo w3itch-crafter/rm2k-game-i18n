@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 14, Page 1, Line 2, Pos (5,4)
+#. ID 15, Page 1, Line 2, Pos (0,8)
+#. ID 22, Page 1, Line 2, Pos (10,7)
+msgid ""
+"モゲコ\n"
+"「」"
+msgstr ""
+"mogeko\n"
+"「」"
+
+#. ID 18, Page 1, Line 7, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「・\\.\\.・\\.\\.・\\.\\.・\\.\\.・\\.\\.・。」"
+msgstr ""
+"夕夜\n"
+"「…\\.\\.…\\.\\.…\\.\\.…\\.\\.…\\.\\.…。」"
+
+#. ID 18, Page 1, Line 10, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「････････ッ！！」"
+msgstr ""
+"异端mogeko\n"
+"「…………啧！！」"
+
+#. ID 18, Page 1, Line 13, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「さあ♪可愛い化け物☆\\.\\.\n"
+"　あいつらを食べちゃいな♪」"
+msgstr ""
+"moge子\n"
+"「那么(音符)我可爱的小怪物哟☆\\.\\.\n"
+"　把他们给我吃掉吧(音符)」"
+
+#. ID 18, Page 1, Line 18, Pos (0,0)
+msgid ""
+"化け物\n"
+"「ｸﾞﾙﾙﾙﾙ･････\\.\\.ﾌｼｭﾙﾙﾙﾙ･････。」"
+msgstr ""
+"怪物\n"
+"「咕噜噜噜噜噜……\\.\\.噗噜噜噜噜……。」"
+
+#. ID 18, Page 1, Line 22, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「けっ！！\\.\\.\n"
+"　そうはいくかよ！！」"
+msgstr ""
+"异端mogeko\n"
+"「啧！！\\.\\.\n"
+"　才不会被你吃掉呢！！」"
+
+#. ID 18, Page 2, Line 6, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「･･･････････。」"
+msgstr ""
+"异端mogeko\n"
+"「…………。」"
+
+#. ID 18, Page 2, Line 9, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「･･････････あ？」"
+msgstr ""
+"异端mogeko\n"
+"「…………诶？」"
+
+#. ID 18, Page 2, Line 12, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･･････････。」"
+msgstr ""
+"夕夜\n"
+"「……。」"
+
+#. ID 18, Page 2, Line 15, Pos (0,0)
+msgid ""
+"化け物\n"
+"「･･････････････。」"
+msgstr ""
+"怪物\n"
+"「………………。」"
+
+#. ID 18, Page 2, Line 18, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「･･･････。」"
+msgstr ""
+"moge子\n"
+"「……。」"
+
+#. ID 18, Page 2, Line 22, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「･･････必殺・もげ子シールド\\.\\.\n"
+"　なんちゃって☆」"
+msgstr ""
+"moge子\n"
+"「……必杀·moge子防护结界\\.\\.\n"
+"　骗你的啦☆」"
+
+#. ID 18, Page 2, Line 28, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「･････････････。」"
+msgstr ""
+"异端mogeko\n"
+"「………………。」"
+
+#. ID 18, Page 2, Line 30, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「嬢ちゃん」"
+msgstr ""
+"异端mogeko\n"
+"「小姐」"
+
+#. ID 18, Page 2, Line 33, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「やっぱ逃げよう」"
+msgstr ""
+"异端mogeko\n"
+"「我们还是逃吧」"
+
+#. ID 18, Page 2, Line 38, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「えぇぇえーーーーっっ！！！！」"
+msgstr ""
+"夕夜\n"
+"「诶诶诶诶——————！！！！」"
+
+#. ID 18, Page 2, Line 40, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「これでイチコロって言ってたじゃ\n"
+"　ないですかーーーーー！！！」"
+msgstr ""
+"夕夜\n"
+"「你不是说有了这个我们就可以\n"
+"  把它一招搞定的嘛————！！！」"
+
+#. ID 18, Page 2, Line 44, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「ごめん。」"
+msgstr ""
+"异端mogeko\n"
+"「抱歉。」"
+
+#. ID 18, Page 2, Line 48, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「ええええーーーーーーっ！？！？」"
+msgstr ""
+"夕夜\n"
+"「诶诶诶诶——————！？！？」"
+
+#. ID 18, Page 2, Line 52, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「詰めが甘いわァ！！！！！！」"
+msgstr ""
+"moge子\n"
+"「啧啧啧最后关头掉链子啊哈哈！！！」"
+
+#. ID 18, Page 2, Line 56, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「ぎゃーーーーー！！！」"
+msgstr ""
+"夕夜\n"
+"「呀————！！！」"
+
+#. ID 18, Page 2, Line 61, Pos (0,0)
+msgid ""
+"化け物\n"
+"「ﾌｼｭﾙﾙﾙﾙﾙﾙﾙﾙﾙ!!!!!!!!」"
+msgstr ""
+"怪物\n"
+"「噗噜噜噜噜噜噜噜噜！！！！！」"
+
+#. ID 18, Page 2, Line 66, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「ぎゃああああああああああ！！！！！」"
+msgstr ""
+"夕夜\n"
+"「呀啊啊啊啊啊啊啊啊啊啊啊！！！！！」"
+
+#. ID 18, Page 2, Line 77, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「いやあああああああああ！！\\.\\.\n"
+"　何処まで逃げればいいんですかぁ！！」"
+msgstr ""
+"夕夜\n"
+"「不要啊啊啊啊啊啊啊啊啊啊！！\\.\\.\n"
+"　到底要逃到哪里去才好啦！！！！！！！」"
+
+#. ID 18, Page 2, Line 81, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「やばいな。\\.\\.割とやばい。」"
+msgstr ""
+"异端mogeko\n"
+"「不太妙啊。\\.\\.啊这真是不太妙啊。」"
+
+#. ID 18, Page 2, Line 84, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「そんなあああああ！！！」"
+msgstr ""
+"夕夜\n"
+"「怎么这样啦！！！！！」"
+
+#. ID 18, Page 2, Line 88, Pos (0,0)
+msgid ""
+"化け物\n"
+"「ﾌｼｭﾙﾙﾙﾙﾝ!!!!!!!!」"
+msgstr ""
+"怪物\n"
+"「呜噜噜噜噜噜噗噜！！！！」"
+
+#. ID 18, Page 2, Line 91, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「いやあああ誰か助けてーー！！！」"
+msgstr ""
+"夕夜\n"
+"「不要啊啊啊啊谁来救救我——！！！」"
+
+#. ID 18, Page 2, Line 95, Pos (0,0)
+msgid ""
+"？？？\n"
+"「こっちだ！！！！」"
+msgstr ""
+"？？？\n"
+"「到这里来！！！！」"
+
+#. ID 18, Page 2, Line 98, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「えっ？？？」"
+msgstr ""
+"夕夜\n"
+"「诶？？？」"
+
+#. ID 18, Page 2, Line 101, Pos (0,0)
+msgid ""
+"？？？\n"
+"「早く！！！！」"
+msgstr ""
+"？？？\n"
+"「快点过来！！！！」"
+

@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (12,9)
+msgid ""
+"モゲコ\n"
+"「世の中ってのは理不尽でよ」"
+msgstr ""
+"mogeko\n"
+"「在这世上存在着很多的不公」"
+
+#. ID 1, Page 1, Line 4, Pos (12,9)
+msgid ""
+"モゲコ\n"
+"「俺の大事なモン\n"
+"　みんな奪っていっちまう」"
+msgstr ""
+"mogeko\n"
+"「别人总是\n"
+"　把我最重要的东西夺走」"
+
+#. ID 1, Page 1, Line 7, Pos (12,9)
+msgid ""
+"モゲコ\n"
+"「誰を憎めばいいのかすらわからない」"
+msgstr ""
+"mogeko\n"
+"「我不知要去憎恨谁才好」"
+
+#. ID 1, Page 1, Line 9, Pos (12,9)
+msgid ""
+"モゲコ\n"
+"「俺はどうすればいい？」"
+msgstr ""
+"mogeko\n"
+"「我应该如何做才好？」"
+
+#. ID 1, Page 1, Line 11, Pos (12,9)
+msgid ""
+"モゲコ\n"
+"「俺は･･･俺は･･･。」"
+msgstr ""
+"mogeko\n"
+"「我……我……。」"
+
+#. ID 3, Page 1, Line 1, Pos (15,9)
+msgid "十字架だ。"
+msgstr "十字架。"
+

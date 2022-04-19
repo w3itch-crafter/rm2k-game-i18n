@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 3, Pos (1,37)
+msgid ""
+"ヨナカ\n"
+"「そういえばひとつ聞いても\n"
+"　いいですか？」"
+msgstr ""
+"夕夜\n"
+"「说起来，可以问一个\n"
+"　问题吗？」"
+
+#. ID 5, Page 1, Line 7, Pos (1,37)
+msgid ""
+"異端モゲコ\n"
+"「なんだ」"
+msgstr ""
+"异端mogeko\n"
+"「什么」"
+
+#. ID 5, Page 1, Line 10, Pos (1,37)
+msgid ""
+"ヨナカ\n"
+"「この城空間無視してますよね？」"
+msgstr ""
+"夕夜\n"
+"「这个城内是无视空间的对吧？」"
+
+#. ID 5, Page 1, Line 13, Pos (1,37)
+msgid ""
+"異端モゲコ\n"
+"「･･･････。」"
+msgstr ""
+"异端mogeko\n"
+"「……。」"
+
+#. ID 5, Page 1, Line 15, Pos (1,37)
+msgid ""
+"異端モゲコ\n"
+"「････････そうだな」"
+msgstr ""
+"异端mogeko\n"
+"「……是的」"
+
+#. ID 5, Page 1, Line 18, Pos (1,37)
+msgid ""
+"ヨナカ\n"
+"「すごく今更ですけど、どういう作りに\n"
+"　なってるんですか？これ。」"
+msgstr ""
+"夕夜\n"
+"「虽然现在才问，但我还是\n"
+"　很在意这个是怎么做到的？」"
+
+#. ID 5, Page 1, Line 22, Pos (1,37)
+msgid ""
+"異端モゲコ\n"
+"「･･･････知らん」"
+msgstr ""
+"异端mogeko\n"
+"「……不知道」"
+
+#. ID 11, Page 1, Line 2, Pos (11,2)
+msgid ""
+"異端モゲコ\n"
+"「特に怪しい気配は感じないな･･･」"
+msgstr ""
+"异端mogeko\n"
+"「没有什么奇怪的动静……」"
+
+#. ID 12, Page 1, Line 2, Pos (2,28)
+#. ID 13, Page 1, Line 2, Pos (16,24)
+#. ID 14, Page 1, Line 2, Pos (8,18)
+msgid ""
+"モゲコ\n"
+"「」"
+msgstr ""
+"mogeko\n"
+"「」"
+

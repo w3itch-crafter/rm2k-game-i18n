@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「あ、あれぇ～～？」"
+msgstr ""
+"moge子\n"
+"「啊，啊咧～～？」"
+
+#. ID 1, Page 1, Line 5, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「おい待てよ！！！！！！待って！\n"
+"　待ってちょ～う～だいっ♪」"
+msgstr ""
+"moge子\n"
+"「喂！等等！！！！！等一下啊！\n"
+"　给我等一下啊(音符)」"
+
+#. ID 1, Page 1, Line 9, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「ねぇねぇ♪\n"
+"　どうして逃げるのー？」"
+msgstr ""
+"moge子\n"
+"「喂喂(音符)\n"
+"　为什么要逃跑呢？」"
+
+#. ID 1, Page 1, Line 12, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「やだやだー\n"
+"　遊ぼうよ？」"
+msgstr ""
+"moge子\n"
+"「喂喂，\n"
+"　来玩么？」"
+
+#. ID 1, Page 1, Line 15, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「あー！わかった！鬼ごっこだー！」"
+msgstr ""
+"moge子\n"
+"「啊！知道了！是玩捉迷藏啊！」"
+
+#. ID 1, Page 1, Line 18, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「ぎゃははははははは！！！！！！\n"
+"　死ぬまで追いかけてやるよ！！！！！」"
+msgstr ""
+"moge子\n"
+"「哇哈哈哈哈哈哈哈哈！！！！！！\n"
+"　我要追到你死为止！！！！！」"
+
+#. ID 1, Page 1, Line 22, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「楽しく逃げてね♪」"
+msgstr ""
+"moge子\n"
+"「要逃得高兴点啊(音符)」"
+
+#. ID 1, Page 1, Line 25, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「そして死ね！！！！！！！！！！」"
+msgstr ""
+"moge子\n"
+"「然后去死吧！！！！！！！！！！」"
+
+#. ID 1, Page 1, Line 29, Pos (0,0)
+msgid ""
+"\n"
+"　　　　　『止まらずに、逃げましょう。』"
+msgstr ""
+"\n"
+"　　　　　『别停下来，快逃。』"
+

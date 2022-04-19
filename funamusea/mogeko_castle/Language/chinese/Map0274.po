@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 5, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「ヨナカたーん！」"
+msgstr ""
+"mogeko\n"
+"「夕夜酱！」"
+
+#. ID 2, Page 1, Line 7, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「どーこー？？」"
+msgstr ""
+"mogeko\n"
+"「你在哪儿呢——？？」"
+
+#. ID 2, Page 1, Line 9, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「今は花粉症の薬飲んだし鼻がきくよぉー\n"
+"　居場所なんてすぐ特定できるからねー」"
+msgstr ""
+"mogeko\n"
+"「现在啊~喝了治花粉症的药~鼻子也通了——\n"
+"　你在哪里马上就能找到了——」"
+
+#. ID 2, Page 1, Line 14, Pos (0,0)
+msgid ""
+"？？？\n"
+"「ヨナカはいない。」"
+msgstr ""
+"？？？\n"
+"「夕夜不在。」"
+
+#. ID 2, Page 1, Line 22, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「ん？」"
+msgstr ""
+"mogeko\n"
+"「嗯？」"
+
+#. ID 2, Page 1, Line 26, Pos (0,0)
+msgid ""
+"？？？\n"
+"「ヨナカは、いない。」"
+msgstr ""
+"？？？\n"
+"「夕夜，不在。」"
+
+#. ID 2, Page 2, Line 4, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「うおおおおおーーーー！！！！」"
+msgstr ""
+"mogeko\n"
+"「唔哦哦哦哦哦————！！！！」"
+
+#. ID 2, Page 2, Line 7, Pos (0,0)
+msgid ""
+"モゲコ\n"
+"「逃がさんぞぉおおーーーー！！！」"
+msgstr ""
+"mogeko\n"
+"「不会让你们逃掉的————！！！」"
+

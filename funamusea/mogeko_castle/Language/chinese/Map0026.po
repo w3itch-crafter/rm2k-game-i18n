@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 5, Pos (24,10)
+#. ID 2, Page 1, Line 5, Pos (24,11)
+#. ID 3, Page 1, Line 5, Pos (24,12)
+#. ID 4, Page 1, Line 5, Pos (24,13)
+#. ID 5, Page 1, Line 5, Pos (24,14)
+msgid ""
+"ヨナカ\n"
+"「･････ひっ･････\n"
+"　ち････血･･･････？」"
+msgstr ""
+"夕夜\n"
+"「…嗯！…\n"
+"　血……血……？」"
+
+#. ID 1, Page 1, Line 9, Pos (24,10)
+#. ID 2, Page 1, Line 9, Pos (24,11)
+#. ID 3, Page 1, Line 9, Pos (24,12)
+#. ID 4, Page 1, Line 9, Pos (24,13)
+#. ID 5, Page 1, Line 9, Pos (24,14)
+msgid ""
+"ヨナカ\n"
+"「･･･････････。」"
+msgstr ""
+
+#. ID 1, Page 1, Line 12, Pos (24,10)
+#. ID 2, Page 1, Line 12, Pos (24,11)
+#. ID 3, Page 1, Line 12, Pos (24,12)
+#. ID 4, Page 1, Line 12, Pos (24,13)
+#. ID 5, Page 1, Line 12, Pos (24,14)
+msgid ""
+"ヨナカ\n"
+"「･････？\\.\n"
+"　向こうに、\\.なにか･･･\\.ある」"
+msgstr ""
+"夕夜\n"
+"「…？\\.\n"
+"　对面\\.好像…\\.有什么」"
+
+#. ID 6, Page 1, Line 3, Pos (51,12)
+#. ID 7, Page 1, Line 3, Pos (51,11)
+#. ID 8, Page 1, Line 3, Pos (51,13)
+#. ID 9, Page 1, Line 3, Pos (51,14)
+#. ID 11, Page 1, Line 3, Pos (51,10)
+msgid ""
+"ヨナカ\n"
+"「････････あ････ああ････。」"
+msgstr ""
+"夕夜\n"
+"「……啊…啊啊…。」"
+
+#. ID 6, Page 1, Line 6, Pos (51,12)
+#. ID 7, Page 1, Line 6, Pos (51,11)
+#. ID 8, Page 1, Line 6, Pos (51,13)
+#. ID 9, Page 1, Line 6, Pos (51,14)
+#. ID 11, Page 1, Line 6, Pos (51,10)
+msgid ""
+"ヨナカ\n"
+"「うッ････おえ････。」"
+msgstr ""
+"夕夜\n"
+"「呜…嗯啊…。」"
+
+#. ID 6, Page 1, Line 9, Pos (51,12)
+#. ID 7, Page 1, Line 9, Pos (51,11)
+#. ID 8, Page 1, Line 9, Pos (51,13)
+#. ID 9, Page 1, Line 9, Pos (51,14)
+#. ID 11, Page 1, Line 9, Pos (51,10)
+msgid ""
+"ヨナカ\n"
+"「･･････････。」"
+msgstr ""
+
+#. ID 6, Page 1, Line 12, Pos (51,12)
+#. ID 7, Page 1, Line 12, Pos (51,11)
+#. ID 8, Page 1, Line 12, Pos (51,13)
+#. ID 9, Page 1, Line 12, Pos (51,14)
+#. ID 11, Page 1, Line 12, Pos (51,10)
+msgid ""
+"　　　　　　　頭がおかしくなりそうだ。\n"
+"　　　　　　　一体何が起こっているの？\n"
+"　　　　　　　悪い夢を見ているの？"
+msgstr ""
+"　　　　　　　脑子都要不正常了。\n"
+"　　　　　　　到底发生了什么事？\n"
+"　　　　　　　我是在做恶梦吗？"
+
+#. ID 10, Page 1, Line 2, Pos (56,12)
+#. ID 23, Page 1, Line 2, Pos (57,12)
+msgid ""
+"？？？\n"
+"「･････････。」"
+msgstr ""
+"？？？\n"
+"「………。」"
+
+#. ID 10, Page 1, Line 5, Pos (56,12)
+#. ID 23, Page 1, Line 5, Pos (57,12)
+msgid ""
+"\n"
+"　　　　　　 　死んでいるようだ････。"
+msgstr ""
+"\n"
+"　　　　　　 　看来已经死了…。"
+
+#. ID 10, Page 1, Line 8, Pos (56,12)
+#. ID 23, Page 1, Line 8, Pos (57,12)
+msgid ""
+"ヨナカ\n"
+"「･････なんで、こんな無残な姿に？\n"
+"　誰かに･･･殺されたの？\n"
+"　誰に･･････？」"
+msgstr ""
+"夕夜\n"
+"「………为什么会死得这样惨？\n"
+"　是被谁…杀掉的吗？\n"
+"　到底是谁……？」"
+
+#. ID 10, Page 2, Line 2, Pos (56,12)
+#. ID 23, Page 2, Line 2, Pos (57,12)
+msgid ""
+"ヨナカ\n"
+"「･･････････････。」"
+msgstr ""
+"夕夜\n"
+"「…………。」"
+
+#. ID 24, Page 1, Line 1, Pos (144,9)
+msgid "『モゲコキャッスル⇒』"
+msgstr "『mogeko城堡→』"
+

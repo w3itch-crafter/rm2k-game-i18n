@@ -1,0 +1,330 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (7,7)
+msgid ""
+"ヨナカ\n"
+"「そういえば、ここのモゲコたちは\n"
+"　なんかモフモフですね････？」"
+msgstr ""
+"夕夜\n"
+"「说起来，这里的mogeko们感觉\n"
+"  软绵绵的呢……？」"
+
+#. ID 1, Page 1, Line 6, Pos (7,7)
+msgid ""
+"異端モゲコ\n"
+"「ああ、こいつらモフコっていうんだ」"
+msgstr ""
+"异端mogeko\n"
+"「啊啊是啊，这些家伙被称呼为mofuko」"
+
+#. ID 1, Page 1, Line 9, Pos (7,7)
+msgid ""
+"ヨナカ\n"
+"「モフコ？」"
+msgstr ""
+"夕夜\n"
+"「mofuko？」"
+
+#. ID 1, Page 1, Line 13, Pos (7,7)
+msgid ""
+"異端モゲコ\n"
+"「シロモフモゲコ虫に寄生された\n"
+"　モゲコたちだ」"
+msgstr ""
+"异端mogeko\n"
+"「他们是被白色毛茸茸mogeko虫寄生之后,\n"
+"　才变成这样子的mogeko的」"
+
+#. ID 1, Page 1, Line 17, Pos (7,7)
+msgid ""
+"ヨナカ\n"
+"「き、寄生虫････？」"
+msgstr ""
+"夕夜\n"
+"「寄、寄生虫……？」"
+
+#. ID 1, Page 1, Line 20, Pos (7,7)
+msgid ""
+"異端モゲコ\n"
+"「写真持ってるぜ。こんなやつ」"
+msgstr ""
+"异端mogeko\n"
+"「我还带着照片呢，就是这样子的家伙啦。」"
+
+#. ID 1, Page 1, Line 27, Pos (7,7)
+msgid ""
+"ヨナカ\n"
+"「なにこれ･･･気持ち悪いですね\\.\\.\n"
+"　（なんで写真持ってるの？）」"
+msgstr ""
+"夕夜\n"
+"「这啥啊这……看起来好恶心\\.\\.\n"
+"　（说起来你为什么要带着这种照片啦？）」"
+
+#. ID 1, Page 1, Line 31, Pos (7,7)
+msgid ""
+"異端モゲコ\n"
+"「これの感染力が\n"
+"　それはもうやばくてな･･･」"
+msgstr ""
+"异端mogeko\n"
+"「这家伙的感染力\n"
+"　非常不得了呢……」"
+
+#. ID 1, Page 1, Line 34, Pos (7,7)
+msgid ""
+"異端モゲコ\n"
+"「だからこの虫に感染したモゲコ、もとい\n"
+"　モフコたちはこの階で処分されている」"
+msgstr ""
+"异端mogeko\n"
+"「所以啊被这种虫子感染的mogeko,或者说\n"
+"　mofuko们就被放逐到这一层」"
+
+#. ID 1, Page 1, Line 37, Pos (7,7)
+msgid ""
+"異端モゲコ\n"
+"「あの化け物の餌としてな･･･。」"
+msgstr ""
+"异端mogeko\n"
+"「作为那个怪物的饵料……。」"
+
+#. ID 1, Page 1, Line 40, Pos (7,7)
+msgid ""
+"ヨナカ\n"
+"「ひえええええ････。」"
+msgstr ""
+"夕夜\n"
+"「噫噫噫噫噫噫噫……。」"
+
+#. ID 1, Page 1, Line 43, Pos (7,7)
+msgid ""
+"異端モゲコ\n"
+"「くる途中にあった病院、檻。あれは\n"
+"　感染者を隔離するためのものだ」"
+msgstr ""
+"异端mogeko\n"
+"「来的路上看到的那个医院就是监狱啦。\n"
+"　为了把这些感染者隔离而建造的」"
+
+#. ID 1, Page 1, Line 47, Pos (7,7)
+msgid ""
+"異端モゲコ\n"
+"「なおった例は、ない････。」"
+msgstr ""
+"异端mogeko\n"
+"「被治愈的病例，连一个都没有……。」"
+
+#. ID 1, Page 1, Line 52, Pos (7,7)
+msgid ""
+"ヨナカ\n"
+"「この虫に寄生されると･･･毛むくじゃら\n"
+"　になるだけですよね？」"
+msgstr ""
+"夕夜\n"
+"「被那种虫寄生后，难道不就是长出许多\n"
+"  毛，变得毛茸茸软绵绵这样而已吗？」"
+
+#. ID 1, Page 1, Line 56, Pos (7,7)
+msgid ""
+"ヨナカ\n"
+"「それなのに処分なんて･･･ひどい」"
+msgstr ""
+"夕夜\n"
+"「就因为这样被干掉……真是太过分了」"
+
+#. ID 1, Page 1, Line 59, Pos (7,7)
+msgid ""
+"異端モゲコ\n"
+"「いや、感染後1ヶ月以内に死ぬ」」"
+msgstr ""
+"异端mogeko\n"
+"「不不不，在被感染之后一个月之内就会死亡」"
+
+#. ID 1, Page 1, Line 62, Pos (7,7)
+msgid ""
+"ヨナカ\n"
+"「！？」"
+msgstr ""
+"夕夜\n"
+"「！？」"
+
+#. ID 1, Page 1, Line 65, Pos (7,7)
+msgid ""
+"異端モゲコ\n"
+"「頭痛腹痛吐き気めまいの症状が出た後\n"
+"　血という血を吐いて死ぬ」"
+msgstr ""
+"异端mogeko\n"
+"「经历了初期的头痛腹痛呕吐头晕症状\n"
+"  之后，把能吐的血都吐光了就死啦」"
+
+#. ID 1, Page 1, Line 69, Pos (7,7)
+msgid ""
+"ヨナカ\n"
+"「いやーーーーっ！」"
+msgstr ""
+"夕夜\n"
+"「咿呀————！」"
+
+#. ID 1, Page 1, Line 73, Pos (7,7)
+msgid ""
+"ヨナカ\n"
+"「大丈夫なんですかこんなところに\n"
+"　いて！！！」"
+msgstr ""
+"夕夜\n"
+"「我们到这个地方来\n"
+"　真的不要紧吗！！！」"
+
+#. ID 1, Page 1, Line 77, Pos (7,7)
+msgid ""
+"異端モゲコ\n"
+"「人間には感染しないんじゃね？\n"
+"　あと7匹のモゲコは感染しないからな…」"
+msgstr ""
+"异端mogeko\n"
+"「人类的话不会被感染的吧？\n"
+"　而且那七只mogeko也不会被感染的……」"
+
+#. ID 1, Page 1, Line 81, Pos (7,7)
+msgid ""
+"ヨナカ\n"
+"「えっ」"
+msgstr ""
+"夕夜\n"
+"「诶 」"
+
+#. ID 1, Page 1, Line 84, Pos (7,7)
+msgid ""
+"ヨナカ\n"
+"「ちらっ」"
+msgstr ""
+"夕夜\n"
+"「偷瞄」"
+
+#. ID 1, Page 1, Line 88, Pos (7,7)
+msgid ""
+"もっふる\n"
+"「･･･････。」"
+msgstr ""
+"mohhuru\n"
+"「……。」"
+
+#. ID 1, Page 1, Line 91, Pos (7,7)
+msgid ""
+"ヨナカ\n"
+"「もっふるさんは？」"
+msgstr ""
+"夕夜\n"
+"「那mohhuru是不是被感染了？」"
+
+#. ID 1, Page 1, Line 94, Pos (7,7)
+msgid ""
+"もっふる\n"
+"「私は元からこの姿なんじゃい！」"
+msgstr ""
+"mohhuru\n"
+"「我从以前开始就长这样子啦！」"
+
+#. ID 1, Page 1, Line 97, Pos (7,7)
+msgid ""
+"ヨナカ\n"
+"「す、すいませんー！」"
+msgstr ""
+"夕夜\n"
+"「对、对不起啦—！」"
+
+#. ID 1, Page 1, Line 100, Pos (7,7)
+msgid ""
+"異端モゲコ\n"
+"「ややこしいかっこしてるよなお前」"
+msgstr ""
+"异端mogeko\n"
+"「你长得太纠结了。」"
+
+#. ID 1, Page 1, Line 103, Pos (7,7)
+msgid ""
+"もっふる\n"
+"「ああ、おかげでモフコと間違われて\n"
+"　何度かあの化け物に食われかけたわい」"
+msgstr ""
+"mohhuru\n"
+"「是啊，就是因为跟mofuko他们太像了，\n"
+"　好几次都差点成为那个怪物的食物呢」"
+
+#. ID 6, Page 1, Line 2, Pos (9,7)
+msgid ""
+"もっふる\n"
+"「もふもふ」"
+msgstr ""
+"mohhuru\n"
+"「mofumofu」"
+
+#. ID 6, Page 1, Line 5, Pos (9,7)
+msgid ""
+"ヨナカ\n"
+"「･･････････。」"
+msgstr ""
+"夕夜\n"
+"「…………。」"
+
+#. ID 6, Page 1, Line 8, Pos (9,7)
+msgid ""
+"ヨナカ\n"
+"「（異端モゲコさんがモフモフになったら\n"
+"　どんな感じかなあ）」"
+msgstr ""
+"夕夜\n"
+"「（如果异端mogeko也变得mofumofu的话，\n"
+"　会是什么样子呢……）」"
+
+#. ID 6, Page 1, Line 16, Pos (9,7)
+msgid ""
+"異端モゲコ\n"
+"「おい！変な妄想すんな！」"
+msgstr ""
+"异端mogeko\n"
+"「喂！别脑补这种奇怪的事情！」"
+
+#. ID 13, Page 1, Line 2, Pos (2,8)
+msgid ""
+"モフコ\n"
+"「もふん」"
+msgstr ""
+"mofuko\n"
+"「mofunn」"
+
+#. ID 14, Page 1, Line 2, Pos (19,8)
+msgid ""
+"モフコ\n"
+"「ぷー」"
+msgstr ""
+"mofuko\n"
+"「pu—」"
+
+#. ID 15, Page 1, Line 2, Pos (22,9)
+msgid ""
+"モフコ\n"
+"「もふ」"
+msgstr ""
+"mofuko\n"
+"「mofu」"
+
+#. ID 16, Page 1, Line 2, Pos (25,8)
+msgid ""
+"モフコ\n"
+"「すあ」"
+msgstr ""
+"mofuko\n"
+"「sua」"
+

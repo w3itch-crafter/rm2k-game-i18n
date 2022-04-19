@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 3, Pos (9,23)
+msgid ""
+"ヨナカ\n"
+"「････････。」"
+msgstr ""
+"夕夜\n"
+"「…………。」"
+
+#. ID 1, Page 1, Line 6, Pos (9,23)
+msgid ""
+"ヨナカ\n"
+"「････････････････。」"
+msgstr ""
+"夕夜\n"
+"「………………。」"
+
+#. ID 1, Page 1, Line 9, Pos (9,23)
+msgid ""
+"ヨナカ\n"
+"「･････････････････････････････････\n"
+"　･････････････\\.\\.\\.やめておこう」"
+msgstr ""
+"夕夜\n"
+"「……………………………\n"
+"　……………\\.\\.\\.还是算了」"
+
+#. ID 1, Page 1, Line 12, Pos (9,23)
+msgid ""
+"ヨナカ\n"
+"「話ができすぎている･･････。」"
+msgstr ""
+"夕夜\n"
+"「太巧合了……。」"
+
+#. ID 1, Page 1, Line 15, Pos (9,23)
+msgid ""
+"ヨナカ\n"
+"「まるで私を此処へおびき寄せて\n"
+"　いるみたい････。」"
+msgstr ""
+"夕夜\n"
+"「好像故意把我\n"
+"　引到这里来一样……。」"
+
+#. ID 1, Page 1, Line 19, Pos (9,23)
+msgid ""
+"ヨナカ\n"
+"「銅像といい･･･なんか浮いてたやつと\n"
+"　いい･･･。」"
+msgstr ""
+"夕夜\n"
+"「铜像也好…\n"
+"　浮起来的那些东西也好…。」"
+
+#. ID 1, Page 1, Line 23, Pos (9,23)
+msgid ""
+"ヨナカ\n"
+"「あの黄色いのと何か関係がある城なの？\n"
+"　ならますます近寄らないほうがいいわ」"
+msgstr ""
+"夕夜\n"
+"「这个城堡和那些黄色生物有关吗？\n"
+"　那么还是别接近这里比较好」"
+
+#. ID 1, Page 1, Line 27, Pos (9,23)
+msgid ""
+"ヨナカ\n"
+"「他をあたったほうが良さそうね」"
+msgstr ""
+"夕夜\n"
+"「找别的路吧」"
+
+#. ID 1, Page 1, Line 30, Pos (9,23)
+msgid ""
+"ヨナカ\n"
+"「とりあえず一旦此処から離れて―――」\\.\\.\\."
+msgstr ""
+"夕夜\n"
+"「总之先离开这里―――」\\.\\.\\."
+
+#. ID 1, Page 1, Line 40, Pos (9,23)
+msgid ""
+"ヨナカ\n"
+"「ッ！？！？」"
+msgstr ""
+"夕夜\n"
+"「！？！？」"
+
+#. ID 1, Page 1, Line 43, Pos (9,23)
+msgid ""
+"\n"
+"　　　　　　　　　しまった････。"
+msgstr ""
+"\n"
+"　　　　　　　　　糟了……。"
+

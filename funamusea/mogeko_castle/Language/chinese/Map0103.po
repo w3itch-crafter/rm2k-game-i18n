@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 2, Pos (6,11)
+msgid ""
+"異端モゲコ\n"
+"「･･･････。」"
+msgstr ""
+"异端mogeko\n"
+"「……。」"
+
+#. ID 3, Page 1, Line 3, Pos (9,10)
+msgid ""
+"異端モゲコ\n"
+"「ここにはオカズがねぇ･･･\n"
+"　ちくしょう･･･。」"
+msgstr ""
+"异端mogeko\n"
+"「这里没有零食啊……\n"
+"　可恶……。」"
+
+#. ID 4, Page 1, Line 2, Pos (13,8)
+msgid ""
+"異端モゲコ\n"
+"「ここを統べるのは、他の誰でもない･･･\n"
+"　もげこさ･･･。」"
+msgstr ""
+"异端mogeko\n"
+"「统治这里的不是别人……\n"
+"　就是mogeko……。」"
+
+#. ID 5, Page 1, Line 2, Pos (14,11)
+msgid ""
+"異端モゲコ\n"
+"「ぼくらは明後日に火刑なんだぁー。」"
+msgstr ""
+"异端mogeko\n"
+"「我们后天就要被施以火刑了。」"
+

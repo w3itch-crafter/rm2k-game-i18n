@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 3, Pos (0,0)
+msgid ""
+"？？？\n"
+"「うーん」"
+msgstr ""
+"？？？\n"
+"「呜嗯」"
+
+#. ID 1, Page 1, Line 5, Pos (0,0)
+msgid ""
+"？？？\n"
+"「ヨナカ、遅いなあ」"
+msgstr ""
+"？？？\n"
+"「夕夜，好慢啊」"
+
+#. ID 1, Page 1, Line 7, Pos (0,0)
+msgid ""
+"？？？\n"
+"「折角寄り道しないで帰ってきたのに…」"
+msgstr ""
+"？？？\n"
+"「应该是没有绕路直接回家的啊…」"
+
+#. ID 1, Page 1, Line 9, Pos (0,0)
+msgid ""
+"？？？\n"
+"「ねえ母さん、ヨナカはまだ\n"
+"　帰ってこないの？」"
+msgstr ""
+"？？？\n"
+"「喂妈妈，夕夜她还没有\n"
+"　回来么？」"
+
+#. ID 1, Page 1, Line 13, Pos (0,0)
+msgid ""
+"？？？\n"
+"「そうか････。」"
+msgstr ""
+"？？？\n"
+"「是么……。」"
+
+#. ID 1, Page 1, Line 15, Pos (0,0)
+msgid ""
+"？？？\n"
+"「でも大丈夫」"
+msgstr ""
+"？？？\n"
+"「但是没关系」"
+
+#. ID 1, Page 1, Line 17, Pos (0,0)
+msgid ""
+"？？？\n"
+"「絶対僕のところに帰ってくるから」"
+msgstr ""
+"？？？\n"
+"「因为她绝对会回到我的身边的」"
+
+#. ID 1, Page 1, Line 19, Pos (0,0)
+msgid ""
+"？？？\n"
+"「絶対にね」"
+msgstr ""
+"？？？\n"
+"「绝对」"
+
+#. ID 1, Page 1, Line 22, Pos (0,0)
+msgid ""
+"？？？\n"
+"「ふふふ････。」"
+msgstr ""
+"？？？\n"
+"「哼哼哼……。」"
+

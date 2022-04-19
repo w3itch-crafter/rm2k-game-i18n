@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 5, Pos (10,7)
+msgid ""
+"？？？\n"
+"「もげたんと･･･イイコトしよ？」"
+msgstr ""
+"？？？\n"
+"「和moge酱一起…做些好玩的事吧？」"
+
+#. ID 1, Page 1, Line 8, Pos (10,7)
+msgid ""
+"ヨナカ\n"
+"「････････････････････。」"
+msgstr ""
+"夕夜\n"
+"「………………。」"
+
+#. ID 1, Page 1, Line 11, Pos (10,7)
+msgid ""
+"？？？\n"
+"「大丈夫♪\n"
+"　初めての子には優しくするからねぇ♪」"
+msgstr ""
+"？？？\n"
+"「没事的(音符)\n"
+"　对第一次的孩子我会很温柔的(音符)」"
+
+#. ID 1, Page 1, Line 14, Pos (10,7)
+msgid ""
+"？？？\n"
+"「ねっ、みんな？」"
+msgstr ""
+"？？？\n"
+"「对吧，大家？」"
+
+#. ID 1, Page 1, Line 16, Pos (10,7)
+msgid ""
+"みんな\n"
+"「うん！！！！！！！！！！」"
+msgstr ""
+"大家\n"
+"「嗯！！！！！！！！！！」"
+
+#. ID 1, Page 1, Line 19, Pos (10,7)
+msgid ""
+"ヨナカ\n"
+"「････････････････き」"
+msgstr ""
+"夕夜\n"
+"「……………吓」"
+

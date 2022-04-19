@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 1, Line 4, Pos (37,13)
+#. ID 7, Page 1, Line 4, Pos (37,14)
+msgid ""
+"モゲコ\n"
+"「･･･････。」"
+msgstr ""
+"mogeko\n"
+"「………。」"
+
+#. ID 6, Page 1, Line 7, Pos (37,13)
+#. ID 7, Page 1, Line 7, Pos (37,14)
+msgid ""
+"モゲコ\n"
+"「マルチエンディング」"
+msgstr ""
+"mogeko\n"
+"「多个结局」"
+
+#. ID 6, Page 1, Line 13, Pos (37,13)
+#. ID 7, Page 1, Line 13, Pos (37,14)
+msgid ""
+"ヨナカ\n"
+"「！？」"
+msgstr ""
+"夕夜\n"
+"「！？」"
+
+#. ID 61, Page 1, Line 1, Pos (1,12)
+#. ID 62, Page 1, Line 1, Pos (0,12)
+msgid "気持ち悪い銅像だ。"
+msgstr "恶心的铜像。"
+

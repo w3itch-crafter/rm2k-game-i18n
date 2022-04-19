@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 8, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「うおおおおおおおおおおおッッ！！」"
+msgstr ""
+"异端mogeko\n"
+"「唔噢噢噢噢噢噢噢！！」"
+
+#. ID 1, Page 1, Line 11, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「異端モゲコさん！！それ体格と全く\n"
+"　合ってないです！！！！」"
+msgstr ""
+"夕夜\n"
+"「异端mogeko！！那玩意儿跟你的体型\n"
+"　完全不相称啦！！！！」"
+
+#. ID 1, Page 1, Line 15, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「嬢ちゃん！\\.\\.細かいことは\n"
+"　気にちゃいけないぜ！」"
+msgstr ""
+"异端mogeko\n"
+"「小姐！\\.\\.你就别在意\n"
+"　那种小细节啦！」"
+
+#. ID 1, Page 1, Line 19, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「化け物め！\\.\\.\n"
+"　これでも食らえ！」"
+msgstr ""
+"异端mogeko\n"
+"「你这怪物！\\.\\.\n"
+"　吃我一招！」"
+
+#. ID 1, Page 1, Line 23, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「なっ、\\.\\.なにぃ～～！？」"
+msgstr ""
+"moge子\n"
+"「啥！\\.\\.什么~~！？」"
+
+#. ID 1, Page 1, Line 26, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「うおおおおおおおおおおおおおおおおお\n"
+"　おおおおおおおおおおおおッ！！！！」"
+msgstr ""
+"异端mogeko\n"
+"「唔噢噢噢噢噢噢噢噢噢噢噢噢噢噢\n"
+"　哦哦哦哦哦哦哦哦哦哦哦！！！！」"
+

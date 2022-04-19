@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 2, Pos (10,5)
+msgid ""
+"ヨナカ\n"
+"「？　行き止まりですね･･･」"
+msgstr ""
+"夕夜\n"
+"「？怎么停下来了……」"
+
+#. ID 2, Page 1, Line 5, Pos (10,5)
+msgid ""
+"異端モゲコ\n"
+"「いいや、違う」"
+msgstr ""
+"异端mogeko\n"
+"「不是的」"
+
+#. ID 2, Page 1, Line 9, Pos (10,5)
+msgid ""
+"異端モゲコ\n"
+"「開けたまごーーー！！」"
+msgstr ""
+"异端mogeko\n"
+"「鸡蛋开门——！！」"
+
+#. ID 2, Page 1, Line 12, Pos (10,5)
+msgid ""
+"ヨナカ\n"
+"「！？」"
+msgstr ""
+"夕夜\n"
+"「！？」"
+
+#. ID 2, Page 1, Line 23, Pos (10,5)
+msgid ""
+"異端モゲコ\n"
+"「よし。」"
+msgstr ""
+"异端mogeko\n"
+"「好嘞。」"
+
+#. ID 2, Page 2, Line 2, Pos (10,5)
+msgid ""
+"異端モゲコ\n"
+"「さあ行くぞ」"
+msgstr ""
+"异端mogeko\n"
+"「来吧，我们走」"
+

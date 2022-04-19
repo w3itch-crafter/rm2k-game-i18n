@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 3, Pos (10,10)
+msgid ""
+"異端モゲコ\n"
+"「さあ、ここは近道だ。\n"
+"　すぐ7階に行けるぞ」"
+msgstr ""
+"异端mogeko\n"
+"「这里是近路，\n"
+"　马上就能到7楼了」"
+
+#. ID 2, Page 1, Line 1, Pos (7,7)
+#. ID 3, Page 1, Line 1, Pos (8,7)
+#. ID 4, Page 1, Line 1, Pos (11,7)
+#. ID 5, Page 1, Line 1, Pos (12,7)
+#. ID 6, Page 1, Line 1, Pos (1,13)
+#. ID 7, Page 1, Line 1, Pos (2,13)
+#. ID 8, Page 1, Line 1, Pos (17,13)
+#. ID 9, Page 1, Line 1, Pos (18,13)
+msgid "････。"
+msgstr "……。"
+

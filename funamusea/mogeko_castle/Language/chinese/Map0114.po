@@ -1,0 +1,248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (10,10)
+msgid ""
+"異端モゲコ\n"
+"「行こうぜ。」"
+msgstr ""
+"异端mogeko\n"
+"「走吧。」"
+
+#. ID 2, Page 1, Line 3, Pos (9,8)
+msgid ""
+"血の精霊\n"
+"「？」"
+msgstr ""
+"血之精灵\n"
+"「？」"
+
+#. ID 2, Page 1, Line 6, Pos (9,8)
+#. Contains choice at line 2 (2 options)
+msgid "血の精霊を殺しますか？"
+msgstr "要将血之精灵杀死吗？"
+
+#. ID 2, Page 1, Line 7, Pos (9,8)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 1, Line 6, Pos (15,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 4, Page 1, Line 4, Pos (0,0)
+msgid ""
+"？？？\n"
+"「････････。」"
+msgstr ""
+"？？？\n"
+"「……。」"
+
+#. ID 4, Page 1, Line 6, Pos (0,0)
+msgid ""
+"？？？\n"
+"「来たか。」"
+msgstr ""
+"？？？\n"
+"「来了吗。」"
+
+#. ID 4, Page 1, Line 9, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「久しぶりだな、血の精霊。」"
+msgstr ""
+"异端mogeko\n"
+"「好久不见，血之精灵。」"
+
+#. ID 4, Page 1, Line 13, Pos (0,0)
+#. ID 4, Page 1, Line 79, Pos (0,0)
+msgid ""
+"血の精霊\n"
+"「･････････。」"
+msgstr ""
+
+#. ID 4, Page 1, Line 15, Pos (0,0)
+msgid ""
+"血の精霊\n"
+"「････まさか」"
+msgstr ""
+"血之精灵\n"
+"「……难道」"
+
+#. ID 4, Page 1, Line 17, Pos (0,0)
+msgid ""
+"血の精霊\n"
+"「生きていたとはな･･･。」"
+msgstr ""
+"血之精灵\n"
+"「你还活着……。」"
+
+#. ID 4, Page 1, Line 20, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「いや、死ぬ予定だったんだけど、\n"
+"　コイツが。」"
+msgstr ""
+"异端mogeko\n"
+"「不，本来是要死了。\n"
+"  不过这家伙救了我。」"
+
+#. ID 4, Page 1, Line 24, Pos (0,0)
+msgid ""
+"血の精霊\n"
+"「ん？」"
+msgstr ""
+"血之精灵\n"
+"「嗯？」"
+
+#. ID 4, Page 1, Line 27, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「････････。」"
+msgstr ""
+"夕夜\n"
+"「……。」"
+
+#. ID 4, Page 1, Line 30, Pos (0,0)
+msgid ""
+"血の精霊\n"
+"「ほう」"
+msgstr ""
+"血之精灵\n"
+"「哈」"
+
+#. ID 4, Page 1, Line 32, Pos (0,0)
+msgid ""
+"血の精霊\n"
+"「なるほど。」"
+msgstr ""
+"血之精灵\n"
+"「原来如此。」"
+
+#. ID 4, Page 1, Line 34, Pos (0,0)
+msgid ""
+"血の精霊\n"
+"「ようするに上の階に行きたいのだな？」"
+msgstr ""
+"血之精灵\n"
+"「也就是说你们要去楼上对吧？」"
+
+#. ID 4, Page 1, Line 37, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「ああ。」"
+msgstr ""
+"异端mogeko\n"
+"「是的。」"
+
+#. ID 4, Page 1, Line 40, Pos (0,0)
+msgid ""
+"血の精霊\n"
+"「そうか」"
+msgstr ""
+"血之精灵\n"
+"「果然」"
+
+#. ID 4, Page 1, Line 42, Pos (0,0)
+msgid ""
+"血の精霊\n"
+"「気をつけろ･･･\\.\\.あそこには\\.\\.\n"
+"　アレ\\.\\.･･･がいるからな。」"
+msgstr ""
+"血之精灵\n"
+"「小心一点……\\.\\.在那边\\.\\.\n"
+"　有\\.\\.……那个在。」"
+
+#. ID 4, Page 1, Line 46, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「･･･････。」"
+msgstr ""
+"异端mogeko\n"
+"「……。」"
+
+#. ID 4, Page 1, Line 48, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「わかっている。」"
+msgstr ""
+"异端mogeko\n"
+"「我知道。」"
+
+#. ID 4, Page 1, Line 51, Pos (0,0)
+msgid ""
+"血の精霊\n"
+"「･･････。」"
+msgstr ""
+
+#. ID 4, Page 1, Line 59, Pos (0,0)
+msgid ""
+"血の精霊\n"
+"「ワシの使いじゃ。\n"
+"　そいつに転送してもらえ。」"
+msgstr ""
+"血之精灵\n"
+"「这是我的使魔。\n"
+"　这家伙可以把你们传送到上面去。」"
+
+#. ID 4, Page 1, Line 63, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「助かるよ。」"
+msgstr ""
+"异端mogeko\n"
+"「多谢了。」"
+
+#. ID 4, Page 1, Line 66, Pos (0,0)
+msgid ""
+"血の精霊\n"
+"「･･･････。」"
+msgstr ""
+
+#. ID 4, Page 1, Line 68, Pos (0,0)
+msgid ""
+"血の精霊\n"
+"「少女よ」"
+msgstr ""
+"血之精灵\n"
+"「少女啊」"
+
+#. ID 4, Page 1, Line 74, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「は　\\.\\.\\.はいっ」"
+msgstr ""
+"夕夜\n"
+"「是、\\.\\.\\.是」"
+
+#. ID 4, Page 1, Line 77, Pos (0,0)
+msgid ""
+"血の精霊\n"
+"「無事を祈っているぞ」"
+msgstr ""
+"血之精灵\n"
+"「愿你平安」"
+
+#. ID 5, Page 1, Line 2, Pos (15,11)
+msgid ""
+"転送係\n"
+"「///」"
+msgstr ""
+"使魔\n"
+"「///」"
+
+#. ID 5, Page 1, Line 5, Pos (15,11)
+#. Contains choice at line 2 (2 options)
+msgid "上の階に進みますか？"
+msgstr "要上楼吗？"
+

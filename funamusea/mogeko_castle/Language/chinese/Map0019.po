@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 3, Pos (3,13)
+msgid ""
+"ヨナカ\n"
+"「････････。」"
+msgstr ""
+"夕夜\n"
+"「……。」"
+
+#. ID 1, Page 1, Line 6, Pos (3,13)
+msgid ""
+"？？？\n"
+"「････････。」"
+msgstr ""
+"？？？\n"
+"「……。」"
+
+#. ID 1, Page 1, Line 9, Pos (3,13)
+msgid ""
+"ヨナカ\n"
+"「･････？」"
+msgstr ""
+"夕夜\n"
+"「…？」"
+
+#. ID 1, Page 1, Line 12, Pos (3,13)
+msgid ""
+"\n"
+"　　　　　　　　　え？\\.なに？\n"
+"　　　　　　　　　ぬいぐるみ････？"
+msgstr ""
+"\n"
+"　　　　　　　　　嗯？\\.什么？\n"
+"　　　　　　　　　玩偶…？"
+
+#. ID 1, Page 1, Line 17, Pos (3,13)
+msgid ""
+"？？？\n"
+"「もげげっ」"
+msgstr ""
+"？？？\n"
+"「mogege」"
+
+#. ID 1, Page 1, Line 21, Pos (3,13)
+msgid ""
+"ヨナカ\n"
+"「･･･････････････････！？」"
+msgstr ""
+"夕夜\n"
+"「………………！？」"
+
+#. ID 1, Page 1, Line 25, Pos (3,13)
+msgid ""
+"？？？\n"
+"「もげげ！」"
+msgstr ""
+"？？？\n"
+"「mogege！」"
+
+#. ID 1, Page 1, Line 28, Pos (3,13)
+msgid ""
+"ヨナカ\n"
+"「しゃ\\.\\.　しゃべった！？」"
+msgstr ""
+"夕夜\n"
+"「说\\.\\.　说话了！？」"
+
+#. ID 1, Page 1, Line 32, Pos (3,13)
+msgid ""
+"？？？\n"
+"「そりゃしゃべるもげ。」"
+msgstr ""
+"？？？\n"
+"「当然会说话了moge。」"
+
+#. ID 1, Page 1, Line 35, Pos (3,13)
+msgid ""
+"ヨナカ\n"
+"「！？！？？！？？」"
+msgstr ""
+"夕夜\n"
+"「！？！？？！？？」"
+
+#. ID 1, Page 1, Line 38, Pos (3,13)
+msgid ""
+"？？？\n"
+"「キミかわいいねえ！！！」"
+msgstr ""
+"？？？\n"
+"「你很可爱呢！！！」"
+
+#. ID 1, Page 1, Line 46, Pos (3,13)
+msgid ""
+"ヨナカ\n"
+"「な･･････\\.なに････････？」"
+msgstr ""
+"夕夜\n"
+"「什……\\.什么……？」"
+
+#. ID 1, Page 1, Line 49, Pos (3,13)
+msgid ""
+"？？？\n"
+"「女子高生だね！？\n"
+"　もげたん女子高生大好き！！」"
+msgstr ""
+"？？？\n"
+"「你是女高中生吧！？\n"
+"　moge酱最喜欢女高中生了！！」"
+
+#. ID 1, Page 1, Line 53, Pos (3,13)
+msgid ""
+"ヨナカ\n"
+"「え･･･？\n"
+"　\\.\\.え･･･？」"
+msgstr ""
+"夕夜\n"
+"「嗯…？\n"
+"　\\.\\.啊…？」"
+
+#. ID 1, Page 1, Line 57, Pos (3,13)
+msgid ""
+"？？？\n"
+"「もげげげげ････。」"
+msgstr ""
+"？？？\n"
+"「mogegegege…。」"
+
+#. ID 1, Page 1, Line 63, Pos (3,13)
+msgid ""
+"？？？\n"
+"「みんなーーーーーーーーー！！！！！」"
+msgstr ""
+"？？？\n"
+"「大家！！！！！」"
+

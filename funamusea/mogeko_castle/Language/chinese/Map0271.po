@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 22, Pos (0,0)
+msgid "！････"
+msgstr "！…"
+
+#. ID 3, Page 1, Line 27, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「！？\\.\\.\n"
+"　い･･･\\.\\.異端モゲコさん！！！」"
+msgstr ""
+"夕夜\n"
+"「！？\\.\\.\n"
+"　异……\\.\\.异端mogeko！！！」"
+
+#. ID 3, Page 1, Line 31, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「ぐッ･････････！」"
+msgstr ""
+"异端mogeko\n"
+"「咕…………！」"
+
+#. ID 3, Page 1, Line 34, Pos (0,0)
+msgid ""
+"？？？\n"
+"「クク･･･馬鹿なヤツだ･･･。」"
+msgstr ""
+"？？？\n"
+"「库库库……真是个蠢货啊……。」"
+
+#. ID 3, Page 1, Line 41, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「無駄なんだよ。」"
+msgstr ""
+"mogeko王\n"
+"「别做无谓的挣扎啦。」"
+
+#. ID 3, Page 1, Line 44, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「！！･････」"
+msgstr ""
+"夕夜\n"
+"「！！……」"
+
+#. ID 3, Page 1, Line 47, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「･････････。」"
+msgstr ""
+
+#. ID 3, Page 1, Line 50, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「お前もよくわかっているだろう？」"
+msgstr ""
+"mogeko王\n"
+"「你明明也知道的不是吗？」"
+
+#. ID 3, Page 1, Line 53, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「･･･････････。」"
+msgstr ""
+
+#. ID 3, Page 1, Line 56, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「私から逃げることなど不可能･･･」"
+msgstr ""
+"mogeko王\n"
+"「你怎么可能从我手心里逃掉……」"
+
+#. ID 3, Page 1, Line 58, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「お前は･･･\\.\\.私だからだ。\\.\\.\n"
+"　――――\\.\\.裏モゲコ････。」"
+msgstr ""
+"mogeko王\n"
+"「因为……\\.\\.你就是我啊。\\.\\.\n"
+"　――――\\.\\.里mogeko……。」"
+
+#. ID 3, Page 1, Line 63, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「え････？」"
+msgstr ""
+"夕夜\n"
+"「咦……？」"
+
+#. ID 3, Page 1, Line 66, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「････････ッ」"
+msgstr ""
+"异端mogeko\n"
+"「…………啧」"
+
+#. ID 3, Page 1, Line 69, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「さあ、おとなしく女子高生ちゃんを\n"
+"　こちらへ渡すんだな」"
+msgstr ""
+"mogeko王\n"
+"「来吧，把那个可爱文静的\n"
+"  女高中生交给我吧」"
+
+#. ID 3, Page 1, Line 74, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「･････････」"
+msgstr ""
+"异端mogeko\n"
+"「…………」"
+
+#. ID 3, Page 1, Line 78, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「断る！！！！」"
+msgstr ""
+"异端mogeko\n"
+"「我拒绝！！！！」"
+
+#. ID 3, Page 1, Line 86, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「なッ！？\n"
+"　催涙ガス････」"
+msgstr ""
+"mogeko王\n"
+"「啥！？\n"
+"　催泪瓦斯……」"
+
+#. ID 3, Page 1, Line 90, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「ふええええええええええ！！！\n"
+"　目があああああああああ！！！！！」"
+msgstr ""
+"mogeko王\n"
+"「呜哇哇哇哇哇娃娃！！！\n"
+"　我的眼睛啊啊啊啊啊啊啊啊啊啊！！！！！」"
+
+#. ID 3, Page 1, Line 95, Pos (0,0)
+msgid ""
+"馬鹿なもげこ王が泣いてるうちに\n"
+"ヨナカと異端モゲコは一旦その場から\n"
+"逃げ出しました"
+msgstr ""
+"夕夜和异端mogeko\n"
+"趁着蠢了吧唧的mogeko王哭的工夫，\n"
+"从那里逃了出来。"
+
+#. ID 3, Page 1, Line 98, Pos (0,0)
+msgid "二人の運命やいかに･････？"
+msgstr "接下来那两人的命运究竟会……？"
+

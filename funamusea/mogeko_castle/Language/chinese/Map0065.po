@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 1, Pos (3,12)
+msgid "『赤の道』"
+msgstr "『赤红之道』"
+
+#. ID 182, Page 1, Line 5, Pos (0,0)
+#. ID 220, Page 1, Line 22, Pos (183,13)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"ヨナカ\n"
+"「･･････。」"
+msgstr ""
+
+#. ID 182, Page 1, Line 7, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「ここ、室内だよね？」"
+msgstr ""
+"夕夜\n"
+"「这里是室内吧？」"
+
+#. ID 182, Page 1, Line 10, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「というか、さっきどう見ても\n"
+"　追い込まれたよね！」"
+msgstr ""
+"夕夜\n"
+"「话说，我刚刚被\n"
+"　追得够呛啊！」"
+
+#. ID 182, Page 1, Line 14, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「やっぱり騙された！\n"
+"　私ばかぁ！」"
+msgstr ""
+"夕夜\n"
+"「我果然被骗了啊！\n"
+"　我这个2货！」"
+
+#. ID 182, Page 1, Line 18, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･････。」"
+msgstr ""
+"夕夜\n"
+"「………。」"
+
+#. ID 182, Page 1, Line 20, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「････････。」"
+msgstr ""
+
+#. ID 182, Page 1, Line 22, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「兄さん･････。」"
+msgstr ""
+"夕夜\n"
+"「哥哥………。」"
+
+#. ID 182, Page 1, Line 24, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「私はどうすればいいの････」"
+msgstr ""
+"夕夜\n"
+"「我该怎么办……」"
+
+#. ID 182, Page 1, Line 26, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「進めば進むほど、\\.\\.\n"
+"　間違った道に進んでいく気がするよ…」"
+msgstr ""
+"夕夜\n"
+"「越前进我越觉得，\\.\\.\n"
+"　自己走错了路…」"
+
+#. ID 182, Page 1, Line 29, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「････。」"
+msgstr ""
+
+#. ID 182, Page 1, Line 31, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･･･････････。」"
+msgstr ""
+
+#. ID 220, Page 1, Line 4, Pos (183,13)
+msgid ""
+"ヨナカ\n"
+"「！」"
+msgstr ""
+"夕夜\n"
+"「！」"
+
+#. ID 220, Page 1, Line 9, Pos (183,13)
+msgid ""
+"モゲコ\n"
+"「こんにちはぁ～☆」"
+msgstr ""
+"mogeko\n"
+"「你好～☆」"
+
+#. ID 220, Page 1, Line 12, Pos (183,13)
+msgid ""
+"モゲコ\n"
+"「さて、ここで問題！」"
+msgstr ""
+"mogeko\n"
+"「那么，请回答问题！」"
+
+#. ID 220, Page 1, Line 15, Pos (183,13)
+#. ID 220, Page 1, Line 47, Pos (183,13)
+msgid ""
+"ヨナカ\n"
+"「！？」"
+msgstr ""
+"夕夜\n"
+"「！？」"
+
+#. ID 220, Page 1, Line 18, Pos (183,13)
+msgid ""
+"モゲコ\n"
+"「パンはパンでも食べれないパンは\n"
+"　なんでしょーう！？」"
+msgstr ""
+"mogeko\n"
+"「虽然是面包，\n"
+"　但不能吃的，是什么面包！？」"
+
+#. ID 220, Page 1, Line 25, Pos (183,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"フライパン\n"
+"知るか。死ねよ。"
+msgstr ""
+"煎锅（同音）\n"
+"管你呢，去死吧。"
+
+#. ID 220, Page 1, Line 29, Pos (183,13)
+msgid ""
+"モゲコ\n"
+"「ブッブーー！残念でした！\n"
+"　フライパンは食べれます！」"
+msgstr ""
+"mogeko\n"
+"「错了！很遗憾！\n"
+"　煎锅是可以吃的！」"
+
+#. ID 220, Page 1, Line 33, Pos (183,13)
+msgid ""
+"ヨナカ\n"
+"「いや食べれないよ！？」"
+msgstr ""
+"夕夜\n"
+"「不能吃的啦！？」"
+
+#. ID 220, Page 1, Line 36, Pos (183,13)
+msgid ""
+"モゲコ\n"
+"「食べれます！しかし食べたモゲコは\n"
+"　先日死にました！」"
+msgstr ""
+"mogeko\n"
+"「可以吃的！可是吃过煎锅的mogeko\n"
+"　几天前就死了！」"
+
+#. ID 220, Page 1, Line 40, Pos (183,13)
+msgid ""
+"ヨナカ\n"
+"「いやだからそれ食べれないんだよ！？」"
+msgstr ""
+"夕夜\n"
+"「所以说不能吃的啊！？」"
+
+#. ID 220, Page 1, Line 43, Pos (183,13)
+msgid ""
+"モゲコ\n"
+"「ちなみに正解は青酸カリ入りのパン\n"
+"　でしたー！」"
+msgstr ""
+"mogeko\n"
+"「顺带一提，正确答案是\n"
+"　含有氰化钾的面包！」"
+
+#. ID 220, Page 1, Line 50, Pos (183,13)
+msgid ""
+"モゲコ\n"
+"「まあそれも食べて死んだモゲコもいる\n"
+"　けっどねー☆」"
+msgstr ""
+"mogeko\n"
+"「虽然也有因为吃了这个\n"
+" 而死掉的mogeko——☆」"
+
+#. ID 220, Page 1, Line 60, Pos (183,13)
+msgid ""
+"ヨナカ\n"
+"「･･････････。」"
+msgstr ""
+
+#. ID 220, Page 1, Line 63, Pos (183,13)
+msgid ""
+"モゲコ\n"
+"「さぁて･･････。」"
+msgstr ""
+"mogeko\n"
+"「好了……。」"
+
+#. ID 220, Page 1, Line 66, Pos (183,13)
+msgid ""
+"ヨナカ\n"
+"「････！」"
+msgstr ""
+"夕夜\n"
+"「……！」"
+
+#. ID 220, Page 1, Line 69, Pos (183,13)
+msgid ""
+"モゲコ\n"
+"「お部屋戻って寝よーーっと！」"
+msgstr ""
+"mogeko\n"
+"「回房间睡觉觉咯！」"
+
+#. ID 220, Page 1, Line 79, Pos (183,13)
+msgid ""
+"ヨナカ\n"
+"「･････････････。」"
+msgstr ""
+
+#. ID 220, Page 1, Line 82, Pos (183,13)
+msgid "なにしにきたんだろう････。"
+msgstr "这货到底来干嘛的……。"
+
+#. ID 220, Page 1, Line 86, Pos (183,13)
+msgid ""
+"モゲコ\n"
+"「えっ？ちょっ、待っ、何をす･･･\\.\\.\\.\n"
+"　アーーーーーーーーーーーー！！！」"
+msgstr ""
+"mogeko\n"
+"「诶？等、等等，你想做什…\\.\\.\\.\n"
+"　啊—————————！！！」"
+
+#. ID 226, Page 1, Line 1, Pos (34,12)
+#. ID 227, Page 1, Line 1, Pos (35,12)
+#. ID 228, Page 1, Line 1, Pos (76,12)
+#. ID 229, Page 1, Line 1, Pos (77,12)
+msgid "死んでる･･･。"
+msgstr "死掉了…。"
+

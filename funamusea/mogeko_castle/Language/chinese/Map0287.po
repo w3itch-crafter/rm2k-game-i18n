@@ -1,0 +1,465 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 1, Pos (13,8)
+#. ID 4, Page 3, Line 1, Pos (8,5)
+#. ID 16, Page 1, Line 1, Pos (9,8)
+#. ID 17, Page 1, Line 1, Pos (8,8)
+#. ID 18, Page 1, Line 1, Pos (7,8)
+#. ID 19, Page 1, Line 1, Pos (11,8)
+#. ID 20, Page 1, Line 1, Pos (12,8)
+#. ID 21, Page 1, Line 1, Pos (11,5)
+#. ID 22, Page 1, Line 1, Pos (12,5)
+#. ID 23, Page 1, Line 1, Pos (13,5)
+#. ID 24, Page 1, Line 1, Pos (9,5)
+#. ID 25, Page 1, Line 1, Pos (7,5)
+#. ID 26, Page 1, Line 1, Pos (7,2)
+#. ID 27, Page 1, Line 1, Pos (8,2)
+#. ID 28, Page 1, Line 1, Pos (9,2)
+#. ID 29, Page 1, Line 1, Pos (10,2)
+#. ID 30, Page 1, Line 1, Pos (12,2)
+#. ID 31, Page 1, Line 1, Pos (11,2)
+#. ID 32, Page 1, Line 1, Pos (13,2)
+msgid "今何時かな･･･。"
+msgstr "现在是什么时候了呢……。"
+
+#. ID 5, Page 1, Line 7, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「あれ･････？」"
+msgstr ""
+"夕夜\n"
+"「咦……？」"
+
+#. ID 5, Page 1, Line 10, Pos (0,0)
+msgid "ここは･････････。"
+msgstr "这里是…………。"
+
+#. ID 5, Page 1, Line 13, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（いつも乗るバス････？）」"
+msgstr ""
+"夕夜\n"
+"「（我平时经常坐的巴士？）」"
+
+#. ID 5, Page 1, Line 19, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（･･･････。）」"
+msgstr ""
+"夕夜\n"
+"「（……。）」"
+
+#. ID 5, Page 1, Line 21, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（そうだ、電車の中で寝てて･･･）」"
+msgstr ""
+"夕夜\n"
+"「（原来是这样，我在电车里睡着了……）」"
+
+#. ID 5, Page 1, Line 23, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（そのあとバスに････）」"
+msgstr ""
+"夕夜\n"
+"「（然后换乘了巴士……）」"
+
+#. ID 5, Page 1, Line 26, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（じゃあ･･･さっきまでのは･･･\n"
+"　夢････？）」"
+msgstr ""
+"夕夜\n"
+"「（那么……刚刚经历的那些都是……\n"
+"　梦……吗？）」"
+
+#. ID 5, Page 1, Line 33, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「！」"
+msgstr ""
+"夕夜\n"
+"「！」"
+
+#. ID 5, Page 1, Line 37, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（いや･････）」"
+msgstr ""
+"夕夜\n"
+"「（不对……）」"
+
+#. ID 5, Page 1, Line 44, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（夢じゃ･･･ない）」"
+msgstr ""
+"夕夜\n"
+"「（不是梦……）」"
+
+#. ID 5, Page 1, Line 53, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（異端モゲコさん･･･。）」"
+msgstr ""
+"夕夜\n"
+"「（异端mogeko……。）」"
+
+#. ID 5, Page 1, Line 61, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（あ･･･ここ、降りる場所だ･･･）」"
+msgstr ""
+"夕夜\n"
+"「（啊……我应该在这一站下车了……）」"
+
+#. ID 5, Page 3, Line 7, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（･･････････････････。）」"
+msgstr ""
+"夕夜\n"
+"「（…………………………。）」"
+
+#. ID 5, Page 3, Line 10, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（こうなることはわかっていた）」"
+msgstr ""
+"夕夜\n"
+"「（我就知道事情会变成这样的）」"
+
+#. ID 5, Page 3, Line 12, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（私は、兄さんが大好き）」"
+msgstr ""
+"夕夜\n"
+"「（我一直，都最喜欢哥哥了）」"
+
+#. ID 5, Page 3, Line 14, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（とても、とても）」"
+msgstr ""
+"夕夜\n"
+"「（非常喜欢、非常喜欢）」"
+
+#. ID 5, Page 3, Line 16, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（でも）」"
+msgstr ""
+"夕夜\n"
+"「（但是）」"
+
+#. ID 5, Page 3, Line 18, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（死ぬのが怖い）」"
+msgstr ""
+"夕夜\n"
+"「（我害怕死亡）」"
+
+#. ID 5, Page 3, Line 20, Pos (0,0)
+#. ID 5, Page 4, Line 40, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（･････････。）」"
+msgstr ""
+
+#. ID 5, Page 3, Line 22, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（モゲコたちはこのことを\n"
+"　知っていたのだろうか）」"
+msgstr ""
+"夕夜\n"
+"「（那些mogeko们大概也知道的吧）」"
+
+#. ID 5, Page 3, Line 25, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「（異端モゲコさんも････？）」"
+msgstr ""
+"夕夜\n"
+"「（异端mogeko大概也……？）」"
+
+#. ID 5, Page 3, Line 27, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「（････････。）」"
+msgstr ""
+"夕夜\n"
+"「（……………………。）」"
+
+#. ID 5, Page 3, Line 29, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「（逃げてしまった････。）」"
+msgstr ""
+"夕夜\n"
+"「（结果我还是逃走了……。）」"
+
+#. ID 5, Page 3, Line 31, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「（死ぬのが怖くて、\n"
+"　逃げてしまった･･･････。）」"
+msgstr ""
+"夕夜\n"
+"「（因为害怕死亡，\n"
+"　所以我逃走了…………。）」"
+
+#. ID 5, Page 3, Line 34, Pos (0,0)
+#. ID 5, Page 3, Line 37, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（･･････････････。）」"
+msgstr ""
+
+#. ID 5, Page 4, Line 4, Pos (0,0)
+#. ID 5, Page 4, Line 27, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（･･････････。）」"
+msgstr ""
+
+#. ID 5, Page 4, Line 7, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（私、何やってるの････？）」"
+msgstr ""
+"夕夜\n"
+"「（我到底在做些什么啊……？）」"
+
+#. ID 5, Page 4, Line 9, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（異端モゲコさんに助けてもらって\n"
+"　ここまでこれたのに･･･）」"
+msgstr ""
+"夕夜\n"
+"「（明明一直被异端mogeko帮助着\n"
+"　才走到这一步的……）」"
+
+#. ID 5, Page 4, Line 13, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（逃げるの？！）」"
+msgstr ""
+"夕夜\n"
+"「（为什么我要逃走呢？！）」"
+
+#. ID 5, Page 4, Line 18, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（逃げちゃだめ！）」"
+msgstr ""
+"夕夜\n"
+"「（我不可以逃走的！）」"
+
+#. ID 5, Page 4, Line 20, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（逃げたら･･･全てが無駄になる）」"
+msgstr ""
+"夕夜\n"
+"「（逃走了的话……一切不都白费了吗）」"
+
+#. ID 5, Page 4, Line 22, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（私も兄さんも幸せに\n"
+"　なれないの･････････。）」"
+msgstr ""
+"夕夜\n"
+"「（这样下去不管是我还是哥哥\n"
+"　全都无法幸福……。）」"
+
+#. ID 5, Page 4, Line 25, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（そうよ･････････。）」"
+msgstr ""
+"夕夜\n"
+"「（是啊…………。）」"
+
+#. ID 5, Page 4, Line 29, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（ごめんね、兄さん。\n"
+"　今から行くね！）」"
+msgstr ""
+"夕夜\n"
+"「（对不起，哥哥。\n"
+"　我现在马上就回去！）」"
+
+#. ID 5, Page 4, Line 35, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（降車ボタン････。）」"
+msgstr ""
+"夕夜\n"
+"「（下车按钮…………。）」"
+
+#. ID 5, Page 4, Line 45, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（･･･････････。）」"
+msgstr ""
+
+#. ID 5, Page 4, Line 51, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（え？）」"
+msgstr ""
+"夕夜\n"
+"「（诶？）」"
+
+#. ID 5, Page 4, Line 54, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（ちょっ････なんで通過するの？）」"
+msgstr ""
+"夕夜\n"
+"「（等一下……为什么没有停车？）」"
+
+#. ID 5, Page 4, Line 57, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（えっ　えっ？）」"
+msgstr ""
+"夕夜\n"
+"「（咦　咦？）」"
+
+#. ID 5, Page 4, Line 66, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（えっ････？\n"
+"　な、なに？なんで？）」"
+msgstr ""
+"夕夜\n"
+"「（诶……？\n"
+"　什、什么？为什么？）」"
+
+#. ID 5, Page 4, Line 70, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（なんかどんどんスピードも\n"
+"　早くなって･･･）」"
+msgstr ""
+"夕夜\n"
+"「（而且总感觉速度渐渐的\n"
+"　越来越快了……）」"
+
+#. ID 5, Page 4, Line 77, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「っと････。」"
+msgstr ""
+"夕夜\n"
+"「唔……。」"
+
+#. ID 5, Page 4, Line 81, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「あ、あの････運転手さん？」"
+msgstr ""
+"夕夜\n"
+"「请、请问……司机先生？」"
+
+#. ID 5, Page 4, Line 85, Pos (0,0)
+msgid ""
+"運転手\n"
+"「･･･････････。」"
+msgstr ""
+"司机\n"
+"「…………。」"
+
+#. ID 5, Page 4, Line 89, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「私、降りたいんですけど･･･。」"
+msgstr ""
+"夕夜\n"
+"「那个、我想下车……。」"
+
+#. ID 5, Page 4, Line 94, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「！？！？」"
+msgstr ""
+"夕夜\n"
+"「！？！？」"
+
+#. ID 5, Page 4, Line 98, Pos (0,0)
+msgid ""
+"運転手\n"
+"「当バスは急行でございます」"
+msgstr ""
+"司机\n"
+"「本巴士正在疾行中」"
+
+#. ID 5, Page 4, Line 101, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「あ･･･あなた･････。」"
+msgstr ""
+"夕夜\n"
+"「你……你是……。」"
+
+#. ID 5, Page 4, Line 105, Pos (0,0)
+msgid ""
+"運転手\n"
+"「もげげ！モゲコキャッスル直通バスに\n"
+"　ご乗車頂きまことにありがとうござ！」"
+msgstr ""
+"司机\n"
+"「mogege！这是mogeko城堡的直通车\n"
+"　感谢您的乘坐！」"
+
+#. ID 5, Page 4, Line 108, Pos (0,0)
+msgid ""
+"運転手\n"
+"「がんがん飛ばすぜーーーー！！！」"
+msgstr ""
+"司机\n"
+"「让我们加速前进吧————！！！」"
+
+#. ID 5, Page 4, Line 111, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「いやああああああああああ！？！？」"
+msgstr ""
+"夕夜\n"
+"「不要啊啊啊啊啊啊啊啊！？！？」"
+
+#. ID 9, Page 1, Line 1, Pos (12,11)
+#. ID 10, Page 1, Line 1, Pos (12,12)
+#. ID 11, Page 1, Line 1, Pos (12,13)
+msgid "優先席だ。"
+msgstr "老弱病残专座。"
+
+#. ID 12, Page 1, Line 1, Pos (8,11)
+#. ID 13, Page 1, Line 1, Pos (7,11)
+#. ID 14, Page 1, Line 1, Pos (7,14)
+#. ID 15, Page 1, Line 1, Pos (8,14)
+msgid "降りよう。"
+msgstr "下车吧。"
+

@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 415, Page 1, Line 2, Pos (103,11)
+msgid ""
+"狂気のモゲコ\n"
+"「････････････。」"
+msgstr ""
+"疯狂的mogeko\n"
+"「…………。」"
+
+#. ID 415, Page 1, Line 5, Pos (103,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"確実に死にますが\n"
+"狂気を解き放ちますか？"
+msgstr ""
+"确实是死了，\n"
+"要释放它的疯狂吗？"
+
+#. ID 415, Page 1, Line 7, Pos (103,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"是\n"
+"否"
+

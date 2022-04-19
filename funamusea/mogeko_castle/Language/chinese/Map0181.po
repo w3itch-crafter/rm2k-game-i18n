@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (19,9)
+msgid ""
+"モゲコ\n"
+"「うう･･････。」"
+msgstr ""
+"mogeko\n"
+"「呜呜…………。」"
+
+#. ID 2, Page 1, Line 2, Pos (22,11)
+msgid ""
+"モゲコ\n"
+"「苦しい･･･苦しい！\n"
+"　息が･･･息が！！」"
+msgstr ""
+"mogeko\n"
+"「好痛苦……好痛苦！\n"
+"　呼吸……呼吸！！」"
+
+#. ID 3, Page 1, Line 2, Pos (24,11)
+msgid ""
+"モゲコ\n"
+"「喉が･･･つまる･･･」"
+msgstr ""
+"mogeko\n"
+"「嗓子……堵了……」"
+
+#. ID 4, Page 1, Line 2, Pos (22,15)
+msgid ""
+"モゲコ\n"
+"「ああ･･･････。」"
+msgstr ""
+"mogeko\n"
+"「啊啊…………。」"
+
+#. ID 5, Page 1, Line 2, Pos (27,15)
+msgid ""
+"モゲコ\n"
+"「しぬ･･･しぬ･･･。」"
+msgstr ""
+"mogeko\n"
+"「要死……要死……。」"
+
+#. ID 6, Page 1, Line 2, Pos (31,15)
+msgid ""
+"モゲコ\n"
+"「腰が足が頭が腕が痛い痛い痛い痛い」"
+msgstr ""
+"mogeko\n"
+"「腰和腿和头和胳膊疼疼疼疼疼疼疼」"
+
+#. ID 7, Page 1, Line 2, Pos (31,11)
+msgid ""
+"モゲコ\n"
+"「うひひひ」"
+msgstr ""
+"mogeko\n"
+"「呜嘿嘿嘿」"
+
+#. ID 8, Page 1, Line 2, Pos (19,13)
+msgid ""
+"モゲコ\n"
+"「くるしい･･････。」"
+msgstr ""
+"mogeko\n"
+"「好痛苦…………。」"
+
+#. ID 9, Page 1, Line 2, Pos (6,15)
+msgid ""
+"モゲコ\n"
+"「････････。」"
+msgstr ""
+"mogeko\n"
+"「……………。」"
+
+#. ID 10, Page 1, Line 2, Pos (2,13)
+msgid ""
+"モゲコ\n"
+"「死ぬ･･･････。」"
+msgstr ""
+"mogeko\n"
+"「要死…………。」"
+
+#. ID 11, Page 1, Line 2, Pos (26,5)
+#. ID 12, Page 1, Line 2, Pos (31,5)
+msgid ""
+"受付モゲコ\n"
+"「･･･････。」"
+msgstr ""
+"前台mogeko\n"
+"「…………。」"
+
+#. ID 13, Page 1, Line 1, Pos (0,6)
+#. ID 14, Page 1, Line 1, Pos (14,2)
+#. ID 15, Page 1, Line 1, Pos (17,2)
+#. ID 16, Page 1, Line 1, Pos (0,9)
+msgid "木だ。"
+msgstr "树。"
+
+#. ID 31, Page 1, Line 1, Pos (10,1)
+#. ID 32, Page 1, Line 1, Pos (12,1)
+#. ID 33, Page 1, Line 1, Pos (18,1)
+msgid "媚薬の広告だ。"
+msgstr ""
+
+#. ID 34, Page 1, Line 1, Pos (20,2)
+#. ID 35, Page 1, Line 1, Pos (21,2)
+msgid "院長「もげこ」に捧ぐ"
+msgstr "献给院长「mogeko」（平假名）"
+
+#. ID 40, Page 1, Line 2, Pos (10,4)
+msgid ""
+"モゲコ\n"
+"「うう････ッッ！友達が･･･\n"
+"　花粉症で昨日･･･死んで･････。」"
+msgstr ""
+"mogeko\n"
+"「呜呜……！我朋友……\n"
+"　昨天因为花粉症……死了………。」"
+

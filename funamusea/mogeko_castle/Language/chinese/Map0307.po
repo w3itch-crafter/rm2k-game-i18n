@@ -1,0 +1,312 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (8,8)
+#. ID 1, Page 2, Line 2, Pos (8,8)
+msgid ""
+"受付\n"
+"「はーい！こちら受付になります」"
+msgstr ""
+"前台\n"
+"「你好！这里是咨询台」"
+
+#. ID 1, Page 1, Line 4, Pos (8,8)
+msgid ""
+"受付\n"
+"「おや？免罪符をお持ちで\n"
+"　ないのですね････。」"
+msgstr ""
+"前台\n"
+"「哦呀？你身上没有\n"
+"  拿着免罪符嘛……。」"
+
+#. ID 1, Page 1, Line 7, Pos (8,8)
+msgid ""
+"受付\n"
+"「ハスハスキーを助けませんでしたか…」"
+msgstr ""
+"前台\n"
+"「救不了hshski吗…」"
+
+#. ID 1, Page 2, Line 4, Pos (8,8)
+msgid ""
+"受付\n"
+"「おや？免罪符をお持ちですね？」"
+msgstr ""
+"前台\n"
+"「哦呀？原来你身上拿着免罪符啊……。」"
+
+#. ID 1, Page 2, Line 6, Pos (8,8)
+msgid ""
+"受付\n"
+"「こちらを使用されますか？\n"
+"（※もしかしたらエンディングが\n"
+"　変わるかもしれません）」"
+msgstr ""
+"前台\n"
+"「要在这里使用免罪符嘛？\n"
+"（※使用之后\n"
+"　也许会改变结局）」"
+
+#. ID 1, Page 2, Line 11, Pos (8,8)
+#. Choice (2 options)
+#. ID 3, Page 1, Line 5, Pos (11,8)
+#. Choice (2 options, embedded in a message)
+#. ID 3, Page 2, Line 8, Pos (11,8)
+#. Choice (2 options)
+#. ID 3, Page 3, Line 6, Pos (11,8)
+#. Choice (2 options)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+
+#. ID 1, Page 2, Line 14, Pos (8,8)
+msgid ""
+"受付\n"
+"「はーい！\n"
+"　受理しておきまーす！」"
+msgstr ""
+"前台\n"
+"「好的！\n"
+"　接受您的委托！」"
+
+#. ID 1, Page 2, Line 19, Pos (8,8)
+msgid "免罪符を使った！"
+msgstr "使用了免罪符！"
+
+#. ID 1, Page 3, Line 2, Pos (8,8)
+msgid ""
+"受付\n"
+"「それでは扉のほうへどうぞ！」"
+msgstr ""
+"前台\n"
+"「请走进这扇门！」"
+
+#. ID 3, Page 1, Line 2, Pos (11,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"モゲコ\n"
+"「免罪符の入手場所、聞きたいもげ？」"
+msgstr ""
+"mogeko\n"
+"「想听听可以从哪里得到免罪符吗moge？」"
+
+#. ID 3, Page 1, Line 8, Pos (11,8)
+msgid ""
+"モゲコ\n"
+"「4階のねー、もげ子から逃げたあとの\n"
+"　小部屋！」"
+msgstr ""
+"mogeko\n"
+"「在四楼，从moge子那里逃跑的\n"
+"　小房间里！」"
+
+#. ID 3, Page 1, Line 11, Pos (11,8)
+msgid ""
+"モゲコ\n"
+"「あそこでねー、\n"
+"　ハスハスキー助けるの！」"
+msgstr ""
+"mogeko\n"
+"「在那里\n"
+"　可以救hshski！」"
+
+#. ID 3, Page 1, Line 14, Pos (11,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"モゲコ\n"
+"「おっけー？」"
+msgstr ""
+"mogeko\n"
+"「还要再说一遍吗？」"
+
+#. ID 3, Page 1, Line 17, Pos (11,8)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"はい\n"
+"おい今更言うなよ"
+msgstr ""
+"想\n"
+"不想"
+
+#. ID 3, Page 1, Line 22, Pos (11,8)
+msgid ""
+"モゲコ\n"
+"「ちゃんとすみずみまで調べなかった\n"
+"　キミが悪いもぉーん」"
+msgstr ""
+"mogeko\n"
+"「根本没有好好地在角角落落\n"
+"  都调查一遍嘛！你是笨蛋吗」"
+
+#. ID 3, Page 1, Line 26, Pos (11,8)
+#. Choice (2 options)
+msgid ""
+"･････。\n"
+"あ゛？殺されてえのか？"
+msgstr ""
+"……。\n"
+"嘎啊？杀了你哦？"
+
+#. ID 3, Page 1, Line 31, Pos (11,8)
+msgid ""
+"モゲコ\n"
+"「すっ、すいません！これあげるので\n"
+"　許して下さい！！」"
+msgstr ""
+"mogeko\n"
+"「对、对不起啦！我我把这个给你\n"
+"　你就放过我吧！！」"
+
+#. ID 3, Page 1, Line 36, Pos (11,8)
+msgid "免罪符を手に入れた！"
+msgstr "入手了免罪符！"
+
+#. ID 3, Page 2, Line 2, Pos (11,8)
+msgid ""
+"モゲコ\n"
+"「免罪符使うのは隣ね！」"
+msgstr ""
+"mogeko\n"
+"「请在隔壁使用免罪符！」"
+
+#. ID 3, Page 2, Line 4, Pos (11,8)
+#. ID 3, Page 3, Line 2, Pos (11,8)
+msgid ""
+"モゲコ\n"
+"「エンディングってどういう基準で\n"
+"　分かれてるのか聞く？」"
+msgstr ""
+"mogeko\n"
+"「你想知道不同结局的\n"
+"　不同要素吗？」"
+
+#. ID 3, Page 2, Line 11, Pos (11,8)
+#. ID 3, Page 3, Line 9, Pos (11,8)
+msgid ""
+"モゲコ\n"
+"「7匹の特別なモゲコを\n"
+"　4匹以上殺したらED変わるよ！」"
+msgstr ""
+"mogeko\n"
+"「如果那七只特殊的mogeko中\n"
+"　你杀了四只以上就会改变ED了！」"
+
+#. ID 3, Page 2, Line 14, Pos (11,8)
+#. ID 3, Page 3, Line 12, Pos (11,8)
+msgid ""
+"モゲコ\n"
+"「免罪符はそれをなかったことに\n"
+"　するもげ！」"
+msgstr ""
+"mogeko\n"
+"「如果有免罪符的话，\n"
+"　就可以抵消这一条件moge！」"
+
+#. ID 3, Page 2, Line 17, Pos (11,8)
+#. ID 3, Page 3, Line 15, Pos (11,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"モゲコ\n"
+"「まったく、都合のいいアイテムだぜ」"
+msgstr ""
+"mogeko\n"
+"「真是的，这个道具还真是好用诶对不对」"
+
+#. ID 3, Page 3, Line 18, Pos (11,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"おっけー\n"
+"一匹も殺してないんだけど"
+msgstr ""
+"太好了\n"
+"一只都没有杀掉"
+
+#. ID 3, Page 3, Line 23, Pos (11,8)
+msgid ""
+"モゲコ\n"
+"「じゃあノーマルエンドは見れないね！\n"
+"　どんまーい！」"
+msgstr ""
+"mogeko\n"
+"「那么普通结局你就看不到了呢！\n"
+"　嘛~Don't mind！」"
+
+#. ID 3, Page 3, Line 27, Pos (11,8)
+#. Choice (2 options)
+msgid ""
+"わかった。\n"
+"お前を殺したらどうなるの？"
+msgstr ""
+"明白了。\n"
+"把你杀掉的话会怎么样呢？"
+
+#. ID 3, Page 3, Line 32, Pos (11,8)
+msgid ""
+"モゲコ\n"
+"「僕はちょっと特別なモゲコだから」"
+msgstr ""
+"mogeko\n"
+"「我是稍稍有点儿特别的mogeko」"
+
+#. ID 3, Page 3, Line 34, Pos (11,8)
+msgid ""
+"モゲコ\n"
+"「殺されたら7匹のモゲコぶんの罪に\n"
+"　なるんじゃないかなあ」"
+msgstr ""
+"mogeko\n"
+"「如果杀掉我的话就相当于犯了\n"
+"　杀掉7只特殊mogeko一样的罪恶哦」"
+
+#. ID 3, Page 3, Line 38, Pos (11,8)
+#. Choice (2 options)
+msgid ""
+"へえ。まあどうでもいいや\n"
+"そうか。ならば死ね！"
+msgstr ""
+"诶。算了怎样都好啦\n"
+"这样啊。那就去死吧！"
+
+#. ID 3, Page 3, Line 43, Pos (11,8)
+msgid ""
+"モゲコ\n"
+"「え？\n"
+"　ちょ･･･待」"
+msgstr ""
+"mogeko\n"
+"「诶？\n"
+"　等……请稍等一下」"
+
+#. ID 3, Page 3, Line 55, Pos (11,8)
+msgid "ヨナカは罪を背負った！"
+msgstr "夕夜犯下了罪恶！"
+
+#. ID 7, Page 1, Line 1, Pos (8,46)
+msgid "『廊下は走らないで下さい』"
+msgstr "『请不要在走廊上奔跑』"
+
+#. ID 18, Page 1, Line 1, Pos (11,36)
+msgid "『ここは禁煙です』"
+msgstr "『此处禁烟』"
+
+#. ID 19, Page 1, Line 1, Pos (8,26)
+msgid "『電車は、嫌い･･･。』"
+msgstr "『电车，真讨厌啊……。』"
+
+#. ID 21, Page 1, Line 1, Pos (8,65)
+#. ID 22, Page 1, Line 1, Pos (9,65)
+#. ID 23, Page 1, Line 1, Pos (10,65)
+#. ID 24, Page 1, Line 1, Pos (11,65)
+msgid "こちらは進むべき道ではない。"
+msgstr "这里不是该去的道路。"
+

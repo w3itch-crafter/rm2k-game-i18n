@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 1, Pos (8,8)
+msgid "手紙が置いてある。"
+msgstr "有封信。"
+
+#. ID 4, Page 1, Line 2, Pos (8,8)
+msgid ""
+"『この手紙を読んでくれた人へ\n"
+"　あなたがこれを読む頃には、俺はもうこの世には\n"
+"　いないだろう。"
+msgstr ""
+"『给在看这封信的人。\n"
+"　当你看到这封信的时候，\n"
+"　我想我已经不在人世了吧。"
+
+#. ID 4, Page 1, Line 5, Pos (8,8)
+msgid ""
+"　だから一つだけ忠告させてくれ。\n"
+"　この城は危険だ。\n"
+"　なんとしてでも脱出するんだ。"
+msgstr ""
+"　所以给你一个忠告。\n"
+"　这座城堡很危险。\n"
+"　无论如何都要离开这里。"
+
+#. ID 4, Page 1, Line 8, Pos (8,8)
+msgid ""
+"　ちゃんと脱出しなければ、永遠にモゲコの手から\n"
+"　逃れることはできないだろう･･･。\n"
+"　奴らは執念深い。"
+msgstr ""
+"　如果不能成功逃离的话，\n"
+"　就会永远被mogeko玩弄于鼓掌之间…。\n"
+"　那些家伙很执着的。"
+
+#. ID 4, Page 1, Line 11, Pos (8,8)
+msgid ""
+"　不思議なことに、奴らは、俺が何処に隠れても\n"
+"　追いかけてくる。隠れても隠れても\n"
+"　居場所を突き止められてしまう。"
+msgstr ""
+"　很不可思议。\n"
+"　无论我躲在哪里，那些家伙都会追来。\n"
+"　不管我怎么躲，那些家伙都能找到我。"
+
+#. ID 4, Page 1, Line 14, Pos (8,8)
+msgid ""
+"　奴らを殺しても殺しても殺しても･･･キリがない。\n"
+"　次々と沸いて出てくる。\n"
+"　これは俺の予想にすぎないが、奴らは恐らく――"
+msgstr ""
+"　即使我一直杀、一直杀…都无法把它们赶尽杀绝。\n"
+"　它们依旧会不停地出现。\n"
+"　我推测，那些家伙应该是……"
+
+#. ID 4, Page 1, Line 17, Pos (8,8)
+msgid ""
+"　おっと。もう奴らが来てしまったようだ。\n"
+"　無駄だとわかっていても、俺は逃げることにする。\n"
+"　動けるうちは･･･"
+msgstr ""
+"　糟了。看来它们已经来了。\n"
+"　虽然是白费力气，但我也要逃了。\n"
+"　趁我还跑得动…"
+
+#. ID 4, Page 1, Line 20, Pos (8,8)
+msgid ""
+"　ああ、最後に娘に別れを言いたかった･･･\n"
+"　こんな父親ですまない･･･\n"
+"　愛している･･･。　　　　　　　　　　Ｓ．Ｂ　　』"
+msgstr ""
+"　啊啊，最后很想跟女儿道别啊…\n"
+"　真抱歉，让你有这样不称职的父亲…\n"
+"　我爱你…。　　　　　　　　　　Ｓ．Ｂ　　』"
+
+#. ID 5, Page 1, Line 1, Pos (9,7)
+#. ID 6, Page 1, Line 1, Pos (10,7)
+#. ID 7, Page 1, Line 1, Pos (11,7)
+#. ID 8, Page 1, Line 1, Pos (12,7)
+#. ID 9, Page 1, Line 1, Pos (13,7)
+#. ID 10, Page 1, Line 1, Pos (14,7)
+#. ID 11, Page 1, Line 1, Pos (9,4)
+#. ID 12, Page 1, Line 1, Pos (8,4)
+#. ID 13, Page 1, Line 1, Pos (10,4)
+#. ID 14, Page 1, Line 1, Pos (11,4)
+#. ID 15, Page 1, Line 1, Pos (12,4)
+#. ID 16, Page 1, Line 1, Pos (13,4)
+#. ID 17, Page 1, Line 1, Pos (15,4)
+#. ID 18, Page 1, Line 1, Pos (14,4)
+#. ID 19, Page 1, Line 1, Pos (16,4)
+#. ID 20, Page 1, Line 1, Pos (17,4)
+#. ID 21, Page 1, Line 1, Pos (14,1)
+#. ID 22, Page 1, Line 1, Pos (13,1)
+#. ID 23, Page 1, Line 1, Pos (12,1)
+#. ID 24, Page 1, Line 1, Pos (11,1)
+#. ID 25, Page 1, Line 1, Pos (10,1)
+#. ID 26, Page 1, Line 1, Pos (9,1)
+#. ID 27, Page 1, Line 1, Pos (8,1)
+#. ID 28, Page 1, Line 1, Pos (7,1)
+#. ID 29, Page 1, Line 1, Pos (5,9)
+#. ID 30, Page 1, Line 1, Pos (4,9)
+#. ID 31, Page 1, Line 1, Pos (4,8)
+#. ID 32, Page 1, Line 1, Pos (5,8)
+msgid "こっちを見ているような気がする･･･。"
+msgstr "好像在看着这边。"
+
+#. ID 33, Page 1, Line 1, Pos (8,10)
+#. ID 34, Page 1, Line 1, Pos (11,11)
+#. ID 35, Page 1, Line 1, Pos (8,12)
+#. ID 36, Page 1, Line 1, Pos (1,8)
+#. ID 37, Page 1, Line 1, Pos (18,7)
+#. ID 38, Page 1, Line 1, Pos (16,9)
+#. ID 39, Page 1, Line 1, Pos (2,10)
+#. ID 40, Page 1, Line 1, Pos (5,11)
+#. ID 41, Page 1, Line 1, Pos (11,13)
+#. ID 42, Page 1, Line 1, Pos (14,11)
+#. ID 43, Page 1, Line 1, Pos (13,12)
+msgid "腐臭がする。"
+msgstr "散发着腐臭。"
+

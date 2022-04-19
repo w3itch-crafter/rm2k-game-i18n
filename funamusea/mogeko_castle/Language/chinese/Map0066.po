@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 1, Pos (8,9)
+msgid "日記の切れ端が落ちている。"
+msgstr "地上有一页日记。"
+
+#. ID 2, Page 1, Line 2, Pos (8,9)
+msgid ""
+"『この城を建設してからどれほどの\n"
+"　時が経ったのであろうか･･･"
+msgstr ""
+"『这座城堡距离完工\n"
+"　已经过了多久了呢…"
+
+#. ID 2, Page 1, Line 4, Pos (8,9)
+msgid ""
+"　この城全部もげたんが作ったんだ！\n"
+"　すごくね！？\n"
+"　もげたんまじ天才もげ！！"
+msgstr ""
+"　这座城堡全都是由moge酱建的哦！\n"
+"　很厉害吧！？\n"
+"　moge酱真是天才moge！！"
+
+#. ID 2, Page 1, Line 8, Pos (8,9)
+msgid ""
+"ヨナカ\n"
+"「あー、\\.\\.だから内装とか色々めちゃくちゃ\n"
+"　なんだこの城みたいな建物。」"
+msgstr ""
+"夕夜\n"
+"「啊——\\.\\.所以内部装潢才这么奇葩。」"
+
+#. ID 2, Page 1, Line 12, Pos (8,9)
+#, fuzzy
+msgid ""
+"　この城は夢と希望を育む、\n"
+"　素晴らしい場所となるだろう\n"
+"　勿論もげたんのための。"
+msgstr ""
+"　这座城堡将会成为培育梦想及希望的\n"
+"　美好的地方吧。\n"
+"　当然一切都是为了moge酱哦。"
+
+#. ID 2, Page 1, Line 15, Pos (8,9)
+#, fuzzy
+msgid ""
+"　ここでなら何だってできる･･･\n"
+"　もげたんは此処でなら全てを統べる\n"
+"　偉大なる王となる･･･"
+msgstr ""
+"　在这里什么都可以做到…\n"
+"　moge酱将会成为可支配一切的\n"
+"　伟大的国王…"
+
+#. ID 2, Page 1, Line 18, Pos (8,9)
+#, fuzzy
+msgid ""
+"　もげたんこそ史上最強なり！\n"
+"　そうだ、この世界にお客さんを呼ぼう！\n"
+"　そして○○○にするんだ！"
+msgstr ""
+"　moge酱才是史上最强的！\n"
+"　对了，邀请客人来这个世界吧！\n"
+"　然后对她○○○！"
+
+#. ID 2, Page 1, Line 21, Pos (8,9)
+#, fuzzy
+msgid ""
+"　ナニしようかなぁ･･･ぐへへへ\n"
+"　またいつもの妄想癖が　げへへ\n"
+"　楽しみだなぁ"
+msgstr ""
+"　要做什么好呢……咕嘿嘿\n"
+"　又开始愉快地脑补了　咕嘿嘿\n"
+"　好期待啊"
+
+#. ID 2, Page 1, Line 24, Pos (8,9)
+#, fuzzy
+msgid ""
+"　なんだってできる･･･\n"
+"　○を○○○ることだって\n"
+"　○に○○○を○○○ことだって･･･"
+msgstr ""
+"　什么都可以做…\n"
+"　对○做○○○也可以\n"
+"　把○，○○○了再○○○也可以…"
+
+#. ID 2, Page 1, Line 27, Pos (8,9)
+#, fuzzy
+msgid ""
+"　げへへへへへ！！！！\n"
+"　さぁて、ショーのはじまりだ！　　　』"
+msgstr ""
+"　叽嘿嘿嘿嘿嘿嘿！！！！\n"
+"　那么，SHOW开始了噢！　　　』"
+
+#. ID 3, Page 1, Line 1, Pos (9,4)
+#. ID 4, Page 1, Line 1, Pos (6,6)
+#. ID 5, Page 1, Line 1, Pos (5,6)
+#. ID 6, Page 1, Line 1, Pos (12,4)
+#. ID 7, Page 1, Line 1, Pos (9,13)
+#. ID 8, Page 1, Line 1, Pos (4,9)
+#. ID 9, Page 1, Line 1, Pos (6,11)
+msgid "腐った肉のにおいがする。"
+msgstr "传来腐烂的肉的臭味。"
+
+#. ID 10, Page 1, Line 1, Pos (7,12)
+#. ID 11, Page 1, Line 1, Pos (5,9)
+#. ID 12, Page 1, Line 1, Pos (5,10)
+#. ID 13, Page 1, Line 1, Pos (4,6)
+#. ID 14, Page 1, Line 1, Pos (7,6)
+#. ID 16, Page 1, Line 1, Pos (7,5)
+#. ID 17, Page 1, Line 1, Pos (8,4)
+msgid "腐臭がする。"
+msgstr "散发着腐臭。"
+
+#. ID 15, Page 1, Line 2, Pos (2,7)
+msgid ""
+"モゲコ\n"
+"「ハァッ･･･ハァッ･･･\n"
+"　ﾄﾞｩﾌﾌ･･･ウッ！！」"
+msgstr ""
+"mogeko\n"
+"「哈…哈…\n"
+"　噜呼呼…呜！！」"
+
+#. ID 18, Page 1, Line 2, Pos (17,13)
+msgid ""
+"モゲコ\n"
+"「斧でぶった切られるのは、痛いもげ！」"
+msgstr ""
+"mogeko\n"
+"「被斧头砍死是很痛的moge！」"
+

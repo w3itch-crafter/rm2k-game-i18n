@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Line 3
+msgid "生ハムを手に入れた！"
+msgstr "得到了生火腿！"
+
+#. ID 2, Line 3
+msgid "ペペロンチーノを手に入れた！"
+msgstr "得到了意式香辣面！"
+
+#. ID 3, Line 3
+msgid "トウガラシを手に入れた！"
+msgstr "得到了辣椒！"
+
+#. ID 4, Line 3
+msgid "ミネストローネを手に入れた！"
+msgstr "得到了浓菜汤！"
+
+#. ID 5, Line 3
+msgid "鴨肉を手に入れた！"
+msgstr "得到了鸭肉！"
+
+#. ID 6, Line 3
+msgid ""
+"ポテト（Ｌ）を手に入れた！\n"
+"揚げたてカリッ♪"
+msgstr ""
+"得到了马铃薯（L）！\n"
+"是刚炸好的吗？"
+
+#. ID 7, Line 3
+msgid "サーモンを手に入れた！"
+msgstr "得到了鲑鱼！"
+
+#. ID 8, Line 3
+msgid "ポテチ（のりしお）を手に入れた！"
+msgstr "得到了薯片（海苔味）！"
+
+#. ID 11, Line 3
+msgid "うすい本を手に入れた！"
+msgstr "得到了薄薄的书！"
+
+#. ID 12, Line 3
+msgid "へそくり1000円を手に入れた！"
+msgstr "得到了1000日元！"
+
+#. ID 13, Line 3
+msgid "怖い本を手に入れた！"
+msgstr "得到了恐怖的书！"
+
+#. ID 14, Line 3
+msgid "チョコレートを手に入れた！"
+msgstr "得到了巧克力！"
+
+#. ID 15, Line 3
+msgid "モゲの絵本を手に入れた！"
+msgstr "得到了moge的故事书！"
+
+#. ID 16, Line 3
+msgid "飴ちゃんを手に入れた！"
+msgstr "得到了糖果！"
+
+#. ID 17, Line 3
+msgid "すけべな薬を手に入れた！"
+msgstr "得到了好色的药！"
+
+#. ID 18, Line 3
+msgid "鶏肉料理本を手に入れた！"
+msgstr "得到了鸡肉料理书！"
+
+#. ID 19, Line 3
+msgid "ヨナカのパンツを手に入れた！"
+msgstr "得到了夕夜的内裤！"
+

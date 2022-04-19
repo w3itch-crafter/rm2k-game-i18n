@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 12, Page 1, Line 8, Pos (0,69)
+msgid ""
+"遠くにいるモゲコ\n"
+"「いたぞー！あっちだー！」"
+msgstr ""
+"远方的mogeko\n"
+"「找到他们啦——！就在那——！」"
+
+#. ID 12, Page 1, Line 14, Pos (0,69)
+msgid ""
+"異端モゲコ\n"
+"「嬢ちゃん！\n"
+"　さっきワープを邪魔されちまったが」"
+msgstr ""
+"异端mogeko\n"
+"「小姐！\n"
+"　虽然刚刚的瞬移传送被阻拦了」"
+
+#. ID 12, Page 1, Line 17, Pos (0,69)
+msgid ""
+"異端モゲコ\n"
+"「ここは７階に通じる場所のすぐ\n"
+"　近くだ！」"
+msgstr ""
+"异端mogeko\n"
+"「但是这里离通往7楼的道路\n"
+"　很近了！」"
+
+#. ID 12, Page 1, Line 20, Pos (0,69)
+msgid ""
+"異端モゲコ\n"
+"「こうなったら俺も意地だ\n"
+"　奴等には絶対負けねえ。」"
+msgstr ""
+"异端mogeko\n"
+"「既然事已至此我也不管了，\n"
+"　我拼了命都绝对不要输给那些家伙。」"
+
+#. ID 12, Page 1, Line 23, Pos (0,69)
+msgid ""
+"異端モゲコ\n"
+"「全力で逃げるぞ！」"
+msgstr ""
+"异端mogeko\n"
+"「用尽全力逃走吧！」"
+
+#. ID 12, Page 1, Line 26, Pos (0,69)
+msgid ""
+"ヨナカ\n"
+"「わかりました！\n"
+"　この場でセーブしときましょう！」"
+msgstr ""
+"夕夜\n"
+"「我知道了！\n"
+"　在这里先存个档吧！」"
+
+#. ID 12, Page 1, Line 30, Pos (0,69)
+msgid ""
+"異端モゲコ\n"
+"「････何が？」"
+msgstr ""
+"异端mogeko\n"
+"「……哈啊？」"
+
+#. ID 12, Page 1, Line 33, Pos (0,69)
+msgid ""
+"迫りくるモゲコ\n"
+"「逃がすなー！追えー！！」"
+msgstr ""
+"迫近的mogeko\n"
+"「不许逃——！追啊——！！」"
+
+#. ID 251, Page 1, Line 4, Pos (36,13)
+#. ID 252, Page 1, Line 4, Pos (36,14)
+msgid ""
+"モゲコ\n"
+"「ねえねえ　逃げれると思うの？\n"
+"　もげたんから？もげもげもげもげ♪」"
+msgstr ""
+"mogeko\n"
+"「呐呐，你们觉得可以从\n"
+"  我们手心里逃掉吗？mogemoge(音符)」"
+
+#. ID 255, Page 1, Line 4, Pos (75,58)
+#. ID 256, Page 1, Line 4, Pos (76,58)
+msgid ""
+"モゲコ\n"
+"「もげげ　はすはす\n"
+"　逃がさないからねぇ♪もげげ」」"
+msgstr ""
+"mogeko\n"
+"「mogege，hshs，\n"
+"　才不会让你们逃掉呢(音符)mogege」"
+

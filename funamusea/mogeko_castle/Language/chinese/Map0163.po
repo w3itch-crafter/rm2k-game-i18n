@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 1, Pos (8,9)
+#. ID 3, Page 1, Line 1, Pos (10,12)
+#. ID 4, Page 1, Line 1, Pos (13,10)
+#. ID 5, Page 1, Line 1, Pos (10,7)
+#. ID 6, Page 1, Line 1, Pos (14,8)
+#. ID 7, Page 1, Line 1, Pos (15,8)
+#. ID 8, Page 1, Line 1, Pos (16,8)
+#. ID 9, Page 1, Line 1, Pos (17,8)
+#. ID 10, Page 1, Line 1, Pos (12,7)
+msgid "骨が入っている。"
+msgstr "里面放着骨头。"
+
+#. ID 11, Page 1, Line 2, Pos (10,8)
+msgid ""
+"モゲコ\n"
+"「わああああああああああ！！！」"
+msgstr ""
+"mogeko\n"
+"「哇啊啊啊啊啊啊啊啊啊啊！！！」"
+
+#. ID 11, Page 1, Line 4, Pos (10,8)
+msgid ""
+"モゲコ\n"
+"「もうほっといてよ！！」"
+msgstr ""
+"mogeko\n"
+"「别管我了啦！！」"
+
+#. ID 11, Page 1, Line 6, Pos (10,8)
+msgid ""
+"モゲコ\n"
+"「わあああああああ！！！」"
+msgstr ""
+"mogeko\n"
+"「哇啊啊啊啊啊啊啊！！！」"
+
+#. ID 11, Page 1, Line 8, Pos (10,8)
+msgid ""
+"モゲコ\n"
+"「ううっ･･･ぐすっ･･･えぐっ･･･」"
+msgstr ""
+"mogeko\n"
+"「呜呜……呜呃……呃……」"
+
+#. ID 11, Page 1, Line 10, Pos (10,8)
+msgid ""
+"モゲコ\n"
+"「なんで生きてるんだ･･･\n"
+"　なんで生まれてきたんだ･･･！」"
+msgstr ""
+"mogeko\n"
+"「为什么活着……\n"
+"　为什么活着啊……！」"
+
+#. ID 11, Page 1, Line 13, Pos (10,8)
+msgid ""
+"モゲコ\n"
+"「わあああああああああ･････」"
+msgstr ""
+"mogeko\n"
+"「哇啊啊啊啊啊啊啊啊啊………」"
+

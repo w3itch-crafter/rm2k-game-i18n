@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (2,27)
+msgid ""
+"異端モゲコ\n"
+"「････････････。」"
+msgstr ""
+"异端mogeko\n"
+"「……………………。」"
+
+#. ID 1, Page 1, Line 5, Pos (2,27)
+msgid ""
+"異端モゲコ\n"
+"「マスク持ってくれば良かったな」"
+msgstr ""
+"异端mogeko\n"
+"「如果带口罩过来就好了」"
+
+#. ID 1, Page 1, Line 8, Pos (2,27)
+msgid ""
+"ヨナカ\n"
+"「え？」"
+msgstr ""
+"夕夜\n"
+"「诶？」"
+
+#. ID 1, Page 1, Line 11, Pos (2,27)
+msgid ""
+"異端モゲコ\n"
+"「ここから先、\\.\\.くさいから。\\.\\.\\.\n"
+"　腐臭で。」"
+msgstr ""
+"异端mogeko\n"
+"「前面\\.\\.有难闻的\\.\\.\\.\n"
+"　腐臭味。」"
+
+#. ID 1, Page 1, Line 16, Pos (2,27)
+msgid ""
+"ヨナカ\n"
+"「･\\.\\.･\\.\\.･\\.\\.･\\.\\.･\\.\\.･\\.\\.･\\.\\.･\\.\\.。」"
+msgstr ""
+"夕夜\n"
+"「…\\.\\.…\\.\\.…\\.\\.。」"
+
+#. ID 2, Page 1, Line 3, Pos (34,3)
+msgid ""
+"異端モゲコ\n"
+"「もげ子････いないな･･･\n"
+"　いや、油断はできん････。」"
+msgstr ""
+"异端mogeko\n"
+"「moge子……不在啊……\n"
+"　但是也不能大意啊……。」"
+
+#. ID 2, Page 1, Line 6, Pos (34,3)
+msgid ""
+"異端モゲコ\n"
+"「もしかしたらもう気付かれているのかも\n"
+"　しれないし」"
+msgstr ""
+"异端mogeko\n"
+"「说不定他已经注意到我们了呢」"
+
+#. ID 2, Page 1, Line 9, Pos (34,3)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「気付かれていないかもしれない」"
+msgstr ""
+"异端mogeko\n"
+"「也可能没注意到」"
+
+#. ID 2, Page 1, Line 11, Pos (34,3)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「奴は何を仕出かすか･･･わからん･･･。」"
+msgstr ""
+"异端mogeko\n"
+"「不知道那家伙会出什么花招……。」"
+
+#. ID 8, Page 1, Line 2, Pos (7,1)
+msgid ""
+"モゲコ\n"
+"「」"
+msgstr ""
+"mogeko\n"
+"「」"
+

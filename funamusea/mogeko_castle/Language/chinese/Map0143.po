@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 17, Page 1, Line 2, Pos (8,13)
+msgid ""
+"異端モゲコ\n"
+"「こっちだ。」"
+msgstr ""
+"异端mogeko\n"
+"「这边。」"
+
+#. ID 18, Page 1, Line 3, Pos (9,13)
+msgid ""
+"ヨナカ\n"
+"「･･････････････････。」"
+msgstr ""
+"夕夜\n"
+"「………………………………。」"
+
+#. ID 18, Page 1, Line 6, Pos (9,13)
+msgid ""
+"異端モゲコ\n"
+"「おい、大丈夫か？」"
+msgstr ""
+"异端mogeko\n"
+"「喂，没事吧？」"
+
+#. ID 18, Page 1, Line 9, Pos (9,13)
+msgid ""
+"ヨナカ\n"
+"「は、はい･･･なんとか･･･。」"
+msgstr ""
+"夕夜\n"
+"「还、还……还算好……。」"
+
+#. ID 18, Page 1, Line 12, Pos (9,13)
+msgid ""
+"異端モゲコ\n"
+"「しっかりしろ」"
+msgstr ""
+"异端mogeko\n"
+"「振作一点」"
+
+#. ID 18, Page 1, Line 14, Pos (9,13)
+msgid ""
+"異端モゲコ\n"
+"「この階だけエレベーターがついている\n"
+"　上に行くにはそこの扉の向こうだ」"
+msgstr ""
+"异端mogeko\n"
+"「只有这层有电梯，\n"
+"　上楼的电梯就在那扇门的对面」"
+
+#. ID 18, Page 1, Line 20, Pos (9,13)
+msgid ""
+"ヨナカ\n"
+"「この階だけ？！」"
+msgstr ""
+"夕夜\n"
+"「只有这层？！」"
+
+#. ID 18, Page 1, Line 23, Pos (9,13)
+msgid ""
+"異端モゲコ\n"
+"「もげ子が作るよう命令したらしい」"
+msgstr ""
+"异端mogeko\n"
+"「貌似是moge子下达命令而安装的」"
+
+#. ID 18, Page 1, Line 26, Pos (9,13)
+msgid ""
+"ヨナカ\n"
+"「すごい独裁社会ですね･････。」"
+msgstr ""
+"夕夜\n"
+"「真是独裁主义………。」"
+
+#. ID 18, Page 1, Line 29, Pos (9,13)
+msgid ""
+"ヨナカ\n"
+"「でも良かった･･･\\.\\.なんとか、\\.\\.その、\\.\\.\n"
+"　もげ子さんにも会わずに先に進め――」"
+msgstr ""
+"夕夜\n"
+"「不过太好了…\\.\\.总算是\\.\\.找到了，\\.\\.\n"
+"　那么在moge子发现之前赶紧走吧」"
+
+#. ID 18, Page 1, Line 36, Pos (9,13)
+msgid ""
+"？？？\n"
+"「呼んだ～～？？」"
+msgstr ""
+"？？？\n"
+"「在叫我么～～？？」"
+
+#. ID 18, Page 1, Line 41, Pos (9,13)
+msgid ""
+"ヨナカ\n"
+"「！？」"
+msgstr ""
+"夕夜\n"
+"「！？」"
+
+#. ID 20, Page 1, Line 1, Pos (18,87)
+msgid "今はまっすぐ進もう。"
+msgstr "现在就一路向前冲吧。"
+
+#. ID 21, Page 1, Line 1, Pos (9,91)
+#. ID 119, Page 1, Line 1, Pos (9,90)
+msgid ""
+"『ああ\n"
+"　全てのモゲコよ\n"
+"　血に還り給え　』"
+msgstr ""
+"『啊啊\n"
+"　所有的mogeko哟\n"
+"　回归成为血液吧　』"
+
+#. ID 22, Page 1, Line 1, Pos (6,93)
+#. ID 23, Page 1, Line 1, Pos (12,93)
+#. ID 24, Page 1, Line 1, Pos (3,55)
+#. ID 25, Page 1, Line 1, Pos (14,55)
+#. ID 26, Page 1, Line 1, Pos (3,26)
+#. ID 27, Page 1, Line 1, Pos (15,26)
+#. ID 107, Page 1, Line 1, Pos (15,25)
+#. ID 108, Page 1, Line 1, Pos (3,25)
+#. ID 111, Page 1, Line 1, Pos (14,54)
+#. ID 112, Page 1, Line 1, Pos (3,54)
+#. ID 115, Page 1, Line 1, Pos (12,92)
+#. ID 116, Page 1, Line 1, Pos (15,94)
+#. ID 117, Page 1, Line 1, Pos (6,92)
+#. ID 118, Page 1, Line 1, Pos (3,94)
+msgid ""
+"腐っている。\n"
+"死んでから随分経つようだ。"
+msgstr ""
+"已经腐烂了。\n"
+"好像死了很久的样子。"
+
+#. ID 28, Page 1, Line 2, Pos (9,81)
+msgid ""
+"異端モゲコ\n"
+"「こりゃひどいな･･･」"
+msgstr ""
+"异端mogeko\n"
+"「这还真是残酷啊……」"
+
+#. ID 29, Page 1, Line 1, Pos (2,85)
+#. ID 30, Page 1, Line 1, Pos (2,84)
+#. ID 31, Page 1, Line 1, Pos (16,85)
+#. ID 32, Page 1, Line 1, Pos (16,84)
+#. ID 33, Page 1, Line 1, Pos (16,76)
+#. ID 35, Page 1, Line 1, Pos (2,76)
+#. ID 37, Page 1, Line 1, Pos (16,61)
+#. ID 39, Page 1, Line 1, Pos (2,61)
+#. ID 41, Page 1, Line 1, Pos (5,49)
+#. ID 43, Page 1, Line 1, Pos (13,49)
+#. ID 45, Page 1, Line 1, Pos (16,43)
+#. ID 47, Page 1, Line 1, Pos (2,43)
+#. ID 49, Page 1, Line 1, Pos (2,32)
+#. ID 51, Page 1, Line 1, Pos (16,32)
+#. ID 53, Page 1, Line 1, Pos (2,20)
+#. ID 56, Page 1, Line 1, Pos (16,20)
+#. ID 57, Page 1, Line 1, Pos (3,95)
+#. ID 58, Page 1, Line 1, Pos (15,95)
+#. ID 59, Page 1, Line 1, Pos (5,69)
+#. ID 60, Page 1, Line 1, Pos (13,69)
+#. ID 61, Page 1, Line 1, Pos (14,37)
+#. ID 62, Page 1, Line 1, Pos (4,37)
+#. ID 120, Page 1, Line 1, Pos (16,75)
+#. ID 121, Page 1, Line 1, Pos (2,75)
+#. ID 122, Page 1, Line 1, Pos (5,68)
+#. ID 123, Page 1, Line 1, Pos (13,68)
+#. ID 124, Page 1, Line 1, Pos (2,60)
+#. ID 125, Page 1, Line 1, Pos (16,60)
+#. ID 126, Page 1, Line 1, Pos (5,48)
+#. ID 127, Page 1, Line 1, Pos (13,48)
+#. ID 128, Page 1, Line 1, Pos (2,42)
+#. ID 129, Page 1, Line 1, Pos (16,42)
+#. ID 130, Page 1, Line 1, Pos (4,36)
+#. ID 131, Page 1, Line 1, Pos (14,36)
+#. ID 132, Page 1, Line 1, Pos (2,31)
+#. ID 133, Page 1, Line 1, Pos (16,31)
+#. ID 134, Page 1, Line 1, Pos (2,19)
+#. ID 135, Page 1, Line 1, Pos (16,19)
+msgid "もげ子に磔刑にされたモゲコだ。"
+msgstr "这是被moge子施了磔刑的mogeko。"
+
+#. ID 63, Page 1, Line 1, Pos (6,95)
+#. ID 64, Page 1, Line 1, Pos (5,95)
+#. ID 65, Page 1, Line 1, Pos (13,95)
+#. ID 66, Page 1, Line 1, Pos (12,95)
+#. ID 67, Page 1, Line 1, Pos (3,88)
+#. ID 68, Page 1, Line 1, Pos (4,88)
+#. ID 69, Page 1, Line 1, Pos (3,79)
+#. ID 70, Page 1, Line 1, Pos (4,79)
+#. ID 71, Page 1, Line 1, Pos (14,79)
+#. ID 72, Page 1, Line 1, Pos (15,79)
+#. ID 73, Page 1, Line 1, Pos (15,70)
+#. ID 74, Page 1, Line 1, Pos (16,70)
+#. ID 75, Page 1, Line 1, Pos (2,70)
+#. ID 76, Page 1, Line 1, Pos (3,70)
+#. ID 77, Page 1, Line 1, Pos (2,65)
+#. ID 78, Page 1, Line 1, Pos (3,65)
+#. ID 79, Page 1, Line 1, Pos (15,65)
+#. ID 80, Page 1, Line 1, Pos (16,65)
+#. ID 81, Page 1, Line 1, Pos (14,62)
+#. ID 82, Page 1, Line 1, Pos (15,62)
+#. ID 83, Page 1, Line 1, Pos (4,62)
+#. ID 84, Page 1, Line 1, Pos (3,62)
+#. ID 85, Page 1, Line 1, Pos (16,49)
+#. ID 86, Page 1, Line 1, Pos (15,49)
+#. ID 87, Page 1, Line 1, Pos (17,46)
+#. ID 88, Page 1, Line 1, Pos (16,46)
+#. ID 89, Page 1, Line 1, Pos (2,46)
+#. ID 90, Page 1, Line 1, Pos (1,46)
+#. ID 91, Page 1, Line 1, Pos (2,49)
+#. ID 92, Page 1, Line 1, Pos (3,49)
+#. ID 93, Page 1, Line 1, Pos (17,37)
+#. ID 94, Page 1, Line 1, Pos (16,37)
+#. ID 95, Page 1, Line 1, Pos (1,37)
+#. ID 96, Page 1, Line 1, Pos (2,37)
+#. ID 97, Page 1, Line 1, Pos (5,28)
+#. ID 98, Page 1, Line 1, Pos (4,28)
+#. ID 99, Page 1, Line 1, Pos (13,28)
+#. ID 100, Page 1, Line 1, Pos (14,28)
+#. ID 101, Page 1, Line 1, Pos (15,20)
+#. ID 102, Page 1, Line 1, Pos (14,20)
+#. ID 103, Page 1, Line 1, Pos (4,20)
+#. ID 104, Page 1, Line 1, Pos (3,20)
+#. ID 105, Page 1, Line 1, Pos (14,88)
+#. ID 106, Page 1, Line 1, Pos (15,88)
+msgid "死に絶えている･･･。"
+msgstr "已经死了……。"
+

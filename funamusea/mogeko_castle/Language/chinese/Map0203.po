@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 4, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「･････。」"
+msgstr ""
+"moge子\n"
+"「………。」"
+
+#. ID 2, Page 1, Line 6, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「･･････････。」"
+msgstr ""
+"moge子\n"
+"「………………。」"
+
+#. ID 2, Page 1, Line 9, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「むかつくぜ」"
+msgstr ""
+"moge子\n"
+"「好火大」"
+
+#. ID 2, Page 1, Line 12, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「あ゛ーーーー！！！なんなんだよ！！\n"
+"　くそが！！逃げやがって！！！」"
+msgstr ""
+"moge子\n"
+"「啊啊啊啊啊！！！到底为什么啊！！\n"
+"　可恶啊！！竟然给逃了！！！」"
+
+#. ID 2, Page 1, Line 16, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「絶対捕まえてぐちゃぐちゃにしてやる\n"
+"　くそくそくそくそくそくそ！！！！！」"
+msgstr ""
+"moge子\n"
+"「抓到你们后绝对要把你们大卸八块，\n"
+"　可恶可恶可恶可恶可恶可恶！！！！！」"
+
+#. ID 2, Page 1, Line 20, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「あ゛ー･･･････。」"
+msgstr ""
+"moge子\n"
+"「啊啊…………。」"
+
+#. ID 2, Page 1, Line 24, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「んっ？」"
+msgstr ""
+"moge子\n"
+"「嗯？」"
+
+#. ID 2, Page 1, Line 28, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「おおー、そうだ」"
+msgstr ""
+"moge子\n"
+"「噢噢，对了」"
+
+#. ID 2, Page 1, Line 31, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「もげ子、いいこと思いついちゃった♪」"
+msgstr ""
+"moge子\n"
+"「moge子想到了件好玩的事(音符)」"
+
+#. ID 2, Page 1, Line 34, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「ククク♪」"
+msgstr ""
+"moge子\n"
+"「呼呼呼(音符)」"
+

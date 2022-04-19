@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (0,13)
+#. ID 2, Page 1, Line 1, Pos (0,14)
+msgid "最強の△コーンだ。"
+msgstr "最强力的△路障。"
+
+#. ID 53, Page 1, Line 1, Pos (19,12)
+msgid "家から最寄のバス停だ。"
+msgstr "离家最近的巴士车站。"
+
+#. ID 55, Page 1, Line 1, Pos (21,12)
+msgid "地元のお祭りの宣伝ポスターだ。"
+msgstr "本地的祭典宣传海报。"
+
+#. ID 56, Page 1, Line 1, Pos (22,12)
+msgid "宗教の勧誘ポスターだ。"
+msgstr "宗教的劝诱海报。"
+
+#. ID 67, Page 1, Line 1, Pos (33,12)
+msgid ""
+"ポイ捨て禁止を呼びかけるポスターだ。\n"
+"言われなくても普通ならやらないことだ･･･。"
+msgstr ""
+"禁止乱丢乱扔的海报。\n"
+"就算不说一般人也不会做这种事吧……。"
+
+#. ID 78, Page 1, Line 1, Pos (44,12)
+msgid "この辺一帯の地図だ。"
+msgstr "这附近的地图。"
+
+#. ID 90, Page 1, Line 1, Pos (56,12)
+msgid ""
+"駅前のおいしいファミレスのポスターだ。\n"
+"あそこのペペロンチーノとドリアはおいしい･･･。"
+msgstr ""
+"车站前非常好吃的家庭餐厅的宣传海报。\n"
+"那家的辣椒意面跟鱼贝鸡米饭非常好吃……。"
+

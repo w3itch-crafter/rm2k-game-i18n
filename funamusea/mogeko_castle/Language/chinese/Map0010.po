@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 4, Pos (5,9)
+msgid ""
+"ヨナカ\n"
+"「･･･････････。」"
+msgstr ""
+"夕夜\n"
+"「………。」"
+
+#. ID 1, Page 1, Line 6, Pos (5,9)
+msgid ""
+"ヨナカ\n"
+"「帰らなくちゃ･･･。」"
+msgstr ""
+"夕夜\n"
+"「我要回家…。」"
+
+#. ID 1, Page 1, Line 8, Pos (5,9)
+msgid ""
+"ヨナカ\n"
+"「（今日は、\\.\\.兄さんが、\n"
+"　帰ってくるの･･･。）」"
+msgstr ""
+"夕夜\n"
+"「（今天\\.\\.是哥哥\n"
+"　回来的日子…。）」"
+
+#. ID 1, Page 1, Line 11, Pos (5,9)
+msgid ""
+"ヨナカ\n"
+"「（だから･･･\\.\\.はやく、\\.\\.\n"
+"　帰らなくちゃ･･･。）」"
+msgstr ""
+"夕夜\n"
+"「（所以…\\.\\.要赶快\\.\\.\n"
+"　回家…。）」"
+
+#. ID 1, Page 1, Line 14, Pos (5,9)
+msgid ""
+"ヨナカ\n"
+"「（久しぶりなんだもん･･･。）」"
+msgstr ""
+"夕夜\n"
+"「（已经好久没见过了…。）」"
+
+#. ID 1, Page 1, Line 16, Pos (5,9)
+msgid ""
+"ヨナカ\n"
+"「（早く会いたいなぁ････。）」"
+msgstr ""
+"夕夜\n"
+"「（好想快点见他一面…。）」"
+

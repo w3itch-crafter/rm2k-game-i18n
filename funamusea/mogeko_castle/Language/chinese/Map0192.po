@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 1, Pos (7,11)
+#. ID 2, Page 3, Line 1, Pos (7,11)
+msgid "何階に行きますか？"
+msgstr "想要去哪层？"
+
+#. ID 2, Page 1, Line 2, Pos (7,11)
+#. Choice (4 options)
+#. ID 2, Page 3, Line 2, Pos (7,11)
+#. Choice (4 options)
+msgid ""
+"1階\n"
+"2階\n"
+"3階\n"
+"4階"
+msgstr ""
+"一层\n"
+"二层\n"
+"三层\n"
+"四层"
+
+#. ID 2, Page 1, Line 20, Pos (7,11)
+msgid ""
+"ボタンに気持ち悪い虫がついていて\n"
+"触りたくない！どこかに殺虫剤でも\n"
+"ないかな･･･。"
+msgstr ""
+"按钮上面有个很恶心的虫子，\n"
+"不想碰！\n"
+"哪里有杀虫剂啊……。"
+
+#. ID 2, Page 2, Line 1, Pos (7,11)
+msgid "ヨナカは殺虫剤を使った！"
+msgstr "夕夜使用了杀虫剂！"
+
+#. ID 2, Page 2, Line 5, Pos (7,11)
+msgid "気持ち悪い虫は死んだ。"
+msgstr "恶心的虫子死掉了。"
+

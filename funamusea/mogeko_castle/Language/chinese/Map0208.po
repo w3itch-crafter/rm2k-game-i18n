@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 2, Pos (2,2)
+msgid ""
+"モゲコ\n"
+"「ま･････まいごなのおおおおお」"
+msgstr ""
+"mogeko\n"
+"「迷………迷路了啊啊啊啊」"
+
+#. ID 5, Page 1, Line 2, Pos (17,18)
+msgid ""
+"ヨナカ\n"
+"「ぶ、不気味････。」"
+msgstr ""
+"夕夜\n"
+"「真、真是毛骨悚然呢……。」"
+
+#. ID 5, Page 1, Line 5, Pos (17,18)
+msgid ""
+"異端モゲコ\n"
+"「いい加減慣れろ。」"
+msgstr ""
+"异端mogeko\n"
+"「快给我习惯啊。」"
+
+#. ID 5, Page 1, Line 8, Pos (17,18)
+msgid ""
+"ヨナカ\n"
+"「無茶言わないでください」"
+msgstr ""
+"夕夜\n"
+"「请别这么自说自话好吧」"
+
+#. ID 6, Page 1, Line 2, Pos (20,36)
+msgid ""
+"異端モゲコ\n"
+"「腹減った･･･」"
+msgstr ""
+"异端mogeko\n"
+"「肚子饿了……」"
+
+#. ID 6, Page 1, Line 5, Pos (20,36)
+msgid ""
+"ヨナカ\n"
+"「生ハム食べます？」"
+msgstr ""
+"夕夜\n"
+"「要吃生火腿么？」"
+
+#. ID 6, Page 1, Line 8, Pos (20,36)
+msgid ""
+"異端モゲコ\n"
+"「くっ　食わん！」"
+msgstr ""
+"异端mogeko\n"
+"「才、才不吃呢！」"
+
+#. ID 6, Page 1, Line 11, Pos (20,36)
+msgid ""
+"ヨナカ\n"
+"「（やだ･･･意地張っちゃって\n"
+"　異端モゲコさん可愛い･･･）」"
+msgstr ""
+"夕夜\n"
+"「（哟……在逞强呢，\n"
+"　异端mogeko好可爱……）」"
+

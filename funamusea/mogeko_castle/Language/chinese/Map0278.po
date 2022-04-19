@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 3, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「全て･･･････････終わりにしよう」"
+msgstr ""
+"异端mogeko\n"
+"「就这样让一切………都结束了吧」"
+
+#. ID 1, Page 1, Line 12, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「がァッ･･･････。」"
+msgstr ""
+"mogeko王\n"
+"「嘎啊………。」"
+
+#. ID 1, Page 1, Line 16, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「････････････。」"
+msgstr ""
+
+#. ID 1, Page 1, Line 19, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「･･･････････。」"
+msgstr ""
+
+#. ID 1, Page 1, Line 23, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「･････････････････････\\.\\.！？」"
+msgstr ""
+"异端mogeko\n"
+"「………………………………\\.\\.！？」"
+
+#. ID 1, Page 1, Line 27, Pos (0,0)
+msgid "剣が･･･抜けない････？！"
+msgstr "剑……拔不出来……？！"
+
+#. ID 1, Page 1, Line 30, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「な････なんだ？！\n"
+"　このッ･････。」"
+msgstr ""
+"异端mogeko\n"
+"「什……什么？！\n"
+"　怎么回事……。」"
+
+#. ID 1, Page 1, Line 35, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「･････････････。」"
+msgstr ""
+"mogeko王\n"
+"「………………。」"
+
+#. ID 1, Page 1, Line 38, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「うひひ」"
+msgstr ""
+"mogeko王\n"
+"「唔嘻嘻」"
+
+#. ID 1, Page 1, Line 41, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「ッ！！」"
+msgstr ""
+"异端mogeko\n"
+"「啧！！」"
+
+#. ID 1, Page 1, Line 45, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「だからさぁ･･･言ったよね？」"
+msgstr ""
+"mogeko王\n"
+"「所以啊……我不是说过了嘛？」"
+
+#. ID 1, Page 1, Line 49, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「全て････『無駄』だって」"
+msgstr ""
+"mogeko王\n"
+"「全部……都是『没用』的啦」"
+
+#. ID 1, Page 1, Line 53, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「な」"
+msgstr ""
+"异端mogeko\n"
+"「什…」"
+
+#. ID 1, Page 1, Line 60, Pos (0,0)
+msgid ""
+"\n"
+"　　　　　　　　　　　ほらね？"
+msgstr ""
+"\n"
+"　　　　　　　　　　　你看吧？"
+

@@ -1,0 +1,255 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 4, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「･････。」"
+msgstr ""
+"异端mogeko\n"
+"「不对。\\.\\.不是\\.\\.『mogeko』。\\.\\.\n"
+"　是\\.\\.『moge子』。」"
+
+#. ID 4, Page 1, Line 8, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「この階は、ある人物によって\n"
+"　支配されている」"
+msgstr ""
+"异端mogeko\n"
+"「这一层被某个人物\n"
+"　支配着」"
+
+#. ID 4, Page 1, Line 12, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「ある人物････？」"
+msgstr ""
+"夕夜\n"
+"「某个人物……？」"
+
+#. ID 4, Page 1, Line 15, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「･･････。」"
+msgstr ""
+"夕夜\n"
+"「诶？只是字不同吗？\n"
+"　好麻烦……」"
+
+#. ID 4, Page 1, Line 17, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「そう･･･\\.\\.\\.『もげ子』だ。」"
+msgstr ""
+"异端mogeko\n"
+"「没错…\\.\\.\\.是『moge子』。」"
+
+#. ID 4, Page 1, Line 20, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･･････････。」"
+msgstr ""
+"夕夜\n"
+"「……。」"
+
+#. ID 4, Page 1, Line 23, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「････････。」"
+msgstr ""
+"异端mogeko\n"
+"「所以说对我说也没用啊……。」"
+
+#. ID 4, Page 1, Line 26, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「モゲコがモゲコを支配してるん\n"
+"　ですか？」"
+msgstr ""
+"夕夜\n"
+"「你是说mogeko支配着mogeko吗？」"
+
+#. ID 4, Page 1, Line 30, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「違う。\\.\\.『モゲコ』\\.\\.じゃない。\\.\\.\n"
+"　『もげ子』\\.\\.だ。」"
+msgstr ""
+"异端mogeko\n"
+"「那个moge子是个非常坏的人…」"
+
+#. ID 4, Page 1, Line 34, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「えっ？字が違うだけ？\n"
+"　ややこしい･･･」"
+msgstr ""
+"异端mogeko\n"
+"「如果可以的话希望能极力\n"
+"  避免和他接触。胜率几乎是零。」"
+
+#. ID 4, Page 1, Line 38, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「いやだから俺に言うなよ･･･。」"
+msgstr ""
+"夕夜\n"
+"「呃！？\n"
+"　到底……是什么人……？」"
+
+#. ID 4, Page 1, Line 41, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「そのもげ子はとんだ極悪人でな･･･」"
+msgstr ""
+"异端mogeko\n"
+"「……不知道」"
+
+#. ID 4, Page 1, Line 43, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「奴との接触は極力避けたい。\n"
+"　勝てる望みはほぼゼロだ。」"
+msgstr ""
+"异端mogeko\n"
+"「那家伙的一切都是个谜」"
+
+#. ID 4, Page 1, Line 47, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「ッ！？\n"
+"　一体･･･何者なんですか･･･？」"
+msgstr ""
+"异端mogeko\n"
+"「但是，可以确认的就是它的\n"
+"  精神状态不是很正常……」"
+
+#. ID 4, Page 1, Line 51, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「････わからん」"
+msgstr ""
+"夕夜\n"
+"「（普通的mogeko精神状态也\n"
+"　不正常吧……）」"
+
+#. ID 4, Page 1, Line 53, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「奴に関する情報は一切不明だ」"
+msgstr ""
+"异端mogeko\n"
+"「还有，他有把不喜欢的人绑在十字架上\n"
+"　慢慢地折磨致死，这种变态的兴趣爱好。」"
+
+#. ID 4, Page 1, Line 55, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「だが、普通の精神状態ではない事だけは\n"
+"　確かだ･･･」"
+msgstr ""
+"夕夜\n"
+"「！？」"
+
+#. ID 4, Page 1, Line 59, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「（モゲコの精神状態も普通じゃない、\n"
+"　よね･･･････）」"
+msgstr ""
+"异端mogeko\n"
+"「然后会把那个人的肉吃掉，\n"
+"　露出很心醉神迷的笑容」"
+
+#. ID 4, Page 1, Line 63, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「あと、奴は気に入らない者を磔にして\n"
+"　じわじわ殺すのが趣味だ。」"
+msgstr ""
+"夕夜\n"
+"「！？！？」"
+
+#. ID 4, Page 1, Line 67, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「！？」"
+msgstr ""
+"异端mogeko\n"
+"「简单直截了当地杀死还算好，\n"
+"　可那家伙喜欢把人折磨致死……」"
+
+#. ID 4, Page 1, Line 70, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「そしてその者の肉を喰らい\n"
+"　恍惚とした表情で笑うらしい」"
+msgstr ""
+"夕夜\n"
+"「你这不是知道得挺多嘛！！」"
+
+#. ID 4, Page 1, Line 74, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「！？！？」"
+msgstr ""
+"异端mogeko\n"
+"「嘛，虽然我也没有见过那家伙，\n"
+"　但还是略知一二……」"
+
+#. ID 4, Page 1, Line 77, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「簡単に殺すのは好まんらしく、\n"
+"　じわじわと甚振り殺すらしい･･･」"
+msgstr ""
+"异端mogeko\n"
+"「那家伙的行动模式不明。\n"
+"　要谨慎前进……。」"
+
+#. ID 4, Page 1, Line 81, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「結構情報あるじゃないですか！！」"
+msgstr ""
+
+#. ID 4, Page 1, Line 84, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「まあ俺も実際会ったことはないし\n"
+"　なんとも言えんな･･･」"
+msgstr ""
+
+#. ID 4, Page 1, Line 87, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「奴の行動パターンは不明だ。\n"
+"　慎重に進むしかない････。」"
+msgstr ""
+

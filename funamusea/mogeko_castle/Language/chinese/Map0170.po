@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 29, Page 1, Line 6, Pos (0,0)
+msgid ""
+"ハス\n"
+"「皆さん、いいですか？」"
+msgstr ""
+"hs\n"
+"「大家知道了么？」"
+
+#. ID 29, Page 1, Line 8, Pos (0,0)
+msgid ""
+"ハス\n"
+"「生ハムの神は我らをいつでも\n"
+"　見守っているのです」"
+msgstr ""
+"hs\n"
+"「生火腿之神一直都在\n"
+"　守护着我们」"
+
+#. ID 29, Page 1, Line 12, Pos (0,0)
+msgid ""
+"信者たち\n"
+"「おお････！」"
+msgstr ""
+"信者们\n"
+"「噢噢……！」"
+
+#. ID 29, Page 1, Line 15, Pos (0,0)
+msgid ""
+"ハス\n"
+"「さあ、皆さん、祈りましょう･･･\n"
+"　我らが神････････」"
+msgstr ""
+"hs\n"
+"「那么大家一起来祈祷吧……\n"
+"　向我们的神……………」"
+
+#. ID 29, Page 1, Line 24, Pos (0,0)
+msgid ""
+"ハス\n"
+"「おや？」"
+msgstr ""
+"hs\n"
+"「哦呀？」"
+
+#. ID 29, Page 1, Line 27, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「お前がハスだなー？」"
+msgstr ""
+"moge子\n"
+"「你就是hs吧？」"
+
+#. ID 29, Page 1, Line 30, Pos (0,0)
+msgid ""
+"ハス\n"
+"「えっ？」"
+msgstr ""
+"hs\n"
+"「诶？」"
+
+#. ID 29, Page 1, Line 33, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「可愛がってやるよ♪」"
+msgstr ""
+"moge子\n"
+"「我要好好疼爱你(音符)」"
+
+#. ID 29, Page 1, Line 41, Pos (0,0)
+msgid ""
+"それから彼女は、俺以外のモゲコを\n"
+"皆殺しにした･･･。"
+msgstr ""
+"在那之后，她就把除我以外的mogeko们\n"
+"都给杀了……。"
+
+#. ID 29, Page 1, Line 63, Pos (0,0)
+msgid ""
+"ハス\n"
+"「ひぃっ･････！！！」"
+msgstr ""
+"hs\n"
+"「额………！！！」"
+
+#. ID 29, Page 1, Line 66, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「さぁ♪\n"
+"　こっちに来いやぁー♪」"
+msgstr ""
+"moge子\n"
+"「来吧(音符)\n"
+"　到我这边来呀(音符)」"
+

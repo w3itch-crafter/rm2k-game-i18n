@@ -1,0 +1,1028 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2
+msgid "オープニング"
+msgstr "僆乕僾僯儞僌"
+
+#. ID 3
+msgid "第2章"
+msgstr "戞2復"
+
+#. ID 4
+msgid "第3章"
+msgstr "戞3復"
+
+#. ID 5
+msgid "第4章"
+msgstr "戞4復"
+
+#. ID 6
+msgid "第5章"
+msgstr "戞5復"
+
+#. ID 7
+msgid "第6章"
+msgstr "戞6復"
+
+#. ID 8
+msgid "最終章"
+msgstr "嵟廔復"
+
+#. ID 9
+msgid "第1章"
+msgstr "戞1復"
+
+#. ID 10
+#. ID 24
+#. ID 76
+#. ID 138
+#. ID 313
+msgid "暗闇"
+msgstr "埫埮"
+
+#. ID 11
+msgid "電車の中1"
+msgstr "揹幵偺拞1"
+
+#. ID 12
+msgid "電車の中2"
+msgstr "揹幵偺拞2"
+
+#. ID 13
+msgid "電車の中3"
+msgstr "揹幵偺拞3"
+
+#. ID 14
+msgid "窓"
+msgstr "憢"
+
+#. ID 15
+msgid "電車の中4"
+msgstr "揹幵偺拞4"
+
+#. ID 16
+msgid "モゲコ駅"
+msgstr "儌僎僐墂"
+
+#. ID 17
+#. ID 307
+msgid "END"
+msgstr "END"
+
+#. ID 18
+msgid "駅の外"
+msgstr "墂偺奜"
+
+#. ID 19
+msgid "森1"
+msgstr "怷1"
+
+#. ID 20
+msgid "森2"
+msgstr "怷2"
+
+#. ID 21
+msgid "森3"
+msgstr "怷3"
+
+#. ID 22
+msgid "森の中の出会い"
+msgstr "怷偺拞偺弌夛偄"
+
+#. ID 23
+msgid "王国への道"
+msgstr "墹崙傊偺摴"
+
+#. ID 25
+msgid "城への道"
+msgstr "忛傊偺摴"
+
+#. ID 26
+msgid "城が見える"
+msgstr "忛偑尒偊傞"
+
+#. ID 27
+msgid "城への道2"
+msgstr "忛傊偺摴2"
+
+#. ID 28
+msgid "ﾓｹﾞｺｷｬｯｽﾙ門前"
+msgstr "庸藓番贃鍛O"
+
+#. ID 29
+msgid "城の中へ"
+msgstr "忛偺拞傊"
+
+#. ID 30
+msgid "BADEND0"
+msgstr "BADEND0"
+
+#. ID 31
+msgid "BADEND0-2"
+msgstr "BADEND0-2"
+
+#. ID 32
+msgid "BAD END0-3"
+msgstr "BAD END0-3"
+
+#. ID 33
+msgid "ED1"
+msgstr "ED1"
+
+#. ID 34
+msgid "ED2"
+msgstr "ED2"
+
+#. ID 35
+msgid "ED3"
+msgstr "ED3"
+
+#. ID 36
+msgid "ED4"
+msgstr "ED4"
+
+#. ID 37
+msgid "ED5"
+msgstr "ED5"
+
+#. ID 38
+msgid "ED6"
+msgstr "ED6"
+
+#. ID 39
+msgid "ED7"
+msgstr "ED7"
+
+#. ID 40
+msgid "ED8"
+msgstr "ED8"
+
+#. ID 41
+msgid "ED9"
+msgstr "ED9"
+
+#. ID 42
+msgid "エントランス"
+msgstr "僄儞僩儔儞僗"
+
+#. ID 43
+msgid "西廊下"
+msgstr "惣楲壓"
+
+#. ID 44
+msgid "東廊下"
+msgstr "搶楲壓"
+
+#. ID 45
+msgid "東キッチン"
+msgstr "搶僉僢僠儞"
+
+#. ID 46
+msgid "西キッチン"
+msgstr "惣僉僢僠儞"
+
+#. ID 47
+msgid "西倉庫"
+msgstr "惣憅屔"
+
+#. ID 48
+msgid "東倉庫"
+msgstr "搶憅屔"
+
+#. ID 49
+msgid "食堂"
+msgstr "怘摪"
+
+#. ID 50
+msgid "応接室"
+msgstr "墳愙幒"
+
+#. ID 51
+msgid "暗闇通路"
+msgstr "埫埮捠楬"
+
+#. ID 52
+msgid "東倉庫2"
+msgstr "搶憅屔2"
+
+#. ID 53
+msgid "最後じゃない晩餐"
+msgstr "嵟屻偠傖側偄斢巂"
+
+#. ID 54
+msgid "食堂（食事中）"
+msgstr "怘摪乮怘帠拞乯"
+
+#. ID 55
+msgid "東倉庫3"
+msgstr "搶憅屔3"
+
+#. ID 56
+msgid "東倉庫2-3"
+msgstr "搶憅屔2-3"
+
+#. ID 57
+msgid "モゲの絵本"
+msgstr "儌僎偺奊杮"
+
+#. ID 58
+msgid "暗闇2"
+msgstr "埫埮2"
+
+#. ID 59
+msgid "その後･･･"
+msgstr "偦偺屻ゥ�"
+
+#. ID 60
+msgid "その後2"
+msgstr "偦偺屻2"
+
+#. ID 61
+msgid "その後3"
+msgstr "偦偺屻3"
+
+#. ID 62
+msgid "その後4"
+msgstr "偦偺屻4"
+
+#. ID 63
+#. ID 65
+#. ID 87
+#. ID 117
+#. ID 179
+#. ID 237
+#. ID 267
+msgid "過去"
+msgstr "夁嫀"
+
+#. ID 64
+#. ID 69
+#. ID 111
+msgid "通路"
+msgstr "捠楬"
+
+#. ID 66
+#. ID 185
+msgid "2階"
+msgstr "2奒"
+
+#. ID 67
+msgid "小部屋A"
+msgstr "彫晹壆A"
+
+#. ID 68
+msgid "小部屋B"
+msgstr "彫晹壆B"
+
+#. ID 70
+#. ID 71
+#. ID 72
+#. ID 73
+#. ID 74
+#. ID 112
+msgid "通路2"
+msgstr "捠楬2"
+
+#. ID 75
+msgid "通路3"
+msgstr "捠楬3"
+
+#. ID 77
+msgid "部屋"
+msgstr "晹壆"
+
+#. ID 78
+#. ID 90
+#. ID 133
+#. ID 191
+#. ID 201
+msgid "部屋2"
+msgstr "晹壆2"
+
+#. ID 79
+msgid "蝶の間"
+msgstr "挶偺娫"
+
+#. ID 80
+msgid "腸の間"
+msgstr "挵偺娫"
+
+#. ID 81
+#. ID 126
+#. ID 141
+#. ID 146
+#. ID 159
+#. ID 212
+#. ID 228
+msgid "1"
+msgstr "1"
+
+#. ID 82
+#. ID 118
+#. ID 142
+#. ID 147
+#. ID 155
+#. ID 160
+#. ID 213
+#. ID 229
+msgid "2"
+msgstr "2"
+
+#. ID 83
+#. ID 127
+#. ID 143
+#. ID 148
+#. ID 156
+#. ID 161
+#. ID 214
+#. ID 230
+msgid "3"
+msgstr "3"
+
+#. ID 84
+#. ID 91
+#. ID 195
+msgid "部屋3"
+msgstr "晹壆3"
+
+#. ID 85
+#. ID 92
+#. ID 196
+msgid "部屋4"
+msgstr "晹壆4"
+
+#. ID 86
+#. ID 93
+#. ID 197
+msgid "部屋5"
+msgstr "晹壆5"
+
+#. ID 88
+#. ID 125
+#. ID 151
+#. ID 282
+msgid "廊下"
+msgstr "楲壓"
+
+#. ID 89
+#. ID 132
+#. ID 190
+#. ID 200
+msgid "部屋1"
+msgstr "晹壆1"
+
+#. ID 94
+msgid "部屋6"
+msgstr "晹壆6"
+
+#. ID 95
+msgid "さぁ、捕まえた"
+msgstr "偝偀丄曔傑偊偨"
+
+#. ID 96
+msgid "しまわれる"
+msgstr "偟傑傢傟傞"
+
+#. ID 97
+#. ID 283
+msgid "牢屋廊下"
+msgstr "楽壆楲壓"
+
+#. ID 98
+msgid "牢屋1"
+msgstr "楽壆1"
+
+#. ID 99
+msgid "牢屋2"
+msgstr "楽壆2"
+
+#. ID 100
+msgid "牢屋3"
+msgstr "楽壆3"
+
+#. ID 101
+msgid "牢屋4"
+msgstr "楽壆4"
+
+#. ID 102
+msgid "牢屋5"
+msgstr "楽壆5"
+
+#. ID 103
+msgid "牢屋6"
+msgstr "楽壆6"
+
+#. ID 104
+msgid "牢屋7"
+msgstr "楽壆7"
+
+#. ID 105
+msgid "牢屋8"
+msgstr "楽壆8"
+
+#. ID 106
+msgid "出会い"
+msgstr "弌夛偄"
+
+#. ID 107
+#. ID 258
+msgid "道"
+msgstr "摴"
+
+#. ID 108
+msgid "道2"
+msgstr "摴2"
+
+#. ID 109
+msgid "血の間"
+msgstr "寣偺娫"
+
+#. ID 110
+msgid "大きい牢屋"
+msgstr "戝偒偄楽壆"
+
+#. ID 113
+msgid "BAD END3"
+msgstr "BAD END3"
+
+#. ID 114
+msgid "BAN END3-2"
+msgstr "BAN END3-2"
+
+#. ID 115
+msgid "血の部屋"
+msgstr "寣偺晹壆"
+
+#. ID 116
+msgid "BAD END3-3"
+msgstr "BAD END3-3"
+
+#. ID 119
+msgid "ダーク♂ヨナカ"
+msgstr "僟乕僋亯儓僫僇"
+
+#. ID 120
+msgid "ん゛ん゛ん゛"
+msgstr "傫丣傫丣傫丣"
+
+#. ID 121
+msgid "BAD END1"
+msgstr "BAD END1"
+
+#. ID 122
+msgid "蟲ザワールド"
+msgstr "宄僓儚乕儖僪"
+
+#. ID 123
+msgid "蟲ザワールド2"
+msgstr "宄僓儚乕儖僪2"
+
+#. ID 124
+msgid "BAD END2"
+msgstr "BAD END2"
+
+#. ID 128
+#. ID 144
+#. ID 157
+#. ID 162
+#. ID 215
+#. ID 231
+msgid "4"
+msgstr "4"
+
+#. ID 129
+#. ID 163
+#. ID 216
+#. ID 232
+msgid "5"
+msgstr "5"
+
+#. ID 130
+#. ID 164
+#. ID 217
+#. ID 233
+msgid "6"
+msgstr "6"
+
+#. ID 131
+#. ID 169
+#. ID 183
+msgid "左"
+msgstr "嵍"
+
+#. ID 134
+#. ID 168
+msgid "右"
+msgstr "塃"
+
+#. ID 135
+msgid "下"
+msgstr "壓"
+
+#. ID 136
+#. ID 206
+msgid "進みながら会話"
+msgstr "恑傒側偑傜夛榖"
+
+#. ID 137
+msgid "もげげ"
+msgstr "傕偘偘"
+
+#. ID 139
+msgid "もげ子への導き"
+msgstr "傕偘巕傊偺摫偒"
+
+#. ID 140
+msgid "ヨナカ"
+msgstr "儓僫僇"
+
+#. ID 145
+msgid "参上！もげ子"
+msgstr "嶲忋両傕偘巕"
+
+#. ID 149
+msgid "右に逃げろ！"
+msgstr "塃偵摝偘傠両"
+
+#. ID 150
+msgid "逃げろ！2"
+msgstr "摝偘傠両2"
+
+#. ID 152
+msgid "逃げろ！"
+msgstr "摝偘傠両"
+
+#. ID 153
+msgid "？？？"
+msgstr "丠丠丠"
+
+#. ID 154
+#. ID 202
+msgid "倉庫"
+msgstr "憅屔"
+
+#. ID 158
+msgid "廊下豪華"
+msgstr "楲壓崑壺"
+
+#. ID 165
+msgid "7"
+msgstr "7"
+
+#. ID 166
+msgid "8"
+msgstr "8"
+
+#. ID 167
+msgid "もげ子の部屋"
+msgstr "傕偘巕偺晹壆"
+
+#. ID 170
+msgid "NOMAL END"
+msgstr "NOMAL END"
+
+#. ID 171
+msgid "布教"
+msgstr "晍嫵"
+
+#. ID 172
+msgid "暴虐の間"
+msgstr "朶媠偺娫"
+
+#. ID 173
+msgid "友の記憶"
+msgstr "桭偺婰壇"
+
+#. ID 174
+msgid "BAD END4"
+msgstr "BAD END4"
+
+#. ID 175
+msgid "BAD END4-2"
+msgstr "BAD END4-2"
+
+#. ID 176
+msgid "BAD END4-3"
+msgstr "BAD END4-3"
+
+#. ID 177
+msgid "BAN END4-4"
+msgstr "BAN END4-4"
+
+#. ID 178
+msgid "BAD END4-5"
+msgstr "BAD END4-5"
+
+#. ID 180
+msgid "危険のかほり"
+msgstr "婋尟偺偐傎傝"
+
+#. ID 181
+msgid "病棟"
+msgstr "昦搹"
+
+#. ID 182
+msgid "入り口"
+msgstr "擖傝岥"
+
+#. ID 184
+msgid "エレベーター"
+msgstr "僄儗儀乕僞乕"
+
+#. ID 186
+msgid "3階"
+msgstr "3奒"
+
+#. ID 187
+msgid "4階"
+msgstr "4奒"
+
+#. ID 188
+#. ID 198
+#. ID 199
+#. ID 262
+msgid "東"
+msgstr "搶"
+
+#. ID 189
+msgid "はすらかぁ"
+msgstr "偼偡傜偐偀"
+
+#. ID 192
+msgid "はすらかぁ2"
+msgstr "偼偡傜偐偀2"
+
+#. ID 193
+msgid "はすらかぁ3"
+msgstr "偼偡傜偐偀3"
+
+#. ID 194
+msgid "はすらかぁ4"
+msgstr "偼偡傜偐偀4"
+
+#. ID 203
+msgid "武器庫"
+msgstr "晲婍屔"
+
+#. ID 204
+msgid "ばけもの！"
+msgstr "偽偗傕偺両"
+
+#. ID 205
+msgid "もげ物語"
+msgstr "傕偘暔岅"
+
+#. ID 207
+msgid "♪チミドロラジオ♪"
+msgstr "侓僠儈僪儘儔僕僆侓"
+
+#. ID 208
+msgid "ＥＮＤ？"
+msgstr "俤俶俢丠"
+
+#. ID 209
+msgid "あひゃひゃひゃ"
+msgstr "偁傂傖傂傖傂傖"
+
+#. ID 210
+msgid "あひゃひゃひゃ2"
+msgstr "偁傂傖傂傖傂傖2"
+
+#. ID 211
+msgid "あひゃひゃひゃ3"
+msgstr "偁傂傖傂傖傂傖3"
+
+#. ID 218
+msgid "あひゃひゃひゃ4"
+msgstr "偁傂傖傂傖傂傖4"
+
+#. ID 219
+msgid "化け物の野"
+msgstr "壔偗暔偺栰"
+
+#. ID 220
+msgid "うんこ"
+msgstr "偆傫偙"
+
+#. ID 223
+msgid "化け物との対峙"
+msgstr "壔偗暔偲偺懳洺"
+
+#. ID 224
+msgid "いっけぇー！"
+msgstr "偄偭偗偉乕両"
+
+#. ID 225
+msgid "もふもふの楽園"
+msgstr "傕傆傕傆偺妝墍"
+
+#. ID 226
+msgid "ミ ＾o＾ ミ"
+msgstr "儈 丱o丱 儈"
+
+#. ID 227
+msgid "ミ ＾o＾ ミノ"
+msgstr "儈 丱o丱 儈僲"
+
+#. ID 234
+msgid "もふの道"
+msgstr "傕傆偺摴"
+
+#. ID 235
+msgid "もふの道2"
+msgstr "傕傆偺摴2"
+
+#. ID 236
+#. ID 268
+msgid "神の光"
+msgstr "恄偺岝"
+
+#. ID 238
+msgid "＜（＾o＾）／"
+msgstr "亙乮丱o丱乯乛"
+
+#. ID 239
+msgid "名前つけるのめんどい"
+msgstr "柤慜偮偗傞偺傔傫偳偄"
+
+#. ID 240
+msgid "免土井"
+msgstr "柶搚堜"
+
+#. ID 241
+msgid "MAP0240"
+msgstr "MAP0240"
+
+#. ID 242
+msgid "MAP0241"
+msgstr "MAP0241"
+
+#. ID 243
+msgid "MAP0242"
+msgstr "MAP0242"
+
+#. ID 244
+msgid "おしまい"
+msgstr "偍偟傑偄"
+
+#. ID 245
+msgid "MAP0244"
+msgstr "MAP0244"
+
+#. ID 246
+msgid "MAP0245"
+msgstr "MAP0245"
+
+#. ID 247
+msgid "MAP0246"
+msgstr "MAP0246"
+
+#. ID 248
+msgid "MAP0247"
+msgstr "MAP0247"
+
+#. ID 249
+msgid "MAP0248"
+msgstr "MAP0248"
+
+#. ID 250
+msgid "MAP0249"
+msgstr "MAP0249"
+
+#. ID 251
+msgid "エントランス？"
+msgstr "僄儞僩儔儞僗丠"
+
+#. ID 252
+msgid "MAP0251"
+msgstr "MAP0251"
+
+#. ID 253
+msgid "MAP0252"
+msgstr "MAP0252"
+
+#. ID 254
+msgid "MAP0253"
+msgstr "MAP0253"
+
+#. ID 255
+msgid "MAP0254"
+msgstr "MAP0254"
+
+#. ID 256
+msgid "MAP0255"
+msgstr "MAP0255"
+
+#. ID 257
+msgid "MAP0256"
+msgstr "MAP0256"
+
+#. ID 259
+msgid "図書館入り口"
+msgstr "恾彂娰擖傝岥"
+
+#. ID 260
+msgid "図書館"
+msgstr "恾彂娰"
+
+#. ID 261
+msgid "西"
+msgstr "惣"
+
+#. ID 263
+msgid "東-1"
+msgstr "搶-1"
+
+#. ID 264
+msgid "鶏舎"
+msgstr "寋幧"
+
+#. ID 265
+msgid "卵部屋"
+msgstr "棏晹壆"
+
+#. ID 266
+msgid "ここはどこ？"
+msgstr "偙偙偼偳偙丠"
+
+#. ID 269
+msgid "探索"
+msgstr "扵嶕"
+
+#. ID 270
+msgid "×探索○逃亡"
+msgstr "亊扵嶕仜摝朣"
+
+#. ID 271
+msgid "なんなのこの城"
+msgstr "側傫側偺偙偺忛"
+
+#. ID 272
+msgid "ﾊﾞｷｭｰｿ！"
+msgstr "兽翻翱両"
+
+#. ID 273
+msgid "全てを語る"
+msgstr "慡偰傪岅傞"
+
+#. ID 274
+msgid "裏モゲコの過去"
+msgstr "棤儌僎僐偺夁嫀"
+
+#. ID 275
+msgid "にゃー！"
+msgstr "偵傖乕両"
+
+#. ID 276
+msgid "決意"
+msgstr "寛堄"
+
+#. ID 277
+msgid "ヤツがきた"
+msgstr "儎僣偑偒偨"
+
+#. ID 278
+msgid "タイマン"
+msgstr "僞僀儅儞"
+
+#. ID 279
+msgid "グサッ☆"
+msgstr "僌僒僢仚"
+
+#. ID 280
+msgid "異端者、火刑"
+msgstr "堎抂幰丄壩孻"
+
+#. ID 281
+msgid "ありがとう"
+msgstr "偁傝偑偲偆"
+
+#. ID 284
+msgid "階段"
+msgstr "奒抜"
+
+#. ID 285
+msgid "長い階段"
+msgstr "挿偄奒抜"
+
+#. ID 286
+msgid "過去？"
+msgstr "夁嫀丠"
+
+#. ID 287
+#. ID 308
+msgid "扉"
+msgstr "斷"
+
+#. ID 288
+msgid "バス"
+msgstr "僶僗"
+
+#. ID 289
+msgid "現実世界"
+msgstr "尰幚悽奅"
+
+#. ID 290
+msgid "道路"
+msgstr "摴楬"
+
+#. ID 291
+msgid "次回作予定「灰色庭園」"
+msgstr "師夞嶌梊掕乽奃怓掚墍乿"
+
+#. ID 292
+msgid "倉井家前"
+msgstr "憅堜壠慜"
+
+#. ID 293
+msgid "住宅街"
+msgstr "廧戭奨"
+
+#. ID 294
+msgid "玄関"
+msgstr "尯娭"
+
+#. ID 295
+msgid "2F"
+msgstr "2F"
+
+#. ID 296
+msgid "LDK2"
+msgstr "LDK2"
+
+#. ID 297
+msgid "トイレ"
+msgstr "僩僀儗"
+
+#. ID 298
+msgid "BAD END6-1"
+msgstr "BAD END6-1"
+
+#. ID 299
+msgid "LDK"
+msgstr "LDK"
+
+#. ID 300
+msgid "寝室"
+msgstr "怮幒"
+
+#. ID 301
+msgid "BAD END5-1"
+msgstr "BAD END5-1"
+
+#. ID 302
+msgid "ﾖﾅｶ部屋"
+msgstr "峙稌攭�"
+
+#. ID 303
+msgid "BAD END5-2"
+msgstr "BAD END5-2"
+
+#. ID 304
+msgid "BAD END5-3"
+msgstr "BAD END5-3"
+
+#. ID 305
+msgid "もげ子の八つ当たり"
+msgstr "傕偘巕偺敧偮摉偨傝"
+
+#. ID 306
+msgid "再び"
+msgstr "嵞傃"
+
+#. ID 309
+msgid "ｶｴﾙｶﾞﾅｲﾀﾗｶｴﾛ"
+msgstr "洞俣夼怖锥篡"
+
+#. ID 310
+msgid "はしご"
+msgstr "偼偟偛"
+
+#. ID 311
+msgid "鉄の部屋"
+msgstr "揝偺晹壆"
+
+#. ID 312
+msgid "鉄の入り口"
+msgstr "揝偺擖傝岥"
+
+#. ID 314
+msgid "◆分かれ道"
+msgstr "仧暘偐傟摴"
+
+#. ID 315
+msgid "博物館"
+msgstr "攷暔娰"
+
+#. ID 316
+msgid "MAP0315"
+msgstr "MAP0315"
+

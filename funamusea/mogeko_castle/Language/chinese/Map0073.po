@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 3, Pos (9,9)
+msgid ""
+"モゲコ\n"
+"「クハハハハハハハハハハハッ！！！」"
+msgstr ""
+"mogeko\n"
+"「呼哈哈哈哈哈哈哈哈哈哈！！！」"
+
+#. ID 1, Page 1, Line 7, Pos (9,9)
+#. ID 1, Page 1, Line 14, Pos (9,9)
+msgid ""
+"ヨナカ\n"
+"「ぎゃーーーーーーーーーーーー！！！」"
+msgstr ""
+
+#. ID 1, Page 1, Line 10, Pos (9,9)
+#, fuzzy
+msgid ""
+"モゲコ\n"
+"「私からは逃げられぬぞ...\\.\\.\\.（やだ、\n"
+"　登場の仕方いい感じにきまった///）」"
+msgstr ""
+"夕夜\n"
+"「啊啊—————————！！！」"
+
+#. ID 1, Page 1, Line 22, Pos (9,9)
+#, fuzzy
+msgid ""
+"モゲコ\n"
+"「え？ちょ････\\.\\.\n"
+"　待てよ！」"
+msgstr ""
+"mogeko\n"
+"「你逃不出我的手掌心的…\\.\\.\\.（糟了，\n"
+"　我的出场方式也太帅了吧///）」"
+

@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 4, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「もげげ！流石だねぇ･･･。」"
+msgstr ""
+"mogeko王\n"
+"「mogege！真不愧是你啊……。」"
+
+#. ID 3, Page 1, Line 7, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「････････････。」"
+msgstr ""
+"异端mogeko\n"
+"「…………。」"
+
+#. ID 3, Page 1, Line 10, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「で、次はなにをするんだい？」"
+msgstr ""
+"mogeko王\n"
+"「那么，接下来你打算怎么做呢？」"
+
+#. ID 3, Page 1, Line 13, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「･･･････。」"
+msgstr ""
+"异端mogeko\n"
+"「……。」"
+
+#. ID 3, Page 1, Line 16, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「お前を･････････････殺す！」"
+msgstr ""
+"异端mogeko\n"
+"「把你给………………杀掉！」"
+
+#. ID 3, Page 1, Line 30, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「それが不可能とわかっていても？」"
+msgstr ""
+"mogeko王\n"
+"「即使你知道那是不可能吗？」"
+
+#. ID 3, Page 1, Line 34, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「俺は、諦めない」"
+msgstr ""
+"异端mogeko\n"
+"「我是不会放弃的」"
+
+#. ID 3, Page 1, Line 38, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「へえ･････････････そう♪」"
+msgstr ""
+"mogeko王\n"
+"「诶嘿…………………………是嘛(音符)」"
+

@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 6, Pos (0,24)
+msgid ""
+"もげ子\n"
+"「ッジャーーーーーーーン！！！！！！」"
+msgstr ""
+"moge子\n"
+"「锵锵——————锵！！！！！！」"
+
+#. ID 4, Page 1, Line 9, Pos (0,24)
+msgid ""
+"異端モゲコ\n"
+"「！！！！！！」"
+msgstr ""
+"异端mogeko\n"
+"「！！！！！！」"
+
+#. ID 4, Page 1, Line 12, Pos (0,24)
+msgid ""
+"もげ子\n"
+"「まんまと誘導されてくれてごくろうさま\n"
+"　でございます！」"
+msgstr ""
+"moge子\n"
+"「这么乖乖地就被引诱到这里来，\n"
+"　真是辛苦你们啦！」"
+
+#. ID 4, Page 1, Line 16, Pos (0,24)
+msgid ""
+"ヨナカ\n"
+"「ああああっ････！！」"
+msgstr ""
+"夕夜\n"
+"「啊啊啊啊……！！」"
+
+#. ID 4, Page 1, Line 19, Pos (0,24)
+msgid ""
+"異端モゲコ\n"
+"「くっ･･････！！」"
+msgstr ""
+"异端mogeko\n"
+"「唔……！！」"
+
+#. ID 4, Page 1, Line 22, Pos (0,24)
+msgid ""
+"もげ子\n"
+"「今日はねー！\\.\\.もげ子からキミ達へ\n"
+"　とっておきのぷれぜんとがあるの！」"
+msgstr ""
+"moge子\n"
+"「今天呐~！\\.\\.moge子特地给你们\n"
+"　准备了一份大礼哟！」"
+
+#. ID 4, Page 1, Line 26, Pos (0,24)
+msgid ""
+"もげ子\n"
+"「受け取って♪」"
+msgstr ""
+"moge子\n"
+"「请收下吧(音符)」"
+
+#. ID 4, Page 1, Line 32, Pos (0,24)
+msgid ""
+"異端モゲコ\n"
+"「！！！！！！！！！」"
+msgstr ""
+"异端mogeko\n"
+"「！！！！！！！！！」"
+
+#. ID 4, Page 1, Line 34, Pos (0,24)
+msgid ""
+"異端モゲコ\n"
+"「ま････まさか！！！\\.\\.\n"
+"　何故ここに！！！」"
+msgstr ""
+"异端mogeko\n"
+"「难……难道是！！！\\.\\.\n"
+"　为什么会在这里……！！！」"
+
+#. ID 4, Page 1, Line 38, Pos (0,24)
+msgid ""
+"もげ子\n"
+"「檻をね、移動させたの♪」"
+msgstr ""
+"moge子\n"
+"「因为人家把牢房移动到这里来啦(音符)」"
+
+#. ID 4, Page 1, Line 41, Pos (0,24)
+msgid ""
+"もげ子\n"
+"「もーーげげげげ♪\\.\\.\n"
+"　ではでは････。」"
+msgstr ""
+"moge子\n"
+"「mo——gegegege(音符)\\.\\.\n"
+"　那么接下来呢……。」"
+
+#. ID 4, Page 1, Line 49, Pos (0,24)
+msgid ""
+"もげ子\n"
+"「にこにこ♪」"
+msgstr ""
+"moge子\n"
+"「微笑微笑(音符)」"
+
+#. ID 4, Page 1, Line 52, Pos (0,24)
+msgid ""
+"異端モゲコ\n"
+"「やめろ！」"
+msgstr ""
+"异端mogeko\n"
+"「住手！」"
+
+#. ID 4, Page 1, Line 55, Pos (0,24)
+msgid ""
+"もげ子\n"
+"「やだ！」"
+msgstr ""
+"moge子\n"
+"「才不要呢！」"
+

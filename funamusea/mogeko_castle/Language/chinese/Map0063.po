@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 4, Pos (0,11)
+msgid ""
+"ヨナカ\n"
+"「すごい疲労感･･･\\.\\.あの、\n"
+"　モゲコっていうのは一体何匹いるの…」"
+msgstr ""
+"夕夜\n"
+"「累死了…\\.\\.那群\n"
+"　mogeko到底有多少只啊…」"
+
+#. ID 1, Page 1, Line 7, Pos (0,11)
+msgid ""
+"ヨナカ\n"
+"「東側の扉は全部開かなかったし･･･\n"
+"　2階に行くにはこの扉しかないのね」"
+msgstr ""
+"夕夜\n"
+"「东边的门全部都打不开…\n"
+"　要去2楼的话，就只有进这扇门了」"
+
+#. ID 1, Page 1, Line 10, Pos (0,11)
+msgid ""
+"ヨナカ\n"
+"「本当に上に行けば帰れるの･･･？」"
+msgstr ""
+"夕夜\n"
+"「真的往楼上走就能回家吗…？」"
+
+#. ID 1, Page 1, Line 17, Pos (0,11)
+msgid ""
+"ヨナカ\n"
+"「さっきのちょっと変なモゲコさんが\n"
+"　言ってたことが本当ならだけど･･･」"
+msgstr ""
+"夕夜\n"
+"「如果有点奇怪的mogeko\n"
+"　所说的是真话那还好…」"
+
+#. ID 1, Page 1, Line 20, Pos (0,11)
+msgid ""
+"ヨナカ\n"
+"「騙されてたりして･･･」"
+msgstr ""
+"夕夜\n"
+"「但要是假的话…」"
+
+#. ID 1, Page 1, Line 22, Pos (0,11)
+msgid ""
+"ヨナカ\n"
+"「窓も全部分厚くて割れそうにないガラス\n"
+"　だった･･･ここやっぱりおかしいよ」"
+msgstr ""
+"夕夜\n"
+"「这里全都是不容易打碎的厚玻璃。\n"
+"　这里果然很奇怪啊」"
+
+#. ID 1, Page 1, Line 26, Pos (0,11)
+msgid ""
+"ヨナカ\n"
+"「もし帰れなかったら･････。」"
+msgstr ""
+"夕夜\n"
+"「如果我回不去的话………。」"
+
+#. ID 1, Page 1, Line 29, Pos (0,11)
+msgid ""
+"ヨナカ\n"
+"「ぞわっ\\.\\.　考えないようにしよう\n"
+"　とにかく脱出優先！」"
+msgstr ""
+"夕夜\n"
+"「惊\\.\\.　先不要往坏处想\n"
+"　总之先想想怎么逃出去吧！」"
+
+#. ID 1, Page 1, Line 33, Pos (0,11)
+msgid ""
+"ヨナカ\n"
+"「うん･･･ここまで非現実的な事が\n"
+"　起こってるんだから」"
+msgstr ""
+"夕夜\n"
+"「嗯…已经发生了很多\n"
+" 现实中不会发生的事了」"
+
+#. ID 1, Page 1, Line 36, Pos (0,11)
+msgid ""
+"ヨナカ\n"
+"「帰り道だって普通じゃないはずだよね」"
+msgstr ""
+"夕夜\n"
+"「要回去也一定不是件容易的事」"
+
+#. ID 1, Page 1, Line 39, Pos (0,11)
+msgid ""
+"ヨナカ\n"
+"「別に投げやりになんか\n"
+"　なってないよ！？」"
+msgstr ""
+"夕夜\n"
+"「我不会\n"
+"　自暴自弃的啦！」"
+
+#. ID 1, Page 1, Line 47, Pos (0,11)
+msgid ""
+"ヨナカ\n"
+"「ちらっ」"
+msgstr ""
+"夕夜\n"
+"「偷看」"
+
+#. ID 1, Page 1, Line 50, Pos (0,11)
+msgid ""
+"モゲコ\n"
+"「･･････。」"
+msgstr ""
+"mogeko\n"
+"「……。」"
+
+#. ID 1, Page 1, Line 55, Pos (0,11)
+msgid ""
+"モゲコ\n"
+"「////」"
+msgstr ""
+"mogeko\n"
+"「////」"
+
+#. ID 1, Page 1, Line 58, Pos (0,11)
+msgid ""
+"ヨナカ\n"
+"「！！！！！！！」"
+msgstr ""
+"夕夜\n"
+"「！！！！！！！」"
+
+#. ID 6, Page 1, Line 1, Pos (12,9)
+#. ID 7, Page 1, Line 1, Pos (11,9)
+msgid "気持ち悪い絵だ。"
+msgstr "恶心的画。"
+

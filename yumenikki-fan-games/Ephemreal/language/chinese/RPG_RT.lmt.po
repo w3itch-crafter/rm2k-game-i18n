@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2
+msgid "Start"
+msgstr "Start"
+
+#. ID 3
+msgid "toilet"
+msgstr "toilet"
+
+#. ID 4
+msgid "room"
+msgstr "room"
+
+#. ID 5
+msgid "dreamtoilet"
+msgstr "dreamtoilet"
+
+#. ID 6
+msgid "dreamroom"
+msgstr "dreamroom"
+
+#. ID 7
+msgid "door"
+msgstr "door"
+
+#. ID 8
+msgid "path1"
+msgstr "path1"
+
+#. ID 9
+msgid "bridge"
+msgstr "bridge"
+
+#. ID 10
+msgid "lamp"
+msgstr "lamp"
+
+#. ID 11
+msgid "Gameboy"
+msgstr "Gameboy"
+
+#. ID 12
+msgid "GBroom1"
+msgstr "GBroom1"
+
+#. ID 13
+msgid "GBroom2"
+msgstr "GBroom2"
+
+#. ID 14
+msgid "GBroom3"
+msgstr "GBroom3"
+
+#. ID 15
+msgid "wasteland"
+msgstr "wasteland"
+
+#. ID 16
+msgid "water"
+msgstr "water"
+
+#. ID 17
+msgid "GBhallway"
+msgstr "GBhallway"
+
+#. ID 18
+msgid "technology"
+msgstr "technology"
+
+#. ID 19
+msgid "insects pins"
+msgstr "insects pins"
+
+#. ID 20
+msgid "town"
+msgstr "town"
+
+#. ID 21
+msgid "roof top"
+msgstr "roof top"
+
+#. ID 22
+#. ID 45
+msgid "path"
+msgstr "path"
+
+#. ID 23
+msgid "bone"
+msgstr "bone"
+
+#. ID 24
+msgid "snowy"
+msgstr "snowy"
+
+#. ID 25
+msgid "ruin1"
+msgstr "ruin1"
+
+#. ID 26
+msgid "ruin2"
+msgstr "ruin2"
+
+#. ID 27
+msgid "ruin3"
+msgstr "ruin3"
+
+#. ID 28
+msgid "ruin4"
+msgstr "ruin4"
+
+#. ID 29
+msgid "ruin5"
+msgstr "ruin5"
+
+#. ID 30
+msgid "ruin6"
+msgstr "ruin6"
+
+#. ID 31
+msgid "ruin7"
+msgstr "ruin7"
+
+#. ID 32
+msgid "ruin8"
+msgstr "ruin8"
+
+#. ID 33
+msgid "apartment"
+msgstr "apartment"
+
+#. ID 34
+msgid "sewer"
+msgstr "sewer"
+
+#. ID 35
+msgid "eventest"
+msgstr "eventest"
+
+#. ID 36
+msgid "small room"
+msgstr "small room"
+
+#. ID 37
+msgid "PC"
+msgstr "PC"
+
+#. ID 38
+msgid "longevity"
+msgstr "longevity"
+
+#. ID 39
+msgid "effects room"
+msgstr "effects room"
+
+#. ID 40
+msgid "train"
+msgstr "train"
+
+#. ID 41
+msgid "W-factory"
+msgstr "W-factory"
+
+#. ID 42
+msgid "park"
+msgstr "park"
+
+#. ID 43
+#. ID 44
+msgid "elevator"
+msgstr "elevator"
+
+#. ID 46
+msgid "stairs"
+msgstr "stairs"
+
+#. ID 47
+msgid "red island"
+msgstr "red island"
+
+#. ID 48
+msgid "trafficsighs"
+msgstr "trafficsighs"
+
+#. ID 49
+msgid "experiment"
+msgstr "experiment"
+
+#. ID 50
+msgid "hospital"
+msgstr "hospital"
+
+#. ID 51
+msgid "cave"
+msgstr "cave"
+

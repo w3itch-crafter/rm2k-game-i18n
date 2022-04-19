@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2
+msgid "自室"
+msgstr "帺幒"
+
+#. ID 3
+msgid "窓道路"
+msgstr "憢摴楬"
+
+#. ID 4
+msgid "青のエントランス"
+msgstr "惵偺僄儞僩儔儞僗"
+
+#. ID 5
+msgid "枯れ木"
+msgstr "屚傟栘"
+
+#. ID 6
+msgid "クローバー"
+msgstr "僋儘乕僶乕"
+
+#. ID 7
+msgid "雨降り坊主"
+msgstr "塉崀傝朧庡"
+
+#. ID 8
+msgid "血塗られ坊主"
+msgstr "寣揾傜傟朧庡"
+
+#. ID 9
+msgid "黄のエントランス"
+msgstr "墿偺僄儞僩儔儞僗"
+
+#. ID 10
+msgid "シロツメ通路"
+msgstr "僔儘僣儊捠楬"
+
+#. ID 11
+msgid "裏クローバー"
+msgstr "棤僋儘乕僶乕"
+
+#. ID 12
+msgid "枯れ木２"
+msgstr "屚傟栘俀"
+
+#. ID 13
+msgid "教室"
+msgstr "嫵幒"
+
+#. ID 14
+msgid "深海"
+msgstr "怺奀"
+
+#. ID 15
+msgid "暗闇"
+msgstr "埫埮"
+
+#. ID 16
+msgid "海底"
+msgstr "奀掙"
+
+#. ID 17
+msgid "赤のエントランス"
+msgstr "愒偺僄儞僩儔儞僗"
+
+#. ID 18
+msgid "モノの樹"
+msgstr "儌僲偺庽"
+
+#. ID 19
+msgid "白い木立"
+msgstr "敀偄栘棫"
+
+#. ID 20
+msgid "虫の園"
+msgstr "拵偺墍"
+
+#. ID 21
+msgid "お菓子"
+msgstr "偍壻巕"
+
+#. ID 22
+msgid "凶器"
+msgstr "嫢婍"
+
+#. ID 23
+msgid "手形"
+msgstr "庤宍"
+
+#. ID 24
+msgid "墓地"
+msgstr "曟抧"
+
+#. ID 25
+msgid "古墳内部"
+msgstr "屆暛撪晹"
+
+#. ID 26
+msgid "モノクロ"
+msgstr "儌僲僋儘"
+
+#. ID 27
+msgid "廊下"
+msgstr "楲壓"
+
+#. ID 28
+msgid "音符"
+msgstr "壒晞"
+
+#. ID 29
+msgid "小教室"
+msgstr "彫嫵幒"
+
+#. ID 30
+msgid "ツナギ教室"
+msgstr "僣僫僊嫵幒"
+
+#. ID 31
+msgid "おもひで桜"
+msgstr "偍傕傂偱嶗"
+
+#. ID 32
+msgid "カエル"
+msgstr "僇僄儖"
+
+#. ID 33
+msgid "蓮根"
+msgstr "楡崻"
+
+#. ID 34
+msgid "お墓"
+msgstr "偍曟"
+
+#. ID 35
+msgid "電柱"
+msgstr "揹拰"
+
+#. ID 36
+msgid "赤い電柱"
+msgstr "愒偄揹拰"
+
+#. ID 37
+msgid "街灯"
+msgstr "奨摂"
+
+#. ID 38
+msgid "祭"
+msgstr "嵳"
+
+#. ID 39
+msgid "白黒迷宮"
+msgstr "敀崟柪媨"
+
+#. ID 40
+msgid "ドッペルゲンガー"
+msgstr "僪僢儁儖僎儞僈乕"
+
+#. ID 41
+msgid "人魚の隠れ家"
+msgstr "恖嫑偺塀傟壠"
+
+#. ID 42
+msgid "海"
+msgstr "奀"
+
+#. ID 43
+msgid "橋"
+msgstr "嫶"
+
+#. ID 44
+msgid "花火"
+msgstr "壴壩"
+
+#. ID 45
+msgid "病院廊下"
+msgstr "昦堾楲壓"
+
+#. ID 46
+msgid "病室１"
+msgstr "昦幒侾"
+
+#. ID 47
+msgid "病室２"
+msgstr "昦幒俀"
+
+#. ID 48
+msgid "迷宮へ"
+msgstr "柪媨傊"
+
+#. ID 49
+msgid "病室３"
+msgstr "昦幒俁"
+
+#. ID 50
+msgid "病室４"
+msgstr "昦幒係"
+
+#. ID 51
+msgid "鯨"
+msgstr "寏"
+
+#. ID 52
+msgid "首無しバラバラ"
+msgstr "庱柍偟僶儔僶儔"
+
+#. ID 53
+msgid "首首首"
+msgstr "庱庱庱"
+
+#. ID 54
+msgid "ろくろ首"
+msgstr "傠偔傠庱"
+
+#. ID 55
+msgid "白い花"
+msgstr "敀偄壴"
+
+#. ID 56
+msgid "血霞薔薇"
+msgstr "寣夃錕錘"
+
+#. ID 57
+msgid "黒板"
+msgstr "崟斅"
+
+#. ID 58
+msgid "机の花瓶"
+msgstr "婘偺壴時"
+
+#. ID 59
+msgid "信号機"
+msgstr "怣崋婡"
+
+#. ID 60
+msgid "標識"
+msgstr "昗幆"
+
+#. ID 61
+msgid "事故"
+msgstr "帠屘"
+
+#. ID 62
+msgid "ウデウデウデ"
+msgstr "僂僨僂僨僂僨"
+
+#. ID 63
+msgid "内臓畑"
+msgstr "撪憻敤"
+
+#. ID 64
+msgid "ヒトダカリ"
+msgstr "僸僩僟僇儕"
+
+#. ID 65
+msgid "鏡"
+msgstr "嬀"
+
+#. ID 66
+msgid "エンディング"
+msgstr "僄儞僨傿儞僌"
+

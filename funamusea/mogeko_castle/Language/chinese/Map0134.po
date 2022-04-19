@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 3, Pos (10,8)
+msgid ""
+"ヨナカ\n"
+"「････異端モゲコさん」"
+msgstr ""
+"夕夜\n"
+"「……异端mogeko」"
+
+#. ID 1, Page 1, Line 6, Pos (10,8)
+msgid ""
+"異端モゲコ\n"
+"「なんだ？」"
+msgstr ""
+"异端mogeko\n"
+"「怎么了？」"
+
+#. ID 1, Page 1, Line 9, Pos (10,8)
+msgid ""
+"ヨナカ\n"
+"「ここの階のモゲコたち･･･」"
+msgstr ""
+"夕夜\n"
+"「这一层的mogeko们……」"
+
+#. ID 1, Page 1, Line 11, Pos (10,8)
+msgid ""
+"ヨナカ\n"
+"「幸薄い･･･というか、\n"
+"　なんだかみんな悲しい顔をしてます」"
+msgstr ""
+"夕夜\n"
+"「好像……都不太走运，\n"
+"　感觉大家都很悲伤」"
+
+#. ID 1, Page 1, Line 15, Pos (10,8)
+msgid ""
+"異端モゲコ\n"
+"「･･････････。」"
+msgstr ""
+"异端mogeko\n"
+"「……。」"
+
+#. ID 1, Page 1, Line 17, Pos (10,8)
+msgid ""
+"異端モゲコ\n"
+"「････そうだな。」"
+msgstr ""
+"异端mogeko\n"
+"「……是啊。」"
+
+#. ID 1, Page 1, Line 19, Pos (10,8)
+msgid ""
+"異端モゲコ\n"
+"「ある意味じゃここが一番恐ろしい\n"
+"　階かもしれん。」"
+msgstr ""
+"异端mogeko\n"
+"「从某方面来说这一层是最可怕的。」"
+
+#. ID 1, Page 1, Line 23, Pos (10,8)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「えっ？」"
+msgstr ""
+"夕夜\n"
+"「诶？」"
+
+#. ID 1, Page 1, Line 26, Pos (10,8)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「そうだな･･･そろそろ説明して\n"
+"　おいたほうがいいだろうな」"
+msgstr ""
+"异端mogeko\n"
+"「也是呐……差不多也该给你\n"
+"　说明一下比较好」"
+
+#. ID 1, Page 1, Line 29, Pos (10,8)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「････進みながら話そう」"
+msgstr ""
+"异端mogeko\n"
+"「……边走边说吧」"
+
+#. ID 5, Page 1, Line 1, Pos (15,5)
+#. ID 6, Page 1, Line 1, Pos (13,5)
+#. ID 7, Page 1, Line 1, Pos (12,5)
+#. ID 8, Page 1, Line 1, Pos (10,5)
+#. ID 9, Page 1, Line 1, Pos (9,5)
+#. ID 10, Page 1, Line 1, Pos (7,5)
+#. ID 11, Page 1, Line 1, Pos (6,5)
+#. ID 12, Page 1, Line 1, Pos (4,5)
+#. ID 13, Page 1, Line 1, Pos (3,5)
+#. ID 14, Page 1, Line 1, Pos (16,5)
+msgid "どうでもいい絵だ。"
+msgstr "无所谓的画。"
+

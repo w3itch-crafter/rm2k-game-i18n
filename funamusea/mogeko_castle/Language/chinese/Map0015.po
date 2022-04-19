@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 1, Line 1, Pos (70,10)
+msgid ""
+"\n"
+"　　　　　『毎月1日～31日は生ハムデー！\n"
+"　　　　　　生ハム食べて世界平和！　　　』"
+msgstr ""
+"\n"
+"　　　　　『每月1日～31日是生火腿日！\n"
+"　　　　　　吃生火腿世界和平！　　　』"
+
+#. ID 6, Page 1, Line 5, Pos (70,10)
+msgid ""
+"ヨナカ\n"
+"「････毎日じゃん！」"
+msgstr ""
+"夕夜\n"
+"「……每天都是生火腿啊！」"
+
+#. ID 7, Page 1, Line 2, Pos (0,10)
+#. ID 8, Page 1, Line 2, Pos (1,10)
+#. ID 9, Page 1, Line 2, Pos (2,10)
+#. ID 10, Page 1, Line 2, Pos (3,10)
+msgid ""
+"ヨナカ\n"
+"「･･････何なの、この駅\\.\\.\n"
+"　モゲコなんて･･･聞いたことない･･･。」"
+msgstr ""
+"夕夜\n"
+"「……这个车站是什么啊，\\.\\.\n"
+"　我从来没听说过mogeko…这个车站…。」"
+
+#. ID 11, Page 1, Line 1, Pos (92,10)
+msgid ""
+"\n"
+"　　　　　　　　『生ハム大セール！\n"
+"　　　　　　　　　お一つ278円！』"
+msgstr ""
+"\n"
+"　　　　　　　　『生火腿大促销！\n"
+"　　　　　　　　　一盒只售278日元！』"
+
+#. ID 12, Page 1, Line 1, Pos (94,10)
+msgid ""
+"　　　　『餃子の食べ放題\n"
+"　　　　　1時間800円\n"
+"　　　　　ひたすら餃子を食べ放題できます！』"
+msgstr ""
+"　　　　『饺子随便吃，\n"
+"　　　　　1小時800日元，\n"
+"　　　　　可以放开肚皮吃！』"
+
+#. ID 13, Page 1, Line 2, Pos (26,13)
+#. ID 14, Page 1, Line 2, Pos (26,12)
+#. ID 15, Page 1, Line 2, Pos (26,11)
+#. ID 16, Page 1, Line 2, Pos (26,14)
+msgid ""
+"ヨナカ\n"
+"「駅員さん一人いない････。」"
+msgstr ""
+"夕夜\n"
+"「没有车站工作人员…。」"
+
+#. ID 13, Page 1, Line 5, Pos (26,13)
+#. ID 14, Page 1, Line 5, Pos (26,12)
+#. ID 15, Page 1, Line 5, Pos (26,11)
+#. ID 16, Page 1, Line 5, Pos (26,14)
+msgid ""
+"ヨナカ\n"
+"「そんなに田舎の駅なの？」"
+msgstr ""
+"夕夜\n"
+"「是如此偏僻的车站吗？」"
+
+#. ID 13, Page 1, Line 8, Pos (26,13)
+#. ID 14, Page 1, Line 8, Pos (26,12)
+#. ID 15, Page 1, Line 8, Pos (26,11)
+#. ID 16, Page 1, Line 8, Pos (26,14)
+msgid ""
+"ヨナカ\n"
+"「いやいや\n"
+"　こんな名前の駅聞いたことないし･･･」"
+msgstr ""
+"夕夜\n"
+"「不会不会，\n"
+"　从来没听过这样的车站名…」"
+
+#. ID 13, Page 1, Line 12, Pos (26,13)
+#. ID 14, Page 1, Line 12, Pos (26,12)
+#. ID 15, Page 1, Line 12, Pos (26,11)
+#. ID 16, Page 1, Line 12, Pos (26,14)
+msgid ""
+"ヨナカ\n"
+"「とりあえず･･･向こうのほうも\n"
+"　見に行ってみようかな･･･」"
+msgstr ""
+"夕夜\n"
+"「总而言之…\n"
+"　先走过去看看吧…」"
+
+#. ID 17, Page 1, Line 1, Pos (60,12)
+msgid "紙切れが落ちている。"
+msgstr "有张纸掉在地上。"
+
+#. ID 17, Page 1, Line 2, Pos (60,12)
+msgid ""
+"\n"
+"　　　　　　　『女子高生　イチメイ\n"
+"　　　　　　　　ゴアンナイ』\n"
+"　"
+msgstr ""
+"\n"
+"　　　　　　　『广而告知 有位　\n"
+"　　　　　　　　女高中生进来了』\n"
+"　"
+
+#. ID 17, Page 1, Line 7, Pos (60,12)
+msgid ""
+"ヨナカ\n"
+"「？」"
+msgstr ""
+"夕夜\n"
+"「？」"
+
+#. ID 18, Page 1, Line 1, Pos (31,10)
+msgid ""
+"\n"
+"　　　　　　　　『生ハムと和解せよ』"
+msgstr ""
+"\n"
+"　　　　　　　　『与生火腿和好吧』"
+
+#. ID 19, Page 1, Line 1, Pos (45,10)
+msgid ""
+"　『パスタにトウガラシを入れまくる会』\n"
+"　\n"
+"　　会員募集中！\n"
+"　　あなたもトウガラシストになりませんか？"
+msgstr ""
+"　『狂把辣椒放入意大利面中的组织』\n"
+"　\n"
+"　　招募会员中！\n"
+"　　你也想成为辣椒派吗？"
+
+#. ID 19, Page 1, Line 5, Pos (45,10)
+msgid ""
+"　　詳しくはこちら！\n"
+"　　000-xxx-000　　　　　　　　　　　　　　』\n"
+"　"
+msgstr ""
+"　　详情请致电\n"
+"　　000-xxx-000　　　　　　　　　　　　　　』\n"
+"　"
+
+#. ID 19, Page 1, Line 9, Pos (45,10)
+msgid ""
+"ヨナカ\n"
+"「なんの会よ･････････････。」"
+msgstr ""
+"夕夜\n"
+"「这是什么组织啊…………。」"
+
+#. ID 21, Page 1, Line 1, Pos (33,10)
+msgid "穴が開いている。"
+msgstr "有个洞。"
+

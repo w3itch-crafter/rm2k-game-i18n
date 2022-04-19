@@ -1,0 +1,995 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 6, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「あ･･･ああ！！！」"
+msgstr ""
+"夕夜\n"
+"「啊……啊啊！！！」"
+
+#. ID 1, Page 1, Line 9, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「異端モゲコさん！！\n"
+"　ああ･･･異端モゲコ･･･さん･･･！」"
+msgstr ""
+"夕夜\n"
+"「异端mogeko！！\n"
+"　啊啊……异端mogeko………！」"
+
+#. ID 1, Page 1, Line 14, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「はは･･･嬢ちゃん、\n"
+"　なんで泣いてんだよ」"
+msgstr ""
+"异端mogeko\n"
+"「哈哈……小姐，\n"
+"　你怎么哭起来了呢」"
+
+#. ID 1, Page 1, Line 18, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「ごめんなさい！私が足手まといな\n"
+"　せいで･･･私のせいで･･･」"
+msgstr ""
+"夕夜\n"
+"「对不起！都是因为我碍手碍脚了……\n"
+"　都是因为我……」"
+
+#. ID 1, Page 1, Line 22, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「嬢ちゃんは全然悪くねえよ」"
+msgstr ""
+"异端mogeko\n"
+"「小姐你什么都没有做错啊」"
+
+#. ID 1, Page 1, Line 25, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「でもっ･･･うっ･･･\n"
+"　私･･･守ってもらってばかり･･･ぐすっ」"
+msgstr ""
+"夕夜\n"
+"「但是……呜呜……\n"
+"　都是……为了要保护我你才……呜呜呜」"
+
+#. ID 1, Page 1, Line 29, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「俺が好きで守ってたんだから\n"
+"　嬢ちゃんは気にしなくていいんだよ」"
+msgstr ""
+"异端mogeko\n"
+"「我是自己心甘情愿保护你的\n"
+"　你不需要在意这些事情啦」"
+
+#. ID 1, Page 1, Line 32, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「げふッ･････。」"
+msgstr ""
+"异端mogeko\n"
+"「咳、呼……。」"
+
+#. ID 1, Page 1, Line 35, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「ああ･･･あああ････。」"
+msgstr ""
+"夕夜\n"
+"「啊啊……啊啊啊……。」"
+
+#. ID 1, Page 1, Line 38, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「････嬢ちゃん」"
+msgstr ""
+"异端mogeko\n"
+"「……小姐」"
+
+#. ID 1, Page 1, Line 40, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「さっき･･･もげこが･･･」"
+msgstr ""
+"异端mogeko\n"
+"「刚才……mogeko……」"
+
+#. ID 1, Page 1, Line 42, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「俺のことを『裏モゲコ』と\n"
+"　呼んでいただろう？」"
+msgstr ""
+"異端mogeko\n"
+"「把我称作『里mogeko』不是吗？」"
+
+#. ID 1, Page 1, Line 46, Pos (0,0)
+#. ID 1, Page 2, Line 228, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･･････････････。」"
+msgstr ""
+
+#. ID 1, Page 1, Line 49, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「薄々気付かれていただろうが･･･。」"
+msgstr ""
+"异端mogeko\n"
+"「你也或多或少察觉到了吧……。」"
+
+#. ID 1, Page 1, Line 51, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「そうだ･･･7匹のモゲコの、\n"
+"　七番目の、最後のモゲコは俺だ」"
+msgstr ""
+"异端mogeko\n"
+"「没错……那七只mogeko中的第七只，\n"
+"  也就是最后的一只mogeko，就是我」"
+
+#. ID 1, Page 1, Line 55, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「････････････。」"
+msgstr ""
+"异端mogeko\n"
+"「我本来的名字叫做……里mogeko」"
+
+#. ID 1, Page 1, Line 58, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「俺の本当の名は･･･裏モゲコ」"
+msgstr ""
+"异端mogeko\n"
+"「正如这个名字字面上的含义……\n"
+"  我就是那家伙内里一样的存在。」"
+
+#. ID 1, Page 1, Line 60, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「その名の通り･･･俺は、ヤツの、\n"
+"　もげこの裏の存在だ。」"
+msgstr ""
+"异端mogeko\n"
+"「唔……咳咳，哈、哈……」"
+
+#. ID 1, Page 1, Line 63, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「ぐッ･･･がはっ」"
+msgstr ""
+"夕夜\n"
+"「！！！不、不用再说下去了没关系的！\n"
+"　你的伤……你的伤！！！」"
+
+#. ID 1, Page 1, Line 66, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「！！！も、もう喋らなくていいです！\n"
+"　傷が･･･傷が！！！」"
+msgstr ""
+"异端mogeko\n"
+"「不行！\n"
+"　必须好好地告诉你……」"
+
+#. ID 1, Page 1, Line 70, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「だめだ！\n"
+"　嬢ちゃんに伝えねばならん･･･」"
+msgstr ""
+"异端mogeko\n"
+"「我在……那个时候……」"
+
+#. ID 1, Page 1, Line 73, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「･･･････。」"
+msgstr ""
+
+#. ID 1, Page 1, Line 75, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「俺は･･･あの頃･･･」"
+msgstr ""
+
+#. ID 1, Page 2, Line 4, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「俺は･･･あれから、何度も抵抗した。」"
+msgstr ""
+"异端mogeko\n"
+"「从那以后……我反抗他们无数次。」"
+
+#. ID 1, Page 2, Line 6, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「何匹もモゲコを殺し･･･」"
+msgstr ""
+"异端mogeko\n"
+"「不知道杀了多少mogeko……」"
+
+#. ID 1, Page 2, Line 8, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「体が傷だらけになっても･･･\n"
+"　片耳が千切れても･･･」"
+msgstr ""
+"异端mogeko\n"
+"「身体变得到处都是伤疤……\n"
+"　一边的耳朵也被砍掉了……」"
+
+#. ID 1, Page 2, Line 12, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「そしてある日気付いた」"
+msgstr ""
+"异端mogeko\n"
+"「然后某一天我察觉到了」"
+
+#. ID 1, Page 2, Line 14, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「俺のやっていることはまるで\n"
+"　無意味だと。」"
+msgstr ""
+"异端mogeko\n"
+"「我所做的这些事情简直\n"
+"　一点意义都没有。」"
+
+#. ID 1, Page 2, Line 18, Pos (0,0)
+#. ID 1, Page 2, Line 203, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「･････････。」"
+msgstr ""
+"异端mogeko\n"
+"「……。」"
+
+#. ID 1, Page 2, Line 21, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「全て運命によって決められていたと\n"
+"　言うのに･･･俺は･･･」"
+msgstr ""
+"异端mogeko\n"
+"「其实这一切都早已被命运所决定了……\n"
+"  即使这样我也……」"
+
+#. ID 1, Page 2, Line 24, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「俺は、諦められなかった･･･\n"
+"　どこかで希望の光を信じていた･･･」"
+msgstr ""
+"异端mogeko\n"
+"「我也并没有放弃……\n"
+"　我相信一定还是会有希望之光的……」"
+
+#. ID 1, Page 2, Line 27, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「だが･･･それは、この手を血に染めて\n"
+"　まで貫くべき事なのだろうか」"
+msgstr ""
+"异端mogeko\n"
+"「但是……从那之后，总有一天……\n"
+"　这双手也会被鲜血沾染的吧」"
+
+#. ID 1, Page 2, Line 30, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「そこまでして意地を張るべき\n"
+"　ものだったのか。」"
+msgstr ""
+"异端mogeko\n"
+"「但是这真的是有必要我做到\n"
+"　这种地步的事吗。」"
+
+#. ID 1, Page 2, Line 33, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「俺は････」"
+msgstr ""
+"异端mogeko\n"
+"「然后我……」"
+
+#. ID 1, Page 2, Line 35, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「････････。」"
+msgstr ""
+"异端mogeko\n"
+"「不管是对希望……还是对我自己。」"
+
+#. ID 1, Page 2, Line 39, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「俺は諦めた」"
+msgstr ""
+"异端mogeko\n"
+"「然后我就放弃了」"
+
+#. ID 1, Page 2, Line 41, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「全てを諦めた」"
+msgstr ""
+"异端mogeko\n"
+"「我全部都……放弃了」"
+
+#. ID 1, Page 2, Line 43, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「足掻くのもやめた･･･」"
+msgstr ""
+"异端mogeko\n"
+"「所有的努力与挣扎也都放弃了……」"
+
+#. ID 1, Page 2, Line 46, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「異端モゲコさん･････」"
+msgstr ""
+"夕夜\n"
+"「异端mogeko……」"
+
+#. ID 1, Page 2, Line 49, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「俺は････げふッ･･･\n"
+"　もう、どうでもよかった･･･」"
+msgstr ""
+"异端mogeko\n"
+"「我……噗咳……我曾经以为，\n"
+"  不管怎样都无所谓了……」"
+
+#. ID 1, Page 2, Line 52, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「死んでもいいと思っていた･･･」"
+msgstr ""
+"异端mogeko\n"
+"「就算死掉也无所谓了……」"
+
+#. ID 1, Page 2, Line 54, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「だが･･･そんな時に嬢ちゃんが\n"
+"　やってきたんだ」"
+msgstr ""
+"异端mogeko\n"
+"「但是……就在那个时候你\n"
+"　出现了」"
+
+#. ID 1, Page 2, Line 60, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「！」"
+msgstr ""
+"夕夜\n"
+"「！」"
+
+#. ID 1, Page 2, Line 65, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「嬢ちゃんが･･･俺の、重い足かせを解く\n"
+"　鍵を持ってきてくれた時」"
+msgstr ""
+"异端mogeko\n"
+"「你把……可以解开我沉重的\n"
+"  脚镣的钥匙给我的那个时候」"
+
+#. ID 1, Page 2, Line 68, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「俺はまた･･･信じてみたくなった」"
+msgstr ""
+"异端mogeko\n"
+"「我觉得我大概……\n"
+"  还可以再试着去相信试试看」"
+
+#. ID 1, Page 2, Line 70, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「希望も･･･自分も。」"
+msgstr ""
+"异端mogeko\n"
+"「小姐，对于你所向往所想要\n"
+"  去往的那个世界…我一无所知」"
+
+#. ID 1, Page 2, Line 73, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「･･･････。」"
+msgstr ""
+"异端mogeko\n"
+"「我甚至无法判断，\n"
+"　那究竟是不是真正正确的道路」"
+
+#. ID 1, Page 2, Line 76, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「嬢ちゃん、俺は･･･嬢ちゃんの望む\n"
+"　世界のことを･･･知らない」"
+msgstr ""
+"异端mogeko\n"
+"「但是……。」"
+
+#. ID 1, Page 2, Line 79, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「それが本当に正しい道なのかすらも、\n"
+"　俺に判断することはできない」"
+msgstr ""
+"异端mogeko\n"
+"「如果那就是小姐你所向往的话……\n"
+"　我就会引领你到那里去」"
+
+#. ID 1, Page 2, Line 82, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「だが･･･。」"
+msgstr ""
+"夕夜\n"
+"「………………呜」"
+
+#. ID 1, Page 2, Line 84, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「嬢ちゃんが望むなら･･･俺は\n"
+"　そこまで導こう」"
+msgstr ""
+"异端mogeko\n"
+"「……所以说」"
+
+#. ID 1, Page 2, Line 88, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「･･･････････っ」"
+msgstr ""
+"异端mogeko\n"
+"「必须要走了。」"
+
+#. ID 1, Page 2, Line 91, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「････だから」"
+msgstr ""
+"夕夜\n"
+"「！！！」"
+
+#. ID 1, Page 2, Line 96, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「もう、行かねーと。」"
+msgstr ""
+"异端mogeko\n"
+"「你好好听着」"
+
+#. ID 1, Page 2, Line 100, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「！！！」"
+msgstr ""
+"异端mogeko\n"
+"「我会过去吸引住那些家伙的注意力」"
+
+#. ID 1, Page 2, Line 106, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「いいか、よく聞け」"
+msgstr ""
+"异端mogeko\n"
+"「你就趁着这个时候，\n"
+"　赶快去7楼」"
+
+#. ID 1, Page 2, Line 108, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「俺が奴等の気を引かせる」"
+msgstr ""
+"夕夜\n"
+"「！？什、你在说什么……」"
+
+#. ID 1, Page 2, Line 110, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「暫くして様子を見たら\n"
+"　お前は7階へ行け」"
+msgstr ""
+"异端mogeko\n"
+"「没有关系的……如果是从这里开始\n"
+"  走的话，你一个人应该也不会迷路的」"
+
+#. ID 1, Page 2, Line 114, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「！？　な、なにを･･･」"
+msgstr ""
+"夕夜\n"
+"「什……你究竟在说些什么啊！？！？\n"
+"　我才不要！我们一起逃走吧！！」"
+
+#. ID 1, Page 2, Line 117, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「大丈夫だ･･･ここからなら\n"
+"　一人でも迷わないだろう」"
+msgstr ""
+"异端mogeko\n"
+"「那是不可能的……循着血的气味，\n"
+"　那些家伙很快就会找到我们的」"
+
+#. ID 1, Page 2, Line 121, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「な･･･何を言ってるんですか！？！？\n"
+"　嫌です！一緒に逃げましょう！！」"
+msgstr ""
+"异端mogeko\n"
+"「小姐你身上的气味应该没关系的……\n"
+"　因为有我的血的气味帮你掩盖住了」"
+
+#. ID 1, Page 2, Line 125, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「無理だ･･･血のにおいで、じきここも\n"
+"　見つかる」"
+msgstr ""
+"异端mogeko\n"
+"「啊——啊，我竟然流了这么多血……\n"
+"　把小姐你的衣服都给弄脏了……」"
+
+#. ID 1, Page 2, Line 128, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「嬢ちゃんのにおいは大丈夫だろう･･･\n"
+"　俺の血のにおいで隠されるさ」"
+msgstr ""
+"夕夜\n"
+"「异端mogeko……！！」"
+
+#. ID 1, Page 2, Line 135, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「あーあ、俺の血そんなについてたの･･･\n"
+"　嬢ちゃんの服が汚れちまったな」"
+msgstr ""
+"异端mogeko\n"
+"「实在是抱歉啊。\n"
+"  没办法陪伴你直到最后……」"
+
+#. ID 1, Page 2, Line 139, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「異端モゲコさん････！！」"
+msgstr ""
+"夕夜\n"
+"「不……」"
+
+#. ID 1, Page 2, Line 144, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「悪いな。最後まで付き添えなくて･･･」"
+msgstr ""
+"夕夜\n"
+"「不要……\n"
+"　我不要这样！！！！」"
+
+#. ID 1, Page 2, Line 147, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「嫌･････」"
+msgstr ""
+"异端mogeko\n"
+"「唔……咳、哈……咳、呼……」"
+
+#. ID 1, Page 2, Line 150, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「嫌･･･\n"
+"　絶対に嫌です！！！！」"
+msgstr ""
+"夕夜\n"
+"「异端mogeko！！！」"
+
+#. ID 1, Page 2, Line 154, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「うッ･･･がはッ･･･げふッ･･･」"
+msgstr ""
+"异端mogeko\n"
+"「你快点儿逃啊！！！」"
+
+#. ID 1, Page 2, Line 157, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「異端モゲコさん！！！」"
+msgstr ""
+"夕夜\n"
+"「不……我不要……！！！"
+
+#. ID 1, Page 2, Line 167, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「だめだ！！」"
+msgstr ""
+"异端mogeko\n"
+"「小姐！你如果在这里被抓到了的话……\n"
+"　那我之前所做的一切都没有意义了啊」"
+
+#. ID 1, Page 2, Line 169, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「お前は逃げるんだ！！！」"
+msgstr ""
+"异端mogeko\n"
+"「不行！！」"
+
+#. ID 1, Page 2, Line 172, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「嫌････嫌ぁっ･･･！！！"
+msgstr ""
+"异端mogeko\n"
+"「你如果……如果有稍稍为我着想的话，\n"
+"　就按照我说的做！！！」"
+
+#. ID 1, Page 2, Line 175, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「嬢ちゃん！ここで･･･お前が捕まったら\n"
+"　俺のやってきたことは無駄になる」"
+msgstr ""
+"夕夜\n"
+"「…………！！！！」"
+
+#. ID 1, Page 2, Line 179, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「少しでも･･･少しでも俺の気持ちを\n"
+"　思うなら言うことを聞け！！！」"
+msgstr ""
+"异端mogeko\n"
+"「咕……！啊、噗……\n"
+"　哈啊……哈啊……。」"
+
+#. ID 1, Page 2, Line 183, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「･･････！！！！」"
+msgstr ""
+"异端mogeko\n"
+"「…………呐？」"
+
+#. ID 1, Page 2, Line 186, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「ぐ････！ガフッ･･･\n"
+"　ハァッ･･･ハァ････。」"
+msgstr ""
+"夕夜\n"
+"「…………！\n"
+"　………………！！！」"
+
+#. ID 1, Page 2, Line 189, Pos (0,0)
+#. ID 1, Page 2, Line 221, Pos (0,0)
+#. ID 1, Page 2, Line 225, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「･････････。」"
+msgstr ""
+
+#. ID 1, Page 2, Line 192, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「･･･････な？」"
+msgstr ""
+"异端mogeko\n"
+"「……你……明白我的意思了吗……？」"
+
+#. ID 1, Page 2, Line 195, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「･･･････！\n"
+"　･････････！！！」"
+msgstr ""
+"异端mogeko\n"
+"「谢谢啊」"
+
+#. ID 1, Page 2, Line 200, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「･･･わかって･･･くれたか･･･？」"
+msgstr ""
+"夕夜\n"
+"「！！！！！！」"
+
+#. ID 1, Page 2, Line 206, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「ありがとな」"
+msgstr ""
+"夕夜\n"
+"「你别这么说！！明明该说感谢的……\n"
+"　是……我……啊……呜……呜呜」"
+
+#. ID 1, Page 2, Line 209, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「！！！！！！」"
+msgstr ""
+"夕夜\n"
+"「多亏了异端mogeko的帮助……\n"
+"　才能到这里……一直都在救我……」"
+
+#. ID 1, Page 2, Line 212, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「そんな！！お礼を言うべきなのは･･･\n"
+"　私の･･･ほうで･･･すっ････ぐすっ」"
+msgstr ""
+"异端mogeko\n"
+"「我才是被你拯救了心灵」"
+
+#. ID 1, Page 2, Line 215, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「異端モゲコさんのおかげで･･･ここまで\n"
+"　･･･救ってもらえ･･･て････」"
+msgstr ""
+"异端mogeko\n"
+"「真的是…………。」"
+
+#. ID 1, Page 2, Line 219, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「俺も嬢ちゃんに心が救われたんだぜ」"
+msgstr ""
+"夕夜\n"
+"「……………………。」"
+
+#. ID 1, Page 2, Line 223, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「本当にな･････････。」"
+msgstr ""
+"异端mogeko\n"
+"「………………。」"
+
+#. ID 1, Page 2, Line 232, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「じゃあ、そろそろ行くか･･･」"
+msgstr ""
+"异端mogeko\n"
+"「不快一点儿的话……\n"
+"  那些家伙就要来了…而且我也大概……」"
+
+#. ID 1, Page 2, Line 234, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「早くしねーと･･･あいつら来るし･･･\n"
+"　俺も持たん････」"
+msgstr ""
+"异端mogeko\n"
+"「那么，你也快点儿走吧……」"
+
+#. ID 1, Page 2, Line 238, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「あ････････」"
+msgstr ""
+"夕夜\n"
+"「啊…………」"
+
+#. ID 1, Page 2, Line 241, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「嬢ちゃん、元気でな」"
+msgstr ""
+"异端mogeko\n"
+"「小姐……你要多保重啊」"
+
+#. ID 1, Page 2, Line 244, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「･･････････。」"
+msgstr ""
+"异端mogeko\n"
+"「一定要乖乖按照我说的做哦？」"
+
+#. ID 1, Page 2, Line 247, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「ちゃんと、言った通りにしろよ？」"
+msgstr ""
+"夕夜\n"
+"「…………」"
+
+#. ID 1, Page 2, Line 250, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「･････････」"
+msgstr ""
+"异端mogeko\n"
+"「明白了吗？」"
+
+#. ID 1, Page 2, Line 253, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「わかったか？」"
+msgstr ""
+"夕夜\n"
+"「………………是」"
+
+#. ID 1, Page 2, Line 256, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「･･･････はい」"
+msgstr ""
+"异端mogeko\n"
+"「…………呵呵」"
+
+#. ID 1, Page 2, Line 260, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「･･････ふふ」"
+msgstr ""
+"异端mogeko\n"
+"「再见了，夕夜……。」"
+
+#. ID 1, Page 2, Line 263, Pos (0,0)
+#. ID 1, Page 2, Line 271, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「･･････。」"
+msgstr ""
+
+#. ID 1, Page 2, Line 278, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「じゃあな、ヨナカ･･･････。」"
+msgstr ""
+"夕夜\n"
+"「！！！！！！！」"
+
+#. ID 1, Page 2, Line 282, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「！！！！！！！」"
+msgstr ""
+"夕夜\n"
+"「异端……mogeko…………」"
+
+#. ID 1, Page 2, Line 288, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「あ･････････」"
+msgstr ""
+
+#. ID 1, Page 2, Line 290, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「行かないで･･･････」"
+msgstr ""
+"夕夜\n"
+"「啊………………」"
+
+#. ID 1, Page 2, Line 292, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「････････ぁ････････････。」"
+msgstr ""
+"夕夜\n"
+"「你……不要走…………」"
+
+#. ID 1, Page 2, Line 294, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･････････････。」"
+msgstr ""
+"夕夜\n"
+"「…………啊………………。」"
+
+#. ID 1, Page 2, Line 296, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「異端モゲコさん･･･････････。」"
+msgstr ""
+
+#. ID 1, Page 2, Line 298, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「異端･･･モゲコ･･･さん･･･」"
+msgstr ""
+"夕夜\n"
+"「异端mogeko……………………。」"
+
+#. ID 1, Page 4, Line 3, Pos (0,0)
+msgid "異端モゲコさん･･････。"
+msgstr "异端mogeko…………。"
+
+#. ID 7, Page 2, Line 1, Pos (10,9)
+#. ID 9, Page 1, Line 1, Pos (16,9)
+msgid "外で異端モゲコさんが燃やされている･･･。"
+msgstr "异端mogeko正在外面燃烧……。"
+
+#. ID 10, Page 1, Line 1, Pos (2,9)
+msgid "今はこっちよりも･･･････。"
+msgstr "现在比起这边………………。"
+

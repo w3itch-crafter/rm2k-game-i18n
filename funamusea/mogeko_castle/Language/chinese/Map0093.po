@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 3, Pos (16,9)
+msgid ""
+"モゲコ\n"
+"「宇宙ってなんだろう･･･。」"
+msgstr ""
+"mogeko\n"
+"「宇宙到底是什么呢…。」"
+
+#. ID 3, Page 1, Line 2, Pos (4,6)
+#. ID 11, Page 1, Line 2, Pos (4,7)
+msgid ""
+"モゲコ\n"
+"「絵本、すき？」"
+msgstr ""
+"mogeko\n"
+"「喜欢童话故事吗？」"
+
+#. ID 5, Page 1, Line 3, Pos (17,5)
+msgid ""
+"ヨナカ\n"
+"「なんでここの本棚ってうすい本しか\n"
+"　ないんだろう････」"
+msgstr ""
+"夕夜\n"
+"「为什么这里的书架上只有\n"
+"　这种薄薄的书……」"
+
+#. ID 5, Page 1, Line 6, Pos (17,5)
+msgid ""
+"ヨナカ\n"
+"「ん？」"
+msgstr ""
+"夕夜\n"
+"「哈？」"
+
+#. ID 5, Page 1, Line 8, Pos (17,5)
+msgid ""
+"ヨナカ\n"
+"「この本はなんだろう」"
+msgstr ""
+"夕夜\n"
+"「这本书是什么？」"
+
+#. ID 5, Page 1, Line 11, Pos (17,5)
+msgid "ヨナカは厚い本を手に取った。"
+msgstr "获得了一本厚一点的书。"
+
+#. ID 5, Page 1, Line 14, Pos (17,5)
+msgid ""
+"ヨナカ\n"
+"「なになに･･･\\.\\.\n"
+"　『異端狩り』？」"
+msgstr ""
+"夕夜\n"
+"「什么什么……\\.\\.\n"
+"　『异端狩猎』？」"
+
+#. ID 5, Page 1, Line 18, Pos (17,5)
+msgid ""
+"ヨナカ\n"
+"「ふむふむ･･･」"
+msgstr ""
+"夕夜\n"
+"「嗯嗯……」"
+
+#. ID 5, Page 1, Line 22, Pos (17,5)
+msgid "『――我々モゲコは同一の存在"
+msgstr "『――我们mogeko是统一的存在，"
+
+#. ID 5, Page 1, Line 23, Pos (17,5)
+msgid ""
+"　全てのモゲコは終わりから始まりまで\n"
+"　一であり全である"
+msgstr ""
+"　所有的mogeko从结束到开始\n"
+"　全都是统一的。"
+
+#. ID 5, Page 1, Line 25, Pos (17,5)
+msgid "　その意識はリンクする"
+msgstr "　所有的意识都是共通的。"
+
+#. ID 5, Page 1, Line 27, Pos (17,5)
+msgid ""
+"　だが近年、原因不明の「異端」の\n"
+"　発生が問題視されている。"
+msgstr ""
+"　但近年，有不明原因的\n"
+" 「异端」问题出现。"
+
+#. ID 5, Page 1, Line 29, Pos (17,5)
+msgid ""
+"　異端は我々モゲコとは違った思考を持ち、\n"
+"　我々の敵に位置する存在だ。"
+msgstr ""
+"　异端跟我们mogeko的思考模式完全不同，\n"
+"　是敌人般的存在。"
+
+#. ID 5, Page 1, Line 32, Pos (17,5)
+msgid ""
+"　この異端は我らがモゲコキングダムを\n"
+"　脅かす存在になりかねない\n"
+"　発生し次第処分せよ。"
+msgstr ""
+"　这个异端可能会成为\n"
+"　威胁我们mogeko王国危险的存在，\n"
+"　必须快点解决它。"
+
+#. ID 5, Page 1, Line 35, Pos (17,5)
+msgid "　なお、異端は優れた身体能力を持つ個体が――"
+msgstr "　另外，异端是身体能力非常出色的个体――"
+
+#. ID 5, Page 1, Line 37, Pos (17,5)
+msgid ""
+"？？？\n"
+"「なぁーに読んでるのかな♪」"
+msgstr ""
+"？？？\n"
+"「你在看什么呢(音符)」"
+
+#. ID 5, Page 1, Line 43, Pos (17,5)
+msgid ""
+"ヨナカ\n"
+"「！？」"
+msgstr ""
+"夕夜\n"
+"「！？」"
+
+#. ID 8, Page 1, Line 1, Pos (5,12)
+#. ID 9, Page 1, Line 1, Pos (4,12)
+#. ID 10, Page 1, Line 1, Pos (3,12)
+msgid "中から腐敗臭がする。"
+msgstr "里面散发着腐臭味。"
+
+#. ID 8, Page 1, Line 4, Pos (5,12)
+#. ID 9, Page 1, Line 4, Pos (4,12)
+#. ID 10, Page 1, Line 4, Pos (3,12)
+msgid ""
+"？？？\n"
+"「････う･････」"
+msgstr ""
+"？？？\n"
+"「……唔……」"
+
+#. ID 8, Page 1, Line 7, Pos (5,12)
+#. ID 9, Page 1, Line 7, Pos (4,12)
+#. ID 10, Page 1, Line 7, Pos (3,12)
+msgid ""
+"？？？\n"
+"「･･････だ」"
+msgstr ""
+"？？？\n"
+"「……嘎」"
+
+#. ID 8, Page 1, Line 10, Pos (5,12)
+#. ID 9, Page 1, Line 10, Pos (4,12)
+#. ID 10, Page 1, Line 10, Pos (3,12)
+msgid ""
+"？？？\n"
+"「･････だｒ･･･か\\.\\.\n"
+"　た････････け･･･････て」"
+msgstr ""
+"？？？\n"
+"「……嘎……啊\\.\\.\n"
+"　帮……帮……我」"
+
+#. ID 8, Page 1, Line 14, Pos (5,12)
+#. ID 9, Page 1, Line 14, Pos (4,12)
+#. ID 10, Page 1, Line 14, Pos (3,12)
+msgid ""
+"？？？\n"
+"「･･････ぐちゃぐちゃ」"
+msgstr ""
+"？？？\n"
+"「……乱七八糟」"
+

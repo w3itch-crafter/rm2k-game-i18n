@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 1, Pos (11,8)
+msgid "電車は停まっている。"
+msgstr "电车停了下来。"
+
+#. ID 3, Page 1, Line 1, Pos (5,8)
+msgid ""
+"電車の窓から見知らぬ駅が見える。\n"
+"此処は何処だろう。"
+msgstr ""
+"电车的窗外是未曾见过的风景。\n"
+"这里到底是哪里。"
+
+#. ID 4, Page 1, Line 1, Pos (16,8)
+msgid "乗客はもういない。"
+msgstr "已经没有乘客在车上。"
+
+#. ID 5, Page 1, Line 1, Pos (13,8)
+msgid "こちらのドアは閉まっている。"
+msgstr "这边的门紧闭着。"
+

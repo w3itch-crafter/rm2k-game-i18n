@@ -1,0 +1,1462 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "ヨナカ"
+msgstr "夕夜"
+
+#. ID 1
+msgctxt "actors.title"
+msgid "女子高生"
+msgstr "女子高中生"
+
+#. ID 2
+msgctxt "actors.name"
+msgid "異端モゲコ"
+msgstr "异端mogeko"
+
+#. ID 2
+msgctxt "actors.title"
+msgid "異端者"
+msgstr "异端者"
+
+#. ID 3
+msgctxt "actors.name"
+msgid "モゲコ"
+msgstr "mogeko"
+
+#. ID 3
+msgctxt "actors.title"
+msgid "モゲコ"
+msgstr "Mogeko"
+
+#. ID 4
+msgctxt "actors.name"
+msgid "シンヤ"
+msgstr "真夜"
+
+#. ID 4
+msgctxt "actors.title"
+msgid "？？"
+msgstr "？？"
+
+#. ID 1
+msgctxt "skills.name"
+msgid "真夜中ビンタ"
+msgstr "真夜中巴掌"
+
+#. ID 1
+msgctxt "skills.description"
+msgid "敵単体にビンタで攻撃。"
+msgstr "用巴掌攻击敌方单体。"
+
+#. ID 1
+msgctxt "skills.using_message1"
+msgid "は真夜中ビンタを使った！"
+msgstr "使用了真夜中巴掌！"
+
+#. ID 2
+msgctxt "skills.name"
+msgid "真夜中の悪夢"
+msgstr "真夜中之噩梦"
+
+#. ID 2
+msgctxt "skills.description"
+msgid "敵全体に悪夢を見せる。"
+msgstr "使敌方全体陷入噩梦。"
+
+#. ID 2
+msgctxt "skills.using_message1"
+msgid "は真夜中の悪夢を使った！"
+msgstr "使用了真夜中之噩梦！"
+
+#. ID 4
+msgctxt "skills.name"
+msgid "真夜中の月"
+msgstr "真夜中之月"
+
+#. ID 4
+msgctxt "skills.description"
+msgid "敵全体に月の光で攻撃。"
+msgstr "用月光攻击敌方全体。"
+
+#. ID 4
+msgctxt "skills.using_message1"
+msgid "は真夜中の月を使った！"
+msgstr "使用了真夜中之月！"
+
+#. ID 5
+msgctxt "skills.name"
+msgid "目潰し"
+msgstr "致盲"
+
+#. ID 5
+msgctxt "skills.description"
+msgid "敵単体の目を潰す。"
+msgstr "弄瞎敌方单体的眼睛。"
+
+#. ID 5
+msgctxt "skills.using_message1"
+msgid "は目潰しを使った！"
+msgstr "使用了致盲！"
+
+#. ID 6
+msgctxt "skills.name"
+msgid "急所を蹴り上げる"
+msgstr "要害飞踢"
+
+#. ID 6
+msgctxt "skills.description"
+msgid "敵単体の大事なところを蹴り上げる。"
+msgstr "飞踢敌方单体的重要部位。"
+
+#. ID 6
+msgctxt "skills.using_message1"
+msgid "は急所を蹴り上げるを使った！"
+msgstr "使用了要害飞踢！"
+
+#. ID 7
+msgctxt "skills.name"
+msgid "--------------------"
+msgstr "--------------------"
+
+#. ID 8
+msgctxt "skills.name"
+msgid "モゲコ大虐殺"
+msgstr "mogeko大虐杀"
+
+#. ID 8
+msgctxt "skills.description"
+msgid "敵全体を大虐殺する。"
+msgstr "对敌方全体展开大虐杀。"
+
+#. ID 8
+msgctxt "skills.using_message1"
+msgid "はモゲコ大虐殺を使った！"
+msgstr "使用了mogeko大虐杀！"
+
+#. ID 9
+msgctxt "skills.name"
+msgid "回し蹴り"
+msgstr "回旋踢"
+
+#. ID 9
+msgctxt "skills.description"
+msgid "敵単体を回り蹴りで攻撃。"
+msgstr "用回旋踢攻击敌方单体。"
+
+#. ID 9
+msgctxt "skills.using_message1"
+msgid "は回し蹴りを使った！"
+msgstr "使用了回旋踢！"
+
+#. ID 10
+msgctxt "skills.name"
+msgid "モゲコアタック"
+msgstr "mogeko攻击"
+
+#. ID 10
+msgctxt "skills.description"
+msgid "敵単体に体当たりで攻撃。"
+msgstr "用身体冲撞敌方单体。"
+
+#. ID 10
+msgctxt "skills.using_message1"
+msgid "はモゲコアタックを放った！"
+msgstr "施放了mogeko攻击！"
+
+#. ID 11
+msgctxt "skills.name"
+msgid "ヒールⅠ"
+msgstr "治疗Ⅰ"
+
+#. ID 11
+msgctxt "skills.description"
+msgid "味方単体のＨＰを 30 ポイント程度回復する。"
+msgstr "回复我方单体30点HP。"
+
+#. ID 11
+msgctxt "skills.using_message1"
+msgid "はヒールⅠを唱えた！"
+msgstr "咏唱了治疗Ⅰ！"
+
+#. ID 12
+msgctxt "skills.name"
+msgid "毒攻撃"
+msgstr "毒攻击"
+
+#. ID 12
+msgctxt "skills.description"
+msgid "敵単体にダメージを与え、毒状態にする。"
+msgstr "伤害敌方单体并附加毒状态。"
+
+#. ID 12
+msgctxt "skills.using_message1"
+msgid "の攻撃！"
+msgstr "的攻击！"
+
+#. ID 1
+msgctxt "items.name"
+msgid "生ハム"
+msgstr "生火腿"
+
+#. ID 1
+msgctxt "items.description"
+msgid "神の産物。完全に回復する。"
+msgstr "神之产物。可以完全回复。"
+
+#. ID 2
+msgctxt "items.name"
+msgid "ペペロンチーノ"
+msgstr "意式香辣面"
+
+#. ID 2
+msgctxt "items.description"
+msgid "ＨＰを 250 ポイント回復する。"
+msgstr "回复250点HP。"
+
+#. ID 3
+msgctxt "items.name"
+msgid "トウガラシ"
+msgstr "辣椒"
+
+#. ID 3
+msgctxt "items.description"
+msgid "ＭＰを 80 ポイント回復する。"
+msgstr "回复80点MP。"
+
+#. ID 4
+msgctxt "items.name"
+msgid "ミネストローネ"
+msgstr "浓菜汤"
+
+#. ID 4
+msgctxt "items.description"
+msgid "ＨＰ・ＭＰを完全に回復する。"
+msgstr "完全回复HP和MP。"
+
+#. ID 5
+msgctxt "items.name"
+msgid "鴨肉"
+msgstr "鸭肉"
+
+#. ID 5
+msgctxt "items.description"
+msgid "戦闘不能から復活させる。"
+msgstr "战斗不能时可以复活。"
+
+#. ID 6
+msgctxt "items.name"
+msgid "ポテト（Ｌ）"
+msgstr "马铃薯（L）"
+
+#. ID 6
+msgctxt "items.description"
+msgid "毒状態を回復する。"
+msgstr "恢复毒状态。"
+
+#. ID 7
+msgctxt "items.name"
+msgid "サーモン"
+msgstr "鲑鱼"
+
+#. ID 7
+msgctxt "items.description"
+msgid "戦闘不能以外の状態異常を回復する。"
+msgstr "恢复战斗不能以外的所有异常状态。"
+
+#. ID 8
+msgctxt "items.name"
+msgid "ポテチ（のりしお）"
+msgstr "薯片（海苔味）"
+
+#. ID 8
+msgctxt "items.description"
+msgid "味方全員を完全回復する。"
+msgstr "我方全员完全回复。"
+
+#. ID 9
+msgctxt "items.name"
+msgid "うすい本"
+msgstr "薄薄的书"
+
+#. ID 9
+msgctxt "items.description"
+msgid "うすくて高いえっちな本。"
+msgstr "又薄又贵的色色的书。"
+
+#. ID 11
+msgctxt "items.name"
+msgid "骨すき刀"
+msgstr "去骨刀"
+
+#. ID 11
+msgctxt "items.description"
+msgid "ごく一般的な量産型の包丁。"
+msgstr "非常一般的量产型的菜刀。"
+
+#. ID 12
+msgctxt "items.name"
+msgid "鎌"
+msgstr "镰刀"
+
+#. ID 12
+msgctxt "items.description"
+msgid "死神からパクッてきたらしい。"
+msgstr "似乎是从死神那里偷来的。"
+
+#. ID 13
+msgctxt "items.name"
+msgid "殺虫剤"
+msgstr "杀虫剂"
+
+#. ID 13
+msgctxt "items.description"
+msgid "これでどんな虫も一撃だ。そう。ヤツさえも。"
+msgstr "用这个无论什么虫子都一击必杀。对。那家伙也是。"
+
+#. ID 14
+msgctxt "items.name"
+msgid "釘の刺さったバット"
+msgstr "钉刺球棒"
+
+#. ID 14
+msgctxt "items.description"
+msgid "相手をたこ殴りにする時に使うといいらしい。"
+msgstr "似乎殴打对方的时候很好用。"
+
+#. ID 15
+msgctxt "items.name"
+msgid "灰皿"
+msgstr "烟灰缸"
+
+#. ID 15
+msgctxt "items.description"
+msgid "手で持って相手を背後から殴る。"
+msgstr "拿在手里从背后殴打对方。"
+
+#. ID 16
+msgctxt "items.name"
+msgid "メリケンサック"
+msgstr "指节套环"
+
+#. ID 16
+msgctxt "items.description"
+msgid "じゃんけんぐーで相手を殴る。"
+msgstr "石头剪刀布—然后殴打对手。"
+
+#. ID 17
+msgctxt "items.name"
+msgid "ノートパソコン"
+msgstr "笔记本电脑"
+
+#. ID 17
+msgctxt "items.description"
+msgid "相手に向かって投げる"
+msgstr "向着对方投掷"
+
+#. ID 18
+#. ID 20
+msgctxt "items.name"
+msgid "日本刀"
+msgstr "日本刀"
+
+#. ID 18
+msgctxt "items.description"
+msgid "100均で買ったら実は本物だった刀。"
+msgstr "100元左右买的实际上是真货的刀。"
+
+#. ID 19
+msgctxt "items.name"
+msgid "携帯電話"
+msgstr "手机"
+
+#. ID 19
+msgctxt "items.description"
+msgid "すぐ充電が切れる。"
+msgstr "就快没电了。"
+
+#. ID 20
+msgctxt "items.description"
+msgid "ごく一般的な量産型の日本刀。"
+msgstr "非常一般的量产型的日本刀。"
+
+#. ID 21
+msgctxt "items.name"
+msgid "ペンタブ"
+msgstr "数位板"
+
+#. ID 21
+msgctxt "items.description"
+msgid "シンプルなプラスチック製のペン。"
+msgstr "简单的塑料制的笔。"
+
+#. ID 22
+msgctxt "items.name"
+msgid "チョコレート"
+msgstr "巧克力"
+
+#. ID 22
+msgctxt "items.description"
+msgid "MPが10あがる。"
+msgstr "回复10点MP。"
+
+#. ID 23
+msgctxt "items.name"
+msgid "絵本"
+msgstr "故事书"
+
+#. ID 23
+msgctxt "items.description"
+msgid "おもしろおかしく、悲しい、エログロ。そんな物語"
+msgstr "这是一个有趣、可笑、悲伤、工口、猎奇的故事。"
+
+#. ID 24
+msgctxt "items.name"
+msgid "飴ちゃん"
+msgstr "糖果"
+
+#. ID 24
+msgctxt "items.description"
+msgid "ＭＰを２０回復する。"
+msgstr "回复20点MP。"
+
+#. ID 25
+msgctxt "items.name"
+msgid "強き心"
+msgstr "强大的心"
+
+#. ID 25
+msgctxt "items.description"
+msgid "異端モゲコの心"
+msgstr "异端Mogeko的心"
+
+#. ID 26
+msgctxt "items.name"
+msgid "すけべな薬"
+msgstr "好色的药"
+
+#. ID 26
+msgctxt "items.description"
+msgid "ＨＰを20回復する。"
+msgstr "回复20点HP。"
+
+#. ID 27
+msgctxt "items.name"
+msgid "鶏肉料理本"
+msgstr "鸡肉料理书"
+
+#. ID 27
+msgctxt "items.description"
+msgid "鶏の解体の方法から調理まで幅広くご紹介。"
+msgstr "广泛地介绍了从解剖鸡到烹饪的过程。"
+
+#. ID 28
+msgctxt "items.name"
+msgid "ヨナカのパンツ"
+msgstr "夕夜的内裤"
+
+#. ID 29
+msgctxt "items.name"
+msgid "★博物館"
+msgstr "★博物馆"
+
+#. ID 29
+msgctxt "items.description"
+msgid "博物館へいける。"
+msgstr "能够去博物馆。"
+
+#. ID 44
+msgctxt "items.name"
+msgid "スクールバッグ"
+msgstr "书包"
+
+#. ID 44
+msgctxt "items.description"
+msgid "学生が持ってるやつ。"
+msgstr "学生都有的东西。"
+
+#. ID 45
+#. ID 68
+msgctxt "items.name"
+msgid "モゲコ帽子"
+msgstr "Mogeko帽子"
+
+#. ID 45
+#. ID 68
+msgctxt "items.description"
+msgid "モゲコごっこセット。"
+msgstr "装扮成Mogeko的套装。"
+
+#. ID 46
+#. ID 53
+msgctxt "items.name"
+msgid "制服（ブレザー）"
+msgstr "制服（外套）"
+
+#. ID 46
+#. ID 53
+msgctxt "items.description"
+msgid "ただの制服。"
+msgstr "普通的制服。"
+
+#. ID 47
+msgctxt "items.name"
+msgid "ペンギン帽子"
+msgstr "企鹅帽子"
+
+#. ID 47
+msgctxt "items.description"
+msgid "ペンギンごっこセット。"
+msgstr "装扮成企鹅的套装。"
+
+#. ID 54
+msgctxt "items.name"
+msgid "十字傷"
+msgstr "十字伤"
+
+#. ID 54
+msgctxt "items.description"
+msgid "昔つけられた傷"
+msgstr "以前留下的伤"
+
+#. ID 67
+msgctxt "items.name"
+msgid "髪留め"
+msgstr "发夹"
+
+#. ID 67
+msgctxt "items.description"
+msgid "好きな髪型にできる。"
+msgstr "可以选择喜欢的发型。"
+
+#. ID 69
+msgctxt "items.name"
+msgid "頬の傷"
+msgstr "脸上的伤"
+
+#. ID 69
+msgctxt "items.description"
+msgid "古傷。"
+msgstr "旧伤。"
+
+#. ID 85
+msgctxt "items.name"
+msgid "大きなナイフ"
+msgstr "大的匕首"
+
+#. ID 85
+msgctxt "items.description"
+msgid "我こそが覇王なり"
+msgstr "我才是霸王"
+
+#. ID 86
+msgctxt "items.name"
+msgid "カギ"
+msgstr "钥匙"
+
+#. ID 86
+msgctxt "items.description"
+msgid "モゲコキャッスル内のすべての扉の鍵"
+msgstr "Mogeko Castle内所有门的钥匙"
+
+#. ID 87
+msgctxt "items.name"
+msgid "たまご"
+msgstr "鸡蛋"
+
+#. ID 87
+msgctxt "items.description"
+msgid "食べると体中に寄生虫が沸くので注意。"
+msgstr "吃下去体内寄生虫会兴奋要注意。"
+
+#. ID 88
+msgctxt "items.name"
+msgid "カギ２"
+msgstr "钥匙2"
+
+#. ID 88
+msgctxt "items.description"
+msgid "ある場所に入るときに使う"
+msgstr "进入某个地方时使用"
+
+#. ID 89
+msgctxt "items.name"
+msgid "ハンマー"
+msgstr "锤子"
+
+#. ID 89
+msgctxt "items.description"
+msgid "ハスハスキーを助けよう！"
+msgstr "去帮助hshski吧！"
+
+#. ID 90
+msgctxt "items.name"
+msgid "免罪符"
+msgstr "免罪符"
+
+#. ID 90
+msgctxt "items.description"
+msgid "ラストまでとっておきましょう"
+msgstr "保留到结局吧"
+
+#. ID 91
+msgctxt "items.name"
+msgid "怖い本"
+msgstr "恐怖的书"
+
+#. ID 91
+msgctxt "items.description"
+msgid "もげ子の趣味がまるわかりな本"
+msgstr "读了就能了解MOGE子的趣味的书"
+
+#. ID 1
+msgctxt "enemies.name"
+msgid "モゲコ"
+msgstr "mogeko"
+
+#. ID 2
+msgctxt "enemies.name"
+msgid "もげ子のかけら"
+msgstr "MOGE子的碎片"
+
+#. ID 3
+msgctxt "enemies.name"
+msgid "化け物"
+msgstr "怪物"
+
+#. ID 4
+msgctxt "enemies.name"
+msgid "モゲコ(血)"
+msgstr "mogeko(血)"
+
+#. ID 5
+msgctxt "enemies.name"
+msgid "モゲコの幼虫"
+msgstr "mogeko的幼虫"
+
+#. ID 6
+msgctxt "enemies.name"
+msgid "モフコ"
+msgstr "mofuko"
+
+#. ID 7
+msgctxt "enemies.name"
+msgid "ゾンビモゲコ"
+msgstr "僵尸mogeko"
+
+#. ID 1
+msgctxt "states.name"
+msgid "戦闘不能"
+msgstr "战斗不能"
+
+#. ID 1
+msgctxt "states.message_actor"
+msgid "は倒れた！"
+msgstr "倒下了！"
+
+#. ID 1
+msgctxt "states.message_enemy"
+msgid "を倒した！"
+msgstr "倒下了！"
+
+#. ID 1
+msgctxt "states.message_recovery"
+msgid "は立ち上がった！"
+msgstr "站了起来！"
+
+#. ID 2
+msgctxt "states.name"
+msgid "毒"
+msgstr "毒"
+
+#. ID 2
+msgctxt "states.message_actor"
+msgid "は毒に冒された！"
+msgstr "中毒了！"
+
+#. ID 2
+msgctxt "states.message_enemy"
+msgid "は毒に冒された！"
+msgstr "中毒了！"
+
+#. ID 2
+msgctxt "states.message_already"
+msgid "はすでに毒に冒されている！"
+msgstr "在中毒着！"
+
+#. ID 2
+msgctxt "states.message_recovery"
+msgid "の毒が消えた！"
+msgstr "的毒消除了！"
+
+#. ID 3
+msgctxt "states.name"
+msgid "暗闇"
+msgstr "黑暗"
+
+#. ID 3
+msgctxt "states.message_actor"
+msgid "は暗闇に閉ざされた！"
+msgstr "封闭在了黑暗中！"
+
+#. ID 3
+msgctxt "states.message_enemy"
+msgid "を暗闇に閉ざした！"
+msgstr "封闭在了黑暗中！"
+
+#. ID 3
+msgctxt "states.message_already"
+msgid "はすでに暗闇に閉ざされている！"
+msgstr "在黑暗中封闭着！"
+
+#. ID 3
+msgctxt "states.message_recovery"
+msgid "の暗闇が消えた！"
+msgstr "的黑暗消除了！"
+
+#. ID 4
+msgctxt "states.name"
+msgid "沈黙"
+msgstr "沉默"
+
+#. ID 4
+msgctxt "states.message_actor"
+msgid "は沈黙した！"
+msgstr "沉默了！"
+
+#. ID 4
+msgctxt "states.message_enemy"
+msgid "を沈黙させた！"
+msgstr "沉默了！"
+
+#. ID 4
+msgctxt "states.message_already"
+msgid "はすでに沈黙している！"
+msgstr "はすでに沈黙している！"
+
+#. ID 4
+msgctxt "states.message_recovery"
+msgid "の沈黙が解けた！"
+msgstr "的沉默解除了！"
+
+#. ID 5
+msgctxt "states.name"
+msgid "暴走"
+msgstr "暴走"
+
+#. ID 5
+msgctxt "states.message_actor"
+msgid "は暴走した！"
+msgstr "は暴走した！"
+
+#. ID 5
+msgctxt "states.message_enemy"
+msgid "を暴走させた！"
+msgstr "を暴走させた！"
+
+#. ID 5
+msgctxt "states.message_already"
+msgid "はすでに暴走している！"
+msgstr "はすでに暴走している！"
+
+#. ID 5
+#. ID 6
+msgctxt "states.message_recovery"
+msgid "は我に返った！"
+msgstr "は我に返った！"
+
+#. ID 6
+msgctxt "states.name"
+msgid "混乱"
+msgstr "混乱"
+
+#. ID 6
+msgctxt "states.message_actor"
+msgid "は混乱した！"
+msgstr "は混乱した！"
+
+#. ID 6
+msgctxt "states.message_enemy"
+msgid "を混乱させた！"
+msgstr "を混乱させた！"
+
+#. ID 6
+msgctxt "states.message_already"
+msgid "はすでに混乱している！"
+msgstr "はすでに混乱している！"
+
+#. ID 7
+msgctxt "states.name"
+msgid "睡眠"
+msgstr "睡眠"
+
+#. ID 7
+msgctxt "states.message_actor"
+msgid "は眠ってしまった！"
+msgstr "は眠ってしまった！"
+
+#. ID 7
+msgctxt "states.message_enemy"
+msgid "を眠らせた！"
+msgstr "を眠らせた！"
+
+#. ID 7
+msgctxt "states.message_already"
+msgid "はすでに眠っている！"
+msgstr "はすでに眠っている！"
+
+#. ID 7
+msgctxt "states.message_affected"
+msgid "は眠っている・・・"
+msgstr "は眠っている…"
+
+#. ID 7
+msgctxt "states.message_recovery"
+msgid "は目を覚ました！"
+msgstr "は目を覚ました！"
+
+#. ID 8
+msgctxt "states.name"
+msgid "麻痺"
+msgstr "麻痹"
+
+#. ID 8
+msgctxt "states.message_actor"
+msgid "は麻痺して動けなくなった！"
+msgstr "は麻痺して動けなくなった！"
+
+#. ID 8
+msgctxt "states.message_enemy"
+msgid "を麻痺させた！"
+msgstr "を麻痺させた！"
+
+#. ID 8
+msgctxt "states.message_already"
+msgid "はすでに麻痺している！"
+msgstr "はすでに麻痺している！"
+
+#. ID 8
+msgctxt "states.message_affected"
+msgid "は麻痺していて動けない！"
+msgstr "は麻痺していて動けない！"
+
+#. ID 8
+msgctxt "states.message_recovery"
+msgid "の麻痺が解けた！"
+msgstr "の麻痺が解けた！"
+
+#. ID 9
+msgctxt "states.name"
+msgid "よろめき"
+msgstr "蹒跚"
+
+#. ID 9
+msgctxt "states.message_actor"
+msgid "はバランスを崩した！"
+msgstr "无法保持平衡了！"
+
+#. ID 9
+msgctxt "states.message_enemy"
+msgid "はバランスを崩した！"
+msgstr "无法保持平衡了！"
+
+#. ID 9
+msgctxt "states.message_affected"
+msgid "はよろめいている・・・"
+msgstr "无法站稳…"
+
+#. ID 9
+msgctxt "states.message_recovery"
+msgid "はよろめいている・・・"
+msgstr "无法站稳…"
+
+#. ID 10
+msgctxt "states.name"
+msgid "驚き"
+msgstr "惊吓"
+
+#. ID 10
+msgctxt "states.message_actor"
+msgid "は立ちすくんだ！"
+msgstr "收到了惊吓！"
+
+#. ID 10
+msgctxt "states.message_enemy"
+msgid "は立ちすくんだ！"
+msgstr "收到了惊吓！"
+
+#. ID 10
+msgctxt "states.message_affected"
+msgid "は立ちすくんでいる・・・"
+msgstr "吓呆了…"
+
+#. ID 10
+msgctxt "states.message_recovery"
+msgid "は立ちすくんでいる・・・"
+msgstr "吓呆了…"
+
+msgctxt "terms.encounter"
+msgid "が出現！"
+msgstr "出现了！"
+
+msgctxt "terms.special_combat"
+msgid "先制攻撃のチャンス！"
+msgstr "先制攻击的机会！"
+
+msgctxt "terms.escape_success"
+msgid "無事に逃げ出した！"
+msgstr "安全地逃跑了！"
+
+msgctxt "terms.escape_failure"
+msgid "逃げ切れなかった！"
+msgstr "逃跑失败了！"
+
+msgctxt "terms.victory"
+msgid "勝利！"
+msgstr "胜利！"
+
+msgctxt "terms.defeat"
+msgid "敗北した。"
+msgstr "失败了。"
+
+msgctxt "terms.exp_received"
+msgid "の経験値を獲得！"
+msgstr "点经验值获得了！"
+
+msgctxt "terms.gold_recieved_a"
+msgid "お金を"
+msgstr ""
+
+msgctxt "terms.gold_recieved_b"
+msgid "手に入れた！"
+msgstr "获得了！"
+
+msgctxt "terms.item_recieved"
+msgid "を手に入れた！"
+msgstr "获得了！"
+
+msgctxt "terms.attacking"
+msgid "の攻撃！"
+msgstr "的攻击！"
+
+msgctxt "terms.enemy_critical"
+msgid "会心の一撃！！"
+msgstr "会心一击！！"
+
+msgctxt "terms.actor_critical"
+msgid "痛恨の一撃！！"
+msgstr "痛恨一击！！"
+
+msgctxt "terms.defending"
+msgid "は身を守っている！"
+msgstr "防御了！"
+
+msgctxt "terms.observing"
+msgid "は様子を見ている・・・"
+msgstr "在观察情况…"
+
+msgctxt "terms.focus"
+msgid "は力をためている・・・"
+msgstr "蓄势待发…"
+
+msgctxt "terms.autodestruction"
+msgid "は自爆した！"
+msgstr "自爆了！"
+
+msgctxt "terms.enemy_escape"
+msgid "は逃げてしまった！"
+msgstr "逃跑了！"
+
+msgctxt "terms.enemy_transform"
+msgid "は姿を変えた！"
+msgstr "变身了！"
+
+msgctxt "terms.enemy_damaged"
+msgid "のダメージを与えた！"
+msgstr "点伤害！"
+
+msgctxt "terms.enemy_undamaged"
+msgid "にダメージを与えられない！"
+msgstr "没有造成伤害！"
+
+msgctxt "terms.actor_damaged"
+msgid "のダメージを受けた！"
+msgstr "点伤害！"
+
+msgctxt "terms.actor_undamaged"
+msgid "はダメージを受けていない！"
+msgstr "没有受到伤害！"
+
+msgctxt "terms.skill_failure_a"
+msgid "には効かなかった！"
+msgstr "没有产生效果！"
+
+msgctxt "terms.skill_failure_b"
+msgid "は平気だった！"
+msgstr "は平気だった！"
+
+msgctxt "terms.skill_failure_c"
+msgid "は眠らなかった！"
+msgstr "は眠らなかった！"
+
+msgctxt "terms.dodge"
+msgid "は攻撃をかわした！"
+msgstr "躲开了攻击！"
+
+msgctxt "terms.use_item"
+msgid "を使った！"
+msgstr "！"
+
+msgctxt "terms.hp_recovery"
+msgid "回復した！"
+msgstr "点回复了！"
+
+msgctxt "terms.parameter_increase"
+msgid "上がった！"
+msgstr "点上升了！"
+
+msgctxt "terms.parameter_decrease"
+msgid "下がった！"
+msgstr "点下降了！"
+
+msgctxt "terms.enemy_hp_absorbed"
+msgid "奪った！"
+msgstr "点吸收了！"
+
+msgctxt "terms.actor_hp_absorbed"
+msgid "奪われた！"
+msgstr "点夺取了！"
+
+msgctxt "terms.resistance_increase"
+msgid "に強くなった！"
+msgstr "变强了！"
+
+msgctxt "terms.resistance_decrease"
+msgid "に弱くなった！"
+msgstr "变弱了！"
+
+msgctxt "terms.level_up"
+msgid "になった！"
+msgstr "提升到了！"
+
+msgctxt "terms.skill_learned"
+msgid "を覚えた！"
+msgstr "学会了！"
+
+msgctxt "terms.shop_greeting1"
+msgid "「いらっしゃいませ」"
+msgstr "乽偄傜偭偟傖偄傑偣乿"
+
+msgctxt "terms.shop_regreeting1"
+msgid "「ほかにご用件はございますか？」"
+msgstr "乽傎偐偵偛梡審偼偛偞偄傑偡偐丠乿"
+
+msgctxt "terms.shop_buy1"
+msgid "かう"
+msgstr "偐偆"
+
+msgctxt "terms.shop_sell1"
+msgid "うる"
+msgstr "偆傞"
+
+msgctxt "terms.shop_leave1"
+msgid "やめる"
+msgstr "傗傔傞"
+
+msgctxt "terms.shop_buy_select1"
+msgid "「何をお買い上げになりますか？」"
+msgstr "乽壗傪偍攦偄忋偘偵側傝傑偡偐丠乿"
+
+msgctxt "terms.shop_buy_number1"
+msgid "「いくつお買い上げになりますか？」"
+msgstr "乽偄偔偮偍攦偄忋偘偵側傝傑偡偐丠乿"
+
+msgctxt "terms.shop_purchased1"
+msgid "「ありがとうございます」"
+msgstr "乽偁傝偑偲偆偛偞偄傑偡乿"
+
+msgctxt "terms.shop_sell_select1"
+msgid "「何をお売りになりますか？」"
+msgstr "乽壗傪偍攧傝偵側傝傑偡偐丠乿"
+
+msgctxt "terms.shop_sell_number1"
+msgid "「いくつお売りになりますか？」"
+msgstr "乽偄偔偮偍攧傝偵側傝傑偡偐丠乿"
+
+msgctxt "terms.shop_sold1"
+msgid "「ありがとうございます」"
+msgstr "乽偁傝偑偲偆偛偞偄傑偡乿"
+
+msgctxt "terms.shop_greeting2"
+msgid "「いらっしゃい！　今日はどんな用だい？」"
+msgstr "乽偄傜偭偟傖偄両丂崱擔偼偳傫側梡偩偄丠乿"
+
+msgctxt "terms.shop_regreeting2"
+msgid "「ほかにも用があるかい？」"
+msgstr "乽傎偐偵傕梡偑偁傞偐偄丠乿"
+
+msgctxt "terms.shop_buy2"
+msgid "購入する"
+msgstr "峸擖偡傞"
+
+msgctxt "terms.shop_sell2"
+msgid "売却する"
+msgstr "攧媝偡傞"
+
+msgctxt "terms.shop_leave2"
+msgid "やめる"
+msgstr "傗傔傞"
+
+msgctxt "terms.shop_buy_select2"
+msgid "「何を買うんだい？」"
+msgstr "乽壗傪攦偆傫偩偄丠乿"
+
+msgctxt "terms.shop_buy_number2"
+msgid "「いくつ買うんだい？」"
+msgstr "乽偄偔偮攦偆傫偩偄丠乿"
+
+msgctxt "terms.shop_purchased2"
+msgid "「ありがとよっ！」"
+msgstr "乽偁傝偑偲傛偭両乿"
+
+msgctxt "terms.shop_sell_select2"
+msgid "「何を売るんだい？」"
+msgstr "乽壗傪攧傞傫偩偄丠乿"
+
+msgctxt "terms.shop_sell_number2"
+msgid "「いくつ売るんだい？」"
+msgstr "乽偄偔偮攧傞傫偩偄丠乿"
+
+msgctxt "terms.shop_sold2"
+msgid "「ありがとよっ！」"
+msgstr "乽偁傝偑偲傛偭両乿"
+
+msgctxt "terms.shop_greeting3"
+msgid "「こんにちは。どんなご用ですか？」"
+msgstr "乽偙傫偵偪偼丅偳傫側偛梡偱偡偐丠乿"
+
+msgctxt "terms.shop_regreeting3"
+msgid "「ほかにもご用がありますか？」"
+msgstr "乽傎偐偵傕偛梡偑偁傝傑偡偐丠乿"
+
+msgctxt "terms.shop_buy3"
+msgid "購入する"
+msgstr "峸擖偡傞"
+
+msgctxt "terms.shop_sell3"
+msgid "売却する"
+msgstr "攧媝偡傞"
+
+msgctxt "terms.shop_leave3"
+msgid "やめる"
+msgstr "傗傔傞"
+
+msgctxt "terms.shop_buy_select3"
+msgid "「何を買ってくれますか？」"
+msgstr "乽壗傪攦偭偰偔傟傑偡偐丠乿"
+
+msgctxt "terms.shop_buy_number3"
+msgid "「いくつ買ってくれますか？」"
+msgstr "乽偄偔偮攦偭偰偔傟傑偡偐丠乿"
+
+msgctxt "terms.shop_purchased3"
+msgid "「どうもありがとう」"
+msgstr "乽偳偆傕偁傝偑偲偆乿"
+
+msgctxt "terms.shop_sell_select3"
+msgid "「何を売ってくれますか？」"
+msgstr "乽壗傪攧偭偰偔傟傑偡偐丠乿"
+
+msgctxt "terms.shop_sell_number3"
+msgid "「いくつ売ってくれますか？」"
+msgstr "乽偄偔偮攧偭偰偔傟傑偡偐丠乿"
+
+msgctxt "terms.shop_sold3"
+msgid "「どうもありがとう」"
+msgstr "乽偳偆傕偁傝偑偲偆乿"
+
+msgctxt "terms.inn_a_greeting_1"
+msgid "「宿泊料金は"
+msgstr "乽廻攽椏嬥偼"
+
+msgctxt "terms.inn_a_greeting_2"
+msgid "になります。"
+msgstr "偵側傝傑偡丅"
+
+msgctxt "terms.inn_a_greeting_3"
+msgid "　お泊まりになりますか？」"
+msgstr "丂偍攽傑傝偵側傝傑偡偐丠乿"
+
+msgctxt "terms.inn_a_accept"
+msgid "泊まる"
+msgstr "攽傑傞"
+
+msgctxt "terms.inn_a_cancel"
+msgid "泊まらない"
+msgstr "攽傑傜側偄"
+
+msgctxt "terms.inn_b_greeting_1"
+msgid "「一泊"
+msgstr "乽堦攽"
+
+msgctxt "terms.inn_b_greeting_2"
+msgid "だが"
+msgstr "偩偑"
+
+msgctxt "terms.inn_b_greeting_3"
+msgid "　泊まっていくかい？」"
+msgstr "丂攽傑偭偰偄偔偐偄丠乿"
+
+msgctxt "terms.inn_b_accept"
+msgid "泊まる"
+msgstr "攽傑傞"
+
+msgctxt "terms.inn_b_cancel"
+msgid "泊まらない"
+msgstr "攽傑傜側偄"
+
+msgctxt "terms.possessed_items"
+msgid "所持数"
+msgstr "所持数"
+
+msgctxt "terms.equipped_items"
+msgid "装備数"
+msgstr "装备数"
+
+msgctxt "terms.gold"
+msgid "Ｇ"
+msgstr "G"
+
+msgctxt "terms.battle_fight"
+msgid "たたかう"
+msgstr "战斗"
+
+msgctxt "terms.battle_auto"
+msgid "まかせる"
+msgstr "自动"
+
+msgctxt "terms.battle_escape"
+msgid "にげる"
+msgstr "逃跑"
+
+msgctxt "terms.command_attack"
+msgid "こうげき"
+msgstr "攻击"
+
+msgctxt "terms.command_defend"
+msgid "ぼうぎょ"
+msgstr "防御"
+
+msgctxt "terms.command_item"
+msgid "あいてむ"
+msgstr "物品"
+
+msgctxt "terms.command_skill"
+msgid "わざ"
+msgstr "技能"
+
+msgctxt "terms.menu_equipment"
+msgid "そうび"
+msgstr "装备"
+
+msgctxt "terms.menu_save"
+msgid "きろく"
+msgstr "存档"
+
+msgctxt "terms.menu_quit"
+msgid "おわる"
+msgstr "结束游戏"
+
+msgctxt "terms.new_game"
+msgid "　はじめから　"
+msgstr "  开  始  "
+
+msgctxt "terms.load_game"
+msgid "　つづきから　"
+msgstr "  继  续  "
+
+msgctxt "terms.exit_game"
+msgid "　お　わ　り　"
+msgstr "  结  束  "
+
+msgctxt "terms.level"
+msgid "レベル"
+msgstr "等级"
+
+msgctxt "terms.health_points"
+msgid "ＨＰ"
+msgstr "HP"
+
+msgctxt "terms.spirit_points"
+msgid "ＭＰ"
+msgstr "MP"
+
+msgctxt "terms.normal_status"
+msgid "正常"
+msgstr "正常"
+
+msgctxt "terms.exp_short"
+msgid "Ｅ"
+msgstr "E"
+
+msgctxt "terms.lvl_short"
+msgid "Ｌ"
+msgstr "L"
+
+msgctxt "terms.hp_short"
+msgid "Ｈ"
+msgstr "H"
+
+msgctxt "terms.sp_short"
+msgid "Ｍ"
+msgstr "M"
+
+msgctxt "terms.sp_cost"
+msgid "消費ＭＰ"
+msgstr "消耗MP"
+
+msgctxt "terms.attack"
+msgid "攻撃力"
+msgstr "攻击力"
+
+msgctxt "terms.defense"
+msgid "防御力"
+msgstr "防御力"
+
+msgctxt "terms.spirit"
+msgid "精神力"
+msgstr "精神力"
+
+msgctxt "terms.agility"
+msgid "敏捷性"
+msgstr "敏捷性"
+
+msgctxt "terms.weapon"
+msgid "武器"
+msgstr "武器"
+
+msgctxt "terms.shield"
+msgid "盾"
+msgstr "盾牌"
+
+msgctxt "terms.armor"
+msgid "鎧"
+msgstr "铠甲"
+
+msgctxt "terms.helmet"
+msgid "兜"
+msgstr "头盔"
+
+msgctxt "terms.accessory"
+msgid "装飾品"
+msgstr "装饰品"
+
+msgctxt "terms.save_game_message"
+msgid "きろくする"
+msgstr "储存档案"
+
+msgctxt "terms.load_game_message"
+msgid "ろーどする"
+msgstr "载入档案"
+
+msgctxt "terms.file"
+msgid "きろく"
+msgstr "记录"
+
+msgctxt "terms.exit_game_message"
+msgid "おわりますか？"
+msgstr "要结束了吗？"
+
+msgctxt "terms.yes"
+msgid "はい"
+msgstr "是"
+
+msgctxt "terms.no"
+msgid "いいえ"
+msgstr "否"
+
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_status_scene_name"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_status_scene_class"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_status_scene_title"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_status_scene_condition"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_status_scene_front"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_status_scene_back"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_order_scene_confirm"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_order_scene_redo"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_battle2k3_double_attack"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_battle2k3_defend"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_battle2k3_observe"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_battle2k3_charge"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_battle2k3_selfdestruct"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_battle2k3_item"
+msgid "default_term"
+msgstr "default_term"
+

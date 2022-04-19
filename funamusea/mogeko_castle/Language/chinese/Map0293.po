@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 1, Line 5, Pos (10,3)
+msgid ""
+"ヨナカ\n"
+"「ただいま」"
+msgstr ""
+"夕夜\n"
+"「我回来了」"
+
+#. ID 6, Page 1, Line 9, Pos (10,3)
+msgid ""
+"ヨナカ\n"
+"「･････････シンヤ兄さん」"
+msgstr ""
+"夕夜\n"
+"「…………真夜哥哥」"
+
+#. ID 9, Page 1, Line 1, Pos (7,17)
+#. ID 10, Page 1, Line 1, Pos (7,16)
+#. ID 11, Page 1, Line 1, Pos (13,16)
+#. ID 12, Page 1, Line 1, Pos (13,17)
+msgid "靴がしまわれている。"
+msgstr "摆放着鞋子。"
+

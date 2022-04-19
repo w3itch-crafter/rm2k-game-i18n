@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 29, Page 1, Line 83, Pos (0,0)
+#. ID 29, Page 1, Line 97, Pos (0,0)
+#. ID 29, Page 1, Line 104, Pos (0,0)
+#. ID 29, Page 1, Line 205, Pos (0,0)
+msgid ""
+"夕夜\n"
+"「……。」"
+msgstr ""
+

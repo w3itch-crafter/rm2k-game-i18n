@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 3, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「ありがとな」"
+msgstr ""
+"異端mogeko\n"
+"「谢谢你啊」"
+
+#. ID 3, Page 1, Line 8, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･･･････････････！」"
+msgstr ""
+"夕夜\n"
+"「……………………！」"
+
+#. ID 3, Page 1, Line 20, Pos (0,0)
+msgid "燃えてゆく"
+msgstr "异端mogeko的身体"
+
+#. ID 3, Page 1, Line 22, Pos (0,0)
+msgid "異端モゲコの体が"
+msgstr "燃烧着、燃烧着"
+
+#. ID 3, Page 1, Line 24, Pos (0,0)
+msgid "燃え上がってゆく･･･。"
+msgstr "渐渐地……燃烧、殆尽……。"
+

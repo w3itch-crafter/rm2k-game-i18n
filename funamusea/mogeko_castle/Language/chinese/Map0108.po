@@ -1,0 +1,248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 47, Page 1, Line 2, Pos (5,62)
+msgid ""
+"異端モゲコ\n"
+"「ったく･･･ここはいつ来ても不気味だぜ」"
+msgstr ""
+"异端mogeko\n"
+"「真是的……这里从来都是这么令人不舒服」"
+
+#. ID 47, Page 1, Line 4, Pos (5,62)
+msgid ""
+"異端モゲコ\n"
+"「まあ、気持ち悪いだけで、危険なものは\n"
+"　ねえから、まっすぐ進め」"
+msgstr ""
+"异端mogeko\n"
+"「嘛，虽然很恶心，但是没有\n"
+"　危险的东西，笔直的前进吧」"
+
+#. ID 48, Page 1, Line 2, Pos (4,43)
+msgid ""
+"異端モゲコ\n"
+"「なんて血なまぐさい場所なんだ。\n"
+"　おえー。」"
+msgstr ""
+"异端mogeko\n"
+"「真是个血腥的地方。\n"
+"　咕诶。」"
+
+#. ID 48, Page 1, Line 5, Pos (4,43)
+msgid ""
+"異端モゲコ\n"
+"「お前も気持ち悪くならねえか？」"
+msgstr ""
+"异端mogeko\n"
+"「你不觉得恶心吗？」"
+
+#. ID 49, Page 1, Line 2, Pos (22,29)
+msgid ""
+"異端モゲコ\n"
+"「安心しろ。お前が脱出できるように\n"
+"　手伝ってやっから。」"
+msgstr ""
+"异端mogeko\n"
+"「放心吧。我会帮助你\n"
+"　逃出这里的。」"
+
+#. ID 49, Page 1, Line 5, Pos (22,29)
+msgid ""
+"異端モゲコ\n"
+"「･･･俺もそれ以外やることねーしな」"
+msgstr ""
+"异端mogeko\n"
+"「……反正我也没别的事情做」"
+
+#. ID 49, Page 1, Line 8, Pos (22,29)
+msgid ""
+"異端モゲコ\n"
+"「あ。そうだ。」"
+msgstr ""
+"异端mogeko\n"
+"「啊。对了。」"
+
+#. ID 49, Page 1, Line 11, Pos (22,29)
+msgid ""
+"異端モゲコ\n"
+"「これ、俺が複数いるんじゃなくて\n"
+"　移動してるんだからな。」"
+msgstr ""
+"异端mogeko\n"
+"「这个，不是多了好几只我。\n"
+"　只是我移动了而已。」"
+
+#. ID 50, Page 1, Line 2, Pos (1,20)
+msgid ""
+"異端モゲコ\n"
+"「この城の空間はほぼ無限と考えていい\n"
+"　常に膨張し、何処かで消滅している」"
+msgstr ""
+"异端mogeko\n"
+"「这个城的空间可以说是无限的，\n"
+"　某个地方膨胀，某个地方就会消失」"
+
+#. ID 50, Page 1, Line 5, Pos (1,20)
+msgid ""
+"異端モゲコ\n"
+"「そして、俺らモゲコも、な････」"
+msgstr ""
+"异端mogeko\n"
+"「还有，mogeko们也是……」"
+
+#. ID 51, Page 1, Line 2, Pos (26,6)
+msgid ""
+"異端モゲコ\n"
+"「ここに来るのは久しぶりだな」"
+msgstr ""
+"异端mogeko\n"
+"「我已经好久没来这里了」"
+
+#. ID 51, Page 1, Line 4, Pos (26,6)
+msgid ""
+"異端モゲコ\n"
+"「あの頃俺はまだ、\n"
+"　ごく普通のモゲコだった」"
+msgstr ""
+"异端mogeko\n"
+"「那个时候的我，\n"
+"　还只是普通的mogeko」"
+
+#. ID 51, Page 1, Line 7, Pos (26,6)
+msgid ""
+"異端モゲコ\n"
+"「俺が異端になったキッカケ？\n"
+"　今度教えてやるよ」"
+msgstr ""
+"异端mogeko\n"
+"「我成为异端的契机？\n"
+"　下次再告诉你」"
+
+#. ID 52, Page 1, Line 2, Pos (70,30)
+msgid ""
+"異端モゲコ\n"
+"「目がぐるぐるしてきたか？」"
+msgstr ""
+"异端mogeko\n"
+"「已经晕头转向了吗？」"
+
+#. ID 52, Page 1, Line 4, Pos (70,30)
+msgid ""
+"異端モゲコ\n"
+"「安心しろ。\n"
+"　一本道だから迷うことはない」"
+msgstr ""
+"异端mogeko\n"
+"「放心吧。\n"
+"　这里只有一条路所以不会迷路的」"
+
+#. ID 53, Page 1, Line 2, Pos (69,50)
+msgid ""
+"異端モゲコ\n"
+"「･･････。」"
+msgstr ""
+"异端mogeko\n"
+"「……。」"
+
+#. ID 53, Page 1, Line 4, Pos (69,50)
+msgid ""
+"異端モゲコ\n"
+"「俺も生ハムは好きだぜ」"
+msgstr ""
+"异端mogeko\n"
+"「我也喜欢生火腿」"
+
+#. ID 54, Page 1, Line 2, Pos (58,63)
+msgid ""
+"異端モゲコ\n"
+"「この城で、一時期寄生虫の感染が\n"
+"　大流行してな」"
+msgstr ""
+"异端mogeko\n"
+"「这个城堡里曾有一段时间\n"
+"  流行寄生虫感染」"
+
+#. ID 54, Page 1, Line 5, Pos (58,63)
+msgid ""
+"異端モゲコ\n"
+"「たまたま生ハムに寄生してたらしい」"
+msgstr ""
+"异端mogeko\n"
+"「只是因为很不凑巧，生火腿上有寄生虫」"
+
+#. ID 54, Page 1, Line 7, Pos (58,63)
+msgid ""
+"異端モゲコ\n"
+"「あの時はモゲ口（もげこう）の70％が\n"
+"　死に至ったっけ。」"
+msgstr ""
+"异端mogeko\n"
+"「那个时候mogeko（数量）70％\n"
+"　以上都死了。」"
+
+#. ID 54, Page 1, Line 10, Pos (58,63)
+msgid ""
+"異端モゲコ\n"
+"「俺は平気だったけどなー。」"
+msgstr ""
+"异端mogeko\n"
+"「我倒是没事呐。」"
+
+#. ID 55, Page 1, Line 2, Pos (28,62)
+msgid ""
+"異端モゲコ\n"
+"「しんどいか？もうすぐだ。」"
+msgstr ""
+"异端mogeko\n"
+"「累了吗？马上就快到了。」"
+
+#. ID 56, Page 1, Line 2, Pos (41,40)
+msgid ""
+"異端モゲコ\n"
+"「あー、やっとだぜ。\n"
+"　なんで此処はこんなに広いんだ。」"
+msgstr ""
+"异端mogeko\n"
+"「啊，总算到了。\n"
+"　为什么这里这么大呢。」"
+
+#. ID 60, Page 1, Line 4, Pos (42,17)
+msgid ""
+"異端モゲコ\n"
+"「この先に俺の知り合いがいる。」"
+msgstr ""
+"异端mogeko\n"
+"「这前面有我的熟人。」"
+
+#. ID 60, Page 1, Line 7, Pos (42,17)
+msgid ""
+"ヨナカ\n"
+"「といっても、モゲコですよね？」"
+msgstr ""
+"夕夜\n"
+"「虽这么说，也就是mogeko吧？」"
+
+#. ID 60, Page 1, Line 10, Pos (42,17)
+msgid ""
+"異端モゲコ\n"
+"「まあな」"
+msgstr ""
+"异端mogeko\n"
+"「也对」"
+
+#. ID 60, Page 1, Line 12, Pos (42,17)
+msgid ""
+"異端モゲコ\n"
+"「じゃ、行くか。」"
+msgstr ""
+"异端mogeko\n"
+"「那，走吧。」"
+

@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 12, Page 1, Line 1, Pos (9,5)
+#. ID 13, Page 1, Line 1, Pos (10,5)
+msgid "モフモフしてそうな絵だ。"
+msgstr "看起来毛茸茸的画。"
+
+#. ID 14, Page 1, Line 2, Pos (9,8)
+msgid ""
+"モフコ\n"
+"「愛もふ週間もふ」"
+msgstr ""
+"mofuko\n"
+"「每周都爱毛茸茸」"
+
+#. ID 15, Page 1, Line 2, Pos (2,11)
+msgid ""
+"モフコ\n"
+"「りーどあぶっくすもふ」"
+msgstr ""
+"mofuko\n"
+"「领导能力爆表mofu」"
+
+#. ID 16, Page 1, Line 2, Pos (6,9)
+msgid ""
+"モフコ\n"
+"「絵本を読むもふ」"
+msgstr ""
+"mofuko\n"
+"「我要看故事书mofu」"
+
+#. ID 17, Page 1, Line 2, Pos (13,11)
+msgid ""
+"モフコ\n"
+"「ふわふわー」"
+msgstr ""
+"mofuko\n"
+"「软绵绵」"
+
+#. ID 18, Page 1, Line 2, Pos (11,12)
+msgid ""
+"モフコ\n"
+"「ふもー」"
+msgstr ""
+"mofuko\n"
+"「mofu」"
+
+#. ID 19, Page 1, Line 1, Pos (18,6)
+msgid "おや？変な虫がいる････。"
+msgstr "哦呀？有一只怪怪的虫子……。"
+
+#. ID 19, Page 1, Line 2, Pos (18,6)
+#. Contains choice at line 2 (2 options)
+msgid "手にとってみますか？"
+msgstr "用手抓住它吗？"
+
+#. ID 19, Page 1, Line 4, Pos (18,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"うん\n"
+"やめとく"
+msgstr ""
+"是\n"
+"否"
+

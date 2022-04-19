@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 1, Pos (6,12)
+#. ID 6, Page 1, Line 1, Pos (7,12)
+#. ID 7, Page 1, Line 1, Pos (12,12)
+#. ID 8, Page 1, Line 1, Pos (13,12)
+#. ID 9, Page 1, Line 1, Pos (7,2)
+#. ID 10, Page 1, Line 1, Pos (6,2)
+#. ID 11, Page 1, Line 1, Pos (12,2)
+#. ID 12, Page 1, Line 1, Pos (13,2)
+#. ID 13, Page 1, Line 1, Pos (1,30)
+#. ID 14, Page 1, Line 1, Pos (2,30)
+#. ID 15, Page 1, Line 1, Pos (6,30)
+#. ID 16, Page 1, Line 1, Pos (7,30)
+#. ID 17, Page 1, Line 1, Pos (12,30)
+#. ID 18, Page 1, Line 1, Pos (13,30)
+#. ID 19, Page 1, Line 1, Pos (17,30)
+#. ID 20, Page 1, Line 1, Pos (18,30)
+#. ID 21, Page 1, Line 1, Pos (18,40)
+#. ID 22, Page 1, Line 1, Pos (19,40)
+#. ID 23, Page 1, Line 1, Pos (13,40)
+#. ID 24, Page 1, Line 1, Pos (14,40)
+#. ID 25, Page 1, Line 1, Pos (6,40)
+#. ID 26, Page 1, Line 1, Pos (5,40)
+#. ID 27, Page 1, Line 1, Pos (1,40)
+#. ID 28, Page 1, Line 1, Pos (0,40)
+#. ID 29, Page 1, Line 1, Pos (19,51)
+#. ID 30, Page 1, Line 1, Pos (18,51)
+#. ID 31, Page 1, Line 1, Pos (13,51)
+#. ID 32, Page 1, Line 1, Pos (14,51)
+#. ID 33, Page 1, Line 1, Pos (6,51)
+#. ID 34, Page 1, Line 1, Pos (5,51)
+#. ID 35, Page 1, Line 1, Pos (0,51)
+#. ID 36, Page 1, Line 1, Pos (1,51)
+#. ID 37, Page 1, Line 1, Pos (0,64)
+#. ID 38, Page 1, Line 1, Pos (1,64)
+#. ID 39, Page 1, Line 1, Pos (5,64)
+#. ID 40, Page 1, Line 1, Pos (6,64)
+#. ID 41, Page 1, Line 1, Pos (13,64)
+#. ID 42, Page 1, Line 1, Pos (14,64)
+#. ID 43, Page 1, Line 1, Pos (18,64)
+#. ID 44, Page 1, Line 1, Pos (19,64)
+msgid "『モゲコキャッスル』"
+msgstr "『Mogeko Castle』"
+
+#. ID 45, Page 1, Line 2, Pos (10,22)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"異端モゲコ\n"
+"「この先には何が･･･」"
+msgstr ""
+"异端mogeko\n"
+"「在这前方究竟会有什么呢……」"
+
+#. ID 45, Page 1, Line 6, Pos (10,22)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"そんな事より愛の逃避行しましょう\n"
+"････。"
+msgstr ""
+"比起那种事，不如我们私奔吧\n"
+"……。"
+
+#. ID 45, Page 1, Line 9, Pos (10,22)
+msgid ""
+"異端モゲコ\n"
+"「な、嬢ちゃん、何を言ってるんだ」"
+msgstr ""
+"异端mogeko\n"
+"「什、小姐、你在说什么呢」"
+
+#. ID 45, Page 1, Line 12, Pos (10,22)
+msgid ""
+"ヨナカ\n"
+"「もうお兄ちゃんとか\n"
+"　どうでもいいです！」"
+msgstr ""
+"夕夜\n"
+"「哥哥究竟会怎样，\n"
+"　我已经不想再去管了！」"
+
+#. ID 45, Page 1, Line 15, Pos (10,22)
+msgid ""
+"ヨナカ\n"
+"「異端モゲコさん、私はあなたが\n"
+"　好きです！」"
+msgstr ""
+"夕夜\n"
+"「异端mogeko，\n"
+"　我喜欢你！」"
+
+#. ID 45, Page 1, Line 19, Pos (10,22)
+msgid ""
+"異端モゲコ\n"
+"「お前っ･･･！」"
+msgstr ""
+"异端mogeko\n"
+"「你……！」"
+
+#. ID 45, Page 1, Line 21, Pos (10,22)
+msgid ""
+"異端モゲコ\n"
+"「ばかなこと言うんじゃねえ！」"
+msgstr ""
+"异端mogeko\n"
+"「别说这种傻话！」"
+
+#. ID 45, Page 1, Line 24, Pos (10,22)
+msgid ""
+"ヨナカ\n"
+"「私は本気なんです！！！」"
+msgstr ""
+"夕夜\n"
+"「我是认真的！！！」"
+
+#. ID 45, Page 1, Line 27, Pos (10,22)
+msgid ""
+"異端モゲコ\n"
+"「！」"
+msgstr ""
+"异端mogeko\n"
+"「！」"
+
+#. ID 45, Page 1, Line 30, Pos (10,22)
+msgid ""
+"ヨナカ\n"
+"「私と一緒に･･･愛の逃避行\n"
+"　しませんか？」"
+msgstr ""
+"夕夜\n"
+"「和我一起……\n"
+"　私奔好吗？」"
+
+#. ID 45, Page 1, Line 34, Pos (10,22)
+msgid ""
+"異端モゲコ\n"
+"「･･･････････。」"
+msgstr ""
+"异端mogeko\n"
+"「………………。」"
+
+#. ID 45, Page 1, Line 36, Pos (10,22)
+msgid ""
+"異端モゲコ\n"
+"「嬢ちゃん･･････。」"
+msgstr ""
+"异端mogeko\n"
+"「小姐…………。」"
+
+#. ID 45, Page 1, Line 40, Pos (10,22)
+msgid ""
+"ヨナカ\n"
+"「異端モゲコさんっ････！」"
+msgstr ""
+"夕夜\n"
+"「异端mogeko……！」"
+
+#. ID 45, Page 1, Line 49, Pos (10,22)
+msgid ""
+"かくして二人はモゲコキャッスルから\n"
+"愛の逃避行を遂げ、"
+msgstr ""
+"就这样，两人从Mogeko Castle逃出来\n"
+"私奔了。"
+
+#. ID 45, Page 1, Line 52, Pos (10,22)
+msgid ""
+"ヨナカは兄さんのことなんぞ\n"
+"すっかり忘れて\n"
+"幸せに暮らしましたとさ"
+msgstr ""
+"夕夜也完全\n"
+"忘记了哥哥，\n"
+"两人从此幸福地生活在一起。"
+
+#. ID 45, Page 1, Line 56, Pos (10,22)
+msgid "めでたしめでたし"
+msgstr "可喜可贺可喜可贺。"
+

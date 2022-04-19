@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 2, Line 1, Pos (12,7)
+msgid "こちらのエレベーターは故障中だ。"
+msgstr "这边的电梯故障了。"
+
+#. ID 5, Page 1, Line 2, Pos (10,11)
+msgid ""
+"ヨナカ\n"
+"「（なんで室内に建物、とか、もはや\n"
+"　つっこむ気にもなれない････）」"
+msgstr ""
+"夕夜\n"
+"「（为什么室内会有建筑，已经\n"
+"　懒得吐槽了……）」"
+
+#. ID 5, Page 1, Line 6, Pos (10,11)
+msgid ""
+"異端モゲコ\n"
+"「嬢ちゃん･･･もしもの時のために\n"
+"　ここで武器を調達だ。」"
+msgstr ""
+"异端mogeko\n"
+"「小姐……为了不时之需\n"
+"　在这里拿些武器吧。」"
+
+#. ID 5, Page 1, Line 9, Pos (10,11)
+msgid ""
+"異端モゲコ\n"
+"「えーと、どの階\n"
+"　だったっけ･･･････。」"
+msgstr ""
+"异端mogeko\n"
+"「那个在哪层\n"
+"　来着…………。」"
+
+#. ID 5, Page 1, Line 13, Pos (10,11)
+msgid ""
+"ヨナカ\n"
+"「はい？」"
+msgstr ""
+"夕夜\n"
+"「哈？」"
+
+#. ID 5, Page 1, Line 16, Pos (10,11)
+msgid ""
+"異端モゲコ\n"
+"「俺でも素手で勝てるか微妙だしな･･･」"
+msgstr ""
+"异端mogeko\n"
+"「就算是我赤手空拳也不一定能赢呢……」"
+
+#. ID 5, Page 1, Line 19, Pos (10,11)
+msgid ""
+"ヨナカ\n"
+"「あのう････なんの話ですか？\n"
+"　び、病院ですよ･･･武器･･･？」"
+msgstr ""
+"夕夜\n"
+"「那个……你在说什么呢？\n"
+"　这、这可是医院啊……武器……？」"
+
+#. ID 5, Page 1, Line 23, Pos (10,11)
+msgid ""
+"異端モゲコ\n"
+"「あ、言ってなかったっけ。」"
+msgstr ""
+"异端mogeko\n"
+"「啊，我没说过么。」"
+
+#. ID 5, Page 1, Line 26, Pos (10,11)
+msgid ""
+"異端モゲコ\n"
+"「この階人食いのデカい化け物がいるから\n"
+"　危ねーんだ。」"
+msgstr ""
+"异端mogeko\n"
+"「因为这层有会吃人的巨大怪物，\n"
+"　很危险来着。」"
+
+#. ID 5, Page 1, Line 29, Pos (10,11)
+msgid ""
+"異端モゲコ\n"
+"「まあ、もげ子と比べたら\n"
+"　大したことねーけど･･･」"
+msgstr ""
+"异端mogeko\n"
+"「嘛，虽然没有moge子\n"
+"　那么大……」"
+
+#. ID 5, Page 1, Line 32, Pos (10,11)
+msgid ""
+"異端モゲコ\n"
+"「多分檻に入ってるし。\n"
+"　ほら、万が一を考えてだな。」"
+msgstr ""
+"异端mogeko\n"
+"「大概是关在牢里呢。\n"
+"　所以你看要考虑万一啊。」"
+
+#. ID 5, Page 1, Line 35, Pos (10,11)
+msgid ""
+"異端モゲコ\n"
+"「あとここは病院だが武器もおもちゃも\n"
+"　沢山そろってるぞ。」"
+msgstr ""
+"异端mogeko\n"
+"「还有虽然这里是医院\n"
+"　武器可是堆得像山一样高哦。」"
+
+#. ID 5, Page 1, Line 39, Pos (10,11)
+msgid ""
+"異端モゲコ\n"
+"「どうした？」"
+msgstr ""
+"异端mogeko\n"
+"「怎么了你？」"
+
+#. ID 5, Page 1, Line 43, Pos (10,11)
+msgid ""
+"ヨナカ\n"
+"「胃が痛くなってきました。」"
+msgstr ""
+"夕夜\n"
+"「我好像胃开始疼了。」"
+
+#. ID 5, Page 2, Line 2, Pos (10,11)
+msgid ""
+"異端モゲコ\n"
+"「やべー何階だったっけ･･･\n"
+"　とりあえず此処は4階しかねーから」"
+msgstr ""
+"异端mogeko\n"
+"「是哪层来着……\n"
+"　总之，这里是四层。」"
+
+#. ID 5, Page 2, Line 5, Pos (10,11)
+msgid ""
+"異端モゲコ\n"
+"「適当に周ってりゃみつかるだろー」"
+msgstr ""
+"异端mogeko\n"
+"「先在周围找找看吧」"
+
+#. ID 6, Page 1, Line 1, Pos (4,8)
+#. ID 7, Page 1, Line 1, Pos (3,8)
+#. ID 8, Page 1, Line 1, Pos (15,8)
+#. ID 9, Page 1, Line 1, Pos (16,8)
+msgid "粉砕したくなる銅像だ。"
+msgstr "很想打碎的铜像。"
+
+#. ID 10, Page 1, Line 1, Pos (3,15)
+#. ID 11, Page 1, Line 1, Pos (16,15)
+msgid "木だ。"
+msgstr "树。"
+

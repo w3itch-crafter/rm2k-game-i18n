@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 16, Page 1, Line 8, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「俺もそう簡単にやられるのは\n"
+"　嫌なんでね！！」"
+msgstr ""
+"异端mogeko\n"
+"「我也不是那么容易\n"
+"　就会被你干掉的！！」"
+
+#. ID 16, Page 1, Line 12, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「あれーまだそれ持ってたんですか！？」"
+msgstr ""
+"夕夜\n"
+"「啊咧——你还拿着那个东西么！？」"
+
+#. ID 16, Page 1, Line 15, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「嬢ちゃん！\\.\\.\n"
+"　念には念を、\\.\\.だ！」"
+msgstr ""
+"异端mogeko\n"
+"「小姐！\\.\\.\n"
+"　小心为上。\\.\\.！」"
+
+#. ID 16, Page 1, Line 19, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「･････え？」"
+msgstr ""
+"mogeko王\n"
+"「…………诶？」"
+
+#. ID 16, Page 1, Line 22, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「悪いな藻毛子！\n"
+"　俺はまだ死ねないんだ！」"
+msgstr ""
+"异端mogeko\n"
+"「不好意思啊你个藻毛子（mogeko)！\n"
+"　老子现在还暂时不会死的！」"
+
+#. ID 16, Page 1, Line 26, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「えっ･･･\\.\\.ちょ\\.\\.待っ･･･\\.\\.\n"
+"　僕もげ子みたいにシールド張れな」"
+msgstr ""
+"mogeko王\n"
+"「诶……\\.\\.住手、\\.\\.等等……\\.\\.\n"
+"　我又不像moge子那样会撑开结界」"
+
+#. ID 16, Page 1, Line 30, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「うおおおおおおおおーーーッッ！！！」"
+msgstr ""
+"异端mogeko\n"
+"「唔哦哦哦哦哦————！！！」"
+
+#. ID 16, Page 1, Line 49, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「は、派手にやりましたネ････」"
+msgstr ""
+"夕夜\n"
+"「你做得真夸张呢……」"
+
+#. ID 16, Page 1, Line 52, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「あいつは厄介だ\\.\\.\n"
+"　これぐらいやらんと」"
+msgstr ""
+"异端mogeko\n"
+"「那家伙可是个大麻烦，\\.\\.\n"
+"　所以非要做到这个地步不可」"
+
+#. ID 16, Page 1, Line 57, Pos (0,0)
+msgid "～そして数十分後～"
+msgstr "～数十分钟之后～"
+

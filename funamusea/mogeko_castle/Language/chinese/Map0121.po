@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (0,0)
+msgid "無数の幼虫モゲコが"
+msgstr "无数的幼虫mogeko"
+
+#. ID 1, Page 1, Line 4, Pos (0,0)
+msgid "ヨナカに襲い掛かる。"
+msgstr "向夕夜发起了进攻。"
+
+#. ID 1, Page 1, Line 24, Pos (0,0)
+msgid "モゲコは、\\.\\.\\.増える"
+msgstr "mogeko们\\.\\.\\.增加了"
+
+#. ID 1, Page 1, Line 26, Pos (0,0)
+msgid "増え続ける"
+msgstr "继续增加。"
+
+#. ID 1, Page 1, Line 28, Pos (0,0)
+msgid "モゲコは、\\.\\.\\.孵る"
+msgstr "mogeko们\\.\\.\\.孵化了"
+
+#. ID 1, Page 1, Line 30, Pos (0,0)
+msgid "卵から孵る"
+msgstr "从蛋里孵化出来。"
+
+#. ID 1, Page 1, Line 32, Pos (0,0)
+msgid "卵は、産み落とされる。"
+msgstr "蛋又被生了出来。"
+
+#. ID 1, Page 1, Line 34, Pos (0,0)
+msgid "それは･･････････････。"
+msgstr "那是…………。"
+

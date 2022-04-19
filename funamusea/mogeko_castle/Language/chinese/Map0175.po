@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 3, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「このやろう！！\n"
+"　離せ！！！」"
+msgstr ""
+"异端mogeko\n"
+"「这个混蛋！！\n"
+"　放手啊！！！」"
+
+#. ID 2, Page 1, Line 7, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「あああああああああ･･････。」"
+msgstr ""
+"夕夜\n"
+"「啊啊啊啊啊啊啊啊…………。」"
+
+#. ID 2, Page 1, Line 10, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「もーーげげげげげげ♪"
+msgstr ""
+"moge子\n"
+"「mooogegegegegege(音符)"
+
+#. ID 2, Page 1, Line 13, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「くそっ！キチガイが･･･！！\n"
+"　離せつってんだよ！！」"
+msgstr ""
+"异端mogeko\n"
+"「可恶！疯了么……！！\n"
+"　不是说了放手么！！」"
+
+#. ID 2, Page 1, Line 19, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「うるさいなあちょっと黙ってろよ」"
+msgstr ""
+"moge子\n"
+"「好烦啊给我安静点」"
+

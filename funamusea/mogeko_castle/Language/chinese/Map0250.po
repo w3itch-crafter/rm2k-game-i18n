@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (17,44)
+msgid ""
+"ヨナカ\n"
+"「ここ･････最初のところ！？」"
+msgstr ""
+"夕夜\n"
+"「这里是……最初的那个地方吗！？」"
+
+#. ID 1, Page 1, Line 5, Pos (17,44)
+msgid ""
+"異端モゲコ\n"
+"「いや、違う･･･\n"
+"　ここは･･･。」"
+msgstr ""
+"异端mogeko\n"
+"「不，不是的……\n"
+"　这里是……。」"
+
+#. ID 30, Page 1, Line 2, Pos (7,24)
+msgid ""
+"ヨナカ\n"
+"「なんでもげ子さんが････？」"
+msgstr ""
+"夕夜\n"
+"「为什么moge子会……？」"
+
+#. ID 30, Page 1, Line 5, Pos (7,24)
+msgid ""
+"異端モゲコ\n"
+"「いや、さっきのはもげ子じゃない\n"
+"　もげ子のかけらだろう」"
+msgstr ""
+"异端mogeko\n"
+"「不，刚刚那个不是moge子，\n"
+"　大概只是moge子的碎片吧」"
+
+#. ID 30, Page 1, Line 9, Pos (7,24)
+msgid ""
+"ヨナカ\n"
+"「かけら？」"
+msgstr ""
+"夕夜\n"
+"「碎片？」"
+
+#. ID 30, Page 1, Line 12, Pos (7,24)
+msgid ""
+"異端モゲコ\n"
+"「やつの10分の1程度の力しかないものだ\n"
+"　本物じゃなくて助かったな･･･」"
+msgstr ""
+"异端mogeko\n"
+"「仅仅只有那家伙十分之一能力的东西\n"
+"  而已，不是碰上她本人真是太走运了…」"
+
+#. ID 30, Page 1, Line 16, Pos (7,24)
+msgid ""
+"ヨナカ\n"
+"「････。」"
+msgstr ""
+"夕夜\n"
+"「……。」"
+
+#. ID 30, Page 1, Line 19, Pos (7,24)
+msgid ""
+"異端モゲコ\n"
+"「ところでさっきそのかけらが\n"
+"　落としてった鍵」"
+msgstr ""
+"异端mogeko\n"
+"「说起来刚刚那个碎片身上\n"
+"　掉落下来的钥匙」"
+
+#. ID 30, Page 1, Line 22, Pos (7,24)
+msgid ""
+"異端モゲコ\n"
+"「こっちのドアに使えそうだぜ」"
+msgstr ""
+"异端mogeko\n"
+"「好像可以开这边的门」"
+

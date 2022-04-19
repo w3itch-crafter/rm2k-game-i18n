@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 1, Pos (1,6)
+#. ID 3, Page 1, Line 1, Pos (2,6)
+#. ID 4, Page 1, Line 1, Pos (5,6)
+#. ID 5, Page 1, Line 1, Pos (6,6)
+#. ID 6, Page 1, Line 1, Pos (9,6)
+#. ID 7, Page 1, Line 1, Pos (10,6)
+#. ID 8, Page 1, Line 1, Pos (13,6)
+#. ID 9, Page 1, Line 1, Pos (14,6)
+#. ID 10, Page 1, Line 1, Pos (17,6)
+#. ID 11, Page 1, Line 1, Pos (18,6)
+msgid "モフモフしてそうな銅像だ。"
+msgstr "看上去毛茸茸的铜像。"
+
+#. ID 12, Page 1, Line 1, Pos (3,5)
+#. ID 13, Page 1, Line 1, Pos (4,5)
+#. ID 14, Page 1, Line 1, Pos (7,5)
+#. ID 15, Page 1, Line 1, Pos (8,5)
+#. ID 16, Page 1, Line 1, Pos (11,5)
+#. ID 17, Page 1, Line 1, Pos (12,5)
+#. ID 18, Page 1, Line 1, Pos (15,5)
+#. ID 19, Page 1, Line 1, Pos (16,5)
+msgid "モフモフしてそうな絵だ。"
+msgstr "看起来毛茸茸的画。"
+
+#. ID 20, Page 1, Line 3, Pos (9,7)
+#. ID 20, Page 2, Line 2, Pos (9,7)
+msgid ""
+"？？？\n"
+"「あー見つかってよかった\\.\\.\n"
+"　私のケータイ」"
+msgstr ""
+"？？？\n"
+"「啊——我的手机\\.\\.\n"
+"　找到了真是太好啦」"
+
+#. ID 21, Page 1, Line 3, Pos (10,7)
+#. ID 21, Page 2, Line 2, Pos (10,7)
+msgid ""
+"？？？\n"
+"「なんでこんなとこに落とすんだよ･･･」"
+msgstr ""
+"？？？\n"
+"「为什么会掉在这种地方啦……」"
+
+#. ID 22, Page 1, Line 3, Pos (8,7)
+#. ID 22, Page 2, Line 2, Pos (8,7)
+msgid ""
+"？？？\n"
+"「こんなとこ早く帰りましょうよ！\n"
+"　あたしこのあとラジオの収録が…」"
+msgstr ""
+"？？？\n"
+"「快点从这种地方回去啦！\n"
+"　我之后还要回去录广播的录音呢……」"
+

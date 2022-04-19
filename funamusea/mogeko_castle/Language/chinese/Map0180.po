@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 1, Pos (7,41)
+#. ID 6, Page 1, Line 1, Pos (6,41)
+#. ID 7, Page 1, Line 1, Pos (12,41)
+#. ID 8, Page 1, Line 1, Pos (13,41)
+msgid "この先、モゲコ病院"
+msgstr "前方是mogeko医院"
+
+#. ID 9, Page 1, Line 1, Pos (6,7)
+#. ID 10, Page 1, Line 1, Pos (7,7)
+#. ID 11, Page 1, Line 1, Pos (12,7)
+#. ID 12, Page 1, Line 1, Pos (13,7)
+msgid "藻立モゲ科モゲコ病院"
+msgstr "藻立moge科mogeko医院"
+

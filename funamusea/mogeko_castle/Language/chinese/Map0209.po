@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 1, Line 1, Pos (2,4)
+#. ID 7, Page 1, Line 1, Pos (3,4)
+msgid "犬死している。"
+msgstr "毫无价值地死了。"
+
+#. ID 8, Page 1, Line 2, Pos (26,4)
+msgid ""
+"異端モゲコ\n"
+"「眠い･･･むにゃむにゃ」"
+msgstr ""
+"异端mogeko\n"
+"「好困……呼噜呼噜」"
+
+#. ID 8, Page 1, Line 5, Pos (26,4)
+msgid ""
+"ヨナカ\n"
+"「（やだ･･･眠いの我慢してる･･･\n"
+"　異端モゲコさん可愛い･･･）」"
+msgstr ""
+"夕夜\n"
+"「（哟……在忍着不睡觉呢……\n"
+"　异端mogeko好可爱……）」"
+
+#. ID 9, Page 1, Line 2, Pos (11,36)
+msgid ""
+"異端モゲコ\n"
+"「･･････････。」"
+msgstr ""
+"异端mogeko\n"
+"「………………。」"
+

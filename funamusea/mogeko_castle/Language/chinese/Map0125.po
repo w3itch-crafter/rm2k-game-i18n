@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (10,9)
+msgid ""
+"異端モゲコ\n"
+"「やれやれ、やっと4階か。」"
+msgstr ""
+"异端mogeko\n"
+"「呀咧呀咧，总算到了4楼。」"
+
+#. ID 2, Page 1, Line 2, Pos (18,7)
+msgid ""
+"モゲコ\n"
+"「！？」"
+msgstr ""
+"mogeko\n"
+"「！？」"
+
+#. ID 3, Page 1, Line 1, Pos (2,10)
+msgid "手紙が置いてある。"
+msgstr "放着一封信。"
+
+#. ID 3, Page 1, Line 2, Pos (2,10)
+msgid ""
+"『モゲコさんって気持ち悪いですね･･･\n"
+"　流石の僕も少し引きますよ\n"
+"　悪趣味です･･･。』"
+msgstr ""
+"『mogeko真是让人恶心啊……\n"
+"　就连我都有点受不了，\n"
+"　真是恶趣味……。』"
+
+#. ID 4, Page 1, Line 1, Pos (7,11)
+#. ID 7, Page 1, Line 1, Pos (6,11)
+msgid "ワープすると死ぬ仕組みらしい。"
+msgstr "传送完以后就死了。"
+
+#. ID 5, Page 1, Line 1, Pos (3,6)
+msgid "カピカピしてくっついたページのある本だ。"
+msgstr "两张页面黏在一起的书。"
+
+#. ID 10, Page 1, Line 1, Pos (9,5)
+#. ID 11, Page 1, Line 1, Pos (10,5)
+msgid "視線を感じる･･･。"
+msgstr "感受到了视线……。"
+
+#. ID 13, Page 1, Line 1, Pos (2,13)
+#. ID 14, Page 1, Line 1, Pos (1,13)
+#. ID 15, Page 1, Line 1, Pos (3,13)
+msgid "原形をとどめていない肉塊が入っている。"
+msgstr "里面放着已经认不出原型的肉块。"
+

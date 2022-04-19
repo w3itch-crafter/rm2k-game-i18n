@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 17, Page 1, Line 2, Pos (54,51)
+msgid ""
+"壁に耳をあててるモゲコ\n"
+"「････」"
+msgstr ""
+"把耳朵贴在墙边的mogeko\n"
+"「……」"
+
+#. ID 17, Page 1, Line 4, Pos (54,51)
+#. ID 17, Page 1, Line 8, Pos (54,51)
+msgid ""
+"壁に耳をあててるモゲコ\n"
+"「聞こえる････」"
+msgstr ""
+
+#. ID 17, Page 1, Line 6, Pos (54,51)
+#, fuzzy
+msgid ""
+"壁に耳をあててるモゲコ\n"
+"「心の叫び････」"
+msgstr ""
+"把耳朵贴在墙边的mogeko\n"
+"「我能听到……」"
+
+#. ID 18, Page 1, Line 2, Pos (52,22)
+msgid ""
+"モゲコ\n"
+"「ほっといてくれ･･･\\.\\.\\.\n"
+"　もう死にたいんだ･･･。」"
+msgstr ""
+"mogeko\n"
+"「不要管我…\\.\\.\\.\n"
+"　让我去死…。」"
+
+#. ID 19, Page 1, Line 2, Pos (45,5)
+msgid ""
+"モゲコ\n"
+"「びっくりした？\n"
+"　なにもしないよ～ん！」"
+msgstr ""
+"mogeko\n"
+"「吓到了？\n"
+"　我什么都不会做的啦～！」"
+
+#. ID 20, Page 1, Line 2, Pos (47,67)
+msgid ""
+"モゲコ\n"
+"「ご存じないのですか！？！？\n"
+"　糸唐辛子のおいしさを！！！！」"
+msgstr ""
+"mogeko\n"
+"「你不知道吗！？！？\n"
+"　辣椒切丝有多好吃！！！！」"
+
+#. ID 21, Page 1, Line 2, Pos (54,52)
+msgid ""
+"モゲコ\n"
+"「は？」"
+msgstr ""
+"mogeko\n"
+"「哈？」"
+

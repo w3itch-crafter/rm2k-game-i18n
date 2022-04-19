@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 3, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「来いやァ！！！！！！！」"
+msgstr ""
+"mogeko王\n"
+"「来吧！！！！！！！」"
+
+#. ID 3, Page 1, Line 7, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「うおおおおおおおおおおおおおおおおお\n"
+"　おおおおおおおおおおおおおお！！！」"
+msgstr ""
+"异端mogeko\n"
+"「唔哦哦哦哦哦哦哦哦哦哦哦哦哦哦哦哦\n"
+"　哦哦哦哦哦哦哦哦哦哦哦哦哦哦！！！」"
+
+#. ID 3, Page 1, Line 34, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「ホアチャーー！！！！」"
+msgstr ""
+"mogeko王\n"
+"「看招——！！！！」"
+
+#. ID 3, Page 1, Line 37, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「はぁああッッ！！！」"
+msgstr ""
+"异端mogeko\n"
+"「喝啊啊啊！！！」"
+
+#. ID 3, Page 1, Line 61, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「アーーーヒャッヒャッヒャッヒャ！！」"
+msgstr ""
+"mogeko王\n"
+"「啊———哼哼哈兮！！」"
+
+#. ID 3, Page 1, Line 64, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「ついに本性をあらわしたか！！」"
+msgstr ""
+"异端mogeko\n"
+"「你总算露出本性了吗！！」"
+
+#. ID 3, Page 1, Line 67, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「イヒヒヒヒヒヒ！！気に食わないヤツを\n"
+"　殺すのは楽しいからなあ！！！」"
+msgstr ""
+"mogeko王\n"
+"「咦嘻嘻嘻嘻嘻！！把看着不爽的\n"
+"  家伙杀掉真是让人愉悦啊！！！」"
+
+#. ID 3, Page 1, Line 72, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「たぁッ！！！」"
+msgstr ""
+"异端mogeko\n"
+"「喝啊！！！」"
+
+#. ID 3, Page 1, Line 79, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「同感だぜ！！」"
+msgstr ""
+"异端mogeko\n"
+"「我也有同感！！」"
+
+#. ID 3, Page 1, Line 99, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「（！　　　スキあり―――）」"
+msgstr ""
+"异端mogeko\n"
+"「（！有破绽―――）」"
+
+#. ID 3, Page 1, Line 110, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「！　剣が････！」"
+msgstr ""
+"mogeko王\n"
+"「！　剑被……！」"
+
+#. ID 3, Page 1, Line 113, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「貰ったぁ！！！」"
+msgstr ""
+"异端mogeko\n"
+"「赢了！！！」"
+
+#. ID 3, Page 1, Line 122, Pos (0,0)
+msgid ""
+"もげこ王\n"
+"「ぐッ･･･････！！」"
+msgstr ""
+"mogeko王\n"
+"「咕…………！！」"
+

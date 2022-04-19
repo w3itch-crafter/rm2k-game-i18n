@@ -1,0 +1,20 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 23, Page 1, Line 2, Pos (0,0)
+msgid ""
+"その後、\\.\\.\\.ヨナカと異端モゲコは\\.\\.\\.\n"
+"執拗にもげ子たちに\n"
+"追い掛け回されたのであった\\.\\.･\\.\\.･\\.\\.･\\.\\.。"
+msgstr ""
+"在那之后，\\.\\.\\.夕夜和异端mogeko\\.\\.\\.\n"
+"被固执的moge子一伙\n"
+"不停地追逐\\.\\.…\\.\\.…\\.\\.。"
+

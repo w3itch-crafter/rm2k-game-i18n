@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 19, Page 1, Line 2, Pos (1,65)
+msgid ""
+"ヨナカ\n"
+"「わぁ　　\\.\\.広い」"
+msgstr ""
+"夕夜\n"
+"「哇\\.\\.好大」"
+
+#. ID 19, Page 1, Line 5, Pos (1,65)
+msgid ""
+"ヨナカ\n"
+"「いや･･･\\.\\.それよりどうしよう」"
+msgstr ""
+"夕夜\n"
+"「当务之急…\\.\\.我现在要怎么办」"
+
+#. ID 19, Page 1, Line 8, Pos (1,65)
+msgid ""
+"ヨナカ\n"
+"「もしかして･･･\\.\\.はいっちゃマズイ場所に\n"
+"　入っちゃった感じ？」"
+msgstr ""
+"夕夜\n"
+"「难道…\\.\\.我来了一个\n"
+"　不该来的地方？」"
+
+#. ID 19, Page 1, Line 12, Pos (1,65)
+msgid ""
+"ヨナカ\n"
+"「やめときゃ良かった･･･\n"
+"　私ばかぁ！」"
+msgstr ""
+"夕夜\n"
+"「当初不进来就好了…\n"
+"　我这个2货！」"
+
+#. ID 19, Page 1, Line 15, Pos (1,65)
+msgid ""
+"ヨナカ\n"
+"「ううん、\\.\\.今更後悔しても遅いわ。\n"
+"　それより現状を切り抜ける方法を…」"
+msgstr ""
+"夕夜\n"
+"「不不\\.\\.现在才后悔已经太迟了。\n"
+"　我该做的是找寻解决的办法…」"
+
+#. ID 19, Page 1, Line 18, Pos (1,65)
+msgid ""
+"ヨナカ\n"
+"「はぁぁ･･･私なにやってんだろ」"
+msgstr ""
+"夕夜\n"
+"「唉…我到底在干什么呀」"
+
+#. ID 19, Page 1, Line 22, Pos (1,65)
+msgid ""
+"ヨナカ\n"
+"「夢\\.な\\.ら\\.覚\\.め\\.て\\.！\\.！\\.」"
+msgstr ""
+"夕夜\n"
+"「若\\.是\\.梦\\.就\\.快\\.让\\.我\\.醒\\.来\\.！\\.！\\.」"
+
+#. ID 19, Page 1, Line 26, Pos (1,65)
+msgid ""
+"ヨナカ\n"
+"「････････。」"
+msgstr ""
+"夕夜\n"
+"「…………。」"
+
+#. ID 19, Page 1, Line 29, Pos (1,65)
+msgid ""
+"ヨナカ\n"
+"「早く帰らないといけないのに･･･」"
+msgstr ""
+"夕夜\n"
+"「我明明要尽快赶回家的…」"
+
+#. ID 19, Page 1, Line 32, Pos (1,65)
+msgid ""
+"ヨナカ\n"
+"「いや、帰れるの･･･？\\.\\.これ･･･。」"
+msgstr ""
+"夕夜\n"
+"「不，我真的可以逃出去…？\\.\\.回家吗…。」"
+
+#. ID 19, Page 1, Line 35, Pos (1,65)
+msgid ""
+"ヨナカ\n"
+"「入り口は･･･だめだし･･･\\.\\.とにかく\n"
+"　どこか他の場所から外に出れないかな」"
+msgstr ""
+"夕夜\n"
+"「入口…被锁上了…\\.\\.总之，\n"
+"　找找看别的出口吧」"
+
+#. ID 20, Page 1, Line 1, Pos (1,7)
+#. ID 21, Page 1, Line 1, Pos (2,7)
+#. ID 22, Page 1, Line 1, Pos (26,7)
+#. ID 23, Page 1, Line 1, Pos (27,7)
+msgid "今にも動き出しそうな銅像だ。"
+msgstr "感觉快要动起来的铜像。"
+

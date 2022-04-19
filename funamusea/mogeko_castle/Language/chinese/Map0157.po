@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (14,55)
+#. ID 2, Page 1, Line 2, Pos (5,55)
+#. ID 3, Page 1, Line 2, Pos (5,50)
+#. ID 4, Page 1, Line 2, Pos (12,49)
+#. ID 5, Page 1, Line 2, Pos (5,41)
+#. ID 6, Page 1, Line 2, Pos (6,38)
+#. ID 7, Page 1, Line 2, Pos (6,45)
+#. ID 8, Page 1, Line 2, Pos (13,40)
+#. ID 9, Page 1, Line 2, Pos (15,63)
+#. ID 27, Page 1, Line 2, Pos (14,46)
+#. ID 28, Page 1, Line 2, Pos (6,27)
+#. ID 29, Page 1, Line 2, Pos (3,31)
+#. ID 30, Page 1, Line 2, Pos (6,33)
+#. ID 31, Page 1, Line 2, Pos (14,28)
+#. ID 32, Page 1, Line 2, Pos (15,33)
+#. ID 33, Page 1, Line 2, Pos (7,20)
+#. ID 34, Page 1, Line 2, Pos (4,20)
+#. ID 35, Page 1, Line 2, Pos (15,20)
+msgid ""
+"モゲコ\n"
+"「ふぇぇ、もげ子に怒られるから\n"
+"　捕まえるのぉ！」"
+msgstr ""
+
+#. ID 12, Page 1, Line 2, Pos (8,64)
+msgid ""
+"異端モゲコ\n"
+"「よわったなー･･･肝心のエレベータはもう\n"
+"　使えねーし････」"
+msgstr ""
+"异端mogeko\n"
+"「为难了啊……关键的电梯已经\n"
+"　用不了了……」"
+
+#. ID 12, Page 1, Line 5, Pos (8,64)
+msgid ""
+"異端モゲコ\n"
+"「ここは来たことねーんだが･･･\n"
+"　嬢ちゃん、別の道を探してみようぜ」"
+msgstr ""
+"异端mogeko\n"
+"「因为我也没有来过这边啦。\n"
+"　小姐，来找找其他的路吧」"
+
+#. ID 23, Page 1, Line 1, Pos (3,14)
+#. ID 24, Page 1, Line 1, Pos (4,14)
+#. ID 25, Page 1, Line 1, Pos (15,14)
+#. ID 26, Page 1, Line 1, Pos (16,14)
+msgid "ただならぬ気配を感じる･･･。"
+msgstr "感觉到一股不寻常的气息……。"
+

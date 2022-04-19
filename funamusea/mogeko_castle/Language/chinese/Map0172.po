@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 6, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「･･･････････。」"
+msgstr ""
+"异端mogeko\n"
+"「…………………。」"
+
+#. ID 3, Page 1, Line 9, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「････････。」"
+msgstr ""
+"夕夜\n"
+"「……………。」"
+
+#. ID 3, Page 1, Line 12, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「あいつは俺の友達だったんだ」"
+msgstr ""
+"异端mogeko\n"
+"「那家伙其实是我的朋友」"
+
+#. ID 3, Page 1, Line 15, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「！」"
+msgstr ""
+"夕夜\n"
+"「！」"
+
+#. ID 3, Page 1, Line 18, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「････。」"
+msgstr ""
+"异端mogeko\n"
+"「……。」"
+
+#. ID 3, Page 1, Line 21, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･･･････････。」"
+msgstr ""
+"夕夜\n"
+"「…………………。」"
+
+#. ID 3, Page 1, Line 26, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･･･大切な人がいなくなっちゃうのって\\.\\.\n"
+"　とても･･･辛いですよね･･･。」"
+msgstr ""
+"夕夜\n"
+"「……失去了重要的人\\.\\.\n"
+"　十分……难受的呢……。」"
+
+#. ID 3, Page 1, Line 34, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「････\\.\\.嬢ちゃん？」"
+msgstr ""
+"异端mogeko\n"
+"「……\\.\\.小妹妹？」"
+
+#. ID 3, Page 1, Line 37, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「････････････。」"
+msgstr ""
+"夕夜\n"
+"「……………………。」"
+
+#. ID 3, Page 1, Line 43, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「ほら、\\.\\.階段が見えてきたぞ。\\.\\.\n"
+"　これで上の階へ行ける」"
+msgstr ""
+"异端mogeko\n"
+"「快看，\\.\\.台阶！\\.\\.\n"
+"　这样就可以去上一层了」"
+
+#. ID 3, Page 1, Line 46, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「これで5階･･･\\.\\.嬢ちゃん、\\.\\.\n"
+"　あわせてあと3階だ」"
+msgstr ""
+"异端mogeko\n"
+"「这样就到了五层……\\.\\.小姐\\.\\.\n"
+"　共计还有三层了」"
+
+#. ID 3, Page 1, Line 50, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「････････\\.\\.はい」"
+msgstr ""
+"夕夜\n"
+"「……………\\.\\.是啊」"
+

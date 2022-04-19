@@ -1,0 +1,396 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 28, Page 1, Line 3, Pos (0,0)
+msgid ""
+"シンヤ\n"
+"「おかえり、ヨナカ」"
+msgstr ""
+"真夜\n"
+"「欢迎回来，夕夜」"
+
+#. ID 28, Page 1, Line 5, Pos (0,0)
+msgid ""
+"シンヤ\n"
+"「久しぶり」"
+msgstr ""
+"真夜\n"
+"「好久不见了啊」"
+
+#. ID 28, Page 1, Line 8, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「････････うん」"
+msgstr ""
+"真夜\n"
+"「这样一来，他们就没法发出声音了\n"
+"　只能在房子里爬来爬去想要逃走」"
+
+#. ID 28, Page 1, Line 11, Pos (0,0)
+msgid ""
+"シンヤ\n"
+"「遅かったね」"
+msgstr ""
+"真夜\n"
+"「你好慢啊」"
+
+#. ID 28, Page 1, Line 14, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「うん･････ちょっとね･････････。」"
+msgstr ""
+"夕夜\n"
+"「嗯……稍微有点儿事情……。」"
+
+#. ID 28, Page 1, Line 17, Pos (0,0)
+msgid ""
+"シンヤ\n"
+"「そっか･･････････。」"
+msgstr ""
+"真夜\n"
+"「是吗……。」"
+
+#. ID 28, Page 1, Line 23, Pos (0,0)
+msgid ""
+"シンヤ\n"
+"「帰ってこないのかと思ったよ」"
+msgstr ""
+"真夜\n"
+"「我还以为你不回来了呢」"
+
+#. ID 28, Page 1, Line 26, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「･････････。」"
+msgstr ""
+"真夜\n"
+"「正是他们在房间里乱逃，\n"
+"　才把房间弄得这么脏」"
+
+#. ID 28, Page 1, Line 29, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「これは･･･････････。」"
+msgstr ""
+"夕夜\n"
+"「这些是……。」"
+
+#. ID 28, Page 1, Line 32, Pos (0,0)
+msgid ""
+"シンヤ\n"
+"「そうだよ」"
+msgstr ""
+"真夜\n"
+"「没错」"
+
+#. ID 28, Page 1, Line 38, Pos (0,0)
+msgid ""
+"シンヤ\n"
+"「キミが想像してるとおりの人の肉さ」"
+msgstr ""
+"真夜\n"
+"「如你所想，这些是人的肉啦」"
+
+#. ID 28, Page 1, Line 41, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「････････････。」"
+msgstr ""
+"真夜\n"
+"「把他们切得这么碎，\n"
+"　真是搞得我挺够呛的」"
+
+#. ID 28, Page 1, Line 44, Pos (0,0)
+msgid ""
+"シンヤ\n"
+"「最初にね、喉を切るんだ」"
+msgstr ""
+"真夜\n"
+"「最开始的时候呀，\n"
+"  我只是把他们的喉咙给割破了」"
+
+#. ID 28, Page 1, Line 46, Pos (0,0)
+#, fuzzy
+msgid ""
+"シンヤ\n"
+"「そうしたらね、声もでないから\n"
+"　ヒューヒューいいながら逃げるのさ」"
+msgstr ""
+"真夜\n"
+"「不过因为夕夜你回来得这么晚，\n"
+"　我倒是可以慢慢来啦」"
+
+#. ID 28, Page 1, Line 49, Pos (0,0)
+#, fuzzy
+msgid ""
+"シンヤ\n"
+"「あまりにも逃げ回るから部屋が\n"
+"　こんなに汚れちゃった」"
+msgstr ""
+"真夜\n"
+"「嗯嗯」"
+
+#. ID 28, Page 1, Line 53, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「････････。」"
+msgstr ""
+"真夜\n"
+"「那么接下来轮到你啦」"
+
+#. ID 28, Page 1, Line 56, Pos (0,0)
+#, fuzzy
+msgid ""
+"シンヤ\n"
+"「ぐちゃぐちゃにするのは\n"
+"　結構大変だったよ」"
+msgstr ""
+"真夜\n"
+"「没关系的啦，很快\n"
+"　一切都会结束掉的」"
+
+#. ID 28, Page 1, Line 59, Pos (0,0)
+#, fuzzy
+msgid ""
+"シンヤ\n"
+"「ヨナカの帰りが遅かったから\n"
+"　ゆっくりじっくりできたけどね」"
+msgstr ""
+"真夜\n"
+"「过来吧」"
+
+#. ID 28, Page 1, Line 63, Pos (0,0)
+#, fuzzy
+msgid ""
+"ヨナカ\n"
+"「････････････うん」"
+msgstr ""
+"真夜\n"
+"「过来啊，来啊，到我身边来。\n"
+"　是我啦，我是哥哥啊」"
+
+#. ID 28, Page 1, Line 66, Pos (0,0)
+#, fuzzy
+msgid ""
+"シンヤ\n"
+"「うんうん」"
+msgstr ""
+"夕夜\n"
+"「……」"
+
+#. ID 28, Page 1, Line 70, Pos (0,0)
+#, fuzzy
+msgid ""
+"シンヤ\n"
+"「じゃあ次はヨナカの番だからね」"
+msgstr ""
+"夕夜\n"
+"「……！！！！！！」"
+
+#. ID 28, Page 1, Line 73, Pos (0,0)
+#. ID 28, Page 3, Line 6, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･･････････････。」"
+msgstr ""
+
+#. ID 28, Page 1, Line 76, Pos (0,0)
+#, fuzzy
+msgid ""
+"シンヤ\n"
+"「大丈夫だよ　全てを\n"
+"　すぐに終わらせよう」"
+msgstr "逃走吧。"
+
+#. ID 28, Page 1, Line 79, Pos (0,0)
+msgid ""
+"シンヤ\n"
+"「おいで」"
+msgstr ""
+
+#. ID 28, Page 1, Line 86, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･･････････。」"
+msgstr ""
+
+#. ID 28, Page 1, Line 89, Pos (0,0)
+msgid ""
+"シンヤ\n"
+"「おいで、ほら、おいで\n"
+"　僕だよ　兄さんだよ」"
+msgstr ""
+
+#. ID 28, Page 1, Line 93, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･････････」"
+msgstr ""
+
+#. ID 28, Page 1, Line 98, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「････････！！！！！！」"
+msgstr ""
+
+#. ID 28, Page 1, Line 106, Pos (0,0)
+msgid "逃げましょう。"
+msgstr ""
+
+#. ID 28, Page 3, Line 3, Pos (0,0)
+msgid ""
+"シンヤ\n"
+"「･･････････････。」"
+msgstr ""
+
+#. ID 28, Page 3, Line 8, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「兄さん」"
+msgstr ""
+"夕夜\n"
+"「哥哥」"
+
+#. ID 28, Page 3, Line 10, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（あの頃のあなたは、\n"
+"　もういないのか････。）」"
+msgstr ""
+"夕夜\n"
+"「（那个时候的你，\n"
+"　已经不在了吗……。）」"
+
+#. ID 28, Page 3, Line 14, Pos (0,0)
+msgid ""
+"シンヤ\n"
+"「おかえり」"
+msgstr ""
+"真夜\n"
+"「欢迎回来」"
+
+#. ID 28, Page 3, Line 16, Pos (0,0)
+msgid ""
+"シンヤ\n"
+"「急に飛び出しちゃって･･･\n"
+"　びっくりしたよ」"
+msgstr ""
+"真夜\n"
+"「你突然之间飞奔出去……\n"
+"　吓了我一大跳呢」"
+
+#. ID 28, Page 3, Line 20, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（兄さん･･･）」"
+msgstr ""
+"夕夜\n"
+"「（哥哥……）」"
+
+#. ID 28, Page 3, Line 22, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「ごめんね･･･」"
+msgstr ""
+"夕夜\n"
+"「对不起……」"
+
+#. ID 28, Page 3, Line 24, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（あなたは壊れてしまった･･･）」"
+msgstr ""
+"夕夜\n"
+"「（你已经坏掉了……）」"
+
+#. ID 28, Page 3, Line 31, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「もう何処にも行かないよ」"
+msgstr ""
+"夕夜\n"
+"「我已经不会再去其他地方了」"
+
+#. ID 28, Page 3, Line 38, Pos (0,0)
+msgid ""
+"シンヤ\n"
+"「･･････････。」"
+msgstr ""
+
+#. ID 28, Page 3, Line 44, Pos (0,0)
+msgid ""
+"シンヤ\n"
+"「それは良かった」"
+msgstr ""
+"真夜\n"
+"「那真是太好了」"
+
+#. ID 28, Page 3, Line 59, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･･･････。」"
+msgstr ""
+
+#. ID 28, Page 3, Line 62, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「兄さん･････････。」"
+msgstr ""
+"夕夜\n"
+"「哥哥……。」"
+
+#. ID 28, Page 3, Line 65, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「どうして･･･････」"
+msgstr ""
+"夕夜\n"
+"「为什么……」"
+
+#. ID 28, Page 3, Line 67, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「兄･･･さん････どうして････\n"
+"　なんで･･････」"
+msgstr ""
+"夕夜\n"
+"「哥……哥……为什么……\n"
+"　为什么你……」"
+
+#. ID 29, Page 1, Line 1, Pos (17,5)
+#. ID 30, Page 1, Line 1, Pos (18,5)
+#. ID 31, Page 1, Line 1, Pos (19,5)
+#. ID 32, Page 1, Line 1, Pos (20,5)
+#. ID 33, Page 1, Line 1, Pos (21,5)
+#. ID 34, Page 1, Line 1, Pos (22,5)
+#. ID 35, Page 1, Line 1, Pos (23,5)
+#. ID 36, Page 1, Line 1, Pos (24,5)
+#. ID 37, Page 1, Line 1, Pos (5,5)
+#. ID 38, Page 1, Line 1, Pos (6,5)
+#. ID 39, Page 1, Line 1, Pos (7,5)
+#. ID 40, Page 1, Line 1, Pos (8,5)
+#. ID 41, Page 1, Line 1, Pos (9,5)
+#. ID 42, Page 1, Line 1, Pos (10,5)
+#. ID 43, Page 1, Line 1, Pos (11,5)
+#. ID 44, Page 1, Line 1, Pos (1,4)
+#. ID 45, Page 1, Line 1, Pos (2,4)
+#. ID 46, Page 1, Line 1, Pos (3,4)
+#. ID 47, Page 1, Line 1, Pos (4,4)
+#. ID 48, Page 1, Line 1, Pos (12,4)
+#. ID 49, Page 1, Line 1, Pos (13,4)
+#. ID 50, Page 1, Line 1, Pos (15,4)
+#. ID 51, Page 1, Line 1, Pos (14,4)
+msgid "逃げよう！"
+msgstr "快逃吧！"
+

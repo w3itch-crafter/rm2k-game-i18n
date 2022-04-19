@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 2, Pos (8,9)
+msgid ""
+"異端モゲコ\n"
+"「僕、何も悪いことしてない･･･\n"
+"　生ハムが好きじゃないだけなのに」"
+msgstr ""
+"异端mogeko\n"
+"「我没有做任何坏事……\n"
+"　只是不喜欢生火腿而已」"
+
+#. ID 3, Page 1, Line 2, Pos (14,7)
+msgid ""
+"モゲコ\n"
+"「････････････････。」"
+msgstr ""
+"mogeko\n"
+"「……………………。」"
+

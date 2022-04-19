@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 3, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「･･･････。」"
+msgstr ""
+"异端mogeko\n"
+"「…………。」"
+
+#. ID 2, Page 1, Line 6, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「静かになったね♪\\.\\.いいこ♪」"
+msgstr ""
+"moge子\n"
+"「安静了呢(音符)\\.\\.真是好孩子(音符)」"
+
+#. ID 2, Page 1, Line 9, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「きゃああああああああああああ！！！」"
+msgstr ""
+"夕夜\n"
+"「咦啊啊啊啊啊啊啊啊啊啊啊！！！」"
+
+#. ID 2, Page 1, Line 12, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「めいんでっしゅはじょしこーせー♪」"
+msgstr ""
+"moge子\n"
+"「来一起玩吧(音符)」"
+
+#. ID 2, Page 1, Line 15, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「可愛がってあ～～げる♪」"
+msgstr ""
+"moge子\n"
+"「会好好疼～爱～你的(音符)」"
+
+#. ID 2, Page 1, Line 18, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「どうして！！\\.\\.どうしてこんな酷いこと\n"
+"　するの！？」"
+msgstr ""
+"夕夜\n"
+"「为什么！！\\.\\.为什么要这么\n"
+"　残忍！？」"
+
+#. ID 2, Page 1, Line 22, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「？」"
+msgstr ""
+"moge子\n"
+"「？」"
+
+#. ID 2, Page 1, Line 24, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「どうして････？」"
+msgstr ""
+"moge子\n"
+"「为什么……？」"
+
+#. ID 2, Page 1, Line 28, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「理由なんかない」"
+msgstr ""
+"moge子\n"
+"「不为什么」"
+
+#. ID 2, Page 1, Line 31, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「なっ･･･････！！！」"
+msgstr ""
+"夕夜\n"
+"「什…………！！！」"
+
+#. ID 2, Page 1, Line 34, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「ヨナカちゃん、\\.\\.キミはそもそも\n"
+"　この城に理由を求めること自体\n"
+"　間違っている。」"
+msgstr ""
+"moge子\n"
+"「小夕夜，\\.\\.你想要\n"
+"  逃离这座城堡的缘由，\n"
+"　本身就是错误的。」"
+
+#. ID 2, Page 1, Line 39, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「それともあなたに\n"
+"　理由はあるのかしら♪」"
+msgstr ""
+"moge子\n"
+"「再说了\n"
+"　你也没有什么缘由吧(音符)」"
+
+#. ID 2, Page 1, Line 46, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「！？　\\.\\.どういう･･･････」"
+msgstr ""
+"夕夜\n"
+"「！？\\.\\.说什么…………」"
+
+#. ID 2, Page 1, Line 49, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「あなた本当に帰りたいの？」"
+msgstr ""
+"moge子\n"
+"「你真的想回去么？」"
+
+#. ID 2, Page 1, Line 52, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「！！！！！！！！！！」"
+msgstr ""
+"夕夜\n"
+"「！！！！！！！！！！」"
+
+#. ID 2, Page 1, Line 55, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「ねえ、\\.\\.どうなの？」"
+msgstr ""
+"moge子\n"
+"「呐，\\.\\.到底怎样？」"
+
+#. ID 2, Page 1, Line 58, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「か･･･\\.\\.帰りたいに決まって････！」"
+msgstr ""
+"夕夜\n"
+"「肯……\\.\\.肯定是想回去啊……！」"
+
+#. ID 2, Page 1, Line 61, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「自分をだますのも、\\.\\.生きるための\n"
+"　一つの手なのね？」"
+msgstr ""
+"moge子\n"
+"「欺骗自己也是\\.\\.为了活下去\n"
+"　的一个方法么？」"
+
+#. ID 2, Page 1, Line 65, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「でもね、\\.\\.私はそんなの嫌････」"
+msgstr ""
+"moge子\n"
+"「但是啊\\.\\.我讨厌那样……」"
+
+#. ID 2, Page 1, Line 67, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「そして」"
+msgstr ""
+"moge子\n"
+"「而且啊」"
+
+#. ID 2, Page 1, Line 70, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「命を奪うことに楽しみを感じるの」"
+msgstr ""
+"moge子\n"
+"「夺去生命很快乐呢」"
+
+#. ID 2, Page 1, Line 73, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「だからヨナカたんのことも殺すね♪」"
+msgstr ""
+"moge子\n"
+"「所以让我杀了夕夜酱吧(音符)」"
+
+#. ID 2, Page 1, Line 76, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「い･････いや･･･････。」"
+msgstr ""
+"夕夜\n"
+"「不………不要…………。」"
+
+#. ID 2, Page 1, Line 79, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「一ヶ月かけて　\\.\\.殺してやるよ♪」"
+msgstr ""
+"moge子\n"
+"「用一个月　\\.\\.来杀了你(音符)」"
+
+#. ID 2, Page 1, Line 83, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「ククク･････････」"
+msgstr ""
+"moge子\n"
+"「哼哼哼………………」"
+
+#. ID 2, Page 1, Line 87, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「あぎゃぎゃぎゃぎゃぎゃぎゃぎゃぎゃ\n"
+"　ぎゃぎゃぎゃぎゃ！！！！！！！！」"
+msgstr ""
+"moge子\n"
+"「啊哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈\n"
+"　哈哈哈哈哈哈哈哈！！！！！！！！」"
+

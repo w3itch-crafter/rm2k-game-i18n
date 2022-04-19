@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 20, Page 1, Line 1, Pos (3,79)
+#. ID 76, Page 1, Line 1, Pos (4,79)
+#. ID 77, Page 1, Line 1, Pos (14,79)
+#. ID 78, Page 1, Line 1, Pos (15,79)
+#. ID 79, Page 1, Line 1, Pos (3,88)
+#. ID 80, Page 1, Line 1, Pos (4,88)
+#. ID 81, Page 1, Line 1, Pos (14,88)
+#. ID 82, Page 1, Line 1, Pos (15,88)
+#. ID 83, Page 1, Line 1, Pos (5,95)
+#. ID 84, Page 1, Line 1, Pos (6,95)
+#. ID 85, Page 1, Line 1, Pos (12,95)
+#. ID 86, Page 1, Line 1, Pos (13,95)
+#. ID 87, Page 1, Line 1, Pos (2,70)
+#. ID 88, Page 1, Line 1, Pos (3,70)
+#. ID 89, Page 1, Line 1, Pos (15,70)
+#. ID 90, Page 1, Line 1, Pos (16,70)
+#. ID 91, Page 1, Line 1, Pos (15,65)
+#. ID 92, Page 1, Line 1, Pos (16,65)
+#. ID 93, Page 1, Line 1, Pos (2,65)
+#. ID 94, Page 1, Line 1, Pos (3,65)
+#. ID 95, Page 1, Line 1, Pos (4,62)
+#. ID 96, Page 1, Line 1, Pos (3,62)
+#. ID 97, Page 1, Line 1, Pos (14,62)
+#. ID 98, Page 1, Line 1, Pos (15,62)
+#. ID 99, Page 1, Line 1, Pos (15,49)
+#. ID 100, Page 1, Line 1, Pos (16,49)
+#. ID 101, Page 1, Line 1, Pos (16,46)
+#. ID 102, Page 1, Line 1, Pos (17,46)
+#. ID 103, Page 1, Line 1, Pos (1,46)
+#. ID 104, Page 1, Line 1, Pos (2,46)
+#. ID 105, Page 1, Line 1, Pos (2,49)
+#. ID 106, Page 1, Line 1, Pos (3,49)
+#. ID 107, Page 1, Line 1, Pos (1,37)
+#. ID 108, Page 1, Line 1, Pos (2,37)
+#. ID 109, Page 1, Line 1, Pos (16,37)
+#. ID 110, Page 1, Line 1, Pos (17,37)
+#. ID 111, Page 1, Line 1, Pos (4,28)
+#. ID 112, Page 1, Line 1, Pos (5,28)
+#. ID 113, Page 1, Line 1, Pos (13,28)
+#. ID 114, Page 1, Line 1, Pos (14,28)
+#. ID 116, Page 1, Line 1, Pos (14,20)
+#. ID 117, Page 1, Line 1, Pos (15,20)
+#. ID 118, Page 1, Line 1, Pos (3,20)
+#. ID 119, Page 1, Line 1, Pos (4,20)
+#. ID 120, Page 1, Line 1, Pos (1,13)
+#. ID 121, Page 1, Line 1, Pos (2,13)
+#. ID 122, Page 1, Line 1, Pos (16,13)
+#. ID 123, Page 1, Line 1, Pos (17,13)
+msgid "死に絶えている･･･。"
+msgstr "已经死了……。"
+
+#. ID 124, Page 1, Line 1, Pos (2,20)
+#. ID 125, Page 1, Line 1, Pos (2,19)
+#. ID 126, Page 1, Line 1, Pos (16,20)
+#. ID 127, Page 1, Line 1, Pos (16,19)
+#. ID 128, Page 1, Line 1, Pos (2,32)
+#. ID 129, Page 1, Line 1, Pos (2,31)
+#. ID 130, Page 1, Line 1, Pos (16,32)
+#. ID 131, Page 1, Line 1, Pos (16,31)
+#. ID 132, Page 1, Line 1, Pos (14,37)
+#. ID 133, Page 1, Line 1, Pos (14,36)
+#. ID 134, Page 1, Line 1, Pos (4,37)
+#. ID 135, Page 1, Line 1, Pos (4,36)
+#. ID 136, Page 1, Line 1, Pos (2,43)
+#. ID 137, Page 1, Line 1, Pos (2,42)
+#. ID 138, Page 1, Line 1, Pos (16,43)
+#. ID 139, Page 1, Line 1, Pos (16,42)
+#. ID 140, Page 1, Line 1, Pos (13,49)
+#. ID 141, Page 1, Line 1, Pos (13,48)
+#. ID 142, Page 1, Line 1, Pos (5,49)
+#. ID 143, Page 1, Line 1, Pos (5,48)
+#. ID 144, Page 1, Line 1, Pos (16,61)
+#. ID 145, Page 1, Line 1, Pos (16,60)
+#. ID 146, Page 1, Line 1, Pos (2,61)
+#. ID 147, Page 1, Line 1, Pos (2,60)
+#. ID 148, Page 1, Line 1, Pos (5,69)
+#. ID 149, Page 1, Line 1, Pos (5,68)
+#. ID 150, Page 1, Line 1, Pos (13,69)
+#. ID 151, Page 1, Line 1, Pos (13,68)
+#. ID 152, Page 1, Line 1, Pos (16,76)
+#. ID 153, Page 1, Line 1, Pos (16,75)
+#. ID 154, Page 1, Line 1, Pos (2,76)
+#. ID 155, Page 1, Line 1, Pos (2,75)
+#. ID 156, Page 1, Line 1, Pos (2,85)
+#. ID 157, Page 1, Line 1, Pos (2,84)
+#. ID 158, Page 1, Line 1, Pos (16,85)
+#. ID 159, Page 1, Line 1, Pos (16,84)
+#. ID 160, Page 1, Line 1, Pos (15,94)
+#. ID 161, Page 1, Line 1, Pos (15,95)
+#. ID 162, Page 1, Line 1, Pos (3,95)
+#. ID 163, Page 1, Line 1, Pos (3,94)
+msgid "もげ子に磔刑にされたモゲコだ。"
+msgstr "这是被moge子施了磔刑的mogeko。"
+
+#. ID 164, Page 1, Line 1, Pos (6,93)
+#. ID 165, Page 1, Line 1, Pos (6,92)
+#. ID 166, Page 1, Line 1, Pos (12,93)
+#. ID 167, Page 1, Line 1, Pos (12,92)
+#. ID 168, Page 1, Line 1, Pos (14,55)
+#. ID 169, Page 1, Line 1, Pos (14,54)
+#. ID 170, Page 1, Line 1, Pos (3,55)
+#. ID 171, Page 1, Line 1, Pos (3,54)
+#. ID 172, Page 1, Line 1, Pos (15,26)
+#. ID 173, Page 1, Line 1, Pos (15,25)
+#. ID 174, Page 1, Line 1, Pos (3,26)
+#. ID 175, Page 1, Line 1, Pos (3,25)
+msgid ""
+"腐っている。\n"
+"死んでから随分経つようだ。"
+msgstr ""
+"已经腐烂了。\n"
+"好像死了很久的样子。"
+
+#. ID 176, Page 1, Line 1, Pos (9,91)
+#. ID 177, Page 1, Line 1, Pos (9,90)
+msgid ""
+"『ああ\n"
+"　全てのモゲコよ\n"
+"　血に還り給え　』"
+msgstr ""
+"『啊啊\n"
+"　所有的mogeko哟\n"
+"　回归成为血液吧　』"
+

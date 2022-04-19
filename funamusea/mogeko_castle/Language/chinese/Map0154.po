@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 3, Pos (0,0)
+msgid ""
+"？？？\n"
+"「ふぇ･･･ふぇぇ･･･やだよう･･･\n"
+"　帰りたいよ･･･」"
+msgstr ""
+"？？？\n"
+"「呜……呜呜……不要了啦……\n"
+"　想回家了啦……」"
+
+#. ID 3, Page 1, Line 7, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「あ、あのー･･･」"
+msgstr ""
+"夕夜\n"
+"「那、那个……」"
+
+#. ID 3, Page 1, Line 14, Pos (0,0)
+msgid ""
+"？？？\n"
+"「！！！」"
+msgstr ""
+"？？？\n"
+"「！！！」"
+
+#. ID 3, Page 1, Line 18, Pos (0,0)
+msgid ""
+"？？？\n"
+"「誰だ貴様はァーーー！！！」"
+msgstr ""
+"？？？\n"
+"「你这个家伙是谁啊！！！」"
+
+#. ID 3, Page 1, Line 21, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「ええぇぇーーー！？」"
+msgstr ""
+"夕夜\n"
+"「诶诶诶诶诶诶！？」"
+
+#. ID 3, Page 1, Line 24, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「た･･･助けてって声が聞こえたから\n"
+"　来たんですけど･･･」"
+msgstr ""
+"夕夜\n"
+"「因……因为听到了求救声\n"
+"　才过来的说……」"
+
+#. ID 3, Page 1, Line 28, Pos (0,0)
+msgid ""
+"？？？\n"
+"「！！！！！」"
+msgstr ""
+"？？？\n"
+"「！！！！！」"
+
+#. ID 3, Page 1, Line 30, Pos (0,0)
+msgid ""
+"？？？\n"
+"「フン･･･そうか」"
+msgstr ""
+"？？？\n"
+"「哼……是嘛」"
+
+#. ID 3, Page 1, Line 33, Pos (0,0)
+msgid ""
+"？？？\n"
+"「私の名はモゲコフ・ハスハスキー」"
+msgstr ""
+"？？？\n"
+"「我的名字是mogekofu hshski」"
+
+#. ID 3, Page 1, Line 35, Pos (0,0)
+msgid ""
+"モゲコフ・ハスハスキー\n"
+"「もげ子によって拉致され、この部屋に\n"
+"　監禁されていた」"
+msgstr ""
+"mogekofu hshski\n"
+"「我是被moge子绑架过来监禁在\n"
+"　这个房间里的」"
+
+#. ID 3, Page 1, Line 38, Pos (0,0)
+msgid ""
+"モゲコフ・ハスハスキー\n"
+"「礼を言おう･･･人間･･･。」"
+msgstr ""
+"mogekofu hshski\n"
+"「给你道谢了……人类……。」"
+
+#. ID 3, Page 1, Line 41, Pos (0,0)
+msgid ""
+"モゲコフ・ハスハスキー\n"
+"「さっきは別に泣いてたわけでは\n"
+"　ないからな！？！？断じて！！！！」"
+msgstr ""
+"mogekofu hshski\n"
+"「刚才不是我在哭啊！\n"
+"  绝对不是！！！！」"
+
+#. ID 3, Page 1, Line 45, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（泣いてたよ）」"
+msgstr ""
+"夕夜\n"
+"「（分明就在哭）」"
+
+#. ID 3, Page 1, Line 48, Pos (0,0)
+msgid ""
+"モゲコフ・ハスハスキー\n"
+"「まあいい･･･」"
+msgstr ""
+"mogekofu hshski\n"
+"「算了……」"
+
+#. ID 3, Page 1, Line 50, Pos (0,0)
+msgid ""
+"モゲコフ・ハスハスキー\n"
+"「部下たちも私を探しているだろうな」"
+msgstr ""
+"mogekofu hshski\n"
+"「我的部下们应该也在找我呢」"
+
+#. ID 3, Page 1, Line 52, Pos (0,0)
+msgid ""
+"モゲコフ・ハスハスキー\n"
+"「ロシアに帰らねば･･･」"
+msgstr ""
+"mogekofu hshski\n"
+"「不回俄罗斯不行……」"
+
+#. ID 3, Page 1, Line 54, Pos (0,0)
+msgid ""
+"モゲコフ・ハスハスキー\n"
+"「人間よ！\n"
+"　これをやろう。」"
+msgstr ""
+"mogekofu hshski\n"
+"「人类哟！\n"
+"　这个给你吧。」"
+
+#. ID 3, Page 1, Line 60, Pos (0,0)
+msgid "免罪符を手に入れた！"
+msgstr "获得了免罪符！"
+
+#. ID 3, Page 1, Line 64, Pos (0,0)
+msgid ""
+"モゲコフ・ハスハスキー\n"
+"「ではさらばだ･･･シベリアで会おう」"
+msgstr ""
+"mogekofu hshski\n"
+"「那么再会了…让我们在西伯利亚再见面吧」"
+
+#. ID 4, Page 1, Line 1, Pos (5,6)
+#. ID 5, Page 1, Line 1, Pos (13,6)
+msgid "もげだるまだ。"
+msgstr "moge雪人。"
+

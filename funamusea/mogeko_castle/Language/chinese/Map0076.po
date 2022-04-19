@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 6, Pos (9,14)
+msgid "ヨナカは扉に鍵をかけた。"
+msgstr "夕夜把门上锁了。"
+
+#. ID 1, Page 1, Line 9, Pos (9,14)
+msgid ""
+"モゲコ\n"
+"「おい！！！開けろよ！！！！」"
+msgstr ""
+"mogeko\n"
+"「喂！！！把门打开！！！！」"
+
+#. ID 1, Page 1, Line 12, Pos (9,14)
+msgid ""
+"モゲコ\n"
+"「逃げられると思ってんのか！？」"
+msgstr ""
+"mogeko\n"
+"「你别以为你能逃走！？」"
+
+#. ID 1, Page 1, Line 14, Pos (9,14)
+msgid ""
+"モゲコ\n"
+"「開けろ！！！！！！」"
+msgstr ""
+"mogeko\n"
+"「快开门！！！！！！」"
+
+#. ID 1, Page 1, Line 16, Pos (9,14)
+msgid ""
+"モゲコ\n"
+"「あ゛ー！！！あ゛ー！！！\n"
+"　あ゛お゛お゛あ゛お゛ーーー！！」"
+msgstr ""
+"mogeko\n"
+"「啊゛—！！！啊゛—！！！\n"
+"　啊゛啊゛啊゛啊゛啊゛————！！」"
+
+#. ID 1, Page 1, Line 19, Pos (9,14)
+msgid ""
+"モゲコ\n"
+"「開けないと犯すぞ！！！！\n"
+"　開けても犯す！！！！」"
+msgstr ""
+"mogeko\n"
+"「不开门就强奸你！！！！\n"
+"　开门了也要强奸你！！！！」"
+
+#. ID 1, Page 1, Line 22, Pos (9,14)
+msgid ""
+"モゲコ\n"
+"「くそっ！！！ちくしょうが！！！！\n"
+"　ぶち犯してやる！！！！！」"
+msgstr ""
+"mogeko\n"
+"「可恶！！！混蛋！！！！！！\n"
+"　我要把你轮奸！！！！！！」"
+
+#. ID 1, Page 1, Line 25, Pos (9,14)
+msgid ""
+"モゲコ\n"
+"「出て来いよ！！オラ！！！！\n"
+"　立てなくなるまで犯す！！！！！」"
+msgstr ""
+"mogeko\n"
+"「快出来啊！！喂！！！！\n"
+"　绝对要干到你连站着的力气都没有！！！！！」"
+
+#. ID 1, Page 1, Line 28, Pos (9,14)
+msgid ""
+"モゲコ\n"
+"「ん゛お゛ーお゛お゛お゛お゛お゛！！！\n"
+"　お゛お゛お゛お゛お゛ん゛！！！！」"
+msgstr ""
+"mogeko\n"
+"「嗯゛噢゛——噢゛噢゛噢゛噢゛噢゛！！！\n"
+"　噢゛噢゛噢゛噢゛噢゛！！！！」"
+
+#. ID 1, Page 2, Line 2, Pos (9,14)
+#. ID 2, Page 1, Line 2, Pos (10,14)
+msgid "開けたくない。"
+msgstr "不想开门。"
+
+#. ID 4, Page 1, Line 1, Pos (4,13)
+msgid "手紙が置いてある。"
+msgstr "有封信。"
+
+#. ID 4, Page 1, Line 2, Pos (4,13)
+msgid ""
+"『なんなの！？ここ！？\n"
+"　もーあいつらむかつくなー！\n"
+"　数が多すぎて殺しきれないジャン！"
+msgstr ""
+"『这里到底怎么回事！？\n"
+"　真是的——那些家伙真让人火大——！\n"
+"　数量太多，完全杀不完啊！"
+
+#. ID 4, Page 1, Line 5, Pos (4,13)
+msgid ""
+"　お散歩がてらに来てみたけど･･･\n"
+"　もー来るんじゃなかったし！\n"
+"　まじあいつら死ね！きもい！"
+msgstr ""
+"　本来只是想来散散步的…\n"
+"　真是的，早知如此我来个毛线啊！\n"
+"　那些家伙给我去死！太恶心了！"
+
+#. ID 4, Page 1, Line 8, Pos (4,13)
+msgid ""
+"　何が生ハムだよ！\n"
+"　あんなただのハムのどこがいいわけ？\n"
+"　意味わかんないしぃー！"
+msgstr ""
+"　什么生火腿啊！\n"
+"　只是火腿而已，好毛线啊！\n"
+"　莫名其妙的——！"
+
+#. ID 4, Page 1, Line 11, Pos (4,13)
+msgid ""
+"　まあいいや！\n"
+"　殺し放題ってところだけは許す。\n"
+"　あたしの鉄パイプが火を噴くぜ！"
+msgstr ""
+"　算了！\n"
+"　难得可以大开杀戒，就原谅你们了。\n"
+"　我的铁管已经等不及了！"
+
+#. ID 4, Page 1, Line 14, Pos (4,13)
+msgid ""
+"　終わりのないストレス解消ゲーみたいな\n"
+"　感じに思っとけばいいよね！\n"
+"　あたしマジ天才！"
+msgstr ""
+"　把这里当成无终结的释放压力游戏来看，\n"
+"  也很不错啊！\n"
+"　我真是天才！"
+
+#. ID 4, Page 1, Line 17, Pos (4,13)
+msgid ""
+"　さーて、早速鬱憤を晴らすために\n"
+"　撲殺してきますか♪\n"
+"　あはははははははははは！！　　　　』"
+msgstr ""
+"　好了，马上就去发洩一下，\n"
+"　去杀死他们吧(音符)\n"
+"　啊哈哈哈哈哈哈哈哈哈哈！！　　　　』"
+
+#. ID 12, Page 1, Line 1, Pos (3,12)
+#. ID 13, Page 1, Line 1, Pos (2,12)
+#. ID 14, Page 1, Line 1, Pos (1,12)
+msgid "ダンボールの中から肉の腐ったにおいがする。"
+msgstr "纸箱里传来肉腐烂的臭味。"
+
+#. ID 15, Page 1, Line 1, Pos (15,8)
+msgid "蝶だ。"
+msgstr "蝴蝶。"
+
+#. ID 16, Page 1, Line 2, Pos (15,12)
+msgid ""
+"ヨナカ\n"
+"「･･････････････。」"
+msgstr ""
+"夕夜\n"
+"「………………。」"
+
+#. ID 17, Page 1, Line 2, Pos (17,8)
+#. ID 18, Page 1, Line 2, Pos (18,8)
+msgid ""
+"モゲコ\n"
+"「･･･････････。」"
+msgstr ""
+"mogeko\n"
+"「……………。」"
+
+#. ID 17, Page 1, Line 5, Pos (17,8)
+#. ID 18, Page 1, Line 5, Pos (18,8)
+msgid "死んでいる。"
+msgstr "死掉了。"
+
+#. ID 19, Page 1, Line 2, Pos (1,10)
+msgid ""
+"モゲコ\n"
+"「ドンドンうるせーぞカス！！！」"
+msgstr ""
+"mogeko\n"
+"「咚咚咚的、吵死了啊混蛋！！！」"
+
+#. ID 20, Page 1, Line 1, Pos (10,4)
+#. ID 21, Page 1, Line 1, Pos (9,4)
+msgid "せくしーぽーず"
+msgstr "性感姿势"
+

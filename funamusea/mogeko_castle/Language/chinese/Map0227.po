@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 1, Pos (2,6)
+#. ID 4, Page 1, Line 1, Pos (2,7)
+msgid "もふもふのベッドだ。"
+msgstr "软绵绵的床。"
+
+#. ID 9, Page 1, Line 2, Pos (4,7)
+msgid ""
+"モフコ\n"
+"「もふ？」"
+msgstr ""
+"mofuko\n"
+"「mofu？」"
+
+#. ID 10, Page 1, Line 2, Pos (13,8)
+msgid ""
+"モフコ\n"
+"「本を読むもふ。」"
+msgstr ""
+"mofuko\n"
+"「我要读书mofu。」"
+
+#. ID 11, Page 1, Line 2, Pos (9,12)
+msgid ""
+"モフコ\n"
+"「もふもふ」"
+msgstr ""
+"mofuko\n"
+"「mofumofu」"
+
+#. ID 12, Page 1, Line 2, Pos (15,10)
+msgid ""
+"モフコ\n"
+"「もふ？だれもふ？」"
+msgstr ""
+"mofuko\n"
+"「mofu？你是谁mofu？」"
+

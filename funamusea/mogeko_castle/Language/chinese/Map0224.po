@@ -1,0 +1,240 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 4, Pos (0,0)
+msgid ""
+"？？？\n"
+"「････よし、もうやつらはいないな。」"
+msgstr ""
+"？？？\n"
+"「……好啦，那些家伙已经不在啦。」"
+
+#. ID 3, Page 1, Line 7, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「もっふる！\\.\\.\n"
+"　無事だったか！」"
+msgstr ""
+"异端mogeko\n"
+"「mohhuru！\\.\\.\n"
+"　原来你平安无事！」"
+
+#. ID 3, Page 1, Line 12, Pos (0,0)
+msgid ""
+"もっふる\n"
+"「お前こそな！」"
+msgstr ""
+"mohhuru\n"
+"「你才是呢！」"
+
+#. ID 3, Page 1, Line 14, Pos (0,0)
+msgid ""
+"もっふる\n"
+"「私とてあの程度の小物に食われる程\n"
+"　か弱くはないぞ！」"
+msgstr ""
+"mohhuru\n"
+"「我才没有弱到\n"
+"　被那种程度的小虫子吃掉呢！」"
+
+#. ID 3, Page 1, Line 18, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「えっ？\\.\\.えっ？？」"
+msgstr ""
+"夕夜\n"
+"「诶？\\.\\.诶？？」"
+
+#. ID 3, Page 1, Line 21, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「嬢ちゃん、こいつはもっふる。」"
+msgstr ""
+"异端mogeko\n"
+"「小姐，这家伙是mohhuru。」"
+
+#. ID 3, Page 1, Line 23, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「先刻話した･･･\\.\\.\n"
+"　７匹のモゲコの5匹目だ。」"
+msgstr ""
+"异端mogeko\n"
+"「就是之前说过的…\\.\\.\n"
+"　那七只mogeko中的第五只。」"
+
+#. ID 3, Page 1, Line 27, Pos (0,0)
+msgid ""
+"もっふる\n"
+"「事情はなんとなく飲み込めたぞ！」"
+msgstr ""
+"mohhuru\n"
+"「你们的事儿我多少听说了一点！」"
+
+#. ID 3, Page 1, Line 29, Pos (0,0)
+msgid ""
+"もっふる\n"
+"「お前らを6階にとっとと案内してやる！\\.\\.\n"
+"　あの羽毛くさいところにな！」"
+msgstr ""
+"mohhuru\n"
+"「我这就带你们\\.\\.\n"
+"　去6楼那个充满羽毛的地方！」"
+
+#. ID 3, Page 1, Line 33, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「助かるぞ･･･もっふる。」"
+msgstr ""
+"异端mogeko\n"
+"「你真是帮了大忙啊……mohhuru。」"
+
+#. ID 3, Page 1, Line 35, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「ヤツのところに行けば7階まで\n"
+"　すぐだからな。」"
+msgstr ""
+"异端mogeko\n"
+"「到了那家伙那里的话，\n"
+"　离7楼也就很近啦。」"
+
+#. ID 3, Page 1, Line 39, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「（？？？？）」"
+msgstr ""
+"夕夜\n"
+"「（？？？？）」"
+
+#. ID 3, Page 1, Line 42, Pos (0,0)
+msgid ""
+"もっふる\n"
+"「お前はどうするのだ？一緒にここを\n"
+"　でていくつもりか？」"
+msgstr ""
+"mohhuru\n"
+"「那么你打算怎么办呢？要\n"
+"　和她一起逃离这里吗？」"
+
+#. ID 3, Page 1, Line 46, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「そうだな、特に考えてなかった･･･」"
+msgstr ""
+"异端mogeko\n"
+"「说实话嘛，我其实还没仔细想过呢……」"
+
+#. ID 3, Page 1, Line 48, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「外の世界で行ってみたいところにでも\n"
+"　旅をするさ」"
+msgstr ""
+"异端mogeko\n"
+"「到了外面的世界，还可以\n"
+"　顺便去想去的地方玩玩」"
+
+#. ID 3, Page 1, Line 52, Pos (0,0)
+msgid ""
+"もっふる\n"
+"「うむ、そうか。」"
+msgstr ""
+"mohhuru\n"
+"「唔唔，这样啊。」"
+
+#. ID 3, Page 1, Line 54, Pos (0,0)
+msgid ""
+"もっふる\n"
+"「そこの女子。えーと、名前は\n"
+"　ヨナカだったかの？」"
+msgstr ""
+"mohhuru\n"
+"「那里的女孩子，你的名字叫做\n"
+"　夕夜是吗？」"
+
+#. ID 3, Page 1, Line 58, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「はい････」"
+msgstr ""
+"夕夜\n"
+"「是的……」"
+
+#. ID 3, Page 1, Line 61, Pos (0,0)
+msgid ""
+"もっふる\n"
+"「ふっふっふ\\.\\.\n"
+"　よくここまで来れたな」"
+msgstr ""
+"mohhuru\n"
+"「呵 呵 呵\\.\\.\n"
+"　真亏你能够来到这里啊」"
+
+#. ID 3, Page 1, Line 65, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「いえ･･･異端モゲコさんに\n"
+"　助けてもらってきたので･･･」"
+msgstr ""
+"夕夜\n"
+"「不是的……是因为有异端mogeko的帮助\n"
+"　才能顺利过来的……」"
+
+#. ID 3, Page 1, Line 69, Pos (0,0)
+msgid ""
+"もっふる\n"
+"「ふうん？お前も性に合わないこと\n"
+"　するのう」"
+msgstr ""
+"mohhuru\n"
+"「唔唔？啧啧异端这不符合你的性格啊」"
+
+#. ID 3, Page 1, Line 73, Pos (0,0)
+#, fuzzy
+msgid ""
+"異端モゲコ\n"
+"「うるせえ」"
+msgstr ""
+"异端mogeko\n"
+"「你好吵啊」"
+
+#. ID 3, Page 1, Line 76, Pos (0,0)
+#, fuzzy
+msgid ""
+"もっふる\n"
+"「ふっふっふ」"
+msgstr ""
+"mohhuru\n"
+"「嘿 嘿 嘿」"
+
+#. ID 3, Page 1, Line 78, Pos (0,0)
+#, fuzzy
+msgid ""
+"もっふる\n"
+"「それじゃ、あのキチガイ女が来る前に\n"
+"　ちゃっちゃと行こうかの」"
+msgstr ""
+"mohhuru\n"
+"「那么，在那个神经病女疯子来之前，\n"
+"　咱们还是快点走吧」"
+
+#. ID 4, Page 1, Line 1, Pos (9,9)
+#. ID 5, Page 1, Line 1, Pos (10,9)
+msgid "外は危ない。"
+msgstr "外面很危险。"
+
+#. ID 6, Page 1, Line 1, Pos (0,10)
+#. ID 7, Page 1, Line 1, Pos (1,10)
+#. ID 8, Page 1, Line 1, Pos (18,10)
+#. ID 9, Page 1, Line 1, Pos (19,10)
+msgid "『もふもふもふ』"
+msgstr "『mohumohu』"
+

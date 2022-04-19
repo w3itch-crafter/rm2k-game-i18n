@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 6, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「････。」"
+msgstr ""
+"异端mogeko\n"
+"「……。」"
+
+#. ID 1, Page 1, Line 8, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「嬢ちゃん」"
+msgstr ""
+"异端mogeko\n"
+"「小姐」"
+
+#. ID 1, Page 1, Line 11, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「？　はい！」"
+msgstr ""
+"夕夜\n"
+"「？是！」"
+
+#. ID 1, Page 1, Line 14, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「俺はな････････････。」"
+msgstr ""
+"异端mogeko\n"
+"「我啊………………。」"
+
+#. ID 1, Page 1, Line 22, Pos (0,0)
+msgid ""
+"？？？\n"
+"「はいは～～い！\n"
+"　聴こえてるかなぁ～～？」"
+msgstr ""
+"？？？\n"
+"「注意注意~！\n"
+"　你们能听到我说话吗～～？」"
+
+#. ID 1, Page 1, Line 26, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「っ！！！」"
+msgstr ""
+"夕夜\n"
+"「啊！！！」"
+
+#. ID 1, Page 1, Line 29, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「その声････もげ子！！！」"
+msgstr ""
+"异端mogeko\n"
+"「这个声音是……moge子！！！」"
+
+#. ID 1, Page 1, Line 32, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「城内放送～城内放送～♪」"
+msgstr ""
+"moge子\n"
+"「城内放送～城内放送～(音符)」"
+
+#. ID 1, Page 1, Line 34, Pos (0,0)
+msgid ""
+"もげ子\n"
+"「女子高生と異端者をひっ捕らえよ♪」"
+msgstr ""
+"moge子\n"
+"「把女高中生跟异端者都给我抓起来~(音符)」"
+
+#. ID 1, Page 1, Line 37, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「何ィッ･･･････！！！」"
+msgstr ""
+"异端mogeko\n"
+"「什么……！！！」"
+
+#. ID 1, Page 1, Line 47, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「チッ！\n"
+"　数が多すぎる････！！！」"
+msgstr ""
+"异端mogeko\n"
+"「切！\n"
+"　这个数量……也太多了吧……！！！」"
+
+#. ID 1, Page 1, Line 51, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「あああああああああ！！」"
+msgstr ""
+"夕夜\n"
+"「啊啊啊啊啊啊啊啊啊！！」"
+
+#. ID 1, Page 1, Line 54, Pos (0,0)
+msgid ""
+"異端モゲコ\n"
+"「嬢ちゃん！\n"
+"　とにかく逃げるぞ！！」"
+msgstr ""
+"异端mogeko\n"
+"「小姐！\n"
+"　总之我们快点逃走！！」"
+
+#. ID 1, Page 1, Line 58, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「またこのパターーン！\n"
+"　必然的に最悪ー！」"
+msgstr ""
+"夕夜\n"
+"「怎么又来！\n"
+"　简直是最糟糕的局面啦！」"
+
+#. ID 1, Page 1, Line 68, Pos (0,0)
+msgid "捕まらないように、\\.\\.逃げましょう！"
+msgstr "快逃，\\.\\.小心别被抓到！"
+

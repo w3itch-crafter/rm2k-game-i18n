@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 3, Pos (0,0)
+msgid "ヨナカの体は闇に包まれた。"
+msgstr "夕夜被黑暗所包围。"
+
+#. ID 1, Page 1, Line 6, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「････････。」"
+msgstr ""
+
+#. ID 1, Page 1, Line 8, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「私･･･････」"
+msgstr ""
+
+#. ID 1, Page 1, Line 10, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「何しにきたんだっけ？」"
+msgstr ""
+"夕夜\n"
+"「在做什么？」"
+
+#. ID 1, Page 1, Line 12, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「何でここにいるんだっけ？」"
+msgstr ""
+"夕夜\n"
+"「为什么会在这里？」"
+
+#. ID 1, Page 1, Line 14, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「･･････。」"
+msgstr ""
+
+#. ID 1, Page 1, Line 16, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「････････？」"
+msgstr ""
+"夕夜\n"
+"「……？」"
+
+#. ID 1, Page 1, Line 19, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「私は･････\\.\\.\\.\n"
+"　だ\\.\\.れ\\.\\.？」"
+msgstr ""
+"夕夜\n"
+"「我……\\.\\.\\.\n"
+"　是\\.\\.谁\\.\\.？」"
+
+#. ID 1, Page 1, Line 23, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「私は･･････････」"
+msgstr ""
+
+#. ID 1, Page 1, Line 27, Pos (0,0)
+msgid ""
+"ヨナカ\n"
+"「わたしは」"
+msgstr ""
+"夕夜\n"
+"「我」"
+

@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 2, Pos (5,8)
+msgid ""
+"異端モゲコ\n"
+"「そうそう、その鍵」"
+msgstr ""
+"异端mogeko\n"
+"「对对，就是这把钥匙」"
+
+#. ID 2, Page 1, Line 4, Pos (5,8)
+msgid ""
+"異端モゲコ\n"
+"「この城内でならどこでも使えるぜ\\.\\.\n"
+"　一部使えんが･･･」"
+msgstr ""
+"异端mogeko\n"
+"「在这座城内任何地方都可以使用\\.\\.\n"
+"　除了一小部分……」"
+
+#. ID 2, Page 1, Line 7, Pos (5,8)
+msgid ""
+"異端モゲコ\n"
+"「モゲコキャッスルの鍵は\n"
+"　ほぼ全部共通だからな」"
+msgstr ""
+"异端mogeko\n"
+"「mogeko城堡的门锁\n"
+"　几乎都是一样的」"
+
+#. ID 2, Page 1, Line 11, Pos (5,8)
+msgid ""
+"ヨナカ\n"
+"「セキュリティ甘ッ！！\n"
+"　ていうか鍵の意味ないですよねそれ！」"
+msgstr ""
+"夕夜\n"
+"「安全防范意识好低！！\n"
+"　这样的话根本就没有钥匙存在的意义吧！」"
+
+#. ID 2, Page 1, Line 15, Pos (5,8)
+msgid ""
+"異端モゲコ\n"
+"「俺に言うな････。」"
+msgstr ""
+"异端mogeko\n"
+"「就算你这么对我说也没用啊……。」"
+

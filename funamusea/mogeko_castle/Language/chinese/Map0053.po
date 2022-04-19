@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 207, Page 1, Line 2, Pos (11,14)
+#. ID 208, Page 1, Line 2, Pos (8,14)
+#. ID 209, Page 1, Line 2, Pos (23,12)
+#. ID 210, Page 1, Line 2, Pos (24,14)
+#. ID 211, Page 1, Line 2, Pos (26,11)
+#. ID 212, Page 1, Line 2, Pos (22,12)
+#. ID 213, Page 1, Line 2, Pos (24,9)
+#. ID 214, Page 1, Line 2, Pos (3,12)
+#. ID 215, Page 1, Line 2, Pos (23,11)
+#. ID 216, Page 1, Line 2, Pos (21,14)
+#. ID 217, Page 1, Line 2, Pos (27,13)
+#. ID 218, Page 1, Line 2, Pos (26,16)
+#. ID 219, Page 1, Line 2, Pos (13,12)
+#. ID 220, Page 1, Line 2, Pos (15,14)
+#. ID 221, Page 1, Line 2, Pos (4,8)
+#. ID 222, Page 1, Line 2, Pos (2,9)
+#. ID 223, Page 1, Line 2, Pos (4,10)
+#. ID 224, Page 1, Line 2, Pos (6,9)
+#. ID 225, Page 1, Line 2, Pos (4,13)
+#. ID 226, Page 1, Line 2, Pos (1,14)
+#. ID 227, Page 1, Line 2, Pos (3,15)
+#. ID 228, Page 1, Line 2, Pos (5,14)
+#. ID 229, Page 1, Line 2, Pos (7,12)
+#. ID 230, Page 1, Line 2, Pos (27,21)
+#. ID 231, Page 1, Line 2, Pos (27,23)
+#. ID 232, Page 1, Line 2, Pos (25,30)
+#. ID 233, Page 1, Line 2, Pos (19,31)
+#. ID 234, Page 1, Line 2, Pos (8,31)
+#. ID 235, Page 1, Line 2, Pos (11,30)
+#. ID 236, Page 1, Line 2, Pos (11,31)
+#. ID 237, Page 1, Line 2, Pos (2,23)
+#. ID 238, Page 1, Line 2, Pos (1,19)
+#. ID 239, Page 1, Line 2, Pos (1,17)
+#. ID 240, Page 1, Line 2, Pos (27,37)
+#. ID 241, Page 1, Line 2, Pos (27,35)
+#. ID 242, Page 1, Line 2, Pos (27,42)
+#. ID 243, Page 1, Line 2, Pos (27,46)
+#. ID 244, Page 1, Line 2, Pos (1,40)
+#. ID 245, Page 1, Line 2, Pos (1,36)
+#. ID 246, Page 1, Line 2, Pos (2,39)
+#. ID 247, Page 1, Line 2, Pos (3,47)
+#. ID 248, Page 1, Line 2, Pos (7,46)
+#. ID 249, Page 1, Line 2, Pos (10,47)
+#. ID 250, Page 1, Line 2, Pos (13,47)
+#. ID 251, Page 1, Line 2, Pos (15,46)
+#. ID 252, Page 1, Line 2, Pos (17,47)
+#. ID 253, Page 1, Line 2, Pos (20,47)
+#. ID 254, Page 1, Line 2, Pos (22,47)
+#. ID 255, Page 1, Line 2, Pos (24,46)
+#. ID 256, Page 1, Line 2, Pos (27,51)
+#. ID 257, Page 1, Line 2, Pos (27,52)
+#. ID 457, Page 1, Line 2, Pos (27,55)
+#. ID 458, Page 1, Line 2, Pos (27,59)
+#. ID 459, Page 1, Line 2, Pos (24,63)
+#. ID 460, Page 1, Line 2, Pos (20,63)
+#. ID 461, Page 1, Line 2, Pos (17,63)
+#. ID 462, Page 1, Line 2, Pos (18,65)
+#. ID 463, Page 1, Line 2, Pos (21,64)
+#. ID 464, Page 1, Line 2, Pos (20,66)
+#. ID 465, Page 1, Line 2, Pos (14,64)
+#. ID 466, Page 1, Line 2, Pos (12,63)
+#. ID 467, Page 1, Line 2, Pos (11,65)
+#. ID 468, Page 1, Line 2, Pos (13,65)
+#. ID 469, Page 1, Line 2, Pos (7,64)
+#. ID 470, Page 1, Line 2, Pos (9,63)
+#. ID 471, Page 1, Line 2, Pos (4,62)
+#. ID 472, Page 1, Line 2, Pos (5,64)
+#. ID 473, Page 1, Line 2, Pos (2,61)
+#. ID 474, Page 1, Line 2, Pos (1,55)
+#. ID 475, Page 1, Line 2, Pos (2,52)
+#. ID 476, Page 1, Line 2, Pos (1,50)
+#. ID 477, Page 1, Line 2, Pos (2,55)
+#. ID 478, Page 1, Line 2, Pos (2,59)
+#. ID 479, Page 1, Line 2, Pos (1,58)
+#. ID 480, Page 1, Line 2, Pos (15,66)
+msgid ""
+"モゲコ\n"
+"「食事の邪魔をするやつは許さんもげ！」"
+msgstr ""
+"mogeko\n"
+"「打扰我吃饭的家伙不可原谅！」"
+
+#. ID 453, Page 1, Line 1, Pos (26,7)
+#. ID 454, Page 1, Line 1, Pos (27,7)
+#. ID 455, Page 1, Line 1, Pos (2,7)
+#. ID 456, Page 1, Line 1, Pos (1,7)
+msgid "今にも動き出しそうな銅像だ。"
+msgstr "感觉快要动起来的铜像。"
+
