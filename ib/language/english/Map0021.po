@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 13, Page 1, Line 1, Pos (22,12)
+msgid "縄につながれた　人形がぶら下がっている……"
+msgstr "A doll dangled from a rope..."
+
+#. ID 17, Page 1, Line 1, Pos (22,21)
+msgid "“猛　唇　注　意”"
+msgstr "\"BEWARE OF LIPS\""
+
+#. ID 19, Page 1, Line 2, Pos (33,21)
+#. ID 19, Page 2, Line 2, Pos (33,21)
+msgid "「はら　へった　くいもの　よこせ」"
+msgstr "\"Hungry... Give food...\""
+
+#. ID 19, Page 2, Line 3, Pos (33,21)
+msgid "「その　くいもの　よこせ」"
+msgstr "\"That food... Give to me...\""
+
+#. ID 19, Page 2, Line 4, Pos (33,21)
+#. Contains choice at line 2 (2 options)
+msgid "木のリンゴを　あげますか？"
+msgstr "Give the Wooden Apple?"
+
+#. ID 19, Page 2, Line 5, Pos (33,21)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"あげる\n"
+"あげない"
+msgstr ""
+"Give\n"
+"Don't give"
+
+#. ID 19, Page 2, Line 8, Pos (33,21)
+msgid "木のリンゴを　口の中にいれた……"
+msgstr "Placed the Wooden Apple in the mouth..."
+
+#. ID 19, Page 2, Line 13, Pos (33,21)
+msgid "「うまい　これ」"
+msgstr "\"This tasty...\""
+
+#. ID 19, Page 2, Line 14, Pos (33,21)
+msgid ""
+"「おまえ　きにいった　こことおす\n"
+"　おれの　くちのなか　くぐっていけ」"
+msgstr ""
+"\"I let you pass now...\n"
+"Go through my mouth...\""
+
+#. ID 19, Page 2, Line 22, Pos (33,21)
+msgid "「おまえ　いじわる　きらい」"
+msgstr "\"I hate tease...\""
+
+#. ID 20, Page 1, Line 1, Pos (33,10)
+msgid "扉に暗号のようなものが　描いてある……"
+msgstr "There's a password on the door..."
+
+#. ID 20, Page 1, Line 2, Pos (33,10)
+msgid "“\\c[18]●\\c[0]×\\c[11]●\\c[0]＋\\c[4]●\\c[0]＝？”"
+msgstr "\"\\c[18]X\\c[0] x \\c[11]X\\c[0] + \\c[1]X\\c[0] = ?\""
+
+#. ID 20, Page 1, Line 8, Pos (33,10)
+msgid "何かの音がした……"
+msgstr "There was a sound..."
+
+#. ID 20, Page 1, Line 13, Pos (33,10)
+msgid "何も　起こらない……"
+msgstr "Nothing happens..."
+
+#. ID 22, Page 1, Line 1, Pos (4,21)
+#. ID 22, Page 2, Line 1, Pos (4,21)
+msgid "真っ白な絵がある……"
+msgstr "A totally white painting..."
+
+#. ID 22, Page 2, Line 2, Pos (4,21)
+msgid ""
+"……よく見ると　真ん中に\n"
+"小さく数字が　書いてある……"
+msgstr ""
+"...Looking closer, there's actually\n"
+"a small number in the center..."
+
+#. ID 22, Page 2, Line 4, Pos (4,21)
+msgid "『\\c[11]９\\c[0]』"
+msgstr "\"\\c[11]9\\c[0]\""
+
+#. ID 25, Page 1, Line 1, Pos (7,21)
+msgid "舌が動いている……"
+msgstr "Its tongue keeps wiggling..."
+
+#. ID 29, Page 1, Line 1, Pos (25,12)
+#. ID 35, Page 1, Line 1, Pos (36,12)
+msgid "人形が落ちている……"
+msgstr "There's a doll on the ground..."
+
+#. ID 29, Page 1, Line 2, Pos (25,12)
+msgid "人形の服に　小さく数字が縫ってある……"
+msgstr "The doll's clothes have a small number on them..."
+
+#. ID 29, Page 1, Line 3, Pos (25,12)
+msgid "『\\c[18]１８\\c[0]』"
+msgstr "\"\\c[18]18\\c[0]\""
+
+#. ID 31, Page 1, Line 1, Pos (13,21)
+msgid "『忘れたころに……』"
+msgstr "\"Just when you've forgotten...\""
+
+#. ID 32, Page 1, Line 1, Pos (6,10)
+msgid "“ウソつきたちの部屋”"
+msgstr "\"The Liars' Room\""
+

@@ -1,0 +1,280 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 7, Page 1, Line 1, Pos (22,21)
+#. ID 8, Page 1, Line 1, Pos (5,21)
+#. ID 15, Page 1, Line 1, Pos (23,14)
+#. ID 16, Page 1, Line 1, Pos (22,14)
+#. ID 17, Page 1, Line 1, Pos (9,14)
+#. ID 18, Page 1, Line 1, Pos (10,14)
+#. ID 25, Page 1, Line 1, Pos (18,14)
+#. ID 26, Page 1, Line 1, Pos (17,14)
+#. ID 33, Page 1, Line 1, Pos (4,14)
+#. ID 34, Page 1, Line 1, Pos (5,14)
+#. ID 43, Page 1, Line 1, Pos (4,6)
+#. ID 44, Page 1, Line 1, Pos (9,6)
+#. ID 46, Page 1, Line 1, Pos (18,6)
+#. ID 48, Page 1, Line 1, Pos (23,6)
+#. ID 52, Page 1, Line 1, Pos (14,21)
+#. ID 53, Page 1, Line 1, Pos (13,21)
+msgid "真っ白な　プレートがある……"
+msgstr "全白的標示牌……"
+
+#. ID 7, Page 2, Line 1, Pos (22,21)
+msgid "『無個性』"
+msgstr "『無個性』"
+
+#. ID 8, Page 2, Line 1, Pos (5,21)
+msgid "『指定席』"
+msgstr "『指定席』"
+
+#. ID 15, Page 2, Line 1, Pos (23,14)
+#. ID 16, Page 2, Line 1, Pos (22,14)
+msgid ""
+"『精神の具現化』\n"
+"　一見美しい　その姿は\n"
+"　近づきすぎると　痛い目に遭い\n"
+"　健全な肉体にしか　咲くことができない"
+msgstr ""
+"『精神的具現化』\n"
+"　外表雖然十分美麗\n"
+"　但若過於靠近，可會被它所傷\n"
+"　唯有健全的肉體，能夠使它綻放"
+
+#. ID 17, Page 2, Line 1, Pos (9,14)
+#. ID 18, Page 2, Line 1, Pos (10,14)
+msgid "『警戒心』"
+msgstr "『警戒心』"
+
+#. ID 25, Page 2, Line 1, Pos (18,14)
+#. ID 26, Page 2, Line 1, Pos (17,14)
+msgid "『口直しの樹』"
+msgstr "『清口之樹』"
+
+#. ID 33, Page 2, Line 1, Pos (4,14)
+#. ID 34, Page 2, Line 1, Pos (5,14)
+msgid "『融解』"
+msgstr "『融解』"
+
+#. ID 43, Page 2, Line 1, Pos (4,6)
+msgid "『苦味の果実』"
+msgstr "『苦澀的果實』"
+
+#. ID 44, Page 2, Line 1, Pos (9,6)
+msgid "『世紀末の情景』"
+msgstr "『世紀末的情景』"
+
+#. ID 46, Page 2, Line 1, Pos (18,6)
+msgid "『黒い姿の君』"
+msgstr "『黑色姿態的你』"
+
+#. ID 48, Page 2, Line 1, Pos (23,6)
+msgid "『悟り』"
+msgstr "『頓悟』"
+
+#. ID 52, Page 2, Line 1, Pos (14,21)
+#. ID 53, Page 2, Line 1, Pos (13,21)
+msgid "『星と鉱石の煌めき』"
+msgstr "『礦石與星星的閃爍』"
+
+#. ID 54, Page 1, Line 6, Pos (14,13)
+msgid ""
+"\n"
+"「イヴ！\n"
+"　アクセサリーは　見た？」"
+msgstr ""
+"\n"
+"「Ib！\n"
+"　妳看過飾品了嗎？」"
+
+#. ID 54, Page 1, Line 10, Pos (14,13)
+msgid ""
+"\n"
+"「色んな石があって　綺麗よ\n"
+"　ガーネットは　真っ赤で\n"
+"　イヴの目と　おんなじ！」"
+msgstr ""
+"\n"
+"「有很多寶石，很漂亮喔！\n"
+"　石榴石是深紅色的，\n"
+"　和Ib的眼睛一樣呢！」"
+
+#. ID 54, Page 1, Line 15, Pos (14,13)
+msgid ""
+"\n"
+"「え？　お父さん？\n"
+"　そうねぇ……あの人は……」"
+msgstr ""
+"\n"
+"「咦？爸爸嗎？\n"
+"　嗯……他啊……」"
+
+#. ID 54, Page 1, Line 19, Pos (14,13)
+msgid ""
+"\n"
+"「サファイア　かしらねー」"
+msgstr ""
+"\n"
+"「應該是藍寶石吧──」"
+
+#. ID 54, Page 1, Line 26, Pos (14,13)
+msgid ""
+"\n"
+"「フフ……イヴ　知ってる？\n"
+"　お父さんたら　はじめて\n"
+"　ゲルテナの絵を　本で見た日……」"
+msgstr ""
+"\n"
+"「呵呵……Ib，妳知道嗎？\n"
+"　爸爸他啊，第一次在書上\n"
+"　看到Guertena的畫的那天……」"
+
+#. ID 54, Page 1, Line 31, Pos (14,13)
+msgid ""
+"\n"
+"「夜中に　うなされちゃったのよ\n"
+"　……相当　インパクトが\n"
+"　強かった　みたい」"
+msgstr ""
+"\n"
+"「半夜做了惡夢喔。\n"
+"　……好像受到了很大的衝擊呢。」"
+
+#. ID 54, Page 1, Line 36, Pos (14,13)
+#, fuzzy
+msgid ""
+"\n"
+"「……あら　イヴも怖いの？\n"
+"　仕方ないわね　じゃあ今日は\n"
+"　一緒に　寝ましょうか」"
+msgstr ""
+"\n"
+"「……哎呀，Ib也會害怕嗎？\n"
+"　真是拿妳沒辦法，\n"
+"　那今天晚上我們一起睡吧。」"
+
+#. ID 54, Page 1, Line 48, Pos (14,13)
+#, fuzzy
+msgid ""
+"\n"
+"「ゲルテナの作品って\n"
+"　ちょっと　不気味だけれど\n"
+"　なぜか　心惹かれるのよね……」"
+msgstr ""
+"\n"
+"「雖然Guertena的作品，給人一種\n"
+"　不舒服的感覺，但不知道為什麼\n"
+"　就是這麼觸動人心呢……」"
+
+#. ID 54, Page 1, Line 53, Pos (14,13)
+#, fuzzy
+msgid ""
+"\n"
+"「観てても　飽きないし\n"
+"　やっぱり私　ゲルテナ好きだわ」"
+msgstr ""
+"\n"
+"「不管看多久都不會膩，\n"
+"　果然我還是喜歡Guertena啊！」"
+
+#. ID 54, Page 1, Line 63, Pos (14,13)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴ　好きな作品はあった？」"
+msgstr ""
+"\n"
+"「Ib，有看到喜歡的作品嗎？」"
+
+#. ID 54, Page 1, Line 66, Pos (14,13)
+#, fuzzy
+msgid ""
+"\n"
+"「お母さんね\n"
+"　あのソファー　気にいっちゃったわ\n"
+"　おうちに　置きたいくらい」"
+msgstr ""
+"\n"
+"「媽媽啊，\n"
+"　很喜歡那張沙發呢。\n"
+"　喜歡到想把它放在家裡。」"
+
+#. ID 54, Page 1, Line 71, Pos (14,13)
+#, fuzzy
+msgid ""
+"\n"
+"「うふふ　お父さんは\n"
+"　反対するでしょうけどね」"
+msgstr ""
+"\n"
+"「呵呵呵，\n"
+"　但是爸爸應該會反對吧。」"
+
+#. ID 54, Page 1, Line 79, Pos (14,13)
+#, fuzzy
+msgid ""
+"\n"
+"「せっかく\n"
+"　ゲルテナ展に　来たんだから\n"
+"　お土産でも　買いたいわね」"
+msgstr ""
+"\n"
+"「難得來參觀Guertena展，\n"
+"　也想買一些紀念品呢。」"
+
+#. ID 54, Page 1, Line 84, Pos (14,13)
+#, fuzzy
+msgid ""
+"\n"
+"「絵画のレプリカは　ないかしら\n"
+"　玄関の壁が　空いてるから\n"
+"　そこに　飾りたいわ」"
+msgstr ""
+"\n"
+"「不知道有沒有複製畫呢？\n"
+"　家裡玄關的牆壁剛好空著，\n"
+"　想要掛在那邊呢。」"
+
+#. ID 54, Page 1, Line 96, Pos (14,13)
+#, fuzzy
+msgid ""
+"\n"
+"「作品を観てると\n"
+"　ゲルテナは　どんな人だったのか\n"
+"　すごく　気になってくるわよね」"
+msgstr ""
+"\n"
+"「看了這些作品，\n"
+"　就很想知道Guertena到底\n"
+"　是什麼樣的人呢。」"
+
+#. ID 54, Page 1, Line 106, Pos (14,13)
+#, fuzzy
+msgid ""
+"\n"
+"「ゲルテナの　作品って\n"
+"　まだまだ　たくさん\n"
+"　あるらしいのよ……」"
+msgstr ""
+"\n"
+"「Guertena的作品好像還有很多喔……」"
+
+#. ID 54, Page 1, Line 111, Pos (14,13)
+#, fuzzy
+msgid ""
+"\n"
+"「はぁ……できれば\n"
+"　全ての作品を　この目で\n"
+"　観てみたいわ……」"
+msgstr ""
+"\n"
+"「唉……如果可以的話，\n"
+"　真想親眼觀賞他所有的作品呢……」"
+

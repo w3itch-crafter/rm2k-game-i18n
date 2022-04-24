@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 15, Pos (0,0)
+#. ID 4, Page 1, Line 17, Pos (10,6)
+#. ID 22, Page 1, Line 17, Pos (9,6)
+msgid "…………？"
+msgstr ".....?"
+
+#. ID 4, Page 1, Line 2, Pos (10,6)
+#. ID 4, Page 2, Line 1, Pos (10,6)
+#. ID 4, Page 3, Line 1, Pos (10,6)
+#. ID 22, Page 1, Line 2, Pos (9,6)
+#. ID 22, Page 2, Line 1, Pos (9,6)
+#. ID 22, Page 3, Line 1, Pos (9,6)
+msgid "『？？？の世界』"
+msgstr "\"??? World\""
+
+#. ID 4, Page 1, Line 3, Pos (10,6)
+#. ID 4, Page 2, Line 2, Pos (10,6)
+#. ID 4, Page 3, Line 2, Pos (10,6)
+#. ID 22, Page 1, Line 3, Pos (9,6)
+#. ID 22, Page 2, Line 2, Pos (9,6)
+#. ID 22, Page 3, Line 2, Pos (9,6)
+msgid "難しくて　読めない字がある……"
+msgstr "You don't know this word..."
+
+#. ID 4, Page 3, Line 5, Pos (10,6)
+#. ID 22, Page 3, Line 5, Pos (9,6)
+msgid ""
+"\n"
+"「絵が違う……」"
+msgstr ""
+"\n"
+" The painting's different..."
+
+#. ID 5, Page 1, Line 1, Pos (7,6)
+msgid "額縁の裏から　青い液体が流れている……"
+msgstr ""
+"There's a blue liquid leaking\n"
+"from behind the frame..."
+
+#. ID 5, Page 2, Line 1, Pos (7,6)
+msgid ""
+"“したのかいに　おいでよ　イヴ\n"
+"　ひみつのばしょ　おしえてあげる”"
+msgstr ""
+"\"come down below ib\n"
+"ill show you someplace secret\""
+
+#. ID 23, Page 1, Line 8, Pos (4,0)
+msgid "………………？"
+msgstr "..........?"
+
+#. ID 23, Page 1, Line 9, Pos (4,0)
+msgid "何をしていたのか　思い出せない………"
+msgstr "You can't remember what you were doing..."
+
+#. ID 23, Page 2, Line 9, Pos (4,0)
+msgid ""
+"\n"
+"「…………………？」"
+msgstr ""
+"\n"
+" ..........?"
+
+#. ID 23, Page 2, Line 17, Pos (4,0)
+msgid ""
+"\n"
+"「わたし……出れたよね？\n"
+"　ここは　外なんだよね？」"
+msgstr ""
+"\n"
+" Did I... get out?\n"
+" Is this the outside?"
+
+#. ID 23, Page 2, Line 21, Pos (4,0)
+msgid ""
+"\n"
+"「……………！\n"
+"　やったぁ………！」"
+msgstr ""
+"\n"
+" .....!\n"
+" I... I did it.....!"
+

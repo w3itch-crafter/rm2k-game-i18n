@@ -1,0 +1,497 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. ID 1, Page 1, Line 1, Pos (15,8)
+#. ID 1, Page 2, Line 1, Pos (15,8)
+#. Contains choice at line 2 (2 options)
+msgid "「…………うぅ………」"
+msgstr "\".....Ugh......\""
+
+#. ID 1, Page 1, Line 2, Pos (15,8)
+#. Contains choice at line 2 (2 options)
+msgid "男の人の手に　カギが握られている……"
+msgstr "He's holding tightly onto a key..."
+
+#. ID 1, Page 1, Line 3, Pos (15,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"とる\n"
+"とらない"
+msgstr ""
+"Take\n"
+"Don't take"
+
+#. ID 1, Page 1, Line 7, Pos (15,8)
+msgid "小さなカギを　手に入れた。"
+msgstr "Obtained the Small Key."
+
+#. ID 1, Page 2, Line 2, Pos (15,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"声をかけてみる\n"
+"軽く肩をたたいてみる"
+msgstr ""
+"Call out\n"
+"Massage shoulders"
+
+#. ID 1, Page 2, Line 4, Pos (15,8)
+msgid "「……痛……い…………」"
+msgstr "\".....It...... hurts..........\""
+
+#. ID 1, Page 2, Line 5, Pos (15,8)
+msgid "苦しそうに　している……"
+msgstr "He's in pain..."
+
+#. ID 1, Page 2, Line 8, Pos (15,8)
+msgid ""
+"「……や……やめ………\n"
+"　げほっ　ごほっ　がはっ……」"
+msgstr ""
+"\".....St..... sto.....\n"
+"Hack! Cough...\""
+
+#. ID 1, Page 2, Line 10, Pos (15,8)
+msgid "とても苦しそうに　している……"
+msgstr "He's in a lot of pain..."
+
+#. ID 1, Page 3, Line 1, Pos (15,8)
+msgid ""
+"「………う……げほっ……\n"
+"　……くる……し…………」"
+msgstr ""
+"\".....Ugh...... hack.....\n"
+".....The..... pain..........\""
+
+#. ID 1, Page 4, Line 14, Pos (15,8)
+msgid "「……うーん…………」"
+msgstr "\".....Mmm..........\""
+
+#. ID 1, Page 4, Line 25, Pos (15,8)
+msgid ""
+"\n"
+"「…………あら？\n"
+"　苦しく　なくなった………\\|ん？」"
+msgstr ""
+"\n"
+" ..........What's this?\n"
+" The pain's gone..... \\|ah?"
+
+#. ID 1, Page 4, Line 32, Pos (15,8)
+msgid ""
+"\n"
+"「うわっ！」"
+msgstr ""
+"\n"
+" Eeek!"
+
+#. ID 1, Page 4, Line 43, Pos (15,8)
+msgid ""
+"\n"
+"「な……今度はなによ！\n"
+"　もう何も　持ってないわよ！！」"
+msgstr ""
+"\n"
+" Wh... what is it NOW?!\n"
+" T-There's nothing left\n"
+" for you to take, I tell you!!"
+
+#. ID 1, Page 4, Line 50, Pos (15,8)
+#, fuzzy
+msgid ""
+"\n"
+"「あ……あれ？\n"
+"　アンタもしかして……\n"
+"　美術館にいた……人！？」"
+msgstr ""
+"\n"
+" W... wait...\n"
+" Dear me, could you be...\n"
+" A person...? From the gallery?!"
+
+#. ID 1, Page 4, Line 60, Pos (15,8)
+#, fuzzy
+msgid ""
+"\n"
+"「そうでしょ！　あぁ良かった！\n"
+"　アタシの他にも　人がいた！」"
+msgstr ""
+"\n"
+" So you are! Oh, thank heavens!\n"
+" There's someone here besides me!"
+
+#. ID 5, Page 1, Line 7, Pos (11,1)
+#. ID 5, Page 3, Line 6, Pos (11,1)
+msgid ""
+"\n"
+"「そっか……\n"
+"　じゃあアンタも　何でこんな事に\n"
+"　なってるのかは　わからないワケね」"
+msgstr ""
+"\n"
+" So I see... Then you wouldn't\n"
+" have any clue as to the how\n"
+" or why of all this, either."
+
+#. ID 5, Page 1, Line 12, Pos (11,1)
+msgid ""
+"\n"
+"「アタシの方も　大体同じ感じよ」"
+msgstr ""
+"\n"
+" I believe my situation was\n"
+" much the same as yours,\n"
+" from the sound of things."
+
+#. ID 5, Page 1, Line 22, Pos (11,1)
+#, fuzzy
+msgid ""
+"\n"
+"「おまけに　この薔薇……\n"
+"　花びら　ちぎられると\n"
+"　自分の身体に痛みが　出てきてさー」"
+msgstr ""
+"\n"
+" Even down to these roses.\n"
+" Wounds appear on me when\n"
+" my rose loses its petals..."
+
+#. ID 5, Page 1, Line 27, Pos (11,1)
+#, fuzzy
+msgid ""
+"\n"
+"「さっきは　死ぬかと思ったわ……\n"
+"　取り返してくれて　ありがとね」"
+msgstr ""
+"\n"
+" I thought I was a goner there...\n"
+" Thank you for getting it back."
+
+#. ID 5, Page 1, Line 36, Pos (11,1)
+#. ID 5, Page 3, Line 53, Pos (11,1)
+#, fuzzy
+msgid ""
+"\n"
+"「………で　とりあえずさ………\n"
+"　ここから出る方法を　探さない？」"
+msgstr ""
+"\n"
+" .....Now, first things first...\n"
+" We had better find a way out."
+
+#. ID 5, Page 1, Line 40, Pos (11,1)
+#. ID 5, Page 3, Line 57, Pos (11,1)
+#, fuzzy
+msgid ""
+"\n"
+"「こんな　気味の悪い場所\n"
+"　ずっといたら　おかしくなっちゃうわ」"
+msgstr ""
+"\n"
+" I think I'll go mad if I stay in\n"
+" this dreadful place for too long..."
+
+#. ID 5, Page 1, Line 46, Pos (11,1)
+#. ID 5, Page 3, Line 63, Pos (11,1)
+#, fuzzy
+msgid ""
+"\n"
+"「そういえば　まだ\n"
+"　名前聞いて　なかったわね」"
+msgstr ""
+"\n"
+" Ah, I still haven't asked your name.\n"
+" My, that was rude of me!"
+
+#. ID 5, Page 1, Line 50, Pos (11,1)
+#. ID 5, Page 3, Line 67, Pos (11,1)
+#, fuzzy
+msgid ""
+"\n"
+"「アタシは\n"
+"　ギャリーっていうの　アンタは？」"
+msgstr ""
+"\n"
+" Well, my name's Garry.\n"
+" And you are?"
+
+#. ID 5, Page 1, Line 57, Pos (11,1)
+#. ID 5, Page 3, Line 74, Pos (11,1)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴ……イヴって言うのね」"
+msgstr ""
+"\n"
+" Ib... Ib, you say."
+
+#. ID 5, Page 1, Line 65, Pos (11,1)
+#, fuzzy
+msgid ""
+"\n"
+"「子供一人じゃ　危ないからね\n"
+"　……アタシも　一緒に\n"
+"　付いてってあげるわ！」"
+msgstr ""
+"\n"
+" I can't very well leave a girl\n"
+" to wander into danger, no, no.\n"
+" ...So I'll go with you! Okay?"
+
+#. ID 5, Page 1, Line 72, Pos (11,1)
+#. ID 5, Page 3, Line 93, Pos (11,1)
+#, fuzzy
+msgid ""
+"\n"
+"「行くわよ　イヴ！」"
+msgstr ""
+"\n"
+" Now, let's go, Ib!"
+
+#. ID 5, Page 1, Line 88, Pos (11,1)
+#. ID 5, Page 3, Line 109, Pos (11,1)
+#, fuzzy
+msgid ""
+"\n"
+"「ぎゃーっ！」"
+msgstr ""
+"\n"
+" HYEEEEEK!"
+
+#. ID 5, Page 1, Line 97, Pos (11,1)
+#. ID 5, Page 3, Line 118, Pos (11,1)
+#, fuzzy
+msgid ""
+"\n"
+"「……………」"
+msgstr ""
+"\n"
+" I... I was just a bit startled!\n"
+" R-Really, that's all it was!"
+
+#. ID 5, Page 1, Line 103, Pos (11,1)
+#. ID 5, Page 3, Line 124, Pos (11,1)
+#, fuzzy
+msgid ""
+"\n"
+"「い……今のは　ちょっと\n"
+"　驚いただけよ！　本当よ！」"
+msgstr ""
+"\n"
+" Anywayyy...\n"
+" Let's keep going, and watch out\n"
+" for such bizarre things as that!"
+
+#. ID 5, Page 1, Line 106, Pos (11,1)
+#. ID 5, Page 3, Line 127, Pos (11,1)
+msgid ""
+"\n"
+"「とにかく！\n"
+"　こういう　変なのがいるから\n"
+"　気をつけて　進むわよ！」"
+msgstr ""
+
+#. ID 5, Page 3, Line 11, Pos (11,1)
+msgid ""
+"\n"
+"「アタシの方も　大体同じ感じよ\n"
+"　おまけに　変な女に\n"
+"　追いかけられて……」"
+msgstr ""
+"\n"
+" Things were largely the same for me.\n"
+" Not to mention I've been\n"
+" chased by strange girls..."
+
+#. ID 5, Page 3, Line 16, Pos (11,1)
+msgid ""
+"\n"
+"「思いっきり　指噛まれた挙句\n"
+"　薔薇の花　とられたし……」"
+msgstr ""
+"\n"
+" One of them bit down on my finger,\n"
+" and they took my rose..."
+
+#. ID 5, Page 3, Line 20, Pos (11,1)
+msgid ""
+"\n"
+"「まだ　痛むわ………はぁ」"
+msgstr ""
+"\n"
+" It... still hurts a bit. Sigh..."
+
+#. ID 5, Page 3, Line 31, Pos (11,1)
+msgid ""
+"\n"
+"「あら　ハンカチ……使っていいの？」"
+msgstr ""
+"\n"
+" Ah, a handkerchief... May I use it?"
+
+#. ID 5, Page 3, Line 36, Pos (11,1)
+msgid ""
+"\n"
+"「…………」"
+msgstr ""
+"\n"
+" .........."
+
+#. ID 5, Page 3, Line 39, Pos (11,1)
+msgid ""
+"\n"
+"「……これ　本物のレースじゃない\n"
+"　なんか　汚しちゃうの\n"
+"　忍びないんだけど……」"
+msgstr ""
+"\n"
+" .....Isn't this real lace?\n"
+" Well, I don't particularly\n"
+" want to tarnish this..."
+
+#. ID 5, Page 3, Line 44, Pos (11,1)
+msgid ""
+"\n"
+"「ま　いいや　借りとくわ\n"
+"　ありがとね」"
+msgstr ""
+"\n"
+" Well, I'll borrow it anyway.\n"
+" Thanks."
+
+#. ID 5, Page 3, Line 77, Pos (11,1)
+msgid ""
+"\n"
+"「短くて　呼びやすいわ\n"
+"　良い名前じゃないの！」"
+msgstr ""
+"\n"
+" Short and easy to say.\n"
+" A good name, to be sure!"
+
+#. ID 5, Page 3, Line 86, Pos (11,1)
+msgid ""
+"\n"
+"「子供一人じゃ　危ないからね\n"
+"　……アタシも　一緒に\n"
+"　付いてってあげるわ」"
+msgstr ""
+"\n"
+" I can't very well leave a child\n"
+" to wander into danger, no, no.\n"
+" ...So I'll go with you! Okay?"
+
+#. ID 12, Page 1, Line 1, Pos (8,6)
+#. ID 12, Page 2, Line 1, Pos (8,6)
+#, fuzzy
+msgid "『？？？な絵画』"
+msgstr "\"??? Art\""
+
+#. ID 12, Page 1, Line 2, Pos (8,6)
+msgid "難しくて　読めない字がある……"
+msgstr "You don't know this word..."
+
+#. ID 12, Page 2, Line 5, Pos (8,6)
+#, fuzzy
+msgid ""
+"\n"
+"「……ん？\n"
+"　難しくて　読めない字？」"
+msgstr ""
+"\n"
+" ...Hm?\n"
+" You don't know that word?"
+
+#. ID 12, Page 2, Line 8, Pos (8,6)
+#, fuzzy
+msgid ""
+"\n"
+"「あぁ　これのタイトルのこと？\n"
+"　『抽象的な絵画』ですって」"
+msgstr ""
+"\n"
+" Ah, you want to know the title?\n"
+" It's \"Abstract Art.\""
+
+#. ID 12, Page 2, Line 12, Pos (8,6)
+#. Contains choice at line 3 (2 options)
+#, fuzzy
+msgid ""
+"\n"
+"「……オーケー？」"
+msgstr ""
+"\n"
+" ...Will that be all?"
+
+#. ID 12, Page 2, Line 14, Pos (8,6)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"オーケー\n"
+"どういう意味？"
+msgstr ""
+"Okay\n"
+"Which means...?"
+
+#. ID 12, Page 2, Line 16, Pos (8,6)
+#, fuzzy
+msgid ""
+"\n"
+"「読めない文章があったら\n"
+"　アタシが読んで　あげるわよ」"
+msgstr ""
+"\n"
+" If there's ever anything you\n"
+" don't know how to read,\n"
+" I'll gladly read it for you."
+
+#. ID 12, Page 2, Line 22, Pos (8,6)
+#, fuzzy
+msgid ""
+"\n"
+"「え……意味？\n"
+"　んーと……つまり………」"
+msgstr ""
+"\n"
+" Er... what's it mean?\n"
+" Hmm... well, basically..."
+
+#. ID 12, Page 2, Line 26, Pos (8,6)
+#, fuzzy
+msgid ""
+"\n"
+"「抽象的な……絵画よ」"
+msgstr ""
+"\n"
+" It means... art... that is...\n"
+" ...abstract."
+
+#. ID 12, Page 2, Line 29, Pos (8,6)
+#, fuzzy
+msgid ""
+"\n"
+"「まぁ　とにかく！\n"
+"　読めない文章は　読んであげるわよ」"
+msgstr ""
+"\n"
+" Yes, well... anyway!\n"
+" I'll gladly help with\n"
+" anything you can't read."
+
+#. ID 12, Page 3, Line 1, Pos (8,6)
+msgid "『抽象的な絵画』"
+msgstr "\"Abstract Art\""
+
+#. ID 13, Page 1, Line 1, Pos (21,6)
+msgid "舌が動いている……"
+msgstr "Its tongue keeps wiggling..."

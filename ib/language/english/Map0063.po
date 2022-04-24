@@ -1,0 +1,1281 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 11, Page 1, Line 3, Pos (4,21)
+#. ID 16, Page 1, Line 2, Pos (21,11)
+msgid "カギが　かかっている……"
+msgstr "It's locked..."
+
+#. ID 11, Page 1, Line 6, Pos (4,21)
+msgid ""
+"\n"
+"「なんだろう　これ……\n"
+"　名前を入れれば　いいのかな？」"
+msgstr ""
+"\n"
+" What's this...\n"
+" Can we put in a name?"
+
+#. ID 11, Page 1, Line 15, Pos (4,21)
+msgid "何かの音がした……"
+msgstr ""
+
+#. ID 11, Page 1, Line 20, Pos (4,21)
+msgid "何も　起こらない……"
+msgstr ""
+
+#. ID 13, Page 1, Line 1, Pos (3,11)
+msgid "『天の糸』"
+msgstr "\"Heavenly Thread\""
+
+#. ID 15, Page 1, Line 1, Pos (7,21)
+msgid "『皮と？』"
+msgstr "\"Skin and ???\""
+
+#. ID 15, Page 1, Line 2, Pos (7,21)
+msgid "難しくて　読めない字がある……"
+msgstr "You don't know this word..."
+
+#. ID 15, Page 2, Line 1, Pos (7,21)
+msgid "『皮と鱗』"
+msgstr "\"Skin and Squama\""
+
+#. ID 16, Page 2, Line 2, Pos (21,11)
+msgid "茶のカギを　使った。"
+msgstr "Used the Brown Key."
+
+#. ID 18, Page 1, Line 1, Pos (25,11)
+#. ID 18, Page 2, Line 1, Pos (25,11)
+#. ID 18, Page 3, Line 2, Pos (25,11)
+#. ID 18, Page 4, Line 1, Pos (25,11)
+msgid "『釣り人』"
+msgstr "\"Fisherman\""
+
+#. ID 18, Page 1, Line 4, Pos (25,11)
+msgid ""
+"\n"
+"「……だれも　いないね」"
+msgstr ""
+"\n"
+" ...There's nobody there, though."
+
+#. ID 18, Page 3, Line 5, Pos (25,11)
+msgid ""
+"\n"
+"「……ねぇ　イヴ見て……\n"
+"　なんか　釣れてる！」"
+msgstr ""
+"\n"
+" ...Hey, look, Ib...\n"
+" He caught something!"
+
+#. ID 19, Page 1, Line 1, Pos (23,17)
+#. ID 20, Page 1, Line 1, Pos (27,18)
+#. ID 21, Page 1, Line 1, Pos (27,12)
+#. ID 22, Page 1, Line 1, Pos (21,19)
+#. ID 23, Page 1, Line 1, Pos (1,24)
+#. ID 24, Page 1, Line 1, Pos (10,6)
+#. ID 25, Page 1, Line 1, Pos (18,6)
+#. ID 26, Page 1, Line 1, Pos (25,19)
+#. ID 27, Page 1, Line 1, Pos (8,15)
+#. ID 28, Page 1, Line 1, Pos (8,22)
+#. ID 29, Page 1, Line 1, Pos (20,24)
+#. ID 30, Page 1, Line 1, Pos (18,10)
+#. ID 31, Page 1, Line 1, Pos (5,12)
+#. ID 32, Page 1, Line 1, Pos (4,12)
+#. ID 33, Page 1, Line 1, Pos (3,22)
+#. ID 34, Page 1, Line 1, Pos (1,17)
+msgid "マネキンの　首がある……"
+msgstr "A mannequin head..."
+
+#. ID 35, Page 1, Line 1, Pos (26,12)
+#. Contains choice at line 2 (2 options)
+msgid "カサが　置いてある……"
+msgstr "An umbrella..."
+
+#. ID 35, Page 1, Line 2, Pos (26,12)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"持っていく\n"
+"そのままにしておく"
+msgstr ""
+"Take it\n"
+"Leave it"
+
+#. ID 35, Page 1, Line 6, Pos (26,12)
+msgid "赤いカサを　手に入れた。"
+msgstr "Obtained the Red Umbrella."
+
+#. ID 41, Page 1, Line 4, Pos (15,16)
+#. Contains choice at line 2 (3 options)
+msgid "「……………」"
+msgstr ""
+
+#. ID 41, Page 1, Line 5, Pos (15,16)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"メアリー？\n"
+"どうしたの？\n"
+"大丈夫？"
+msgstr ""
+"Mary?\n"
+"What's wrong?\n"
+"Are you okay?"
+
+#. ID 41, Page 1, Line 9, Pos (15,16)
+msgid ""
+"\n"
+"「………メアリー………\n"
+"　わたし　メアリー……」"
+msgstr ""
+"\n"
+" .....Mary.....\n"
+" I'm Mary....."
+
+#. ID 41, Page 1, Line 13, Pos (15,16)
+msgid ""
+"\n"
+"「うふ　ふふふ　ふふふふふ\n"
+"　あははは　あはははははは」"
+msgstr ""
+"\n"
+" Oho, ohohoho, ohohohohoho...\n"
+" Ahahaha, ahahahahahahaha..."
+
+#. ID 41, Page 1, Line 18, Pos (15,16)
+msgid ""
+"\n"
+"「わたし　メアリーっていうの\n"
+"　わたし　メアリーっていうの\n"
+"　わたし　メアリーっていうの」"
+msgstr ""
+"\n"
+" I am Maaary, I am Maaary,\n"
+" I am Maaary, I am Maaary,\n"
+" I am Maaary, I am Maaary..."
+
+#. ID 41, Page 1, Line 23, Pos (15,16)
+msgid ""
+"\n"
+"「うふふふふ　ふふふふふ……」"
+msgstr ""
+"\n"
+" Ohohohoho hohohoho..."
+
+#. ID 41, Page 1, Line 38, Pos (15,16)
+msgid ""
+"\n"
+"「……なん　でも　ない」"
+msgstr ""
+"\n"
+" ...No... thing's... wrong."
+
+#. ID 41, Page 1, Line 41, Pos (15,16)
+msgid ""
+"\n"
+"「…………あはっ\n"
+"　どうしたの？　ドウシタノ？」"
+msgstr ""
+"\n"
+" .....Aha.\n"
+" What's wrong? Whaaat's wrrrooonnnggg?"
+
+#. ID 41, Page 1, Line 44, Pos (15,16)
+msgid ""
+"\n"
+"「あはははは　ふふふふふ」"
+msgstr ""
+"\n"
+" Ahahahaha, ohohohohoho..."
+
+#. ID 41, Page 1, Line 47, Pos (15,16)
+msgid ""
+"\n"
+"「いやだなぁ　あのひと……\n"
+"　うふふふ　ふふふふふふ」"
+msgstr ""
+"\n"
+" I don't like him... not one bit...\n"
+" Ohohohoho hohohohoho..."
+
+#. ID 41, Page 1, Line 63, Pos (15,16)
+msgid ""
+"\n"
+"「………うん　大丈夫」"
+msgstr ""
+"\n"
+" .....Yes, I'm okay."
+
+#. ID 41, Page 1, Line 66, Pos (15,16)
+msgid ""
+"\n"
+"「……だい　じょうぶ？\n"
+"　ダイジョウブ？　大丈夫？」"
+msgstr ""
+"\n"
+" .....Am I oookaaay?\n"
+" Okay? Okayokay? Kay?"
+
+#. ID 41, Page 1, Line 70, Pos (15,16)
+msgid ""
+"\n"
+"「うふふふ　ふふふふ\n"
+"　あははは　はははは」"
+msgstr ""
+"\n"
+" Ohohohoho hohohoho...\n"
+" Ahahahaha hahahaha..."
+
+#. ID 41, Page 1, Line 74, Pos (15,16)
+msgid ""
+"\n"
+"「イヴ　大丈夫　メアリー\n"
+"　大丈夫　わたし　あははは\n"
+"　うふふふふ　はははははは」"
+msgstr ""
+"\n"
+" Ib, okay, Mary...\n"
+" I'm okay, Mary, me, ahahaha...\n"
+" Ohohohoho, hahahahahaha..."
+
+#. ID 42, Page 1, Line 3, Pos (7,13)
+#. ID 43, Page 1, Line 3, Pos (8,12)
+#. ID 44, Page 1, Line 3, Pos (6,12)
+msgid ""
+"\n"
+"「……イヴ……どこに行くの……？」"
+msgstr ""
+"\n"
+" ...Ib... Where are you going...?"
+
+#. ID 42, Page 1, Line 6, Pos (7,13)
+#. ID 43, Page 1, Line 6, Pos (8,12)
+#. ID 44, Page 1, Line 6, Pos (6,12)
+msgid ""
+"\n"
+"「いっしょに　いこ？」"
+msgstr ""
+"\n"
+" Let's go together, okay?"
+
+#. ID 42, Page 2, Line 5, Pos (7,13)
+#. ID 46, Page 2, Line 5, Pos (29,21)
+msgid ""
+"\n"
+"「早く　外に出たいね……\n"
+"　ここにいるの　飽きちゃったし……」"
+msgstr ""
+"\n"
+" I want to get out now...\n"
+" I'm tired of being here..."
+
+#. ID 42, Page 2, Line 14, Pos (7,13)
+#. ID 46, Page 2, Line 14, Pos (29,21)
+msgid ""
+"\n"
+"「ギャリーは　今頃\n"
+"　なにしてるんだろうね？」"
+msgstr ""
+"\n"
+" I wonder what\n"
+" Garry's doing now?"
+
+#. ID 42, Page 2, Line 18, Pos (7,13)
+#. ID 46, Page 2, Line 18, Pos (29,21)
+msgid ""
+"\n"
+"「ひとりで　さみしくて\n"
+"　泣いてるのかな？\n"
+"　早く　会えるといいね……」"
+msgstr ""
+"\n"
+" Crying all alone, maybe?\n"
+" I hope we find him soon..."
+
+#. ID 42, Page 2, Line 28, Pos (7,13)
+#. ID 46, Page 2, Line 28, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「お人形さんあそび　したいなぁ……\n"
+"　わたしが　お母さん人形\n"
+"　イヴが　お父さん人形ね」"
+msgstr ""
+"\n"
+" Let's play dolls...\n"
+" I'll be the mom doll,\n"
+" and Ib can be the dad doll..."
+
+#. ID 42, Page 2, Line 38, Pos (7,13)
+#. ID 46, Page 2, Line 38, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「わたし　お絵かき大好き\n"
+"　色んなクレヨンで　いっぱい\n"
+"　お絵かき　するんだ！」"
+msgstr ""
+"\n"
+" I love to draw.\n"
+" I've got lots of crayons.\n"
+" We should draw sometime!"
+
+#. ID 42, Page 2, Line 43, Pos (7,13)
+#. ID 46, Page 2, Line 43, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「結構　上手いんだから！」"
+msgstr ""
+"\n"
+" I'm pretty good, you see!"
+
+#. ID 42, Page 2, Line 51, Pos (7,13)
+#. Contains choice at line 2 (3 options)
+#. ID 46, Page 2, Line 51, Pos (29,21)
+#. Contains choice at line 2 (3 options)
+msgid "「………………」"
+msgstr ""
+
+#. ID 42, Page 2, Line 52, Pos (7,13)
+#. Choice (3 options, embedded in a message)
+#. ID 46, Page 2, Line 52, Pos (29,21)
+#. Choice (3 options, embedded in a message)
+#, fuzzy
+msgid ""
+"さっきどうして　行っちゃったの？\n"
+"ギャリー　無事だといいね\n"
+"疲れてきたけど　がんばろうね"
+msgstr ""
+"What were you doing?\n"
+"I hope Garry is safe\n"
+"I'm tired, but let's do our best"
+
+#. ID 42, Page 2, Line 56, Pos (7,13)
+#. ID 46, Page 2, Line 56, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「えっ………？\n"
+"　あぁ　あれは……ごめん\n"
+"　わたしにも　わかんない……」"
+msgstr ""
+"\n"
+" Huh...?\n"
+" Oh, that was... I'm sorry,\n"
+" I'm not too sure either..."
+
+#. ID 42, Page 2, Line 61, Pos (7,13)
+#. ID 46, Page 2, Line 61, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「なんか……\n"
+"　急にいろんな　気持ちが\n"
+"　こう……なんて言えばいいのかな？」"
+msgstr ""
+"\n"
+" I was just...\n"
+" All these feelings suddenly...\n"
+" ...How do you say it?"
+
+#. ID 42, Page 2, Line 65, Pos (7,13)
+#. ID 46, Page 2, Line 65, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「ふき出して？　きて………\n"
+"　ちょっと……その………」"
+msgstr ""
+"\n"
+" Came... gushing out?\n"
+" Um... uh....."
+
+#. ID 42, Page 2, Line 69, Pos (7,13)
+#. ID 46, Page 2, Line 69, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「まぁ　気にしないで！\n"
+"　もう　大丈夫だから」"
+msgstr ""
+"\n"
+" Don't worry about it!\n"
+" I'll be fine..."
+
+#. ID 42, Page 2, Line 76, Pos (7,13)
+#. ID 46, Page 2, Line 76, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「……そうだね………\n"
+"　無事なら………いいけどね」"
+msgstr ""
+"\n"
+" ...Yes.....\n"
+" That would be... nice."
+
+#. ID 42, Page 2, Line 80, Pos (7,13)
+#. ID 46, Page 2, Line 80, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「でももし　無事じゃなかったら\n"
+"　置いていくしか　ないよね？」"
+msgstr ""
+"\n"
+" But if he's not, we'll just have\n"
+" to leave him behind, right?"
+
+#. ID 42, Page 2, Line 84, Pos (7,13)
+#. ID 46, Page 2, Line 84, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「もしもの話　ね？」"
+msgstr ""
+"\n"
+" Just saying..."
+
+#. ID 42, Page 2, Line 90, Pos (7,13)
+#. ID 46, Page 2, Line 90, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「うん……そっか　イヴは\n"
+"　ずっと歩いて　きたんだもんね」"
+msgstr ""
+"\n"
+" Yeah... You've been walking\n"
+" around the whole time, huh, Ib?"
+
+#. ID 42, Page 2, Line 94, Pos (7,13)
+#. ID 46, Page 2, Line 94, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴは倒れたら　ダメだからね？\n"
+"　一緒にここを　出るんだから！」"
+msgstr ""
+"\n"
+" Don't wear yourself out!\n"
+" We have to get out together!"
+
+#. ID 42, Page 2, Line 98, Pos (7,13)
+#. ID 46, Page 2, Line 98, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「あと少しだよ　がんばろー！」"
+msgstr ""
+"\n"
+" We're almost there,\n"
+" so let's keep at it!"
+
+#. ID 42, Page 2, Line 108, Pos (7,13)
+#. ID 46, Page 2, Line 108, Pos (29,21)
+msgid ""
+"\n"
+"「ケーキに　クッキーに\n"
+"　チョコレートに………」"
+msgstr ""
+"\n"
+" Cookies, and cake,\n"
+" and chocolate, and..."
+
+#. ID 42, Page 2, Line 112, Pos (7,13)
+#. ID 46, Page 2, Line 112, Pos (29,21)
+msgid ""
+"\n"
+"「えへへ　食べたいもの！\n"
+"　色んなお菓子　早く　食べたいね！」"
+msgstr ""
+"\n"
+" Teehee, so much to eat!\n"
+" I want to eat all these sweets!"
+
+#. ID 42, Page 2, Line 121, Pos (7,13)
+#. ID 46, Page 2, Line 121, Pos (29,21)
+msgid ""
+"\n"
+"「イヴのバラ　赤くてきれいだね……」"
+msgstr ""
+"\n"
+" Ib, your flower's all\n"
+" red and pretty..."
+
+#. ID 42, Page 2, Line 124, Pos (7,13)
+#. Contains choice at line 3 (2 options)
+#. ID 46, Page 2, Line 124, Pos (29,21)
+#. Contains choice at line 3 (2 options)
+#, fuzzy
+msgid ""
+"\n"
+"「ちょっと　触らせて？」"
+msgstr ""
+"\n"
+" Can I touch it?"
+
+#. ID 42, Page 2, Line 126, Pos (7,13)
+#. Choice (2 options, embedded in a message)
+#. ID 46, Page 2, Line 126, Pos (29,21)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"やだ\n"
+"バラをメアリーに渡す"
+msgstr ""
+"No\n"
+"Give Mary the rose"
+
+#. ID 42, Page 2, Line 129, Pos (7,13)
+#. ID 46, Page 2, Line 129, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「………ちぇ………」"
+msgstr ""
+"\n"
+" .....Hmph..."
+
+#. ID 42, Page 2, Line 135, Pos (7,13)
+#. ID 46, Page 2, Line 135, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「わぁ　ありがとう……！\n"
+"　すごく　きれい………」"
+msgstr ""
+"\n"
+" Yaaay, thanks...!\n"
+" It's so pretty....."
+
+#. ID 42, Page 2, Line 139, Pos (7,13)
+#. ID 46, Page 2, Line 139, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「でも　バラって　きれいなのに\n"
+"　トゲがあって　危ないよね\n"
+"　………………………あ」"
+msgstr ""
+"\n"
+" But as pretty as roses are,\n"
+" they still have thorns...\n"
+" ...............Ah!"
+
+#. ID 42, Page 2, Line 145, Pos (7,13)
+#. ID 46, Page 2, Line 145, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「ごめん　イヴ\n"
+"　花びら　ちぎれちゃった……」"
+msgstr ""
+"\n"
+" Sorry, Ib, one of\n"
+" the petals came off..."
+
+#. ID 42, Page 2, Line 156, Pos (7,13)
+#. ID 46, Page 2, Line 156, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「ここは　美術館なのに\n"
+"　お客様が　全然来ないよね……」"
+msgstr ""
+"\n"
+" For an art gallery, there\n"
+" aren't many visitors, huh..."
+
+#. ID 42, Page 2, Line 160, Pos (7,13)
+#. ID 46, Page 2, Line 160, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「もっと　たくさん\n"
+"　来ればいいのに……」"
+msgstr ""
+"\n"
+" I wish more people\n"
+" would come..."
+
+#. ID 42, Page 2, Line 169, Pos (7,13)
+#. ID 46, Page 2, Line 169, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「あはっ……ふふっ…………」"
+msgstr ""
+"\n"
+" Ahah... heehee....."
+
+#. ID 42, Page 2, Line 172, Pos (7,13)
+#. ID 46, Page 2, Line 172, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「ちょっと前に　通ったとこに\n"
+"　ピエロの絵が　あったよね……」"
+msgstr ""
+"\n"
+" You remember that painting of\n"
+" the clown we passed by, right?"
+
+#. ID 42, Page 2, Line 175, Pos (7,13)
+#. ID 46, Page 2, Line 175, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「あの階段　転がってたのって\n"
+"　ピエロの鼻　だったんだね」"
+msgstr ""
+"\n"
+" The thing rolling down the\n"
+" stairs was the clown's nose!"
+
+#. ID 42, Page 2, Line 179, Pos (7,13)
+#. ID 46, Page 2, Line 179, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「あははは………」"
+msgstr ""
+"\n"
+" Ahahahah..."
+
+#. ID 42, Page 2, Line 187, Pos (7,13)
+#. ID 46, Page 2, Line 187, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「え？　どうして\n"
+"　後ろに　つくのかって？」"
+msgstr ""
+"\n"
+" Huh? Why am I staying\n"
+" behind you?"
+
+#. ID 42, Page 2, Line 191, Pos (7,13)
+#. ID 46, Page 2, Line 191, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「いいじゃない　別に……\n"
+"　特に　理由なんてないよ」"
+msgstr ""
+"\n"
+" Well, why not...?\n"
+" There's no real reason..."
+
+#. ID 42, Page 2, Line 195, Pos (7,13)
+#. ID 46, Page 2, Line 195, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「……………」"
+msgstr ""
+"\n"
+" .........."
+
+#. ID 42, Page 2, Line 203, Pos (7,13)
+#. ID 46, Page 2, Line 203, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴ　わたしと\n"
+"　友達になってくれる？」"
+msgstr ""
+"\n"
+" Ib, would you...\n"
+" be friends with me?"
+
+#. ID 42, Page 2, Line 207, Pos (7,13)
+#. ID 46, Page 2, Line 207, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「わたしね……ずっと\n"
+"　同じくらいの　女の子の友達が\n"
+"　欲しかったの」"
+msgstr ""
+"\n"
+" I've... always wanted a girl like\n"
+" me who could be my friend..."
+
+#. ID 42, Page 2, Line 212, Pos (7,13)
+#. ID 46, Page 2, Line 212, Pos (29,21)
+msgid ""
+"\n"
+"「あと　イヴのお母さんに\n"
+"　会ってみたいな！」"
+msgstr ""
+"\n"
+" And I want to meet\n"
+" your mom, too!"
+
+#. ID 42, Page 2, Line 216, Pos (7,13)
+#. ID 46, Page 2, Line 216, Pos (29,21)
+msgid ""
+"\n"
+"「わたし\n"
+"　お父さんしか　いないから……」"
+msgstr ""
+"\n"
+" I mean, all I have is a dad..."
+
+#. ID 42, Page 2, Line 225, Pos (7,13)
+#. Contains choice at line 3 (2 options)
+#. ID 46, Page 2, Line 225, Pos (29,21)
+#. Contains choice at line 3 (2 options)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴ……このスカーフ　どう思う？」"
+msgstr ""
+"\n"
+" Ib... How's this scarf?"
+
+#. ID 42, Page 2, Line 227, Pos (7,13)
+#. Choice (2 options, embedded in a message)
+#. ID 46, Page 2, Line 227, Pos (29,21)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"かわいいね\n"
+"似合うね"
+msgstr ""
+"It's cute\n"
+"It suits you"
+
+#. ID 42, Page 2, Line 230, Pos (7,13)
+#. ID 46, Page 2, Line 230, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「えへへ……うれしいなー\n"
+"　わたしも　気にいってるんだー」"
+msgstr ""
+"\n"
+" Teehee... I'm glad!\n"
+" I really like it too..."
+
+#. ID 42, Page 2, Line 234, Pos (7,13)
+#. ID 46, Page 2, Line 234, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴの　リボンも\n"
+"　大きくて　かわいいよ！」"
+msgstr ""
+"\n"
+" Your ribbon's all big\n"
+" and cute too, Ib!"
+
+#. ID 42, Page 2, Line 240, Pos (7,13)
+#. ID 46, Page 2, Line 240, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「ホント？　良かったー\n"
+"　わたし　青好きなんだー」"
+msgstr ""
+"\n"
+" Really? I'm glad...\n"
+" I really like blue..."
+
+#. ID 42, Page 2, Line 244, Pos (7,13)
+#. ID 46, Page 2, Line 244, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴは　やっぱり\n"
+"　赤が　似合うね！」"
+msgstr ""
+"\n"
+" And red really suits you, Ib!"
+
+#. ID 42, Page 2, Line 255, Pos (7,13)
+#. Contains choice at line 3 (2 options)
+#. ID 46, Page 2, Line 255, Pos (29,21)
+#. Contains choice at line 3 (2 options)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴは　雪って知ってる？」"
+msgstr ""
+"\n"
+" Ib, do you know about snow?"
+
+#. ID 42, Page 2, Line 257, Pos (7,13)
+#. Choice (2 options, embedded in a message)
+#. ID 46, Page 2, Line 257, Pos (29,21)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"知ってる\n"
+"知らない"
+msgstr ""
+"I do\n"
+"I don't"
+
+#. ID 42, Page 2, Line 260, Pos (7,13)
+#. ID 46, Page 2, Line 260, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「えー　いいなぁ\n"
+"　あれすごく　冷たいんでしょ？」"
+msgstr ""
+"\n"
+" Wow, that's nice!\n"
+" It's really cold, right?"
+
+#. ID 42, Page 2, Line 264, Pos (7,13)
+#. ID 46, Page 2, Line 264, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「シロップかければ\n"
+"　食べれるって　本に書いてあった！」"
+msgstr ""
+"\n"
+" I read in a book that you\n"
+" can eat it with syrup!"
+
+#. ID 42, Page 2, Line 268, Pos (7,13)
+#. ID 46, Page 2, Line 268, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「どんな味が　するんだろ……」"
+msgstr ""
+"\n"
+" I wonder how it tastes..."
+
+#. ID 42, Page 2, Line 273, Pos (7,13)
+#. ID 46, Page 2, Line 273, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「なんか　こんな\n"
+"　小さくて　白くて……\n"
+"　空から　降ってくるんだって！」"
+msgstr ""
+"\n"
+" It's like this small, white...\n"
+" stuff that falls from the sky!"
+
+#. ID 42, Page 2, Line 278, Pos (7,13)
+#. ID 46, Page 2, Line 278, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「その雪を　いっぱい集めると\n"
+"　ボールみたいに　できて……」"
+msgstr ""
+"\n"
+" And you can gather up a bunch\n"
+" of snow to make into a ball..."
+
+#. ID 42, Page 2, Line 282, Pos (7,13)
+#. ID 46, Page 2, Line 282, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「これを　ぶつけて遊ぶ\n"
+"　ゆきがっせん　っていうのが\n"
+"　面白いらしいの！」"
+msgstr ""
+"\n"
+" And then throw them\n"
+" to have a \"snowball fight\"!\n"
+" It sounds really fun!"
+
+#. ID 42, Page 2, Line 286, Pos (7,13)
+#. ID 46, Page 2, Line 286, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「やってみたーい！　ね！」"
+msgstr ""
+"\n"
+" I wanna try it! Don't you?!"
+
+#. ID 42, Page 2, Line 296, Pos (7,13)
+#. ID 46, Page 2, Line 296, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴは……友達　いる？\n"
+"　どのくらい　いるの？」"
+msgstr ""
+"\n"
+" Ib... Do you have friends?\n"
+" Like, how many?"
+
+#. ID 42, Page 2, Line 300, Pos (7,13)
+#. ID 46, Page 2, Line 300, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「友達って　一緒に遊ぶんだよね！\n"
+"　ケンカも　時々するんだよね！？」"
+msgstr ""
+"\n"
+" You play with them, right?\n"
+" And sometimes you argue?!"
+
+#. ID 42, Page 2, Line 304, Pos (7,13)
+#. ID 46, Page 2, Line 304, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「ケンカしたあとに　仲直りすれば\n"
+"　もっと仲良く　なれるんだよね……！」"
+msgstr ""
+"\n"
+" And maybe, after you argue,\n"
+" you can come back as\n"
+" better friends than before...!"
+
+#. ID 42, Page 2, Line 313, Pos (7,13)
+#. ID 46, Page 2, Line 313, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「る　る　る　るん！\n"
+"　ら　ら　ら　らん！」"
+msgstr ""
+"\n"
+" Fa la laaah!\n"
+" La la loooh!"
+
+#. ID 42, Page 2, Line 317, Pos (7,13)
+#. ID 46, Page 2, Line 317, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「あはははは　歌だよー！\n"
+"　わたしの　オリジナル！」"
+msgstr ""
+"\n"
+" Ahahaha! It's a song!\n"
+" Original by me, Mary!"
+
+#. ID 42, Page 2, Line 321, Pos (7,13)
+#. ID 46, Page 2, Line 321, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「さみしい時は　歌えばいいよ\n"
+"　だんだん楽しく　なってくるから！」"
+msgstr ""
+"\n"
+" You should sing when you're sad!\n"
+" You'll be having fun again\n"
+" before you know it!"
+
+#. ID 42, Page 2, Line 330, Pos (7,13)
+#. ID 46, Page 2, Line 330, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「……大人って　どうして\n"
+"　あんなに　背が高いのかな？」"
+msgstr ""
+"\n"
+" ...Why are adults\n"
+" so tall, I wonder?"
+
+#. ID 42, Page 2, Line 334, Pos (7,13)
+#. ID 46, Page 2, Line 334, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「わたしも　ギャリーくらい\n"
+"　大きくなれるのかなぁ」"
+msgstr ""
+"\n"
+" Am I gonna be tall\n"
+" like Garry someday?"
+
+#. ID 42, Page 2, Line 338, Pos (7,13)
+#. ID 46, Page 2, Line 338, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「早く大人に　なりたいよ……」"
+msgstr ""
+"\n"
+" I wanna grow up soon..."
+
+#. ID 42, Page 2, Line 346, Pos (7,13)
+#. Contains choice at line 3 (2 options)
+#. ID 46, Page 2, Line 346, Pos (29,21)
+#. Contains choice at line 3 (2 options)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴ　お父さん好き？」"
+msgstr ""
+"\n"
+" Ib, do you like your dad?"
+
+#. ID 42, Page 2, Line 348, Pos (7,13)
+#. Choice (2 options, embedded in a message)
+#. ID 46, Page 2, Line 348, Pos (29,21)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"うん\n"
+"だいすき"
+msgstr ""
+"Yeah\n"
+"I love him"
+
+#. ID 42, Page 2, Line 351, Pos (7,13)
+#. ID 46, Page 2, Line 351, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「そうなんだ……\n"
+"　だっことか　肩車してくれる？」"
+msgstr ""
+"\n"
+" Huh...\n"
+" Does he give you hugs?\n"
+" And piggyback rides?"
+
+#. ID 42, Page 2, Line 355, Pos (7,13)
+#. ID 46, Page 2, Line 355, Pos (29,21)
+msgid ""
+"\n"
+"「ちょっと　\n"
+"　そういうの　あこがれてるの！」"
+msgstr ""
+"\n"
+" I'd love to have a dad like that!"
+
+#. ID 42, Page 2, Line 361, Pos (7,13)
+#. ID 46, Page 2, Line 361, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「ふーん……\n"
+"　わたしも　お父さん　好き」"
+msgstr ""
+"\n"
+" Yeah...\n"
+" I love my dad, too."
+
+#. ID 42, Page 2, Line 365, Pos (7,13)
+#. ID 46, Page 2, Line 365, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「でも　会えないみたい……\n"
+"　ずっと　探してるんだけど\n"
+"　どこにも　いなくて」"
+msgstr ""
+"\n"
+" But I guess I can't meet him...\n"
+" I've kept looking,\n"
+" but I can't find him."
+
+#. ID 42, Page 2, Line 370, Pos (7,13)
+#. ID 46, Page 2, Line 370, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「もしかすると\n"
+"　外にいるのかも　しれないなぁ……」"
+msgstr ""
+"\n"
+" Maybe if I can get outside, then..."
+
+#. ID 42, Page 2, Line 381, Pos (7,13)
+#. ID 46, Page 2, Line 381, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「……イヴ　知ってる？\n"
+"　クレヨンって　かじったらね……」"
+msgstr ""
+"\n"
+" ...Ib, just so you know?\n"
+" If you chew on crayons..."
+
+#. ID 42, Page 2, Line 385, Pos (7,13)
+#. ID 46, Page 2, Line 385, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「すっごく　マズイの」"
+msgstr ""
+"\n"
+" They taste REEEALLY gross!"
+
+#. ID 42, Page 2, Line 393, Pos (7,13)
+#. ID 46, Page 2, Line 393, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「ねぇ　イヴ\n"
+"　花占いしたことある？」"
+msgstr ""
+"\n"
+" Hey, Ib, have you ever done\n"
+" loves me, loves me not?"
+
+#. ID 42, Page 2, Line 397, Pos (7,13)
+#. ID 46, Page 2, Line 397, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「あれね……\n"
+"　最後に　絶対“好き”で\n"
+"　終わる方法が　あるんだよ」"
+msgstr ""
+"\n"
+" Well you see...\n"
+" There's actually a way to\n"
+" always end with \"loves me\"!"
+
+#. ID 42, Page 2, Line 402, Pos (7,13)
+#. Contains choice at line 3 (2 options)
+#. ID 46, Page 2, Line 402, Pos (29,21)
+#. Contains choice at line 3 (2 options)
+#, fuzzy
+msgid ""
+"\n"
+"「……知りたい？」"
+msgstr ""
+"\n"
+" ...Wanna hear it?"
+
+#. ID 42, Page 2, Line 404, Pos (7,13)
+#. Choice (2 options, embedded in a message)
+#. ID 46, Page 2, Line 404, Pos (29,21)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"知りたい\n"
+"知ってる"
+msgstr ""
+"Tell me more\n"
+"I already know"
+
+#. ID 42, Page 2, Line 407, Pos (7,13)
+#. ID 46, Page 2, Line 407, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「いいよ！　教えてあげる\n"
+"　あのね　花びらが　なくなっても……」"
+msgstr ""
+"\n"
+" Okay! I'll tell you!\n"
+" Um, when you run out of petals..."
+
+#. ID 42, Page 2, Line 411, Pos (7,13)
+#. ID 46, Page 2, Line 411, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「クキも　かぞえちゃえば\n"
+"　絶対“好き”で　終わるんだよ！」"
+msgstr ""
+"\n"
+" You can still count the stem!\n"
+" And that's how you always\n"
+" get \"loves me\"!"
+
+#. ID 42, Page 2, Line 417, Pos (7,13)
+#. ID 46, Page 2, Line 417, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「なーんだ……つまんないの\n"
+"　わたししか　知らないと\n"
+"　思ってたのに……」"
+msgstr ""
+"\n"
+" Aww... that sucks.\n"
+" I thought I was the only one\n"
+" who figured it out..."
+
+#. ID 45, Page 1, Line 6, Pos (27,19)
+msgid ""
+"\n"
+"「イヴ………」"
+msgstr ""
+"\n"
+" Ib..."
+
+#. ID 45, Page 1, Line 11, Pos (27,19)
+msgid ""
+"\n"
+"「おいてかないで……」"
+msgstr ""
+"\n"
+" Don't leave me..."
+
+#. ID 49, Page 1, Line 1, Pos (14,5)
+#. ID 49, Page 2, Line 1, Pos (14,5)
+#. ID 49, Page 3, Line 1, Pos (14,5)
+#. ID 49, Page 4, Line 1, Pos (14,5)
+#. ID 49, Page 5, Line 1, Pos (14,5)
+msgid "『告げ口』"
+msgstr "\"Tattletale\""
+
+#. ID 49, Page 2, Line 2, Pos (14,5)
+msgid "何かを　呟いている……"
+msgstr "It's whispering something..."
+
+#. ID 52, Page 1, Line 1, Pos (18,13)
+#. ID 53, Page 1, Line 1, Pos (18,14)
+#. ID 54, Page 1, Line 1, Pos (10,12)
+#. ID 55, Page 1, Line 1, Pos (18,12)
+#. ID 56, Page 1, Line 1, Pos (10,14)
+#. ID 57, Page 1, Line 1, Pos (10,13)
+msgid "メアリーが……"
+msgstr "Mary..."
+
+#. ID 59, Page 1, Line 1, Pos (14,8)
+#. Contains choice at line 2 (2 options)
+msgid "水の入った花瓶がある……"
+msgstr "A vase full of water..."
+
+#. ID 59, Page 1, Line 2, Pos (14,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"バラを活ける\n"
+"活けない"
+msgstr ""
+"Place rose\n"
+"Don't place"
+
+#. ID 59, Page 1, Line 8, Pos (14,8)
+msgid "バラの花が　元気になった！"
+msgstr "The rose returned to health!"
+
+#. ID 59, Page 1, Line 10, Pos (14,8)
+msgid "花瓶の水が　なくなってしまった……"
+msgstr "The vase is out of water..."
+
+#. ID 59, Page 2, Line 1, Pos (14,8)
+msgid "花瓶に　水が入っていない……"
+msgstr "There's no water in the vase..."
+
+#. ID 59, Page 3, Line 1, Pos (14,8)
+msgid "花瓶がある……"
+msgstr "A vase..."
+

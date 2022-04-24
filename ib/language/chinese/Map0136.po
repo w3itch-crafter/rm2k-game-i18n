@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (2,4)
+msgid "『色彩の暴力』"
+msgstr "『色彩的暴力』"
+
+#. ID 27, Page 1, Line 5, Pos (17,10)
+#. ID 68, Page 1, Line 5, Pos (9,5)
+msgid ""
+"\n"
+"「なにかしらね　これ……絵？」"
+msgstr ""
+"\n"
+"「是什麼東西呢，這是……畫？」"
+
+#. ID 27, Page 1, Line 10, Pos (17,10)
+#. ID 27, Page 2, Line 10, Pos (17,10)
+#. ID 27, Page 3, Line 8, Pos (17,10)
+#. ID 68, Page 1, Line 10, Pos (9,5)
+#. ID 68, Page 2, Line 10, Pos (9,5)
+#. ID 68, Page 3, Line 8, Pos (9,5)
+msgid "何かが　落ちている……"
+msgstr "有東西掉在地上……"
+
+#. ID 27, Page 1, Line 14, Pos (17,10)
+#. ID 27, Page 2, Line 14, Pos (17,10)
+#. ID 27, Page 3, Line 10, Pos (17,10)
+#. ID 68, Page 1, Line 14, Pos (9,5)
+#. ID 68, Page 2, Line 14, Pos (9,5)
+#. ID 68, Page 3, Line 10, Pos (9,5)
+msgid "絵画のピースを　手に入れた。"
+msgstr "得到一片　繪畫的拼圖。"
+
+#. ID 27, Page 1, Line 19, Pos (17,10)
+#. ID 27, Page 2, Line 19, Pos (17,10)
+#. ID 27, Page 3, Line 15, Pos (17,10)
+#. ID 68, Page 1, Line 19, Pos (9,5)
+#. ID 68, Page 2, Line 19, Pos (9,5)
+#. ID 68, Page 3, Line 15, Pos (9,5)
+msgid "絵画のピースは　消えてしまった……"
+msgstr "繪畫的拼圖消失了……"
+
+#. ID 27, Page 1, Line 23, Pos (17,10)
+#. ID 27, Page 2, Line 23, Pos (17,10)
+#. ID 68, Page 1, Line 23, Pos (9,5)
+#. ID 68, Page 2, Line 23, Pos (9,5)
+msgid ""
+"\n"
+"「わっ　消えた……なんか\n"
+"　絵の具玉の時と　似てるわ」"
+msgstr ""
+"\n"
+"「哇！消失了……\n"
+"　跟蒐集顏料球的時候很像呢。」"
+
+#. ID 27, Page 1, Line 27, Pos (17,10)
+#. ID 68, Page 1, Line 27, Pos (9,5)
+msgid ""
+"\n"
+"「もしかすると　これ\n"
+"　集めると　良いのかも\n"
+"　もっと　探してみましょ　イヴ！」"
+msgstr ""
+"\n"
+"「說不定，\n"
+"　就是要蒐集這些拼圖呢。\n"
+"　去找出其他拼圖吧，Ib！」"
+
+#. ID 27, Page 2, Line 5, Pos (17,10)
+#. ID 68, Page 2, Line 5, Pos (9,5)
+msgid ""
+"\n"
+"「なにかしら　これ……絵？」"
+msgstr ""
+"\n"
+"「這是什麼東西啊……畫？」"
+
+#. ID 27, Page 2, Line 27, Pos (17,10)
+#. ID 68, Page 2, Line 27, Pos (9,5)
+msgid ""
+"\n"
+"「もしかすると　これ\n"
+"　集めると　良いのかも……」"
+msgstr ""
+"\n"
+"「說不定，\n"
+"　就是要蒐集這些拼圖呢……」"
+
+#. ID 64, Page 2, Line 1, Pos (5,4)
+msgid "イヴを置いては　いけない……"
+msgstr "不能丟下Ib……"
+
+#. ID 75, Page 1, Line 2, Pos (6,4)
+#. ID 75, Page 2, Line 2, Pos (6,4)
+#. ID 75, Page 3, Line 1, Pos (6,4)
+#. ID 75, Page 4, Line 1, Pos (6,4)
+#. ID 75, Page 5, Line 2, Pos (6,4)
+msgid ""
+"『サボテンの園』\n"
+"　小さく佇む　無数の植物\n"
+"　踏みつける者は　怒りを買うだろう"
+msgstr ""
+"『仙人掌之園』\n"
+"　佇立於此　無數的小型植物\n"
+"　踩過它們的人　將會承受其怒氣吧"
+
+#. ID 75, Page 1, Line 7, Pos (6,4)
+#. ID 75, Page 5, Line 7, Pos (6,4)
+msgid ""
+"『サボテンの？』\n"
+"　小さく？む　無数の植物\n"
+"　踏みつける者は　怒りを買うだろう"
+msgstr ""
+"『仙人掌之？』\n"
+"　？立於此　無數的小型植物\n"
+"　踩過它們的人　將會承受其怒氣吧"
+
+#. ID 75, Page 1, Line 10, Pos (6,4)
+#. ID 75, Page 5, Line 10, Pos (6,4)
+msgid "難しくて　読めない字がある……"
+msgstr "有些字太難了，看不懂……"
+
+#. ID 75, Page 2, Line 12, Pos (6,4)
+msgid ""
+"\n"
+"「なによ　このサボテン迷路……」"
+msgstr ""
+"\n"
+"「這仙人掌迷宮是什麼啊……」"
+
+#. ID 75, Page 2, Line 21, Pos (6,4)
+msgid ""
+"\n"
+"「向こうに物が　落ちてるけど……\n"
+"　なんだか　危なっかしいわね」"
+msgstr ""
+"\n"
+"「似乎有東西掉在那邊……\n"
+"　但好像很危險呢。」"
+
+#. ID 75, Page 2, Line 32, Pos (6,4)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"「イヴ　ここで待ってる？\n"
+"　アタシ１人で　とってこようか？」"
+msgstr ""
+"「Ib，妳要不要在這裡等，\n"
+"　讓人家一個人過去拿就好？」"
+
+#. ID 75, Page 2, Line 34, Pos (6,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"一緒に行く\n"
+"ギャリーにまかせる"
+msgstr ""
+"一起去\n"
+"交給Garry"
+
+#. ID 75, Page 2, Line 38, Pos (6,4)
+msgid ""
+"\n"
+"「わかったわ　じゃあ\n"
+"　一緒に　行きましょうか」"
+msgstr ""
+"\n"
+"「好吧，那麼，\n"
+"　我們就一起過去吧。」"
+
+#. ID 75, Page 2, Line 42, Pos (6,4)
+msgid ""
+"\n"
+"「くれぐれも　気を付けてね！」"
+msgstr ""
+"\n"
+"「一定要小心喔！」"
+
+#. ID 75, Page 2, Line 52, Pos (6,4)
+msgid ""
+"\n"
+"「やっぱり……\n"
+"　その方が　良いわよね」"
+msgstr ""
+"\n"
+"「果然還是……\n"
+"　這樣會比較好呢。」"
+
+#. ID 75, Page 2, Line 56, Pos (6,4)
+msgid ""
+"\n"
+"「オーケー　まかせて！\n"
+"　すぐ行って　すぐ戻るから！」"
+msgstr ""
+"\n"
+"「OK，交給人家吧！\n"
+"　我會快去快回的！」"
+
+#. ID 75, Page 2, Line 60, Pos (6,4)
+msgid ""
+"\n"
+"「イヴはここで　待っててね」"
+msgstr ""
+"\n"
+"「Ib就在這邊等一下喔。」"
+
+#. ID 77, Page 1, Line 3, Pos (6,5)
+msgid "イヴは　赤い瞳でじっと見つめてくる……"
+msgstr "Ib用她紅色的眼睛一直看著這邊……"
+
+#. ID 77, Page 1, Line 9, Pos (6,5)
+msgid ""
+"\n"
+"「もし　なにかあったら\n"
+"　すぐに　逃げなさいね？」"
+msgstr ""
+"\n"
+"「要是發生什麼事，\n"
+"　就要馬上逃走喔？」"
+
+#. ID 77, Page 1, Line 13, Pos (6,5)
+msgid "イヴは　頷いている……"
+msgstr "Ib點點頭……"
+
+#. ID 77, Page 1, Line 19, Pos (6,5)
+msgid ""
+"\n"
+"「え？　コートがトゲに\n"
+"　引っかからないかって？」"
+msgstr ""
+"\n"
+"「咦？妳說外套會不會被刺勾住？」"
+
+#. ID 77, Page 1, Line 23, Pos (6,5)
+#, fuzzy
+msgid ""
+"\n"
+"「あはは　大丈夫よ\n"
+"　ちゃんとその辺も　気を付けるわ」"
+msgstr ""
+"\n"
+"「啊哈哈，沒問題的啦，\n"
+"　人家會特別小心的。」"
+
+#. ID 77, Page 2, Line 4, Pos (6,5)
+msgid ""
+"\n"
+"「おまたせ　イヴ\n"
+"　落ちてる物は　全部拾ったわ」"
+msgstr ""
+"\n"
+"「久等了，Ib。\n"
+"　掉在那邊的東西都撿到囉。」"
+
+#. ID 77, Page 2, Line 8, Pos (6,5)
+msgid ""
+"\n"
+"「さ　次に行きましょ！」"
+msgstr ""
+"\n"
+"「那麼，到下個地方吧！」"
+
+#. ID 84, Page 2, Line 1, Pos (18,10)
+msgid "黒いバラが　散っている……"
+msgstr "散落的黑色玫瑰……"
+

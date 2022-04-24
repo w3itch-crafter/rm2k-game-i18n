@@ -1,0 +1,191 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 1, Line 1, Pos (13,24)
+msgid "「ぼく　アリ」"
+msgstr "\"i'm an ant.\""
+
+#. ID 6, Page 1, Line 2, Pos (13,24)
+msgid ""
+"「ぼく　絵　だいすき\n"
+"　ぼくの　絵　かっこいい」"
+msgstr ""
+"\"i love paintings.\n"
+"my painting is especially cool.\""
+
+#. ID 6, Page 1, Line 4, Pos (13,24)
+msgid ""
+"「ぼくの　絵　見たいけど\n"
+"　ちょっと　遠い　とこにある」"
+msgstr ""
+"\"i'd like to see it again,\n"
+"but it's kind of far away...\""
+
+#. ID 6, Page 2, Line 1, Pos (13,24)
+msgid "「あ　それ　ぼくの　絵」"
+msgstr "\"oh. that's my painting.\""
+
+#. ID 6, Page 2, Line 2, Pos (13,24)
+msgid "「やっぱり　かっこいい」"
+msgstr "\"it's just as cool as i remember it.\""
+
+#. ID 6, Page 2, Line 3, Pos (13,24)
+msgid "「うっとり」"
+msgstr "\"*stare*\""
+
+#. ID 6, Page 3, Line 1, Pos (13,24)
+msgid "「ぼくの　絵　どうなった」"
+msgstr "\"what happened to my painting?\""
+
+#. ID 6, Page 4, Line 3, Pos (13,24)
+msgid ""
+"\n"
+"「………なにかしら\n"
+"　この　黒いの……ゴミ？」"
+msgstr ""
+"\n"
+" ...What's this?\n"
+" Some little... scrap of trash?"
+
+#. ID 6, Page 4, Line 7, Pos (13,24)
+msgid "「なんだ　おまえ」"
+msgstr "\"hey, who are you calling trash?\""
+
+#. ID 6, Page 4, Line 8, Pos (13,24)
+msgid "「でかいくせに　なまいき」"
+msgstr ""
+"\"for being such a big guy,\n"
+"you sure are cheeky.\""
+
+#. ID 6, Page 4, Line 11, Pos (13,24)
+#, fuzzy
+msgid ""
+"\n"
+"「んな……！？」"
+msgstr ""
+"\n"
+" Hmm...?!"
+
+#. ID 6, Page 4, Line 14, Pos (13,24)
+#, fuzzy
+msgid ""
+"「ぼく　絵　さがしてる\n"
+"　いそがしいから　あっちいけ」"
+msgstr ""
+"\"i'm busy looking for my painting.\n"
+"so shoo, get outta here.\""
+
+#. ID 6, Page 4, Line 18, Pos (13,24)
+#, fuzzy
+msgid ""
+"\n"
+"「……………」"
+msgstr ""
+"\n"
+" .........."
+
+#. ID 6, Page 4, Line 20, Pos (13,24)
+#. Contains choice at line 3 (2 options)
+#, fuzzy
+msgid ""
+"\n"
+"「……イヴ　コイツ踏んでいい？」"
+msgstr ""
+"\n"
+" ...Ib, can I squish this thing?"
+
+#. ID 6, Page 4, Line 22, Pos (13,24)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"ダメ\n"
+"かわいそう"
+msgstr ""
+"No\n"
+"That's terrible"
+
+#. ID 6, Page 4, Line 25, Pos (13,24)
+#, fuzzy
+msgid ""
+"\n"
+"「………わかったわよ………」"
+msgstr ""
+"\n"
+" ...Oh, all right..."
+
+#. ID 6, Page 4, Line 30, Pos (13,24)
+#, fuzzy
+msgid ""
+"\n"
+"「仕方ないわね……許してあげましょ」"
+msgstr ""
+"\n"
+" Very well...\n"
+" I'll forgive you this time."
+
+#. ID 6, Page 5, Line 1, Pos (13,24)
+msgid "「ぼくの　絵　どこかな」"
+msgstr "\"where oh where is my painting at?\""
+
+#. ID 18, Page 1, Line 1, Pos (4,21)
+msgid "“はし　に　ちゅうい”"
+msgstr "\"Beware the edges\""
+
+#. ID 19, Page 1, Line 2, Pos (14,4)
+msgid "カギが　かかっている……"
+msgstr "It's locked..."
+
+#. ID 19, Page 2, Line 2, Pos (14,4)
+msgid "緑のカギを　使った。"
+msgstr "Used the Green Key."
+
+#. ID 25, Page 1, Line 1, Pos (8,21)
+msgid "テントウムシの絵が　飾ってある……"
+msgstr "A painting of a ladybug..."
+
+#. ID 33, Page 1, Line 1, Pos (9,4)
+#. ID 33, Page 2, Line 1, Pos (9,4)
+msgid "アリの絵が　飾ってある……"
+msgstr "A painting of an ant..."
+
+#. ID 33, Page 2, Line 2, Pos (9,4)
+msgid "………？"
+msgstr ".....?"
+
+#. ID 33, Page 2, Line 3, Pos (9,4)
+#. Contains choice at line 2 (2 options)
+msgid "この絵は　壁から外れそうだ……"
+msgstr "It looks like it can be taken off the wall..."
+
+#. ID 33, Page 2, Line 4, Pos (9,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"外す\n"
+"外さない"
+msgstr ""
+"Remove\n"
+"Leave it"
+
+#. ID 33, Page 2, Line 8, Pos (9,4)
+msgid "アリの絵を　手に入れた。"
+msgstr "Obtained the Ant Painting."
+
+#. ID 34, Page 1, Line 1, Pos (11,21)
+msgid "ハチの絵が　飾ってある……"
+msgstr "A painting of a bee..."
+
+#. ID 35, Page 1, Line 1, Pos (14,21)
+msgid "チョウチョの絵が　飾ってある……"
+msgstr "A painting of a butterfly..."
+
+#. ID 36, Page 1, Line 1, Pos (17,21)
+msgid "クモの絵が　飾ってある……"
+msgstr "A painting of a spider..."
+

@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (9,11)
+msgid "『コペルニクス的転回の展開』"
+msgstr "『哥白尼式轉變的展開』"
+
+#. ID 3, Page 1, Line 2, Pos (9,7)
+#. Contains choice at line 2 (2 options)
+#. ID 3, Page 2, Line 2, Pos (9,7)
+#. Contains choice at line 2 (2 options)
+msgid "真っ暗な穴が　空いている……"
+msgstr "大洞裡面一片漆黑……"
+
+#. ID 3, Page 1, Line 3, Pos (9,7)
+#. Choice (2 options, embedded in a message)
+#. ID 3, Page 2, Line 3, Pos (9,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"下をのぞいてみる\n"
+"飛び込んでみる"
+msgstr ""
+"探頭看看\n"
+"試著跳進去"
+
+#. ID 3, Page 1, Line 8, Pos (9,7)
+msgid ""
+"\n"
+"「うわぁ……なにこの穴……\n"
+"　これも　ゲルテナの作品なのかしら？」"
+msgstr ""
+"\n"
+"「哇啊……這個大洞是什麼……\n"
+"　這也是Guertena的作品嗎？」"
+
+#. ID 3, Page 1, Line 12, Pos (9,7)
+msgid ""
+"\n"
+"「もう　なんか\n"
+"　感性の次元が　違いすぎて……ね」"
+msgstr ""
+"\n"
+"「真的是，該怎麼說呢，\n"
+"　他的感覺和我們相差太多，\n"
+"　像是別次元的東西……呢。」"
+
+#. ID 3, Page 1, Line 19, Pos (9,7)
+#. ID 3, Page 2, Line 19, Pos (9,7)
+#, fuzzy
+msgid "………暗くて　底が見えない……"
+msgstr "………太暗了，看不見底部……"
+
+#. ID 3, Page 1, Line 27, Pos (9,7)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴ　いくらなんでも危険すぎるわ\n"
+"　他の場所を　まわりましょ」"
+msgstr ""
+"\n"
+"「Ib，不管怎麼說這樣都太危險了啦，\n"
+"　我們繞到別的地方看看吧。」"
+
+#. ID 3, Page 2, Line 8, Pos (9,7)
+msgid ""
+"\n"
+"「この穴の中　落ちてるときにさ……\n"
+"　まわりになにか　浮いてなかった？」"
+msgstr ""
+"\n"
+"「剛才掉進這個洞裡的時候啊……\n"
+"　周圍是不是飄著一些東西啊？」"
+
+#. ID 3, Page 2, Line 12, Pos (9,7)
+msgid ""
+"\n"
+"「アタシも　ちゃんと見てなかったけど\n"
+"　あれって　ただの飾りかしら……」"
+msgstr ""
+"\n"
+"「人家也沒有看得很清楚，\n"
+"　那些只是單純的裝飾而已嗎……」"
+
+#. ID 6, Page 1, Line 21, Pos (3,9)
+msgid ""
+"\n"
+"「……………っ！？」"
+msgstr ""
+"\n"
+"「……………！？」"
+
+#. ID 6, Page 1, Line 26, Pos (3,9)
+msgid "………………！"
+msgstr "………………！"
+
+#. ID 8, Page 1, Line 2, Pos (9,5)
+msgid "顔が塗りつぶされた　絵がある……"
+msgstr "臉被塗掉的畫……"
+
+#. ID 8, Page 1, Line 6, Pos (9,5)
+msgid ""
+"\n"
+"「なんか　嫌な場所に　あるわね……」"
+msgstr ""
+"\n"
+"「真是個感覺很差的地方呢……」"
+
+#. ID 9, Page 1, Line 5, Pos (9,6)
+msgid ""
+"\n"
+"「なにかしらね　これ……絵？」"
+msgstr ""
+"\n"
+"「是什麼東西呢，這是……畫？」"
+
+#. ID 9, Page 1, Line 10, Pos (9,6)
+#. ID 9, Page 2, Line 2, Pos (9,6)
+msgid "何かが　落ちている……"
+msgstr "有東西掉在地上……"
+
+#. ID 9, Page 1, Line 14, Pos (9,6)
+#. ID 9, Page 2, Line 4, Pos (9,6)
+msgid "絵画のピースを　手に入れた。"
+msgstr "得到一片　繪畫的拼圖。"
+
+#. ID 9, Page 1, Line 19, Pos (9,6)
+#. ID 9, Page 2, Line 7, Pos (9,6)
+msgid "絵画のピースは　消えてしまった……"
+msgstr "繪畫的拼圖消失了……"
+
+#. ID 9, Page 1, Line 23, Pos (9,6)
+msgid ""
+"\n"
+"「わっ　消えた……なんか\n"
+"　絵の具玉の時と　似てるわ」"
+msgstr ""
+"\n"
+"「哇！消失了……\n"
+"　跟蒐集顏料球的時候很像呢。」"
+
+#. ID 9, Page 1, Line 27, Pos (9,6)
+msgid ""
+"\n"
+"「もしかすると　これ\n"
+"　集めると　良いのかも\n"
+"　もっと　探してみましょ　イヴ！」"
+msgstr ""
+"\n"
+"「說不定，\n"
+"　就是要蒐集這些拼圖呢。\n"
+"　去找出其他拼圖吧，Ib！」"
+

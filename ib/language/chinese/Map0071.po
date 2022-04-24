@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 1, Pos (18,6)
+msgid "マネキンの　首がある……"
+msgstr "人體模型的頭……"
+
+#. ID 3, Page 2, Line 1, Pos (18,6)
+msgid "傷だらけの　マネキンがある……"
+msgstr "傷痕累累的人體模型……"
+
+#. ID 4, Page 1, Line 3, Pos (17,6)
+msgid ""
+"\n"
+"「邪魔だなぁ　邪魔だなぁ\n"
+"　邪魔だなぁ　邪魔だなぁ……」"
+msgstr ""
+"\n"
+"「真礙事啊　真礙事啊\n"
+"　真礙事啊　真礙事啊……」"
+
+#. ID 4, Page 2, Line 1, Pos (17,6)
+msgid "パレットナイフを　振り下ろしている……"
+msgstr "不斷地揮舞調色刀……"
+
+#. ID 7, Page 1, Line 4, Pos (22,14)
+msgid ""
+"\n"
+"「ねぇ　イヴ………\n"
+"　ちょっと　聞いていい？」"
+msgstr ""
+"\n"
+"「欸，Ib………\n"
+"　我問妳喔，」"
+
+#. ID 7, Page 1, Line 7, Pos (22,14)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「ギャリーって……イヴの　お父さん？」"
+msgstr ""
+"\n"
+"「Garry……是Ib的爸爸嗎？」"
+
+#. ID 7, Page 1, Line 9, Pos (22,14)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ちがうよ\n"
+"知らない人"
+msgstr ""
+"不是喔\n"
+"不認識的人"
+
+#. ID 7, Page 1, Line 11, Pos (22,14)
+msgid ""
+"\n"
+"「ふーん……じゃあ\n"
+"　お父さんは　別にいるのね」"
+msgstr ""
+"\n"
+"「喔──……\n"
+"　那妳的爸爸是別的人囉？」"
+
+#. ID 7, Page 1, Line 17, Pos (22,14)
+msgid ""
+"\n"
+"「あ　そうなの\n"
+"　ふーん……ここで　知り合ったの？」"
+msgstr ""
+"\n"
+"「啊，是嗎？\n"
+"　喔──……是在這裡認識的啊？」"
+
+#. ID 7, Page 1, Line 23, Pos (22,14)
+msgid ""
+"\n"
+"「そっかぁ………」"
+msgstr ""
+"\n"
+"「這樣啊………」"
+
+#. ID 7, Page 1, Line 25, Pos (22,14)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「イヴのお母さん　やさしい？」"
+msgstr ""
+"\n"
+"「Ib的媽媽很溫柔嗎？」"
+
+#. ID 7, Page 1, Line 27, Pos (22,14)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"うん\n"
+"怒ったらこわい"
+msgstr ""
+"嗯\n"
+"生氣起來很可怕"
+
+#. ID 7, Page 1, Line 30, Pos (22,14)
+msgid ""
+"\n"
+"「へぇ……いいなぁ」"
+msgstr ""
+"\n"
+"「嘿……真好！」"
+
+#. ID 7, Page 1, Line 35, Pos (22,14)
+msgid ""
+"\n"
+"「あははは　イヴでも\n"
+"　怒られるんだ！」"
+msgstr ""
+"\n"
+"「啊哈哈哈，\n"
+"　Ib也會惹媽媽生氣呀！」"
+
+#. ID 7, Page 1, Line 41, Pos (22,14)
+msgid ""
+"\n"
+"「早く両親に　会いたいよね？\n"
+"　わたしも　早く\n"
+"　ここから　出たいよ……」"
+msgstr ""
+"\n"
+"「妳想要趕快見到爸爸媽媽對吧？\n"
+"　我也是，好想要快點\n"
+"　從這裡出去喔……」"
+
+#. ID 7, Page 1, Line 50, Pos (22,14)
+msgid ""
+"\n"
+"「ね………イヴ　あのさ………」"
+msgstr ""
+"\n"
+"「欸………Ib，那個啊………」"
+
+#. ID 7, Page 1, Line 53, Pos (22,14)
+msgid ""
+"\n"
+"「もし　ここから出られるのが\n"
+"　２人だけだったら……どうする？」"
+msgstr ""
+"\n"
+"「如果能從這裡離開的，\n"
+"　只有兩個人的話……妳要怎麼辦？」"
+
+#. ID 7, Page 1, Line 57, Pos (22,14)
+#. Contains choice at line 2 (3 options)
+msgid "出られるのが　２人だけだったら……"
+msgstr "如果只有兩個人能夠離開的話……"
+
+#. ID 7, Page 1, Line 58, Pos (22,14)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"ギャリーと出る\n"
+"メアリーと出る\n"
+"自分以外にゆずる"
+msgstr ""
+"和Garry一起離開\n"
+"和M ary一起離開\n"
+"讓給自己以外的兩人"
+
+#. ID 7, Page 1, Line 63, Pos (22,14)
+msgid ""
+"\n"
+"「…………………」"
+msgstr ""
+"\n"
+"「…………………」"
+
+#. ID 7, Page 1, Line 66, Pos (22,14)
+msgid ""
+"\n"
+"「……そう……ギャリーと\n"
+"　一緒の方が　いいんだ………」"
+msgstr ""
+"\n"
+"「……是嗎……妳覺得\n"
+"　和Garry在一起比較好啊………」"
+
+#. ID 7, Page 1, Line 70, Pos (22,14)
+msgid ""
+"\n"
+"「ま　今のは　たとえ話だから\n"
+"　いいけど………」"
+msgstr ""
+"\n"
+"「算了，剛才說的只是如果而已………」"
+
+#. ID 7, Page 1, Line 73, Pos (22,14)
+#, fuzzy
+msgid ""
+"\n"
+"「出るときは　一緒に出ようね？\n"
+"　約束だよ！」"
+msgstr ""
+"\n"
+"「我們要一起從這裡出去喔？\n"
+"　約好了喔！」"
+
+#. ID 7, Page 1, Line 82, Pos (22,14)
+#, fuzzy
+msgid ""
+"\n"
+"「ほんとっ？　うれしい！」"
+msgstr ""
+"\n"
+"「真的嗎？我好高興！」"
+
+#. ID 7, Page 1, Line 85, Pos (22,14)
+#, fuzzy
+msgid ""
+"\n"
+"「わたしも　イヴと一緒に出たいよ！\n"
+"　……それで　ここ出てからー」"
+msgstr ""
+"\n"
+"「我也想要跟Ib一起出去喔！\n"
+"　……然後從這裡出去之後啊──」"
+
+#. ID 7, Page 1, Line 88, Pos (22,14)
+#, fuzzy
+msgid ""
+"\n"
+"「色んな事して　遊ぼ！\n"
+"　あと　色んなお菓子食べたり\n"
+"　あちこち　出かけたり……」"
+msgstr ""
+"\n"
+"「要玩很多遊戲！\n"
+"　還有，要吃很多點心，\n"
+"　到各式各樣的地方玩……」"
+
+#. ID 7, Page 1, Line 93, Pos (22,14)
+#, fuzzy
+msgid ""
+"\n"
+"「うふふふ　楽しみー！」"
+msgstr ""
+"\n"
+"「呵呵呵呵，好期待喔──！」"
+
+#. ID 7, Page 1, Line 96, Pos (22,14)
+#. ID 7, Page 1, Line 119, Pos (22,14)
+#, fuzzy
+msgid ""
+"\n"
+"「………がんばって　絶対\n"
+"　一緒に出ようね？　約束だよ！」"
+msgstr ""
+"\n"
+"「………加油，\n"
+"　我們絕對要一起出去喔？約好囉！」"
+
+#. ID 7, Page 1, Line 103, Pos (22,14)
+#, fuzzy
+msgid ""
+"\n"
+"「え！　いいのイヴ？\n"
+"　そしたら　お母さんに\n"
+"　会えなくなっちゃうんだよ？」"
+msgstr ""
+"\n"
+"「咦！這樣好嗎Ib？\n"
+"　如果這麼做的話，\n"
+"　妳就再也沒辦法見到媽媽了喔？」"
+
+#. ID 7, Page 1, Line 108, Pos (22,14)
+#, fuzzy
+msgid ""
+"\n"
+"「……きっと　すごくさみしいよ？」"
+msgstr ""
+"\n"
+"「……妳一定會很寂寞的喔？」"
+
+#. ID 7, Page 1, Line 111, Pos (22,14)
+#, fuzzy
+msgid ""
+"\n"
+"「そんなこと　言わないで\n"
+"　一緒に　出よ？　約束だよ！」"
+msgstr ""
+"\n"
+"「不要說這種話，\n"
+"　我們一起出去嘛？約好囉！」"
+

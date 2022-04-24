@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 40, Page 1, Line 92, Pos (6,9)
+msgid ""
+"\n"
+"「很了不起吧──\n"
+"　說是用這個來表示人的心呢。」"
+msgstr ""
+
+#. ID 40, Page 1, Line 98, Pos (6,9)
+msgid ""
+"\n"
+"「Ib的心裡，\n"
+"　是不是也綻放著美麗的玫瑰呢？」"
+msgstr ""
+
+#. ID 40, Page 1, Line 104, Pos (6,9)
+msgid ""
+"\n"
+"「對了，Ib，我們一起逛吧。\n"
+"　另外那邊妳還沒去看過吧？」"
+msgstr ""
+
+#. ID 40, Page 1, Line 107, Pos (6,9)
+msgid ""
+"\n"
+"「如果有Ib喜歡的畫就好了呢！」"
+msgstr ""
+
+#. ID 40, Page 2, Line 279, Pos (6,9)
+msgid ""
+"\n"
+"「這條手帕，可以再借人家一陣子嗎？」"
+msgstr ""
+
+#. ID 40, Page 2, Line 282, Pos (6,9)
+msgid ""
+"\n"
+"「就這樣還妳，\n"
+"　實在是不太好呢……」"
+msgstr ""
+
+#. ID 40, Page 2, Line 286, Pos (6,9)
+msgid ""
+"\n"
+"「人家把它洗乾淨之後……\n"
+"　再還給妳喔。」"
+msgstr ""
+
+#. ID 40, Page 2, Line 293, Pos (6,9)
+msgid ""
+"　　\n"
+"　　　　　　「所以，我們下次再見吧！」"
+msgstr ""
+

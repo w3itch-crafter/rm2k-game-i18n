@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (8,10)
+#. ID 1, Page 4, Line 2, Pos (8,10)
+#. ID 5, Page 1, Line 1, Pos (7,10)
+#. ID 5, Page 2, Line 1, Pos (7,10)
+msgid "頭がない　像がある……"
+msgstr "沒有頭的雕像……"
+
+#. ID 1, Page 1, Line 5, Pos (8,10)
+msgid ""
+"\n"
+"「………これ　邪魔………」"
+msgstr ""
+"\n"
+"「………這個，擋路………」"
+
+#. ID 1, Page 2, Line 12, Pos (8,10)
+msgid ""
+"\n"
+"「この階段で　下に行けそうね\n"
+"　よしちょっと　イヴ離れてて」"
+msgstr ""
+"\n"
+"「好像可以由這個樓梯繼續往下走呢。\n"
+"　好，Ib，妳先稍微離遠點。」"
+
+#. ID 1, Page 2, Line 21, Pos (8,10)
+msgid ""
+"\n"
+"「くぅ………！」"
+msgstr ""
+"\n"
+"「咕唔………！」"
+
+#. ID 1, Page 2, Line 30, Pos (8,10)
+msgid ""
+"\n"
+"「はぁ………\n"
+"　ここにきて　どれだけ\n"
+"　石像を　ずらしたのかしら……」"
+msgstr ""
+"\n"
+"「唉………\n"
+"　人家到現在，\n"
+"　到底移動了多少個石像啊……」"
+
+#. ID 1, Page 2, Line 37, Pos (8,10)
+msgid ""
+"\n"
+"「ま　いいわ\n"
+"　それじゃ　行きましょ！」"
+msgstr ""
+"\n"
+"「不過算啦，\n"
+"　我們繼續走吧！」"
+
+#. ID 1, Page 4, Line 11, Pos (8,10)
+msgid ""
+"\n"
+"「……ちょっと　どいてよ\n"
+"　下に　行くんだから」"
+msgstr ""
+"\n"
+"「……走開啦，\n"
+"　我要下去。」"
+
+#. ID 1, Page 4, Line 21, Pos (8,10)
+msgid ""
+"\n"
+"「わーい」"
+msgstr ""
+"\n"
+"「耶──咿」"
+
+#. ID 5, Page 2, Line 4, Pos (7,10)
+msgid ""
+"\n"
+"「バイバイ！」"
+msgstr ""
+"\n"
+"「掰掰！」"
+
+#. ID 7, Page 1, Line 1, Pos (9,5)
+#. ID 7, Page 2, Line 1, Pos (9,5)
+msgid "『憧れ』"
+msgstr "『憧憬』"
+
+#. ID 7, Page 2, Line 4, Pos (9,5)
+msgid ""
+"\n"
+"「月のベッド　欲しいなぁ……」"
+msgstr ""
+"\n"
+"「好想要月亮的床喔……」"
+
+#. ID 8, Page 1, Line 3, Pos (9,10)
+msgid ""
+"\n"
+"「これ邪魔だわ……\n"
+"　これさえ　なければ\n"
+"　今すぐに下に　行けるのに！」"
+msgstr ""
+"\n"
+"「這個真礙事……\n"
+"　要是沒有這個的話，\n"
+"　現在馬上就可以到下面去了！」"
+
+#. ID 8, Page 1, Line 7, Pos (9,10)
+msgid ""
+"\n"
+"「早くどかさないと……\n"
+"　早くどかさないと……！」"
+msgstr ""
+"\n"
+"「不趕快把它移開的話……\n"
+"　不趕快把它移開的話……！」"
+
+#. ID 9, Page 1, Line 3, Pos (9,6)
+msgid ""
+"\n"
+"「うふふふ……\n"
+"　いいなー　月のベッド！」"
+msgstr ""
+"\n"
+"「唔呵呵呵……\n"
+"　真好──，月亮的床！」"
+
+#. ID 9, Page 1, Line 7, Pos (9,6)
+msgid ""
+"\n"
+"「ゆらゆら　揺れて\n"
+"　きっと　ゆりかごみたいだよ！」"
+msgstr ""
+"\n"
+"「搖啊搖的，\n"
+"　一定像搖籃一樣！」"
+
+#. ID 13, Page 1, Line 3, Pos (14,12)
+msgid ""
+"\n"
+"「あ！　イヴ見て\n"
+"　階段があるよ！」"
+msgstr ""
+"\n"
+"「啊！Ib妳看，\n"
+"　有樓梯耶！」"
+
+#. ID 13, Page 1, Line 7, Pos (14,12)
+msgid ""
+"\n"
+"「あそこから\n"
+"　下の階に　行けるかも！」"
+msgstr ""
+"\n"
+"「從那邊說不定可以到下面去！」"
+

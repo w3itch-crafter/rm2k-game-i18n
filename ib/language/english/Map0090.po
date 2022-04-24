@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 2, Pos (20,7)
+msgid "箱がある……"
+msgstr "A box..."
+
+#. ID 3, Page 1, Line 5, Pos (20,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「パンドラの箱ねぇ………」"
+msgstr ""
+"\n"
+" \"Pandora's Box,\" huh..."
+
+#. ID 3, Page 1, Line 7, Pos (20,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"開けてみる\n"
+"開けないでおく"
+msgstr ""
+"Open it\n"
+"Leave it"
+
+#. ID 3, Page 1, Line 23, Pos (20,7)
+msgid ""
+"\n"
+"「何だったのかしら　今の……」"
+msgstr ""
+"\n"
+" I wonder what all that was..."
+
+#. ID 3, Page 1, Line 26, Pos (20,7)
+msgid ""
+"\n"
+"「って……あら？\n"
+"　箱に何か　残ってるみたいよ」"
+msgstr ""
+"\n"
+" ...Ah?\n"
+" There's something left in the box."
+
+#. ID 3, Page 1, Line 32, Pos (20,7)
+msgid "小さな鏡を　手に入れた。"
+msgstr "Obtained the Little Mirror."
+
+#. ID 3, Page 1, Line 35, Pos (20,7)
+msgid ""
+"\n"
+"「鏡か……この鏡が\n"
+"　希望になれば　いいけどね」"
+msgstr ""
+"\n"
+" A mirror...\n"
+" Well, let's just hope it's hope."
+
+#. ID 3, Page 1, Line 44, Pos (20,7)
+msgid ""
+"\n"
+"「あら　開けなくていいの？」"
+msgstr ""
+"\n"
+" Yes, maybe we shouldn't open it?"
+
+#. ID 3, Page 2, Line 1, Pos (20,7)
+msgid "中身は　カラッポだ……"
+msgstr "The box is empty..."
+

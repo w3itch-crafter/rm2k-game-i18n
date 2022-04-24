@@ -1,0 +1,492 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 2, Pos (15,5)
+msgid "カギが　かかっている……"
+msgstr "It's locked..."
+
+#. ID 2, Page 2, Line 2, Pos (15,5)
+msgid "紫のカギを　使った。"
+msgstr "Used the Violet Key."
+
+#. ID 5, Page 1, Line 3, Pos (15,14)
+#. ID 14, Page 1, Line 3, Pos (16,14)
+#. ID 15, Page 1, Line 3, Pos (17,14)
+msgid ""
+"\n"
+"「イヴ　そっちじゃないよ」"
+msgstr ""
+"\n"
+" That's not the right way, Ib!"
+
+#. ID 8, Page 1, Line 24, Pos (9,11)
+#. ID 12, Page 1, Line 22, Pos (9,10)
+msgid "絵の中から　物音がする……"
+msgstr "A sound comes from the painting..."
+
+#. ID 8, Page 1, Line 34, Pos (9,11)
+#. ID 12, Page 1, Line 32, Pos (9,10)
+msgid ""
+"\n"
+"「なに……？　この音……\n"
+"　近づいてくる……」"
+msgstr ""
+"\n"
+" Huh...? That sound's...\n"
+" getting closer..."
+
+#. ID 8, Page 1, Line 66, Pos (9,11)
+#. ID 12, Page 1, Line 64, Pos (9,10)
+msgid ""
+"\n"
+"「！？」"
+msgstr ""
+"\n"
+" ?!"
+
+#. ID 8, Page 1, Line 69, Pos (9,11)
+#. ID 12, Page 1, Line 67, Pos (9,10)
+msgid ""
+"\n"
+"「地面から　なにか出てきた！」"
+msgstr ""
+"\n"
+" Something came up from the ground!"
+
+#. ID 8, Page 1, Line 75, Pos (9,11)
+#. ID 12, Page 1, Line 73, Pos (9,10)
+msgid ""
+"\n"
+"「な　なんか　マズイわ！\n"
+"　みんな絵から　離れて！」"
+msgstr ""
+"\n"
+" T-This is bad!\n"
+" Get away from the painting!"
+
+#. ID 8, Page 1, Line 79, Pos (9,11)
+#. ID 12, Page 1, Line 77, Pos (9,10)
+msgid ""
+"\n"
+"「イヴ！　あぶない！！」"
+msgstr ""
+"\n"
+" Ib! Watch out!!"
+
+#. ID 8, Page 1, Line 92, Pos (9,11)
+#. ID 12, Page 1, Line 90, Pos (9,10)
+msgid ""
+"\n"
+"「……………！」"
+msgstr ""
+"\n"
+" ..........!"
+
+#. ID 8, Page 1, Line 101, Pos (9,11)
+#. ID 12, Page 1, Line 99, Pos (9,10)
+msgid ""
+"\n"
+"「ふたりとも　大丈夫！？」"
+msgstr ""
+"\n"
+" Are you two all right?!"
+
+#. ID 8, Page 1, Line 104, Pos (9,11)
+#. ID 12, Page 1, Line 102, Pos (9,10)
+msgid ""
+"\n"
+"「あー　びっくりした！」"
+msgstr ""
+"\n"
+" Ahhh... That scared me!"
+
+#. ID 8, Page 1, Line 107, Pos (9,11)
+#. Contains choice at line 3 (2 options)
+#. ID 12, Page 1, Line 105, Pos (9,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「イヴは？　ケガとかしてない？」"
+msgstr ""
+"\n"
+" Ib? Are you hurt?"
+
+#. ID 8, Page 1, Line 109, Pos (9,11)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 1, Line 107, Pos (9,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"大丈夫\n"
+"怖かった"
+msgstr ""
+"No\n"
+"That was scary"
+
+#. ID 8, Page 1, Line 112, Pos (9,11)
+#. ID 12, Page 1, Line 110, Pos (9,10)
+msgid ""
+"\n"
+"「よ……良かった……」"
+msgstr ""
+"\n"
+" G... Good..."
+
+#. ID 8, Page 1, Line 117, Pos (9,11)
+#. ID 12, Page 1, Line 115, Pos (9,10)
+msgid ""
+"\n"
+"「たしかに　びっくりしたわね……\n"
+"　でも　ケガがないなら　良かった」"
+msgstr ""
+"\n"
+" It was certainly startling...\n"
+" But as long as you're not hurt."
+
+#. ID 8, Page 1, Line 123, Pos (9,11)
+#. ID 12, Page 1, Line 121, Pos (9,10)
+msgid ""
+"\n"
+"「それにしても\n"
+"　これ……邪魔でそっちに\n"
+"　行けないんだけど」"
+msgstr ""
+"\n"
+" But with these...\n"
+" things in the way,\n"
+" I can't get over there..."
+
+#. ID 8, Page 1, Line 128, Pos (9,11)
+#. ID 12, Page 1, Line 126, Pos (9,10)
+msgid ""
+"\n"
+"「折ったり　できないかしら？\n"
+"　………って　なにこれ」"
+msgstr ""
+"\n"
+" Maybe I can cut it down?\n"
+" .....Wait, what's this?"
+
+#. ID 8, Page 1, Line 132, Pos (9,11)
+#. ID 12, Page 1, Line 130, Pos (9,10)
+msgid ""
+"\n"
+"「石でできてるわ　この植物」"
+msgstr ""
+"\n"
+" These vines are made of stone..."
+
+#. ID 8, Page 1, Line 135, Pos (9,11)
+#. ID 12, Page 1, Line 133, Pos (9,10)
+#. ID 13, Page 1, Line 26, Pos (7,3)
+msgid ""
+"\n"
+"「どうしましょ……」"
+msgstr ""
+"\n"
+" What to do..."
+
+#. ID 8, Page 1, Line 143, Pos (9,11)
+#. ID 12, Page 1, Line 141, Pos (9,10)
+msgid ""
+"\n"
+"「………ねぇ　イヴ\n"
+"　さっきの部屋で　カギ拾ったよね？」"
+msgstr ""
+"\n"
+" .....Hey, Ib.\n"
+" You got a key in that room, right?"
+
+#. ID 8, Page 1, Line 148, Pos (9,11)
+#. ID 12, Page 1, Line 146, Pos (9,10)
+msgid ""
+"\n"
+"「その　カギで………」"
+msgstr ""
+"\n"
+" Maybe that key..."
+
+#. ID 8, Page 1, Line 153, Pos (9,11)
+#. ID 12, Page 1, Line 151, Pos (9,10)
+msgid ""
+"\n"
+"「そこのドア　開けられるんじゃない？」"
+msgstr ""
+"\n"
+" Opens that door there?"
+
+#. ID 8, Page 1, Line 157, Pos (9,11)
+#. ID 12, Page 1, Line 155, Pos (9,10)
+msgid ""
+"\n"
+"「もしかしたら　違う部屋に\n"
+"　これを　壊せる道具が\n"
+"　あるかも　しれないよ」"
+msgstr ""
+"\n"
+" We might find something to get\n"
+" rid of these in another room."
+
+#. ID 8, Page 1, Line 164, Pos (9,11)
+#. ID 12, Page 1, Line 162, Pos (9,10)
+#, fuzzy
+msgid ""
+"\n"
+"「ねぇ　見てきていいよね？」"
+msgstr ""
+"\n"
+" So, hey, can we go look?"
+
+#. ID 8, Page 1, Line 170, Pos (9,11)
+#. ID 12, Page 1, Line 168, Pos (9,10)
+#, fuzzy
+msgid ""
+"\n"
+"「うーん……でも………\n"
+"　２人だけで　大丈夫かしら……」"
+msgstr ""
+"\n"
+" Hmm... well...\n"
+" I wonder if you'll be okay..."
+
+#. ID 8, Page 1, Line 176, Pos (9,11)
+#. Contains choice at line 3 (2 options)
+#. ID 12, Page 1, Line 174, Pos (9,10)
+#. Contains choice at line 3 (2 options)
+#, fuzzy
+msgid ""
+"\n"
+"「大丈夫よ！　ね　イヴ？」"
+msgstr ""
+"\n"
+" We'll be fine! Right, Ib?"
+
+#. ID 8, Page 1, Line 178, Pos (9,11)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 1, Line 176, Pos (9,10)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"大丈夫だと思う\n"
+"分かれない方が良い"
+msgstr ""
+"I think so\n"
+"I'd rather not split up"
+
+#. ID 8, Page 1, Line 184, Pos (9,11)
+#. ID 12, Page 1, Line 182, Pos (9,10)
+#, fuzzy
+msgid ""
+"\n"
+"「ほら　イヴだって\n"
+"　大丈夫って　言ってる！」"
+msgstr ""
+"\n"
+" See, Ib thinks we'll be fine!"
+
+#. ID 8, Page 1, Line 190, Pos (9,11)
+#. ID 12, Page 1, Line 188, Pos (9,10)
+#, fuzzy
+msgid ""
+"\n"
+"「うーん……そ　そう………？」"
+msgstr ""
+"\n"
+" M-My... is that so..."
+
+#. ID 8, Page 1, Line 193, Pos (9,11)
+#. ID 12, Page 1, Line 191, Pos (9,10)
+#, fuzzy
+msgid ""
+"\n"
+"「じゃあ　ちょっと\n"
+"　見てきて　もらおうかしら」"
+msgstr ""
+"\n"
+" Well, I guess it's worth a try..."
+
+#. ID 8, Page 1, Line 199, Pos (9,11)
+#. ID 12, Page 1, Line 197, Pos (9,10)
+#, fuzzy
+msgid ""
+"\n"
+"「えーっ　なんでよ？\n"
+"　すぐ戻ってくれば　大丈夫だよ！」"
+msgstr ""
+"\n"
+" Huhhh? Why not?\n"
+" We'll be back really quick!"
+
+#. ID 8, Page 1, Line 203, Pos (9,11)
+#. ID 12, Page 1, Line 201, Pos (9,10)
+#, fuzzy
+msgid ""
+"\n"
+"「他に　良い方法思いつかないし……」"
+msgstr ""
+"\n"
+" I can't think of anything else..."
+
+#. ID 8, Page 1, Line 206, Pos (9,11)
+#. ID 12, Page 1, Line 204, Pos (9,10)
+#, fuzzy
+msgid ""
+"\n"
+"「……………」"
+msgstr ""
+"\n"
+" I suppose you're right.\n"
+" ...As much as I hate\n"
+" to have to split up..."
+
+#. ID 8, Page 1, Line 212, Pos (9,11)
+#. ID 12, Page 1, Line 210, Pos (9,10)
+#, fuzzy
+msgid ""
+"\n"
+"「たしかに　その通りだわ\n"
+"　……別行動は　あんまり\n"
+"　気乗り　しないけど……」"
+msgstr ""
+"\n"
+" But if you don't find anything,\n"
+" make sure you come\n"
+" straight back, okay?"
+
+#. ID 8, Page 1, Line 219, Pos (9,11)
+#. ID 12, Page 1, Line 217, Pos (9,10)
+#, fuzzy
+msgid ""
+"\n"
+"「でも　いい？\n"
+"　何もなかったら　すぐに\n"
+"　ここに　戻ってくるのよ？」"
+msgstr ""
+"\n"
+" Then we'll rethink about\n"
+" what we can do."
+
+#. ID 8, Page 1, Line 224, Pos (9,11)
+#. ID 12, Page 1, Line 222, Pos (9,10)
+#, fuzzy
+msgid ""
+"\n"
+"「どうするのかは　その後\n"
+"　改めて　考えましょ」"
+msgstr ""
+"\n"
+" Yeah! Got it!"
+
+#. ID 8, Page 1, Line 228, Pos (9,11)
+#. ID 12, Page 1, Line 226, Pos (9,10)
+#, fuzzy
+msgid ""
+"\n"
+"「うん！　わかった！」"
+msgstr ""
+"\n"
+" Okay, let's go!"
+
+#. ID 8, Page 1, Line 233, Pos (9,11)
+#. ID 12, Page 1, Line 231, Pos (9,10)
+msgid ""
+"\n"
+"「それじゃ　行こう！」"
+msgstr ""
+
+#. ID 8, Page 2, Line 1, Pos (9,11)
+msgid "石でできた植物が　道を塞いでいる……"
+msgstr "Vines made of stone block the way..."
+
+#. ID 8, Page 3, Line 3, Pos (9,11)
+#. ID 12, Page 3, Line 3, Pos (9,10)
+msgid ""
+"\n"
+"「本物の　植物だったら\n"
+"　燃やすって手も　あったけど……\n"
+"　これはさすがに　無理だわ」"
+msgstr ""
+"\n"
+" If these were real vines,\n"
+" I could just burn them away...\n"
+" But it won't work on these."
+
+#. ID 10, Page 1, Line 1, Pos (8,20)
+msgid "『一体　どちらが　正しいのか』"
+msgstr "\"Which one is it really?\""
+
+#. ID 12, Page 2, Line 3, Pos (9,10)
+msgid ""
+"\n"
+"「気をつけるのよ！」"
+msgstr ""
+"\n"
+" Be careful, you two!"
+
+#. ID 13, Page 1, Line 5, Pos (7,3)
+msgid ""
+"\n"
+"「………………………」"
+msgstr ""
+
+#. ID 13, Page 1, Line 8, Pos (7,3)
+msgid ""
+"\n"
+"「……遅いわね………\n"
+"　何か　あったのかしら」"
+msgstr ""
+"\n"
+" ...They're taking their time...\n"
+" I wonder if something happened?"
+
+#. ID 13, Page 1, Line 14, Pos (7,3)
+msgid ""
+"\n"
+"「イヴ！　メアリー！\n"
+"　聞こえたら　返事して！」"
+msgstr ""
+"\n"
+" Ib! Mary!\n"
+" Can you hear me?!"
+
+#. ID 13, Page 1, Line 21, Pos (7,3)
+msgid ""
+"\n"
+"「駄目ね………\n"
+"　あぁ　やっぱり　２人だけで\n"
+"　行かせるんじゃ　なかった……！」"
+msgstr ""
+"\n"
+" No good.....\n"
+" Argh, I knew I shouldn't\n"
+" have let them go alone...!"
+
+#. ID 13, Page 1, Line 35, Pos (7,3)
+msgid ""
+"\n"
+"「……もう一度　あの部屋\n"
+"　調べて　みようかしら」"
+msgstr ""
+"\n"
+" ...I suppose I'll investigate\n"
+" that room again."
+
+#. ID 13, Page 1, Line 39, Pos (7,3)
+msgid ""
+"\n"
+"「……あんまり　入りたくないけど」"
+msgstr ""
+"\n"
+" ...As much as I hate to\n"
+" go back in there..."
+
+#. ID 17, Page 1, Line 1, Pos (9,9)
+msgid "『嫉妬深き花』"
+msgstr "\"Flowers of Jealousy\""
+

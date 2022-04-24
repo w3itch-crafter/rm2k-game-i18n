@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 1, Line 1, Pos (7,5)
+#. ID 6, Page 2, Line 1, Pos (7,5)
+msgid "『月夜に散る儚き想い』"
+msgstr "『月夜下飄散的思念』"
+
+#. ID 6, Page 1, Line 5, Pos (7,5)
+msgid ""
+"\n"
+"「わぁー　きれい！\n"
+"　これ　なにかな？」"
+msgstr ""
+"\n"
+"「哇啊──，好漂亮喔！\n"
+"　這是什麼啊？」"
+
+#. ID 6, Page 1, Line 9, Pos (7,5)
+msgid ""
+"\n"
+"「桜か　梅じゃない？\n"
+"　どっちかわかんないけど……」"
+msgstr ""
+"\n"
+"「櫻花或梅花吧？\n"
+"　雖然人家也不知道是哪一種啦……」"
+
+#. ID 6, Page 1, Line 13, Pos (7,5)
+msgid ""
+"\n"
+"「ふーん……食べられるの？」"
+msgstr ""
+"\n"
+"「喔……那可以吃嗎？」"
+
+#. ID 6, Page 1, Line 16, Pos (7,5)
+msgid ""
+"\n"
+"「………いや　これ花だから」"
+msgstr ""
+"\n"
+"「………不行啦，這是花耶。」"
+
+#. ID 6, Page 1, Line 19, Pos (7,5)
+msgid ""
+"\n"
+"「なーんだ！」"
+msgstr ""
+"\n"
+"「什麼嘛──！」"
+
+#. ID 7, Page 1, Line 1, Pos (21,5)
+#. ID 7, Page 2, Line 1, Pos (21,5)
+msgid "『ミルクパズル』"
+msgstr "『牛奶拼圖』"
+
+#. ID 7, Page 1, Line 4, Pos (21,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「イヴ　ミルクパズルって知ってる？」"
+msgstr ""
+"\n"
+"「Ib，妳知道牛奶拼圖是什麼嗎？」"
+
+#. ID 7, Page 1, Line 6, Pos (21,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"知ってる\n"
+"知らない"
+msgstr ""
+"知道\n"
+"不知道"
+
+#. ID 7, Page 1, Line 8, Pos (21,5)
+msgid ""
+"\n"
+"「あら　ホント！\n"
+"　アタシあれ　苦手なのよねー」"
+msgstr ""
+"\n"
+"「哎呀，真的嗎！\n"
+"　人家很不擅長這種東西呢──」"
+
+#. ID 7, Page 1, Line 12, Pos (21,5)
+msgid ""
+"\n"
+"「昔やったこと　あるんだけど\n"
+"　同じような　ピースばっかで\n"
+"　全然　進まなくてさー……」"
+msgstr ""
+"\n"
+"「以前人家曾經拼過一次，\n"
+"　但是拼片全部都長得一樣，\n"
+"　弄了很久都沒有進展……」"
+
+#. ID 7, Page 1, Line 17, Pos (21,5)
+msgid ""
+"\n"
+"「頭にきたから　テキトーに\n"
+"　はめ込んで　完成させちゃったわ」"
+msgstr ""
+"\n"
+"「越拼越火大，就隨便把它亂拼，\n"
+"　硬壓進去，當作是完成了。」"
+
+#. ID 7, Page 1, Line 21, Pos (21,5)
+msgid ""
+"\n"
+"「そのあと　パズルがはじけ飛んで\n"
+"　大変なことに　なったけどね！」"
+msgstr ""
+"\n"
+"「可是在那之後啊，拼圖突然彈開來，\n"
+"　散得到處都是，善後很辛苦呢！」"
+
+#. ID 7, Page 1, Line 27, Pos (21,5)
+msgid ""
+"\n"
+"「まぁ　その名の通り\n"
+"　ミルクのように　真っ白な\n"
+"　パズルのことよ」"
+msgstr ""
+"\n"
+"「顧名思義，\n"
+"　是像牛奶一樣，\n"
+"　完全純白的拼圖喔。」"
+
+#. ID 7, Page 1, Line 32, Pos (21,5)
+msgid ""
+"\n"
+"「絵がついてないから\n"
+"　普通のパズルより　難しいんですって」"
+msgstr ""
+"\n"
+"「因為沒有圖案，\n"
+"　所以比一般的拼圖還要困難呢。」"
+
+#. ID 7, Page 1, Line 35, Pos (21,5)
+msgid ""
+"\n"
+"「頭が良い人は　すぐ\n"
+"　完成できる　らしいけど……」"
+msgstr ""
+"\n"
+"「雖然聽說聰明的人，\n"
+"　馬上就能拼好了……」"
+
+#. ID 7, Page 1, Line 39, Pos (21,5)
+msgid ""
+"\n"
+"「正直　面白くないわよ\n"
+"　だって絵が　ついてないんだもん」"
+msgstr ""
+"\n"
+"「可是老實說一點都不有趣啦，\n"
+"　因為沒有圖案嘛。」"
+
+#. ID 7, Page 1, Line 43, Pos (21,5)
+msgid ""
+"\n"
+"「好きな絵が　パズルになってこそ\n"
+"　やりがいが　あるってもんよね」"
+msgstr ""
+"\n"
+"「就是因為用喜歡的圖案作成的拼圖，\n"
+"　才有完成的價值嘛！」"
+
+#. ID 20, Page 1, Line 1, Pos (17,19)
+#. ID 20, Page 2, Line 1, Pos (17,19)
+msgid "『日誌』"
+msgstr "『日誌』"
+
+#. ID 20, Page 1, Line 3, Pos (17,19)
+#. ID 20, Page 2, Line 3, Pos (17,19)
+msgid ""
+"『ヒトの想いが　こもった物には\n"
+"　魂が宿ると　言われている』"
+msgstr ""
+"『據說　人類投以深刻思念的物品上\n"
+"　會有靈魂棲息』"
+
+#. ID 20, Page 1, Line 6, Pos (17,19)
+#. ID 20, Page 2, Line 6, Pos (17,19)
+msgid ""
+"『それならば　作品でも\n"
+"　同じことが　できるのでは　と\n"
+"　私は常に　考えている』"
+msgstr ""
+"『既然如此　創作作品時\n"
+"　也會發生相同的事情吧\n"
+"　我一直這麼認為』"
+
+#. ID 20, Page 1, Line 10, Pos (17,19)
+#. ID 20, Page 2, Line 10, Pos (17,19)
+msgid ""
+"『そして　今日も私は\n"
+"　自分の魂を　分けるつもりで\n"
+"　作品作りに　没頭している』"
+msgstr ""
+"『所以　今天我也用\n"
+"　將自己的靈魂分給它們的心情\n"
+"　埋首於創作之中』"
+
+#. ID 20, Page 1, Line 15, Pos (17,19)
+#. ID 20, Page 2, Line 15, Pos (17,19)
+msgid ""
+"\n"
+"「うそ　これだけ……？\n"
+"　出口の場所くらい\n"
+"　書いときなさいよね」"
+msgstr ""
+"\n"
+"「騙人，只有這些……？\n"
+"　好歹也寫一些關於出口的事情嘛！」"
+
+#. ID 20, Page 1, Line 20, Pos (17,19)
+#. ID 20, Page 2, Line 20, Pos (17,19)
+#, fuzzy
+msgid ""
+"\n"
+"「さっさと　出ましょ！　イヴ！」"
+msgstr ""
+"\n"
+"「我們快走吧！Ib！」"
+
+#. ID 22, Page 1, Line 10, Pos (5,20)
+msgid ""
+"\n"
+"「入口　閉まっちゃったわよ！？」"
+msgstr ""
+"\n"
+"「入口被關起來了！？」"
+
+#. ID 26, Page 1, Line 1, Pos (28,6)
+msgid "マネキンの　首がある……"
+msgstr "人體模型的頭……"
+
+#. ID 29, Page 1, Line 2, Pos (6,14)
+#. ID 29, Page 2, Line 1, Pos (6,14)
+msgid "『赤いボタン』"
+msgstr "『紅色的按鈕』"
+
+#. ID 29, Page 1, Line 4, Pos (6,14)
+#. Contains choice at line 2 (2 options)
+msgid "赤いボタンが　ある……"
+msgstr "有一顆紅色的按鈕……"
+
+#. ID 29, Page 1, Line 5, Pos (6,14)
+#. Choice (2 options, embedded in a message)
+#. ID 30, Page 1, Line 5, Pos (12,14)
+#. Choice (2 options, embedded in a message)
+#. ID 34, Page 1, Line 5, Pos (18,14)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"押す\n"
+"押さない"
+msgstr ""
+"按\n"
+"不按"
+
+#. ID 30, Page 1, Line 2, Pos (12,14)
+#. ID 30, Page 2, Line 1, Pos (12,14)
+msgid "『青いボタン』"
+msgstr "『藍色的按鈕』"
+
+#. ID 30, Page 1, Line 4, Pos (12,14)
+#. Contains choice at line 2 (2 options)
+msgid "青いボタンが　ある……"
+msgstr "有一顆藍色的按鈕……"
+
+#. ID 34, Page 1, Line 2, Pos (18,14)
+#. ID 34, Page 2, Line 1, Pos (18,14)
+msgid "『緑のボタン』"
+msgstr "『綠色的按鈕』"
+
+#. ID 34, Page 1, Line 4, Pos (18,14)
+#. Contains choice at line 2 (2 options)
+msgid "緑のボタンが　ある……"
+msgstr "有一顆綠色的按鈕……"
+

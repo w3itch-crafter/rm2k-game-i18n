@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 7, Page 1, Line 2, Pos (12,11)
+#. ID 8, Page 1, Line 2, Pos (13,11)
+msgid "カギが　かかっている……"
+msgstr "It's locked..."
+
+#. ID 7, Page 2, Line 2, Pos (12,11)
+#. ID 8, Page 2, Line 2, Pos (13,11)
+msgid "桃のカギを　使った。"
+msgstr "Used the Pink Key."
+
+#. ID 9, Page 1, Line 2, Pos (14,11)
+#. ID 9, Page 2, Line 2, Pos (14,11)
+msgid ""
+"“もものかぎは　かならず\n"
+"　おもちゃばこに　しまうこと”"
+msgstr ""
+"\"The Pink Key is always\n"
+"kept in the toy box.\""
+
+#. ID 9, Page 1, Line 6, Pos (14,11)
+msgid ""
+"\n"
+"「おもちゃばこ……？\n"
+"　そこにカギが　あるのかしら」"
+msgstr ""
+"\n"
+" The toy box...?\n"
+" I guess there's a key there."
+
+#. ID 9, Page 1, Line 9, Pos (14,11)
+msgid ""
+"\n"
+"「探してみましょ　イヴ！」"
+msgstr ""
+"\n"
+" Let's find it, Ib!"
+
+#. ID 11, Page 1, Line 1, Pos (9,5)
+#. Contains choice at line 2 (2 options)
+msgid "水の入った花瓶がある……"
+msgstr "A vase full of water..."
+
+#. ID 11, Page 1, Line 2, Pos (9,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"バラを活ける\n"
+"活けない"
+msgstr ""
+"Place rose\n"
+"Don't place"
+
+#. ID 11, Page 1, Line 8, Pos (9,5)
+msgid "バラの花が　元気になった！"
+msgstr "The rose returned to health!"
+
+#. ID 11, Page 1, Line 10, Pos (9,5)
+msgid "花瓶の水が　なくなってしまった……"
+msgstr "The vase is out of water..."
+
+#. ID 11, Page 2, Line 1, Pos (9,5)
+msgid "花瓶に　水が入っていない……"
+msgstr "There's no water in the vase..."
+
+#. ID 18, Page 1, Line 1, Pos (19,8)
+msgid "………………………"
+msgstr "..............."
+
+#. ID 18, Page 1, Line 5, Pos (19,8)
+msgid ""
+"\n"
+"「イヴ　どうしたの？\n"
+"　何か　見つけた？」"
+msgstr ""
+"\n"
+" Ib, what is it?\n"
+" Did you find something?"
+
+#. ID 18, Page 1, Line 9, Pos (19,8)
+msgid "ギャリーには　見えないみたいだ……"
+msgstr "It seems Garry doesn't see it..."
+

@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (4,20)
+msgid "コーヒーとケーキの絵が　飾ってある……"
+msgstr "A painting of coffee and cake..."
+
+#. ID 2, Page 1, Line 1, Pos (6,20)
+msgid "どこかの景色の絵が　飾ってある……"
+msgstr "A painting of some scenery..."
+
+#. ID 3, Page 1, Line 1, Pos (21,20)
+msgid "大きな氷の絵が　飾ってある……"
+msgstr "A painting of some large ice..."
+
+#. ID 4, Page 1, Line 1, Pos (23,20)
+msgid "女の人の絵が　飾ってある……"
+msgstr "A painting of a girl..."
+
+#. ID 7, Page 1, Line 1, Pos (9,20)
+#. ID 8, Page 1, Line 1, Pos (11,20)
+#. ID 13, Page 1, Line 1, Pos (16,20)
+#. ID 14, Page 1, Line 1, Pos (18,20)
+#. ID 23, Page 1, Line 1, Pos (5,29)
+#. ID 24, Page 1, Line 1, Pos (8,29)
+#. ID 43, Page 1, Line 1, Pos (17,29)
+#. ID 44, Page 1, Line 1, Pos (24,29)
+#. ID 76, Page 1, Line 1, Pos (11,29)
+msgid "真っ白な　プレートがある……"
+msgstr "A blank plate..."
+
+#. ID 7, Page 2, Line 1, Pos (9,20)
+msgid "『嘆きの花嫁』"
+msgstr "\"Grieving Bride\""
+
+#. ID 8, Page 2, Line 1, Pos (11,20)
+msgid "『嘆きの花婿』"
+msgstr "\"Grieving Groom\""
+
+#. ID 9, Page 1, Line 2, Pos (9,22)
+#. ID 9, Page 1, Line 7, Pos (9,22)
+msgid "『悲しき花嫁の左手』"
+msgstr "\"Grieving Bride's Left Hand\""
+
+#. ID 10, Page 1, Line 2, Pos (11,22)
+#. ID 10, Page 1, Line 7, Pos (11,22)
+msgid "『悲しき花嫁の右手』"
+msgstr "\"Grieving Bride's Right Hand\""
+
+#. ID 13, Page 2, Line 1, Pos (16,20)
+msgid "『幸福の花嫁』"
+msgstr "\"Blessed Bride\""
+
+#. ID 14, Page 2, Line 1, Pos (18,20)
+msgid "『幸福の花婿』"
+msgstr "\"Blessed Groom\""
+
+#. ID 15, Page 1, Line 1, Pos (21,29)
+#. ID 16, Page 1, Line 1, Pos (20,29)
+msgid "白いヘビの絵が　飾ってある……"
+msgstr "A painting of a white snake..."
+
+#. ID 21, Page 1, Line 1, Pos (2,29)
+msgid "『えへへへへ　へへへへへ』"
+msgstr "\"Ehehehehe hehehehehe...\""
+
+#. ID 22, Page 1, Line 1, Pos (13,35)
+msgid "目薬の絵が　飾ってある……"
+msgstr "A painting of eyedrops..."
+
+#. ID 23, Page 2, Line 1, Pos (5,29)
+msgid "『アンバランスな箱』"
+msgstr "\"Unbalanced Box\""
+
+#. ID 24, Page 2, Line 1, Pos (8,29)
+msgid "『あずかりし真心』"
+msgstr "\"Devotion to Custody\""
+
+#. ID 43, Page 2, Line 1, Pos (17,29)
+msgid "『ふたり』"
+msgstr "\"Couple\""
+
+#. ID 44, Page 2, Line 1, Pos (24,29)
+msgid "『無題』"
+msgstr "\"Untitled\""
+
+#. ID 45, Page 1, Line 2, Pos (4,34)
+#. ID 45, Page 1, Line 9, Pos (4,34)
+msgid "『ワインソファ』"
+msgstr "\"Wine Sofa\""
+
+#. ID 45, Page 1, Line 3, Pos (4,34)
+#. ID 45, Page 1, Line 10, Pos (4,34)
+msgid ""
+"大きなワイングラスが　斜めにカットされて\n"
+"中に赤いクッションが　入っている……"
+msgstr ""
+"A giant wine glass cut diagonally,\n"
+"and with a red cushion inside..."
+
+#. ID 51, Page 1, Line 2, Pos (9,34)
+#. ID 52, Page 1, Line 2, Pos (8,34)
+msgid "『憂鬱』"
+msgstr "\"Melancholy\""
+
+#. ID 57, Page 1, Line 2, Pos (19,34)
+#. ID 58, Page 1, Line 2, Pos (18,34)
+msgid "『パズル』"
+msgstr "\"Puzzle\""
+
+#. ID 57, Page 1, Line 3, Pos (19,34)
+#. ID 58, Page 1, Line 3, Pos (18,34)
+msgid "色々な色で塗られた　ガイコツだ……"
+msgstr "A skeleton painted in all kinds of colors..."
+
+#. ID 65, Page 1, Line 2, Pos (22,34)
+#. ID 65, Page 1, Line 8, Pos (22,34)
+#, fuzzy
+msgid "『感情』"
+msgstr "\"Feeling\""
+
+#. ID 65, Page 1, Line 3, Pos (22,34)
+#. ID 65, Page 1, Line 9, Pos (22,34)
+#, fuzzy
+msgid "人の形にも見える　木のオブジェだ……"
+msgstr ""
+"A tree sculpture that vaguely\n"
+"resembles a person..."
+
+#. ID 73, Page 1, Line 2, Pos (18,22)
+#. ID 73, Page 1, Line 7, Pos (18,22)
+msgid "『幸福な花嫁の右手』"
+msgstr "\"Blessed Bride's Right Hand\""
+
+#. ID 74, Page 1, Line 2, Pos (16,22)
+#. ID 74, Page 1, Line 7, Pos (16,22)
+msgid "『幸福な花嫁の左手』"
+msgstr "\"Blessed Bride's Left Hand\""
+
+#. ID 76, Page 2, Line 1, Pos (11,29)
+msgid "『あずかりし心臓』"
+msgstr "\"Heart in Custody\""
+

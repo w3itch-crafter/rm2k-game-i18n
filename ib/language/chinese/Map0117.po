@@ -1,0 +1,472 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 1, Pos (3,6)
+#. ID 4, Page 1, Line 1, Pos (6,6)
+#. ID 5, Page 1, Line 1, Pos (9,6)
+#. ID 8, Page 1, Line 1, Pos (4,13)
+#. ID 10, Page 1, Line 1, Pos (7,13)
+#. ID 12, Page 1, Line 1, Pos (4,19)
+#. ID 14, Page 1, Line 1, Pos (7,19)
+#. ID 45, Page 1, Line 1, Pos (14,19)
+#. ID 46, Page 1, Line 1, Pos (15,19)
+#. ID 71, Page 1, Line 1, Pos (14,6)
+#. ID 72, Page 1, Line 1, Pos (15,6)
+#. ID 75, Page 1, Line 1, Pos (20,6)
+#. ID 77, Page 1, Line 1, Pos (23,6)
+#. ID 79, Page 1, Line 1, Pos (26,6)
+#. ID 81, Page 1, Line 1, Pos (22,13)
+#. ID 83, Page 1, Line 1, Pos (25,13)
+#. ID 85, Page 1, Line 1, Pos (22,19)
+#. ID 87, Page 1, Line 1, Pos (25,19)
+msgid "真っ白な　プレートがある……"
+msgstr "全白的標示牌……"
+
+#. ID 3, Page 2, Line 1, Pos (3,6)
+msgid "『波打ち際の孤独』"
+msgstr "『海岸線的孤獨』"
+
+#. ID 4, Page 2, Line 1, Pos (6,6)
+msgid "『地平線の風景』"
+msgstr "『地平線的風景』"
+
+#. ID 5, Page 2, Line 1, Pos (9,6)
+msgid "『対極の器』"
+msgstr "『極端相反的容器』"
+
+#. ID 8, Page 2, Line 1, Pos (4,13)
+msgid "『せきをする男』"
+msgstr "『咳嗽的男子』"
+
+#. ID 10, Page 2, Line 1, Pos (7,13)
+msgid "『新聞を取る貴婦人』"
+msgstr "『拿報紙的貴婦』"
+
+#. ID 12, Page 2, Line 1, Pos (4,19)
+msgid "『心配』"
+msgstr "『擔心』"
+
+#. ID 14, Page 2, Line 1, Pos (7,19)
+msgid "『テーブルに置かれた静物』"
+msgstr "『放置在桌上的靜物』"
+
+#. ID 45, Page 2, Line 1, Pos (14,19)
+#. ID 46, Page 2, Line 1, Pos (15,19)
+msgid ""
+"『深海の世』\n"
+"　ヒトが立ち入ることは　許されない\n"
+"　その世界を　堪能するため　私は\n"
+"　キャンバスの中に　その世界を創った"
+msgstr ""
+"『深海之世』\n"
+"　為了享受這個\n"
+"　不允許人類涉足的世界\n"
+"　我在畫布中創造了這個世界"
+
+#. ID 71, Page 2, Line 1, Pos (14,6)
+#. ID 72, Page 2, Line 1, Pos (15,6)
+msgid "『悪意なき地獄』"
+msgstr "『無惡意的地獄』"
+
+#. ID 75, Page 2, Line 1, Pos (20,6)
+msgid "『蛇蠍の精神』"
+msgstr "『蛇蠍的精神』"
+
+#. ID 77, Page 2, Line 1, Pos (23,6)
+msgid "『ある丘から見た空』"
+msgstr "『某山丘上所見之天空』"
+
+#. ID 79, Page 2, Line 1, Pos (26,6)
+msgid "『個性なき番人』"
+msgstr "『無個性的守衛』"
+
+#. ID 81, Page 2, Line 1, Pos (22,13)
+msgid "『吊るされた男』"
+msgstr "『被倒吊的男人』"
+
+#. ID 83, Page 2, Line 1, Pos (25,13)
+msgid "『双塔』"
+msgstr "『雙塔』"
+
+#. ID 85, Page 2, Line 1, Pos (22,19)
+msgid "『不格好なダイヤ』"
+msgstr "『醜陋的鑽石』"
+
+#. ID 87, Page 2, Line 1, Pos (25,19)
+msgid "『赤い服の女』"
+msgstr "『紅衣的女子』"
+
+#. ID 89, Page 1, Line 5, Pos (19,15)
+msgid ""
+"\n"
+"「お……イヴ\n"
+"　ゲルテナ展は　どうだい？」"
+msgstr ""
+"\n"
+"「喔……Ib，\n"
+"　覺得Guertena展怎麼樣？」"
+
+#. ID 89, Page 1, Line 9, Pos (19,15)
+msgid ""
+"\n"
+"「こんなにたくさん　絵があると\n"
+"　全部見るのは　大変だね」"
+msgstr ""
+"\n"
+"「有這麼多畫，\n"
+"　要全部看完很辛苦呢。」"
+
+#. ID 89, Page 1, Line 19, Pos (19,15)
+msgid ""
+"\n"
+"「やっぱり　この\n"
+"　『深海の世』が　一番すごいな」"
+msgstr ""
+"\n"
+"「果然還是這張『深海之世』\n"
+"　最令人讚嘆了呢。」"
+
+#. ID 89, Page 1, Line 23, Pos (19,15)
+msgid ""
+"\n"
+"「ずっと観てると\n"
+"　自分が　絵の中に落ちて\n"
+"　しまいそうな　感じがするね」"
+msgstr ""
+"\n"
+"「要是一直看著它，\n"
+"　感覺自己好像真的會\n"
+"　掉進這幅畫中呢。」"
+
+#. ID 89, Page 1, Line 32, Pos (19,15)
+msgid ""
+"\n"
+"「イヴ　美術館は\n"
+"　いかがかな？」"
+msgstr ""
+"\n"
+"「Ib，妳覺得美術館怎麼樣啊？」"
+
+#. ID 89, Page 1, Line 36, Pos (19,15)
+#, fuzzy
+msgid ""
+"\n"
+"「ちょっと　独特な雰囲気だけど\n"
+"　なかなか　面白いだろ」"
+msgstr ""
+"\n"
+"「雖然有些獨特的氛圍，\n"
+"　但是很有趣吧？」"
+
+#. ID 89, Page 1, Line 39, Pos (19,15)
+#, fuzzy
+msgid ""
+"\n"
+"「気にいったのなら\n"
+"　また今度　別の展覧会にでも\n"
+"　行ってみようか」"
+msgstr ""
+"\n"
+"「如果妳喜歡的話，\n"
+"　下次也去看看別的展覽如何？」"
+
+#. ID 89, Page 1, Line 51, Pos (19,15)
+#, fuzzy
+msgid ""
+"\n"
+"「お父さん　あんまり\n"
+"　芸術には　詳しくないけど……」"
+msgstr ""
+"\n"
+"「雖然爸爸不太懂藝術……」"
+
+#. ID 89, Page 1, Line 54, Pos (19,15)
+#, fuzzy
+msgid ""
+"\n"
+"「ゲルテナが\n"
+"　すごい人なんだなって　いうのは\n"
+"　わかる　気がするよ」"
+msgstr ""
+"\n"
+"「不過總覺得可以理解\n"
+"　Guertena是個很厲害的人呢。」"
+
+#. ID 89, Page 1, Line 65, Pos (19,15)
+#, fuzzy
+msgid ""
+"\n"
+"「さっき『心配』って言う\n"
+"　作品が　あったんだけど……」"
+msgstr ""
+"\n"
+"「剛才那邊有幅\n"
+"　叫做『擔心』的作品……」"
+
+#. ID 89, Page 1, Line 69, Pos (19,15)
+#, fuzzy
+msgid ""
+"\n"
+"「なんだか　ずっと\n"
+"　見られてるみたいで\n"
+"　落ち着かなかったなぁ」"
+msgstr ""
+"\n"
+"「總覺得一直被它盯著瞧，\n"
+"　沒辦法靜下心來呢。」"
+
+#. ID 89, Page 1, Line 78, Pos (19,15)
+#, fuzzy
+msgid ""
+"\n"
+"「お母さんは　ゲルテナの\n"
+"　どこが　好きなんだろうね？」"
+msgstr ""
+"\n"
+"「媽媽是喜歡Guertena的什麼地方呢？」"
+
+#. ID 89, Page 1, Line 82, Pos (19,15)
+#, fuzzy
+msgid ""
+"\n"
+"「たしかに　ゲルテナは\n"
+"　すごいとは　思うけど\n"
+"　不気味な絵が　多いし……」"
+msgstr ""
+"\n"
+"「雖然Guertena的確很了不起，\n"
+"　但他很多畫都讓人覺得不太舒服……」"
+
+#. ID 89, Page 1, Line 87, Pos (19,15)
+#, fuzzy
+msgid ""
+"\n"
+"「何か　惹かれるものが\n"
+"　あったのかな……」"
+msgstr ""
+"\n"
+"「有什麼引人之處呢……」"
+
+#. ID 89, Page 1, Line 99, Pos (19,15)
+#, fuzzy
+msgid ""
+"\n"
+"「イ　イヴ……\n"
+"　さっき　誰もいない場所から\n"
+"　誰かのせきの音が　聞こえてね……」"
+msgstr ""
+"\n"
+"「I、Ib……\n"
+"　剛才，明明沒有其他人在，\n"
+"　我卻聽到了咳嗽的聲音耶……」"
+
+#. ID 89, Page 1, Line 104, Pos (19,15)
+#, fuzzy
+msgid ""
+"\n"
+"「お父さん　少し\n"
+"　怖くなちゃったよ……\n"
+"　……気のせい　だろうけどね」"
+msgstr ""
+"\n"
+"「爸爸覺得有點害怕呢……\n"
+"　……雖然應該是我的錯覺啦。」"
+
+#. ID 89, Page 1, Line 113, Pos (19,15)
+#, fuzzy
+msgid ""
+"\n"
+"「お母さん　ここに来て\n"
+"　珍しく　はしゃいでるね……」"
+msgstr ""
+"\n"
+"「來到這裡之後，\n"
+"　媽媽看起來很興奮呢，真難得……」"
+
+#. ID 89, Page 1, Line 117, Pos (19,15)
+#, fuzzy
+msgid ""
+"\n"
+"「お母さんが　嬉しそうだと\n"
+"　僕もなんだか　嬉しいよ」"
+msgstr ""
+"\n"
+"「看到媽媽這麼開心的樣子，\n"
+"　我也覺得很高興呢。」"
+
+#. ID 90, Page 1, Line 5, Pos (13,9)
+msgid ""
+"\n"
+"「イヴが　読めなかった字……\n"
+"　アタシが　教えてあげたわよね？」"
+msgstr ""
+"\n"
+"「Ib，那些妳不會唸的字……\n"
+"　人家都教過妳了對吧？」"
+
+#. ID 90, Page 1, Line 9, Pos (13,9)
+msgid ""
+"\n"
+"「イヴなら　ちゃーんと\n"
+"　覚えてるでしょうから……」"
+msgstr ""
+"\n"
+"「如果是Ib，\n"
+"　一定會好好的記住吧……」"
+
+#. ID 90, Page 1, Line 13, Pos (13,9)
+msgid ""
+"\n"
+"「もう　アタシがいなくても　大丈夫ね」"
+msgstr ""
+"\n"
+"「所以就算人家不在了，\n"
+"　妳一個人也沒問題的對吧。」"
+
+#. ID 90, Page 1, Line 21, Pos (13,9)
+#, fuzzy
+msgid ""
+"\n"
+"「ゲルテナって　ホント\n"
+"　色々　作ってるわよねー」"
+msgstr ""
+"\n"
+"「Guertena他\n"
+"　真的創作了很多東西呢──」"
+
+#. ID 90, Page 1, Line 25, Pos (13,9)
+#, fuzzy
+msgid ""
+"\n"
+"「作品ばっかり　作ってて\n"
+"　飽きないのかしらね？」"
+msgstr ""
+"\n"
+"「一直創作這些作品，\n"
+"　都不會覺得膩嗎？」"
+
+#. ID 90, Page 1, Line 34, Pos (13,9)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴ　アンタ\n"
+"　ちゃんと食べてる？」"
+msgstr ""
+"\n"
+"「Ib，妳有好好吃飯嗎？」"
+
+#. ID 90, Page 1, Line 38, Pos (13,9)
+msgid ""
+"\n"
+"「なんか　細くて心配だわ\n"
+"　栄養あるもの　食べなさいね」"
+msgstr ""
+"\n"
+"「妳這麼瘦，真是讓人擔心呢。\n"
+"　要多吃點營養的東西喔。」"
+
+#. ID 90, Page 1, Line 47, Pos (13,9)
+msgid ""
+"\n"
+"「ゲルテナの絵ってさ……\n"
+"　嫌な記憶　ばかりだけど\n"
+"　助けてくれたヤツも　いたわよね」"
+msgstr ""
+"\n"
+"「Guertena的畫作啊……\n"
+"　雖然盡是一些不好的回憶，\n"
+"　但也有些幫助過我們的傢伙呢。」"
+
+#. ID 90, Page 1, Line 52, Pos (13,9)
+msgid ""
+"\n"
+"「そう考えると……\n"
+"　作品も　人間社会も\n"
+"　変わらないのかもね」"
+msgstr ""
+"\n"
+"「這麼想的話……\n"
+"　不管是作品還是人類社會，\n"
+"　都沒有什麼不同呢。」"
+
+#. ID 90, Page 1, Line 62, Pos (13,9)
+msgid ""
+"\n"
+"「芸術家ってさ……\n"
+"　何考えてるか　わからないわよね\n"
+"　変わった人が　多いと思わない？」"
+msgstr ""
+"\n"
+"「那些藝術家啊……\n"
+"　實在不知道他們都在想些什麼呢。\n"
+"　妳不覺得幾乎都是些奇怪的人嗎？」"
+
+#. ID 90, Page 1, Line 67, Pos (13,9)
+msgid ""
+"\n"
+"「やっぱり　普通の人とは\n"
+"　見てる世界が　違うのかしら」"
+msgstr ""
+"\n"
+"「果然他們所看到的世界，\n"
+"　跟普通人看到的不一樣吧。」"
+
+#. ID 90, Page 1, Line 76, Pos (13,9)
+msgid ""
+"\n"
+"「イヴって普段は　どう過ごしてるの？\n"
+"　お友達と　遊んだりしてる？」"
+msgstr ""
+"\n"
+"「Ib的日常生活是什麼樣的呢？\n"
+"　會跟朋友一起玩嗎？」"
+
+#. ID 90, Page 1, Line 80, Pos (13,9)
+msgid ""
+"\n"
+"「こどものうちは\n"
+"　たくさん　遊びなさいね」"
+msgstr ""
+"\n"
+"「趁著還是小朋友的時候，\n"
+"　要盡量地玩喔。」"
+
+#. ID 90, Page 1, Line 89, Pos (13,9)
+msgid ""
+"\n"
+"「そういえば……美術館に\n"
+"　シロアリが　いたじゃない？」"
+msgstr ""
+"\n"
+"「話說回來……\n"
+"　美術館裡不是有一隻白蟻嗎？」"
+
+#. ID 90, Page 1, Line 93, Pos (13,9)
+msgid ""
+"\n"
+"「シロアリって　普通\n"
+"　コンペイトウは\n"
+"　食べないんじゃ……と思ったけど」"
+msgstr ""
+"\n"
+"「普通的白蟻，\n"
+"　是不會吃金平糖的吧……」"
+
+#. ID 90, Page 1, Line 98, Pos (13,9)
+#, fuzzy
+msgid ""
+"\n"
+"「そもそも\n"
+"　喋ってる事が　普通じゃなかったわ」"
+msgstr ""
+"\n"
+"「不過，光是會說話這點，\n"
+"　就一點也不普通了呢。」"
+

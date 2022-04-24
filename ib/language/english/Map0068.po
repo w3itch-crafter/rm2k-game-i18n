@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 3, Pos (18,1)
+msgid ""
+"\n"
+"「うっ……\n"
+"　なんなの　この部屋……！」"
+msgstr ""
+"\n"
+" Oof...\n"
+" What's with this room...?!"
+
+#. ID 2, Page 1, Line 7, Pos (18,1)
+msgid ""
+"\n"
+"「長居は　良くなさそうね……」"
+msgstr ""
+"\n"
+" Don't want to stay here long..."
+
+#. ID 8, Page 1, Line 1, Pos (11,6)
+#. Contains choice at line 2 (2 options)
+msgid "傘が　置いてある……"
+msgstr "An umbrella..."
+
+#. ID 8, Page 1, Line 2, Pos (11,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"持っていく\n"
+"そのままにしておく"
+msgstr ""
+"Take it\n"
+"Leave it"
+
+#. ID 8, Page 1, Line 6, Pos (11,6)
+msgid "赤い傘を　手に入れた。"
+msgstr "Obtained the Red Umbrella."
+
+#. ID 13, Page 1, Line 1, Pos (7,11)
+msgid "花瓶に水が　入っていない……"
+msgstr "There's no water in the vase..."
+
+#. ID 13, Page 2, Line 1, Pos (7,11)
+#. Contains choice at line 2 (2 options)
+#. ID 13, Page 3, Line 1, Pos (7,11)
+#. Contains choice at line 2 (2 options)
+msgid "水の入った花瓶がある……"
+msgstr "A vase full of water..."
+
+#. ID 13, Page 2, Line 2, Pos (7,11)
+#. Choice (2 options, embedded in a message)
+#. ID 13, Page 3, Line 2, Pos (7,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"活ける\n"
+"活けない"
+msgstr ""
+"Place rose\n"
+"Don't place"
+
+#. ID 13, Page 2, Line 7, Pos (7,11)
+#. ID 13, Page 3, Line 7, Pos (7,11)
+msgid "薔薇の花が　元気になった！"
+msgstr "The rose returned to health!"
+
+#. ID 13, Page 4, Line 1, Pos (7,11)
+msgid "花瓶がある……"
+msgstr "A vase..."
+
+#. ID 14, Page 1, Line 2, Pos (15,10)
+#. Contains choice at line 2 (2 options)
+#. ID 14, Page 2, Line 1, Pos (15,10)
+msgid "天井から　ヒモが下がっている……"
+msgstr "A cord hangs from the ceiling..."
+
+#. ID 14, Page 1, Line 3, Pos (15,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ひっぱる\n"
+"やめておく"
+msgstr ""
+"Pull\n"
+"Never mind"
+
+#. ID 14, Page 1, Line 12, Pos (15,10)
+msgid ""
+"\n"
+"「あら……\n"
+"　ガスみたいなの　止まったわ」"
+msgstr ""
+"\n"
+" Ah...\n"
+" That strange gas is gone."
+
+#. ID 21, Page 2, Line 3, Pos (5,8)
+#, fuzzy
+msgid ""
+"\n"
+"「なにかしら　これ……\n"
+"　柔らかいけど　握ったら割れそう」"
+msgstr ""
+"\n"
+" What's this, now...\n"
+" It's soft, but I feel\n"
+" I could break it..."
+
+#. ID 21, Page 2, Line 6, Pos (5,8)
+#, fuzzy
+msgid ""
+"\n"
+"「もしかしてこれが　絵の具玉？」"
+msgstr ""
+"\n"
+" Perhaps this is a ball of paint?"
+
+#. ID 21, Page 2, Line 10, Pos (5,8)
+#. ID 21, Page 3, Line 3, Pos (5,8)
+#, fuzzy
+msgid "絵の具玉（紫）を　手に入れた。"
+msgstr "Obtained Ball of Paint (Violet)."
+
+#. ID 21, Page 2, Line 17, Pos (5,8)
+#, fuzzy
+msgid ""
+"\n"
+"「あら………消えちゃったわ」"
+msgstr ""
+"\n"
+" Hm... it vanished."
+
+#. ID 21, Page 3, Line 1, Pos (5,8)
+msgid "何かが　落ちている……"
+msgstr "There's something on the ground..."
+
+#. ID 21, Page 3, Line 8, Pos (5,8)
+msgid "絵の具玉は　消えてしまった……"
+msgstr "The ball of paint vanished..."
+

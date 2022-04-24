@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (46,33)
+msgid ""
+"“こんにちは　ギャリー\n"
+"　わたし　ひとりで　さみしいの\n"
+"　だから　いっしょに　つれてって”"
+msgstr ""
+"“你好啊　Garry\n"
+"　我一個人　好寂寞喔\n"
+"　所以　帶我一起走吧”"
+
+#. ID 2, Page 1, Line 1, Pos (47,34)
+#. ID 5, Page 1, Line 1, Pos (25,34)
+#. ID 8, Page 1, Line 1, Pos (2,24)
+#. ID 11, Page 1, Line 1, Pos (26,24)
+#. ID 14, Page 1, Line 1, Pos (47,15)
+#. ID 17, Page 1, Line 1, Pos (23,15)
+#. ID 33, Page 2, Line 1, Pos (4,5)
+#. ID 36, Page 1, Line 2, Pos (3,6)
+#. ID 38, Page 1, Line 4, Pos (2,6)
+#. ID 39, Page 1, Line 4, Pos (4,6)
+msgid "気味の悪い　人形がある……"
+msgstr "令人感到噁心的人偶……"
+
+#. ID 6, Page 1, Line 1, Pos (24,33)
+msgid ""
+"“ねぇ　どうして\n"
+"　つれてって　くれないの”"
+msgstr ""
+"“欸　為什麼\n"
+"　不帶我　一起走呢”"
+
+#. ID 9, Page 1, Line 1, Pos (3,23)
+msgid ""
+"“なんで　むしするの？\n"
+"　わたしのこと　きらいなの？”"
+msgstr ""
+"“為什麼　要無視我呢？\n"
+"　你　討厭我嗎？”"
+
+#. ID 12, Page 1, Line 1, Pos (27,23)
+msgid ""
+"“ねぇ　あそぼうよ\n"
+"　ここ　おもしろいもの\n"
+"　たくさん　あるんだよ”"
+msgstr ""
+"“欸　我們來玩嘛\n"
+"　這裡　有很多\n"
+"　有趣的　東西唷”"
+
+#. ID 15, Page 1, Line 1, Pos (46,14)
+msgid ""
+"“わたしの　おともだちも\n"
+"　たくさん　いるんだ\n"
+"　しょうかいして　あげるね”"
+msgstr ""
+"“我有　很多朋友們\n"
+"　也都在這裡喔\n"
+"　可以介紹給你　認識喔”"
+
+#. ID 18, Page 1, Line 1, Pos (22,14)
+msgid "“えいえんに　ここにいろ”"
+msgstr "“永遠　留在這裡吧”"
+
+#. ID 33, Page 1, Line 1, Pos (4,5)
+msgid "人形から　赤い液体が　流れている……"
+msgstr "人偶身上流出了紅色的液體……"
+
+#. ID 33, Page 1, Line 4, Pos (4,5)
+#. ID 36, Page 1, Line 14, Pos (3,6)
+#. Contains choice at line 3 (2 options)
+#. ID 38, Page 1, Line 15, Pos (2,6)
+#. Contains choice at line 3 (2 options)
+#. ID 39, Page 1, Line 15, Pos (4,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「………………」"
+msgstr ""
+"\n"
+"「………………」"
+
+#. ID 33, Page 4, Line 1, Pos (4,5)
+msgid "人形の首が　なくなっている……"
+msgstr "人偶的頭不見了……"
+
+#. ID 34, Page 2, Line 2, Pos (3,4)
+msgid "カギが　かかっている……"
+msgstr "門鎖住了……"
+
+#. ID 35, Page 1, Line 2, Pos (2,4)
+#. ID 35, Page 2, Line 2, Pos (2,4)
+msgid ""
+"“　い　た　い　よ　ぉ　\n"
+"　　い　た　い　よ　ぉ　”"
+msgstr ""
+"“　好　痛　喔　\n"
+"　　好　痛　喔　”"
+
+#. ID 35, Page 1, Line 8, Pos (2,4)
+#. ID 35, Page 2, Line 8, Pos (2,4)
+msgid "“　つ　れ　て　い　け　”"
+msgstr "“　帶　我　一　起　走　”"
+
+#. ID 36, Page 1, Line 6, Pos (3,6)
+#. ID 38, Page 1, Line 7, Pos (2,6)
+#. ID 39, Page 1, Line 7, Pos (4,6)
+msgid ""
+"\n"
+"「……一体どこまで　ついてくんのよ」"
+msgstr ""
+"\n"
+"「……到底是要跟到哪裡啦！」"
+
+#. ID 36, Page 1, Line 9, Pos (3,6)
+#. ID 38, Page 1, Line 10, Pos (2,6)
+#. ID 39, Page 1, Line 10, Pos (4,6)
+msgid ""
+"\n"
+"「もう　いい加減にして！\n"
+"　アンタの相手を\n"
+"　してるヒマなんて　ないのよ！！」"
+msgstr ""
+"\n"
+"「真是的，適可而止啦！\n"
+"　人家才沒有時間\n"
+"　陪你一起玩呢！！」"
+
+#. ID 36, Page 1, Line 16, Pos (3,6)
+#. Choice (2 options, embedded in a message)
+#. ID 38, Page 1, Line 17, Pos (2,6)
+#. Choice (2 options, embedded in a message)
+#. ID 39, Page 1, Line 17, Pos (4,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"壁に向かって蹴る\n"
+"扉の前からよける"
+msgstr ""
+"踢向牆壁\n"
+"從門前推開"
+
+#. ID 36, Page 1, Line 20, Pos (3,6)
+#. ID 38, Page 1, Line 21, Pos (2,6)
+#. ID 39, Page 1, Line 21, Pos (4,6)
+msgid ""
+"\n"
+"「こんな人形が　なによ！」"
+msgstr ""
+"\n"
+"「什麼嘛！這種人偶！」"
+
+#. ID 36, Page 1, Line 27, Pos (3,6)
+#. ID 38, Page 1, Line 28, Pos (2,6)
+#. ID 39, Page 1, Line 28, Pos (4,6)
+msgid ""
+"\n"
+"「邪魔よ！」"
+msgstr ""
+"\n"
+"「擋路啦！」"
+
+#. ID 36, Page 1, Line 41, Pos (3,6)
+#. ID 38, Page 1, Line 42, Pos (2,6)
+#. ID 39, Page 1, Line 42, Pos (4,6)
+msgid ""
+"\n"
+"「フン……」"
+msgstr ""
+"\n"
+"「哼……」"
+
+#. ID 36, Page 1, Line 54, Pos (3,6)
+#. ID 38, Page 1, Line 55, Pos (2,6)
+#. ID 39, Page 1, Line 55, Pos (4,6)
+msgid ""
+"\n"
+"「こういうのには\n"
+"　関わらないのが　一番だわ」"
+msgstr ""
+"\n"
+"「還是不要跟這種東西\n"
+"　扯上什麼關係最好。」"
+

@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 1, Pos (14,27)
+msgid "『？？模様』"
+msgstr "\"??? Pattern\""
+
+#. ID 3, Page 1, Line 2, Pos (14,27)
+#. ID 29, Page 1, Line 2, Pos (7,17)
+#. ID 30, Page 1, Line 2, Pos (8,17)
+msgid "難しくて　読めない字がある……"
+msgstr "You don't know this word..."
+
+#. ID 3, Page 2, Line 1, Pos (14,27)
+msgid "『孔雀模様』"
+msgstr "\"Peacock Pattern\""
+
+#. ID 5, Page 1, Line 1, Pos (3,13)
+msgid "『心の音』"
+msgstr "\"Heartbeat\""
+
+#. ID 7, Page 1, Line 1, Pos (25,13)
+#. ID 7, Page 2, Line 1, Pos (25,13)
+msgid "『赤い服の女』"
+msgstr "\"The Lady in Red\""
+
+#. ID 9, Page 1, Line 1, Pos (26,15)
+msgid "何かが　落ちている……"
+msgstr "There's something on the ground..."
+
+#. ID 9, Page 1, Line 4, Pos (26,15)
+msgid "赤のカギを　手に入れた。"
+msgstr "Obtained the Red Key."
+
+#. ID 13, Page 1, Line 1, Pos (22,28)
+msgid "『あ』"
+msgstr "\"Open\""
+
+#. ID 15, Page 1, Line 2, Pos (14,20)
+msgid "カギが　かかっている……"
+msgstr "It's locked..."
+
+#. ID 15, Page 2, Line 3, Pos (14,20)
+msgid "赤のカギを　使った。"
+msgstr "Used the Red Key."
+
+#. ID 19, Page 1, Line 1, Pos (12,5)
+#. Contains choice at line 2 (2 options)
+#. ID 19, Page 2, Line 1, Pos (12,5)
+#. Contains choice at line 2 (3 options)
+#. ID 19, Page 3, Line 1, Pos (12,5)
+#. Contains choice at line 2 (2 options)
+msgid "水の入った花瓶がある……"
+msgstr "A vase full of water..."
+
+#. ID 19, Page 1, Line 2, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 3, Line 2, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"バラを活ける\n"
+"活けない"
+msgstr ""
+"Place rose\n"
+"Don't place"
+
+#. ID 19, Page 1, Line 8, Pos (12,5)
+#. ID 19, Page 2, Line 7, Pos (12,5)
+#. ID 19, Page 3, Line 8, Pos (12,5)
+msgid "バラの花が　元気になった！"
+msgstr "The rose returned to health!"
+
+#. ID 19, Page 2, Line 2, Pos (12,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"バラを活ける\n"
+"活けない\n"
+"青いバラを活ける"
+msgstr ""
+"Place rose\n"
+"Don't place\n"
+"Place Blue Rose"
+
+#. ID 19, Page 2, Line 15, Pos (12,5)
+msgid "青いバラの花が　元気になった！"
+msgstr "The Blue Rose returned to health!"
+
+#. ID 20, Page 1, Line 1, Pos (14,4)
+msgid "『永遠の恵み』"
+msgstr "\"Eternal Blessing\""
+
+#. ID 27, Page 1, Line 1, Pos (20,17)
+#. ID 28, Page 1, Line 1, Pos (21,17)
+msgid "『心の傷』"
+msgstr "\"Heart Wounds\""
+
+#. ID 29, Page 1, Line 1, Pos (7,17)
+#. ID 30, Page 1, Line 1, Pos (8,17)
+msgid "『タバコを吸う？？』"
+msgstr "\"Smoking ???\""
+
+#. ID 29, Page 2, Line 1, Pos (7,17)
+#. ID 30, Page 2, Line 1, Pos (8,17)
+msgid "『タバコを吸う紳士』"
+msgstr "\"Smoking Aristocrat\""
+
+#. ID 31, Page 1, Line 1, Pos (6,28)
+msgid "『うん』"
+msgstr "\"Shut\""
+

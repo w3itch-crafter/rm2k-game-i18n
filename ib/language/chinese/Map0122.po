@@ -1,0 +1,398 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 4, Pos (11,28)
+#. Contains choice at line 2 (2 options)
+#. ID 3, Page 1, Line 21, Pos (11,28)
+#. ID 3, Page 6, Line 11, Pos (11,28)
+msgid "真っ暗で　何も見えない……"
+msgstr "一片漆黑，什麼都看不到……"
+
+#. ID 3, Page 1, Line 5, Pos (11,28)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ライターを使う\n"
+"諦めて出る"
+msgstr ""
+"使用打火機\n"
+"放棄離開"
+
+#. ID 3, Page 1, Line 14, Pos (11,28)
+msgid "火が　つかない………"
+msgstr "火點不著………"
+
+#. ID 3, Page 2, Line 5, Pos (11,28)
+msgid ""
+"\n"
+"「うわ　真っ暗ね……\n"
+"　このまま　進むのは　危ないわ」"
+msgstr ""
+"\n"
+"「嗚哇，一片漆黑呢……\n"
+"　就這樣前進太危險了。」"
+
+#. ID 3, Page 2, Line 9, Pos (11,28)
+msgid ""
+"\n"
+"「そうだわ　こういう時こそ\n"
+"　ライターを……」"
+msgstr ""
+"\n"
+"「對了，這種時候\n"
+"　就是打火機出場的……」"
+
+#. ID 3, Page 2, Line 20, Pos (11,28)
+msgid ""
+"\n"
+"「あれ？」"
+msgstr ""
+"\n"
+"「咦？」"
+
+#. ID 3, Page 2, Line 32, Pos (11,28)
+msgid ""
+"\n"
+"「………ごめん　イヴ\n"
+"　オイル　切れたみたいだわ……」"
+msgstr ""
+"\n"
+"「………對不起，Ib，\n"
+"　燃油好像用完了耶……」"
+
+#. ID 3, Page 2, Line 36, Pos (11,28)
+msgid ""
+"\n"
+"「とりあえず　いったん出ましょ\n"
+"　ここで襲われたら　危険だわ」"
+msgstr ""
+"\n"
+"「總之我們暫時先出去吧，\n"
+"　要是在這裡被襲擊就危險了。」"
+
+#. ID 3, Page 3, Line 4, Pos (11,28)
+msgid ""
+"\n"
+"「イヴ！\n"
+"　ここは　後回しにしましょ」"
+msgstr ""
+"\n"
+"「Ib！\n"
+"　這邊之後再來吧。」"
+
+#. ID 3, Page 4, Line 4, Pos (11,28)
+msgid ""
+"\n"
+"「イヴ　見て！\n"
+"　さっきの蝋燭の絵から　灯りが……」"
+msgstr ""
+"\n"
+"「Ib，妳看！\n"
+"　光線從剛才那幅蠟燭的畫裡……」"
+
+#. ID 3, Page 4, Line 8, Pos (11,28)
+msgid ""
+"\n"
+"「どういう原理か　わかんないけど\n"
+"　足元くらいは　見えるかも……」"
+msgstr ""
+"\n"
+"「雖然不清楚是什麼原理造成的，\n"
+"　但這樣至少可以看到腳邊吧……」"
+
+#. ID 3, Page 4, Line 12, Pos (11,28)
+msgid ""
+"\n"
+"「気をつけて　進みましょ！」"
+msgstr ""
+"\n"
+"「小心前進吧！」"
+
+#. ID 3, Page 4, Line 18, Pos (11,28)
+msgid "ロウソクの絵が　足元を照らしている……"
+msgstr "蠟燭的畫照亮著腳邊……"
+
+#. ID 3, Page 6, Line 5, Pos (11,28)
+msgid ""
+"\n"
+"「灯りが　なくなっちゃったから\n"
+"　ここはもう　入らないでおきましょ」"
+msgstr ""
+"\n"
+"「因為火光消失了，\n"
+"　所以不要再進來這邊了吧。」"
+
+#. ID 5, Page 1, Line 1, Pos (22,20)
+#. ID 16, Page 1, Line 1, Pos (20,21)
+#. ID 17, Page 1, Line 1, Pos (19,21)
+#. ID 18, Page 1, Line 1, Pos (21,20)
+msgid "何かが　割れている……"
+msgstr "什麼東西碎掉了……"
+
+#. ID 6, Page 1, Line 2, Pos (14,25)
+#. ID 6, Page 1, Line 7, Pos (14,25)
+msgid "キャンバスに　赤色の数字が書かれている……"
+msgstr "畫布上寫著紅色的數字……"
+
+#. ID 6, Page 1, Line 3, Pos (14,25)
+#. ID 6, Page 1, Line 8, Pos (14,25)
+msgid "『\\c[5]７\\c[0]』"
+msgstr "『\\c[5]７\\c[0]』"
+
+#. ID 7, Page 1, Line 2, Pos (27,18)
+#. ID 7, Page 1, Line 7, Pos (27,18)
+msgid "キャンバスに　青色の数字が書かれている……"
+msgstr "畫布上寫著藍色的數字……"
+
+#. ID 7, Page 1, Line 3, Pos (27,18)
+#. ID 7, Page 1, Line 8, Pos (27,18)
+msgid "『\\c[10]２\\c[0]』"
+msgstr "『\\c[10]２\\c[0]』"
+
+#. ID 8, Page 1, Line 2, Pos (27,26)
+#. ID 8, Page 1, Line 7, Pos (27,26)
+msgid "キャンバスに　緑色の数字が書かれている……"
+msgstr "畫布上寫著綠色的數字……"
+
+#. ID 8, Page 1, Line 3, Pos (27,26)
+#. ID 8, Page 1, Line 8, Pos (27,26)
+msgid "『\\c[18]１\\c[0]』"
+msgstr "『\\c[18]１\\c[0]』"
+
+#. ID 9, Page 1, Line 2, Pos (18,18)
+#. ID 9, Page 1, Line 7, Pos (18,18)
+msgid "キャンバスに　黄色の数字が書かれている……"
+msgstr "畫布上寫著黃色的數字……"
+
+#. ID 9, Page 1, Line 3, Pos (18,18)
+#. ID 9, Page 1, Line 8, Pos (18,18)
+msgid "『\\c[4]３\\c[0]』"
+msgstr "『\\c[4]３\\c[0]』"
+
+#. ID 10, Page 1, Line 2, Pos (23,22)
+#. ID 10, Page 1, Line 7, Pos (23,22)
+msgid "キャンバスに　紫色の数字が書かれている……"
+msgstr "畫布上寫著紫色的數字……"
+
+#. ID 10, Page 1, Line 3, Pos (23,22)
+#. ID 10, Page 1, Line 8, Pos (23,22)
+msgid "『\\c[16]９\\c[0]』"
+msgstr "『\\c[16]９\\c[0]』"
+
+#. ID 11, Page 1, Line 2, Pos (18,23)
+#. ID 11, Page 1, Line 7, Pos (18,23)
+msgid "キャンバスに　オレンジ色の数字が書かれている……"
+msgstr "畫布上寫著橘色的數字……"
+
+#. ID 11, Page 1, Line 3, Pos (18,23)
+#. ID 11, Page 1, Line 8, Pos (18,23)
+msgid "『\\c[2]８\\c[0]』"
+msgstr "『\\c[2]８\\c[0]』"
+
+#. ID 12, Page 1, Line 2, Pos (15,17)
+#. ID 12, Page 2, Line 2, Pos (15,17)
+msgid "『恨みの正体』"
+msgstr "『怨恨的真面目』"
+
+#. ID 12, Page 1, Line 3, Pos (15,17)
+#. Contains choice at line 2 (2 options)
+#. ID 12, Page 2, Line 3, Pos (15,17)
+#. Contains choice at line 2 (2 options)
+#. ID 14, Page 2, Line 4, Pos (25,17)
+#. Contains choice at line 2 (2 options)
+msgid "……暗くて　絵がよく見えない……"
+msgstr ""
+
+#. ID 12, Page 1, Line 4, Pos (15,17)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 2, Line 4, Pos (15,17)
+#. Choice (2 options, embedded in a message)
+#. ID 14, Page 1, Line 5, Pos (25,17)
+#. Choice (2 options, embedded in a message)
+#. ID 14, Page 2, Line 5, Pos (25,17)
+#. Choice (2 options, embedded in a message)
+#. ID 23, Page 1, Line 4, Pos (20,17)
+#. Choice (2 options, embedded in a message)
+#. ID 23, Page 2, Line 4, Pos (20,17)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ロウソクの絵をかかげてみる\n"
+"何もしない"
+msgstr ""
+"把蠟燭的畫舉高看看\n"
+"什麼都不做"
+
+#. ID 12, Page 1, Line 18, Pos (15,17)
+msgid ""
+"\n"
+"「……………」"
+msgstr ""
+"\n"
+"「……………」"
+
+#. ID 12, Page 2, Line 12, Pos (15,17)
+msgid ""
+"\n"
+"「さっきの　赤いやつ\n"
+"　どこに　行ったのかしら……」"
+msgstr ""
+"\n"
+"「剛才那個紅色的東西\n"
+"　跑到哪裡去了呢……」"
+
+#. ID 12, Page 2, Line 20, Pos (15,17)
+msgid "何もない……"
+msgstr "什麼都沒有……"
+
+#. ID 14, Page 1, Line 2, Pos (25,17)
+msgid "『？？』"
+msgstr "『？？』"
+
+#. ID 14, Page 1, Line 3, Pos (25,17)
+msgid "難しくて　読めない字がある……"
+msgstr "有些字太難了，看不懂……"
+
+#. ID 14, Page 1, Line 4, Pos (25,17)
+#. Contains choice at line 2 (2 options)
+msgid "……暗くて　絵もよく見えない……"
+msgstr ""
+
+#. ID 14, Page 2, Line 2, Pos (25,17)
+msgid "『葡萄』"
+msgstr "『葡萄』"
+
+#. ID 14, Page 2, Line 12, Pos (25,17)
+msgid ""
+"\n"
+"「ぶどう　って読むのよ\n"
+"　ワインとかに　使われる果物ね」"
+msgstr ""
+"\n"
+"「這個唸做『葡萄』喔，\n"
+"　是可以用來釀製紅酒的水果。」"
+
+#. ID 15, Page 1, Line 11, Pos (20,20)
+#. ID 15, Page 1, Line 59, Pos (20,20)
+msgid ""
+"\n"
+"「ギャ―――ッ！！」"
+msgstr ""
+"\n"
+"「呀啊──────！！」"
+
+#. ID 15, Page 1, Line 17, Pos (20,20)
+#. Contains choice at line 3 (2 options)
+#. ID 15, Page 1, Line 65, Pos (20,20)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「ビックリしたぁ……イヴ　大丈夫？」"
+msgstr ""
+"\n"
+"「嚇死人了……Ib，妳還好吧？」"
+
+#. ID 15, Page 1, Line 19, Pos (20,20)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 1, Line 67, Pos (20,20)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"大丈夫\n"
+"ギャリーの声にビックリ"
+msgstr ""
+"沒問題\n"
+"被Garry的尖叫嚇到了"
+
+#. ID 15, Page 1, Line 22, Pos (20,20)
+#. ID 15, Page 1, Line 70, Pos (20,20)
+msgid ""
+"\n"
+"「そう……すごいわね　アンタって\n"
+"　アタシなんか\n"
+"　口から心臓　出るかと思ったわ」"
+msgstr ""
+"\n"
+"「是嗎……妳還真是厲害耶，\n"
+"　哪像人家，還以為心臟\n"
+"　會從嘴巴裡跳出來呢。」"
+
+#. ID 15, Page 1, Line 27, Pos (20,20)
+#. ID 15, Page 1, Line 75, Pos (20,20)
+msgid ""
+"\n"
+"「……いや　喉くらいまで　出たわ」"
+msgstr ""
+"\n"
+"「……不，應該有跳到喉嚨吧。」"
+
+#. ID 15, Page 1, Line 32, Pos (20,20)
+#. ID 15, Page 1, Line 80, Pos (20,20)
+msgid ""
+"\n"
+"「あぁ……ごめんなさいね\n"
+"　驚くと　つい叫んじゃって」"
+msgstr ""
+"\n"
+"「啊啊……對不起啊，\n"
+"　人家只要被嚇到就會忍不住大叫。」"
+
+#. ID 15, Page 1, Line 36, Pos (20,20)
+#. ID 15, Page 1, Line 84, Pos (20,20)
+msgid ""
+"\n"
+"「むしろ　アンタはよく\n"
+"　叫ばないで　いるわよね……」"
+msgstr ""
+"\n"
+"「倒是妳，\n"
+"　真能忍住尖叫呢……」"
+
+#. ID 15, Page 1, Line 40, Pos (20,20)
+#. ID 15, Page 1, Line 88, Pos (20,20)
+msgid ""
+"\n"
+"「ま　いいわ\n"
+"　ゆっくり　進みましょ」"
+msgstr ""
+"\n"
+"「唉，算了。\n"
+"　慢慢前進吧。」"
+
+#. ID 23, Page 1, Line 2, Pos (20,17)
+msgid "『時計の目覚まし』"
+msgstr "『時鐘的鬧鐘』"
+
+#. ID 23, Page 1, Line 3, Pos (20,17)
+#. Contains choice at line 2 (2 options)
+#. ID 23, Page 2, Line 3, Pos (20,17)
+#. Contains choice at line 2 (2 options)
+msgid "……暗くて　よく見えない……"
+msgstr "……太暗了，看不清楚……"
+
+#. ID 23, Page 1, Line 8, Pos (20,17)
+#. Contains choice at line 2 (2 options)
+msgid "スイッチがある……"
+msgstr "有個開關……"
+
+#. ID 23, Page 1, Line 9, Pos (20,17)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"スイッチを切り替える\n"
+"そのままにしておく"
+msgstr ""
+"切換開關\n"
+"就這樣放著不管它"
+
+#. ID 23, Page 2, Line 2, Pos (20,17)
+msgid "『スイッチ』"
+msgstr "『開關』"
+
+#. ID 23, Page 2, Line 8, Pos (20,17)
+msgid "切り替わった　スイッチがある……"
+msgstr "有個切換過的開關……"
+

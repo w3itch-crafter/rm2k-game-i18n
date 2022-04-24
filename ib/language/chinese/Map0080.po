@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 1, Pos (9,4)
+msgid "誰かの　肖像画がある……"
+msgstr "某個人的肖像畫……"
+
+#. ID 3, Page 1, Line 2, Pos (4,5)
+#. ID 4, Page 1, Line 2, Pos (5,5)
+#. ID 4, Page 2, Line 2, Pos (5,5)
+msgid "本棚がある……"
+msgstr "有一座書櫃……"
+
+#. ID 3, Page 1, Line 6, Pos (4,5)
+#. ID 4, Page 1, Line 6, Pos (5,5)
+msgid ""
+"\n"
+"「なにこれ　絵本ばっかり……」"
+msgstr ""
+"\n"
+"「這是什麼，放的全都是繪本……」"
+
+#. ID 4, Page 2, Line 6, Pos (5,5)
+msgid ""
+"\n"
+"「なにこれ　絵本ばっかり……ん？」"
+msgstr ""
+"\n"
+"「這是什麼，放的全都是繪本……\n"
+"　嗯？」"
+
+#. ID 4, Page 2, Line 9, Pos (5,5)
+#, fuzzy
+msgid "絵本の表紙に　星の記号が描かれている……"
+msgstr "繪本的封面，畫著星星的圖案……"
+
+#. ID 4, Page 2, Line 12, Pos (5,5)
+#, fuzzy
+msgid ""
+"\n"
+"「中身も星しか　描かれてないわ……」"
+msgstr ""
+"\n"
+"「裡面也只畫了星星呢……」"
+
+#. ID 5, Page 1, Line 1, Pos (13,4)
+msgid "動いていない　時計がある……"
+msgstr "不會動的時鐘……"
+

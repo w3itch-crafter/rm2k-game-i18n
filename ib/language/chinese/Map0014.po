@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 1, Line 1, Pos (13,24)
+msgid "「ぼく　アリ」"
+msgstr "「我是　螞蟻」"
+
+#. ID 6, Page 1, Line 2, Pos (13,24)
+msgid ""
+"「ぼく　絵　だいすき\n"
+"　ぼくの　絵　かっこいい」"
+msgstr ""
+"「我　最喜歡　畫\n"
+"　我的　畫　好帥」"
+
+#. ID 6, Page 1, Line 4, Pos (13,24)
+msgid ""
+"「ぼくの　絵　見たいけど\n"
+"　ちょっと　遠い　とこにある」"
+msgstr ""
+"「雖然　想看看我的畫\n"
+"　但是它放在　有點遠的地方」"
+
+#. ID 6, Page 2, Line 1, Pos (13,24)
+msgid "「あ　それ　ぼくの　絵」"
+msgstr "「啊　這是　我的畫」"
+
+#. ID 6, Page 2, Line 2, Pos (13,24)
+msgid "「やっぱり　かっこいい」"
+msgstr "「果然　很帥」"
+
+#. ID 6, Page 2, Line 3, Pos (13,24)
+msgid "「うっとり」"
+msgstr "「真陶醉」"
+
+#. ID 6, Page 3, Line 1, Pos (13,24)
+msgid "「ぼくの　絵　どうなった」"
+msgstr "「我的　畫　怎麼了」"
+
+#. ID 6, Page 4, Line 3, Pos (13,24)
+msgid ""
+"\n"
+"「………なにかしら\n"
+"　この　黒いの……ゴミ？」"
+msgstr ""
+"\n"
+"「………這是什麼啊？\n"
+"　這個黑黑的……垃圾？」"
+
+#. ID 6, Page 4, Line 7, Pos (13,24)
+msgid "「なんだ　おまえ」"
+msgstr "「你是　哪根蔥」"
+
+#. ID 6, Page 4, Line 8, Pos (13,24)
+msgid "「でかいくせに　なまいき」"
+msgstr "「明明長得那麼高　講話卻那麼幼稚」"
+
+#. ID 6, Page 4, Line 11, Pos (13,24)
+msgid ""
+"\n"
+"「んな……！？」"
+msgstr ""
+"\n"
+"「什麼……！？」"
+
+#. ID 6, Page 4, Line 14, Pos (13,24)
+msgid ""
+"「ぼく　絵　さがしてる\n"
+"　いそがしいから　あっちいけ」"
+msgstr ""
+"「我　在找　畫\n"
+"　很忙的　你滾開」"
+
+#. ID 6, Page 4, Line 18, Pos (13,24)
+msgid ""
+"\n"
+"「……………」"
+msgstr ""
+"\n"
+"「……………」"
+
+#. ID 6, Page 4, Line 20, Pos (13,24)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「……イヴ　コイツ踏んでいい？」"
+msgstr ""
+"\n"
+"「……Ib，可以踩這傢伙嗎？」"
+
+#. ID 6, Page 4, Line 22, Pos (13,24)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ダメ\n"
+"かわいそう"
+msgstr ""
+"不可以\n"
+"這樣牠好可憐"
+
+#. ID 6, Page 4, Line 25, Pos (13,24)
+msgid ""
+"\n"
+"「………わかったわよ………」"
+msgstr ""
+"\n"
+"「………人家知道了啦………」"
+
+#. ID 6, Page 4, Line 30, Pos (13,24)
+msgid ""
+"\n"
+"「仕方ないわね……許してあげましょ」"
+msgstr ""
+"\n"
+"「真沒辦法呢……那就原諒牠吧。」"
+
+#. ID 6, Page 5, Line 1, Pos (13,24)
+msgid "「ぼくの　絵　どこかな」"
+msgstr "「我的　畫　在哪呢」"
+
+#. ID 18, Page 1, Line 1, Pos (4,21)
+msgid "“はし　に　ちゅうい”"
+msgstr "“注意　邊邊”"
+
+#. ID 19, Page 1, Line 2, Pos (14,4)
+msgid "カギが　かかっている……"
+msgstr "門鎖住了……"
+
+#. ID 19, Page 2, Line 2, Pos (14,4)
+msgid "緑のカギを　使った。"
+msgstr "使用　綠色鑰匙。"
+
+#. ID 25, Page 1, Line 1, Pos (8,21)
+msgid "テントウムシの絵が　飾ってある……"
+msgstr "掛著一幅瓢蟲的畫……"
+
+#. ID 33, Page 1, Line 1, Pos (9,4)
+#. ID 33, Page 2, Line 1, Pos (9,4)
+msgid "アリの絵が　飾ってある……"
+msgstr "掛著一幅螞蟻的畫……"
+
+#. ID 33, Page 2, Line 2, Pos (9,4)
+msgid "………？"
+msgstr "………？"
+
+#. ID 33, Page 2, Line 3, Pos (9,4)
+#. Contains choice at line 2 (2 options)
+msgid "この絵は　壁から外れそうだ……"
+msgstr "這幅畫似乎可以從牆上拿下來……"
+
+#. ID 33, Page 2, Line 4, Pos (9,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"外す\n"
+"外さない"
+msgstr ""
+"拿下來\n"
+"不拿下來"
+
+#. ID 33, Page 2, Line 8, Pos (9,4)
+msgid "アリの絵を　手に入れた。"
+msgstr "得到一幅　螞蟻的畫。"
+
+#. ID 34, Page 1, Line 1, Pos (11,21)
+msgid "ハチの絵が　飾ってある……"
+msgstr "掛著一幅蜜蜂的畫……"
+
+#. ID 35, Page 1, Line 1, Pos (14,21)
+msgid "チョウチョの絵が　飾ってある……"
+msgstr "掛著一幅蝴蝶的畫……"
+
+#. ID 36, Page 1, Line 1, Pos (17,21)
+msgid "クモの絵が　飾ってある……"
+msgstr "掛著一幅蜘蛛的畫……"
+

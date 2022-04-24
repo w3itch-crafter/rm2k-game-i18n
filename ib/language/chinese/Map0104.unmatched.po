@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 13, Page 1, Line 231, Pos (9,6)
+msgid ""
+"\n"
+"「喂！Ib！！」"
+msgstr ""
+
+#. ID 13, Page 3, Line 38, Pos (9,6)
+#. ID 13, Page 3, Line 85, Pos (9,6)
+#. ID 51, Page 3, Line 38, Pos (10,6)
+#. ID 51, Page 3, Line 85, Pos (10,6)
+msgid ""
+"\n"
+"「Ib！！」"
+msgstr ""
+
+#. ID 51, Page 1, Line 231, Pos (10,6)
+msgid ""
+"\n"
+"「欸！Ib！！」"
+msgstr ""
+

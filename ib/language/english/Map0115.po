@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 1, Line 2, Pos (17,6)
+msgid "聴きたい曲の番号を　入力してください。"
+msgstr "Input the number of your desired song."
+
+#. ID 7, Page 1, Line 1, Pos (6,7)
+#. Contains choice at line 2 (3 options)
+msgid "パンフレットが置いてある……"
+msgstr "There are pamphlets here..."
+
+#. ID 7, Page 1, Line 2, Pos (6,7)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"真・ゲルテナ展とは？\n"
+"データの引き継ぎについて\n"
+"黒のカギは？"
+msgstr ""
+"True Guertena Exhibit?\n"
+"About data carry-over\n"
+"What about the Black Key?"
+
+#. ID 7, Page 1, Line 5, Pos (6,7)
+msgid ""
+"イヴが　今まで見てきた　美術品を\n"
+"明かりの下で　鑑賞することが　できます。"
+msgstr ""
+"Here, Ib can appreciate all the artwork\n"
+"she's seen thus far in a better light."
+
+#. ID 7, Page 1, Line 8, Pos (6,7)
+msgid ""
+"ただし「イヴ自身」が　美術品の「正式名称」を\n"
+"調べなければ　美術品は展示されません。\n"
+"（読めない　タイトルは\n"
+"ギャリーに読んでもらいましょう）"
+msgstr ""
+"However, the exhibition cannot\n"
+"display any works which Ib herself\n"
+"has not learned the official title of.\n"
+"(Have Garry read those she can't read.)"
+
+#. ID 7, Page 1, Line 13, Pos (6,7)
+msgid ""
+"また　エンディングを１つ　見るごとに\n"
+"真・ゲルテナ展のどこかに\n"
+"キャラクターが　１人出現します。\n"
+"最大で　４人まで増えます。"
+msgstr ""
+"For each new ending you see, an additional\n"
+"character will appear in the true exhibition.\n"
+"There are four characters in total."
+
+#. ID 7, Page 1, Line 20, Pos (6,7)
+#, fuzzy
+msgid ""
+"各エンディングを　見たあとに\n"
+"そのデータのまま　新しくゲームをはじめると\n"
+"今までに見た　美術品やエンディングの記録を\n"
+"引きつぐことができます。"
+msgstr ""
+"By seeing an ending and then\n"
+"starting anew with the same data,\n"
+"your exhibits seen and endings\n"
+"will be carried over."
+
+#. ID 7, Page 1, Line 25, Pos (6,7)
+#, fuzzy
+msgid ""
+"データを引きつぐと　以前調べた美術品や\n"
+"見たエンディング数が　リセットされずに\n"
+"再び　真・ゲルテナ展に来た時に\n"
+"展示されたままに　なります。"
+msgstr ""
+"When data is carried over, your viewed\n"
+"exhibits and endings will not be reset.\n"
+"Upon future visits to the true exhibition,\n"
+"they will remain on display."
+
+#. ID 7, Page 1, Line 30, Pos (6,7)
+#, fuzzy
+msgid ""
+"ただし　引きつぎデータは１つだけなので\n"
+"他のセーブデータを　上書きしたり\n"
+"NEW GAMEからはじめると　消えてしまいます。"
+msgstr ""
+"Be warned that this carry-over\n"
+"data is tied to your save file.\n"
+"If you choose \"New Game\" from the title\n"
+"rather than continuing, it will be lost."
+
+#. ID 7, Page 1, Line 36, Pos (6,7)
+msgid ""
+"黒のカギは　一度使用すれば\n"
+"次からは　手に入れなくても\n"
+"真・ゲルテナ展に　入る事ができます。"
+msgstr ""
+"The Black Key opens the true exhibition.\n"
+"After the key has been used once,\n"
+"you may visit the Guertena exhibition\n"
+"without having to get the key again."
+
+#. ID 7, Page 1, Line 40, Pos (6,7)
+#, fuzzy
+msgid ""
+"ただし　真・ゲルテナ展は\n"
+"イヴが　美術館を脱出した後にしか\n"
+"入れないので　注意しましょう。"
+msgstr ""
+"Note, however, that the exhibition\n"
+"can only be entered after endings\n"
+"where Ib successfully escapes the gallery."
+
+#. ID 13, Page 1, Line 1, Pos (8,7)
+msgid "「真・ゲルテナ展へ　ようこそ」"
+msgstr "\"Welcome to the Guertena exhibition.\""
+
+#. ID 13, Page 1, Line 2, Pos (8,7)
+msgid ""
+"「ここでは　イヴ様が\n"
+"　冒険の中で　見つけた\n"
+"　美術品を　ご覧になれます」"
+msgstr ""
+"\"Here, you may view all the artworks\n"
+"Lady Ib has seen on her adventure.\""
+
+#. ID 13, Page 1, Line 5, Pos (8,7)
+#, fuzzy
+msgid ""
+"「ちなみに……タイトルのついた美術品は\n"
+"　正式な作品名が　おわかりでなければ\n"
+"　展示されないので　ご注意ください」"
+msgstr ""
+"\"However... If an artwork has a title,\n"
+"and she doesn't know the proper name,\n"
+"it won't go up on display.\""
+
+#. ID 13, Page 1, Line 8, Pos (8,7)
+#, fuzzy
+msgid "「それでは　ごゆっくり　お楽しみくださいませ」"
+msgstr "\"Now please, enjoy it at your leisure.\""
+
+#. ID 14, Page 1, Line 1, Pos (0,8)
+#. Contains choice at line 2 (2 options)
+msgid "真・ゲルテナ展を出ますか？"
+msgstr "Leave the true Guertena exhibit?"
+
+#. ID 14, Page 1, Line 2, Pos (0,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"まだ出ない\n"
+"出る"
+msgstr ""
+"Not yet\n"
+"Leave"
+

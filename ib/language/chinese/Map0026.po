@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 7, Page 1, Line 1, Pos (14,22)
+#. ID 8, Page 1, Line 1, Pos (15,22)
+msgid "『息吹』"
+msgstr "『氣息』"
+
+#. ID 12, Page 1, Line 1, Pos (14,7)
+#. ID 13, Page 1, Line 1, Pos (15,7)
+msgid "『？を？る？？』"
+msgstr "『？取？？的？？』"
+
+#. ID 12, Page 1, Line 2, Pos (14,7)
+#. ID 13, Page 1, Line 2, Pos (15,7)
+msgid "難しくて　読めない字がある……"
+msgstr "有些字太難了，看不懂……"
+
+#. ID 12, Page 2, Line 1, Pos (14,7)
+#. ID 13, Page 2, Line 1, Pos (15,7)
+msgid "『魂を啜る群衆』"
+msgstr "『啜取魂魄的群眾』"
+

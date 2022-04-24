@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 11, Page 1, Line 6, Pos (23,8)
+msgid ""
+"\n"
+"「真虧他能夠構思出這樣的作品呢……」"
+msgstr ""
+
+#. ID 11, Page 1, Line 18, Pos (23,8)
+msgid ""
+"\n"
+"「真虧他能夠構思出這樣的作品呢……」\n"
+""
+msgstr ""
+

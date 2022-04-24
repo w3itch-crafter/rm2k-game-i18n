@@ -1,0 +1,497 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 2, Line 3, Pos (10,13)
+#. ID 1, Page 3, Line 3, Pos (10,13)
+#. ID 2, Page 2, Line 3, Pos (11,13)
+#. ID 2, Page 3, Line 3, Pos (11,13)
+msgid ""
+"\n"
+"「下にはもう　何もないと思うわ」"
+msgstr ""
+"\n"
+" I don't think there's\n"
+" anything left below."
+
+#. ID 5, Page 1, Line 14, Pos (14,8)
+#. ID 6, Page 1, Line 14, Pos (10,8)
+#. ID 13, Page 1, Line 14, Pos (11,8)
+msgid ""
+"\n"
+"「待ってよ　イヴ………」"
+msgstr ""
+"\n"
+" Wait, Ib..."
+
+#. ID 5, Page 1, Line 21, Pos (14,8)
+#. ID 6, Page 1, Line 21, Pos (10,8)
+#. ID 13, Page 1, Line 21, Pos (11,8)
+msgid ""
+"\n"
+"「……こっちにも　階段\n"
+"　あったんだ………\n"
+"　わたしも　行く！」"
+msgstr ""
+"\n"
+" ...There's stairs over here too...\n"
+" I'm going with you!"
+
+#. ID 5, Page 2, Line 15, Pos (14,8)
+#. ID 6, Page 2, Line 15, Pos (10,8)
+#. ID 13, Page 2, Line 15, Pos (11,8)
+msgid ""
+"\n"
+"「………イヴ　どこに行くの？」"
+msgstr ""
+"\n"
+" .....Where are you going, Ib?"
+
+#. ID 5, Page 2, Line 22, Pos (14,8)
+#. ID 6, Page 2, Line 22, Pos (10,8)
+#. ID 13, Page 2, Line 22, Pos (11,8)
+msgid ""
+"\n"
+"「なんで１人で　行っちゃうの？\n"
+"　一緒に行こうって　約束したのに……」"
+msgstr ""
+"\n"
+" Why are you going by yourself?\n"
+" We promised we'd be together..."
+
+#. ID 5, Page 2, Line 31, Pos (14,8)
+#. ID 6, Page 2, Line 31, Pos (10,8)
+#. ID 13, Page 2, Line 31, Pos (11,8)
+msgid ""
+"\n"
+"「………ねぇ」"
+msgstr ""
+"\n"
+" .....Right?"
+
+#. ID 5, Page 2, Line 39, Pos (14,8)
+#. ID 6, Page 2, Line 39, Pos (10,8)
+#. ID 13, Page 2, Line 39, Pos (11,8)
+msgid ""
+"\n"
+"「どうして　逃げるの？」"
+msgstr ""
+"\n"
+" Why are you running?"
+
+#. ID 5, Page 2, Line 44, Pos (14,8)
+#. ID 6, Page 2, Line 44, Pos (10,8)
+#. ID 13, Page 2, Line 44, Pos (11,8)
+msgid ""
+"\n"
+"「イヴっ！！」"
+msgstr ""
+"\n"
+" IB!!"
+
+#. ID 5, Page 2, Line 55, Pos (14,8)
+#. ID 6, Page 2, Line 55, Pos (10,8)
+#. ID 13, Page 2, Line 55, Pos (11,8)
+msgid ""
+"\n"
+"「！！」"
+msgstr ""
+"\n"
+" !!"
+
+#. ID 5, Page 2, Line 68, Pos (14,8)
+#. ID 6, Page 2, Line 61, Pos (10,8)
+#. ID 13, Page 2, Line 61, Pos (11,8)
+msgid ""
+"\n"
+"「ちょっと……\n"
+"　何してんのよ　メアリー！」"
+msgstr ""
+"\n"
+" Wha...\n"
+" What are you doing, Mary?!"
+
+#. ID 5, Page 2, Line 72, Pos (14,8)
+#. ID 6, Page 2, Line 65, Pos (10,8)
+#. ID 13, Page 2, Line 65, Pos (11,8)
+msgid ""
+"\n"
+"「うるさいなぁ！\n"
+"　おとなしく　あそこで\n"
+"　待ってれば　良かったのに……！」"
+msgstr ""
+"\n"
+" Shut up!\n"
+" If you had only just been\n"
+" good and waited there...!"
+
+#. ID 5, Page 2, Line 77, Pos (14,8)
+#. ID 6, Page 2, Line 70, Pos (10,8)
+#. ID 13, Page 2, Line 70, Pos (11,8)
+msgid ""
+"\n"
+"「っ………メアリー\n"
+"　アンタ　やっぱり……！」"
+msgstr ""
+"\n"
+" M... Mary...\n"
+" I knew it, you're...!"
+
+#. ID 5, Page 2, Line 81, Pos (14,8)
+#. ID 6, Page 2, Line 74, Pos (10,8)
+#. ID 13, Page 2, Line 74, Pos (11,8)
+msgid ""
+"\n"
+"「離してよっ……\n"
+"　…………きゃ………！」"
+msgstr ""
+"\n"
+" Stay away...\n"
+" .....Yaaah.....!"
+
+#. ID 5, Page 2, Line 98, Pos (14,8)
+msgid ""
+"\n"
+"「………はぁ…………」"
+msgstr ""
+"\n"
+" ....*pant*....."
+
+#. ID 5, Page 2, Line 107, Pos (14,8)
+#. ID 6, Page 2, Line 103, Pos (10,8)
+#. ID 13, Page 2, Line 103, Pos (11,8)
+msgid ""
+"\n"
+"「イヴ！　大丈夫！？\n"
+"　……遅くなって　ごめんね！」"
+msgstr ""
+"\n"
+" Ib! Are you okay?!\n"
+" ...Sorry I'm late!"
+
+#. ID 5, Page 2, Line 122, Pos (14,8)
+#. ID 6, Page 2, Line 118, Pos (10,8)
+#. ID 13, Page 2, Line 118, Pos (11,8)
+msgid ""
+"\n"
+"「わ！　イ　イヴ………」"
+msgstr ""
+"\n"
+" Whoa! I-Ib..."
+
+#. ID 5, Page 2, Line 130, Pos (14,8)
+#. ID 6, Page 2, Line 126, Pos (10,8)
+#. ID 13, Page 2, Line 126, Pos (11,8)
+msgid ""
+"\n"
+"「ごめん……怖かったでしょ\n"
+"　もう　大丈夫だからね……」"
+msgstr ""
+"\n"
+" Sorry... It must have been scary.\n"
+" But it's okay now..."
+
+#. ID 5, Page 2, Line 144, Pos (14,8)
+#. ID 6, Page 2, Line 140, Pos (10,8)
+#. ID 13, Page 2, Line 140, Pos (11,8)
+msgid ""
+"\n"
+"「信じられないかも　しれないけど\n"
+"　メアリーは……人間じゃないのよ」"
+msgstr ""
+"\n"
+" You might not believe me,\n"
+" but Mary... she isn't human."
+
+#. ID 5, Page 2, Line 148, Pos (14,8)
+#. ID 6, Page 2, Line 144, Pos (10,8)
+#. ID 13, Page 2, Line 144, Pos (11,8)
+msgid ""
+"\n"
+"「ゲルテナの作品の一つ……\n"
+"　あの　追いかけてくる絵の女とかと\n"
+"　同じような　物なんだと思う……」"
+msgstr ""
+"\n"
+" She's one of Guertena's works...\n"
+" Just like those painting women\n"
+" who came after us..."
+
+#. ID 5, Page 2, Line 152, Pos (14,8)
+#. ID 6, Page 2, Line 148, Pos (10,8)
+#. ID 13, Page 2, Line 148, Pos (11,8)
+msgid ""
+"\n"
+"「あまりに　普通に接してくるから\n"
+"　気が付かなかったけど……」"
+msgstr ""
+"\n"
+" She treated us so normally,\n"
+" I didn't really notice, but..."
+
+#. ID 5, Page 2, Line 156, Pos (14,8)
+#. ID 6, Page 2, Line 152, Pos (10,8)
+#. ID 13, Page 2, Line 152, Pos (11,8)
+msgid ""
+"\n"
+"「一緒にいると　危険だわ\n"
+"　今も　あと少し遅かったら\n"
+"　危なかった………」"
+msgstr ""
+"\n"
+" It's dangerous to stay with her.\n"
+" Even if I had just been\n"
+" a little later there..."
+
+#. ID 5, Page 2, Line 165, Pos (14,8)
+#. ID 6, Page 2, Line 161, Pos (10,8)
+#. ID 13, Page 2, Line 161, Pos (11,8)
+msgid ""
+"\n"
+"「かわいそうかも　しれないけど\n"
+"　急いで　ここから離れましょ！」"
+msgstr ""
+"\n"
+" You might feel a bit sorry for her...\n"
+" But we need to get away now!"
+
+#. ID 6, Page 2, Line 78, Pos (10,8)
+#. ID 13, Page 2, Line 78, Pos (11,8)
+msgid ""
+"\n"
+"「わ……っ！」"
+msgstr ""
+"\n"
+" Wah...!"
+
+#. ID 6, Page 2, Line 94, Pos (10,8)
+#. ID 13, Page 2, Line 94, Pos (11,8)
+msgid ""
+"\n"
+"「…………………」"
+msgstr ""
+"\n"
+" .........."
+
+#. ID 7, Page 1, Line 11, Pos (11,3)
+msgid ""
+"\n"
+"「ん？　メアリー\n"
+"　なんか落としたわよ」"
+msgstr ""
+"\n"
+" Hm? Mary, you dropped something."
+
+#. ID 7, Page 1, Line 17, Pos (11,3)
+#, fuzzy
+msgid ""
+"\n"
+"「えっ………」"
+msgstr ""
+"\n"
+" Huh.....?"
+
+#. ID 7, Page 1, Line 29, Pos (11,3)
+#, fuzzy
+msgid ""
+"\n"
+"「あれ………この薔薇……」"
+msgstr ""
+"\n"
+" Huh..... this rose..."
+
+#. ID 7, Page 1, Line 43, Pos (11,3)
+#, fuzzy
+msgid ""
+"\n"
+"「触らないでっ！」"
+msgstr ""
+"\n"
+" Don't touch that!"
+
+#. ID 7, Page 1, Line 48, Pos (11,3)
+#, fuzzy
+msgid ""
+"\n"
+"「！？　メアリー！\n"
+"　アンタ　何持って……！」"
+msgstr ""
+"\n"
+" Mary?!\n"
+" What's that you're holding...?!"
+
+#. ID 7, Page 1, Line 52, Pos (11,3)
+#, fuzzy
+msgid ""
+"\n"
+"「返してよっ」"
+msgstr ""
+"\n"
+" Give it BACK!"
+
+#. ID 7, Page 1, Line 63, Pos (11,3)
+#, fuzzy
+msgid ""
+"\n"
+"「な……ちょっと\n"
+"　メ　メア…………！」"
+msgstr ""
+"\n"
+" Wh... Hold on!\n"
+" M-Mar.....!"
+
+#. ID 7, Page 1, Line 67, Pos (11,3)
+#, fuzzy
+msgid ""
+"\n"
+"「さわらないでよ！　わたしのバラ！」"
+msgstr ""
+"\n"
+" Don't touch it! MY rose!"
+
+#. ID 7, Page 1, Line 70, Pos (11,3)
+#, fuzzy
+msgid ""
+"\n"
+"「ちょ　ちょっと\n"
+"　危ないってば……っ！」"
+msgstr ""
+"\n"
+" Wa-Wait, keep that away...!"
+
+#. ID 7, Page 1, Line 74, Pos (11,3)
+#, fuzzy
+msgid ""
+"\n"
+"「あっ………！」"
+msgstr ""
+"\n"
+" Ah.....!"
+
+#. ID 7, Page 1, Line 91, Pos (11,3)
+#, fuzzy
+msgid ""
+"\n"
+"「…………！」"
+msgstr ""
+"\n"
+" .....!"
+
+#. ID 7, Page 1, Line 102, Pos (11,3)
+#, fuzzy
+msgid ""
+"\n"
+"「………メアリー……\n"
+"　そっか　やっぱり……」"
+msgstr ""
+"\n"
+" .....Mary...\n"
+" It's as I thought..."
+
+#. ID 7, Page 1, Line 108, Pos (11,3)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴ　聞いて………」"
+msgstr ""
+"\n"
+" Ib, listen..."
+
+#. ID 7, Page 1, Line 112, Pos (11,3)
+#, fuzzy
+msgid ""
+"\n"
+"「アタシ　思い出したわ……\n"
+"　メアリーの肖像画が　ゲルテナの\n"
+"　作品集に　載ってたの」"
+msgstr ""
+"\n"
+" I remember now...\n"
+" I saw a portrait of Mary in a\n"
+" collection of Guertena's works."
+
+#. ID 7, Page 1, Line 117, Pos (11,3)
+#, fuzzy
+msgid ""
+"\n"
+"「信じられないかも\n"
+"　しれないけど………\n"
+"　メアリーは　人間じゃない」"
+msgstr ""
+"\n"
+" You might not believe it, but...\n"
+" Mary isn't human."
+
+#. ID 7, Page 1, Line 122, Pos (11,3)
+#, fuzzy
+msgid ""
+"\n"
+"「あの　追いかけてきた\n"
+"　絵の女とかと　同じ……」"
+msgstr ""
+"\n"
+" She's just like those painting\n"
+" women who came after us..."
+
+#. ID 7, Page 1, Line 125, Pos (11,3)
+#, fuzzy
+msgid ""
+"\n"
+"「ゲルテナの作品の\n"
+"　一つなんだと　思う」"
+msgstr ""
+"\n"
+" I think she's another one\n"
+" of Guertena's works."
+
+#. ID 7, Page 1, Line 129, Pos (11,3)
+#, fuzzy
+msgid ""
+"\n"
+"「あまりに　普通に接してくるから\n"
+"　気が付かなかったけど……\n"
+"　一緒にいると　危険だわ」"
+msgstr ""
+"\n"
+" She treated us so normally,\n"
+" I didn't really notice, but...\n"
+" It's dangerous to stay with her."
+
+#. ID 7, Page 1, Line 134, Pos (11,3)
+#, fuzzy
+msgid ""
+"\n"
+"「残念だけど……\n"
+"　急いでここから　離れましょ」"
+msgstr ""
+"\n"
+" It's unfortunate...\n"
+" But we'll have to leave her."
+
+#. ID 9, Page 1, Line 1, Pos (8,8)
+#. ID 9, Page 2, Line 1, Pos (8,8)
+msgid "メアリーは　ピクリとも動かない……"
+msgstr "Mary isn't moving a muscle..."
+
+#. ID 11, Page 1, Line 1, Pos (7,8)
+#. ID 12, Page 1, Line 1, Pos (10,9)
+msgid "メアリーのバラが　落ちている……"
+msgstr "Mary's rose is on the ground..."
+
+#. ID 11, Page 1, Line 4, Pos (7,8)
+#. ID 12, Page 1, Line 4, Pos (10,9)
+msgid ""
+"\n"
+"「この薔薇……\n"
+"　本物に見えるけど　造花だわ」"
+msgstr ""
+"\n"
+" This rose...\n"
+" It looks real, but it's a fake."
+

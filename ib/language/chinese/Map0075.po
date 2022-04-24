@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (6,9)
+msgid "こちらからカギを　開けられるみたいだ……"
+msgstr "似乎可以從這邊把鎖打開……"
+
+#. ID 1, Page 1, Line 6, Pos (6,9)
+msgid "カギを開けた……"
+msgstr "將鎖打開了……"
+
+#. ID 4, Page 1, Line 7, Pos (11,6)
+#. ID 5, Page 1, Line 7, Pos (12,6)
+msgid ""
+"\n"
+"「………階段だわ……」"
+msgstr ""
+"\n"
+"「………是樓梯呢……」"
+
+#. ID 4, Page 1, Line 10, Pos (11,6)
+#. ID 5, Page 1, Line 10, Pos (12,6)
+msgid ""
+"\n"
+"「……ここまで　来ちゃったけど\n"
+"　本当に　このまま\n"
+"　進んでいいのかしら………」"
+msgstr ""
+"\n"
+"「……雖然已經來到這裡了，\n"
+"　但是，就這樣繼續前進\n"
+"　真的沒問題嗎………」"
+
+#. ID 4, Page 1, Line 17, Pos (11,6)
+#. ID 5, Page 1, Line 17, Pos (12,6)
+msgid ""
+"\n"
+"「かと言って　戻ったところで\n"
+"　どうにも　ならない気がするし……」"
+msgstr ""
+"\n"
+"「不過，就算再回到原本的地方，\n"
+"　感覺也不能怎樣……」"
+
+#. ID 4, Page 1, Line 21, Pos (11,6)
+#. Contains choice at line 3 (2 options)
+#. ID 5, Page 1, Line 21, Pos (12,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「どうしましょ………」"
+msgstr ""
+"\n"
+"「怎麼辦呢………」"
+
+#. ID 4, Page 1, Line 23, Pos (11,6)
+#. Choice (2 options, embedded in a message)
+#. ID 4, Page 2, Line 9, Pos (11,6)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 1, Line 23, Pos (12,6)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 2, Line 9, Pos (12,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"進まないでおく\n"
+"先へ進む"
+msgstr ""
+"不要繼續往前\n"
+"往前進"
+
+#. ID 4, Page 1, Line 26, Pos (11,6)
+#. ID 4, Page 2, Line 12, Pos (11,6)
+#. ID 5, Page 1, Line 26, Pos (12,6)
+#. ID 5, Page 2, Line 12, Pos (12,6)
+msgid ""
+"\n"
+"「………もうちょっと　この階\n"
+"　調べまわって　みようかしら」"
+msgstr ""
+"\n"
+"「………還是再調查一下\n"
+"　這個地方好了。」"
+
+#. ID 4, Page 1, Line 37, Pos (11,6)
+#. ID 5, Page 1, Line 37, Pos (12,6)
+msgid ""
+"\n"
+"「あぁもう　ホント優柔不断ね！\n"
+"　情けないわよ　アタシったら！」"
+msgstr ""
+"\n"
+"「唉唷真是的，太優柔寡斷啦！\n"
+"　人家真的是有夠沒用的！」"
+
+#. ID 4, Page 1, Line 41, Pos (11,6)
+#. ID 5, Page 1, Line 41, Pos (12,6)
+msgid ""
+"\n"
+"「進める方向に　進む！\n"
+"　それしか　ないじゃない！」"
+msgstr ""
+"\n"
+"「既然可以前進那就走吧！\n"
+"　除此之外也別無他法了嘛！」"
+
+#. ID 4, Page 1, Line 50, Pos (11,6)
+#. ID 4, Page 2, Line 32, Pos (11,6)
+#. ID 5, Page 1, Line 50, Pos (12,6)
+#. ID 5, Page 2, Line 32, Pos (12,6)
+msgid ""
+"\n"
+"「………頼むから　無事でいてよ！」"
+msgstr ""
+"\n"
+"「………拜託了，妳一定要沒事喔！」"
+
+#. ID 4, Page 2, Line 7, Pos (11,6)
+#. Contains choice at line 3 (2 options)
+#. ID 5, Page 2, Line 7, Pos (12,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「さて……どうしましょうか」"
+msgstr ""
+"\n"
+"「接下來……該怎麼辦呢？」"
+
+#. ID 4, Page 2, Line 23, Pos (11,6)
+#. ID 5, Page 2, Line 23, Pos (12,6)
+msgid ""
+"\n"
+"「やっぱり　行ってみましょ\n"
+"　ウロウロしてても　始まらないもの」"
+msgstr ""
+"\n"
+"「還是往前進吧，\n"
+"　一直在這裡猶豫不決也不是辦法。」"
+

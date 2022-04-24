@@ -1,0 +1,425 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (10,6)
+#. ID 1, Page 2, Line 3, Pos (10,6)
+msgid "『うしろは　みえない　よこからはなせ』"
+msgstr ""
+"\"Me can't see you behind.\n"
+"Come to side.\""
+
+#. ID 1, Page 1, Line 5, Pos (10,6)
+#. Contains choice at line 2 (2 options)
+#, fuzzy
+msgid "『オレの　たから　ほしいか？』"
+msgstr "\"Want me treasure?\""
+
+#. ID 1, Page 1, Line 6, Pos (10,6)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"ほしい\n"
+"いらない"
+msgstr ""
+"Want\n"
+"Don't want"
+
+#. ID 1, Page 1, Line 8, Pos (10,6)
+#, fuzzy
+msgid "『かべのナゾ　といたら　はなしかけろ』"
+msgstr "\"Mess up, me bite.\""
+
+#. ID 1, Page 1, Line 9, Pos (10,6)
+msgid "『まちがえたら　かむ』"
+msgstr "\"Solve wall puzzle and we talk.\""
+
+#. ID 1, Page 1, Line 14, Pos (10,6)
+#. ID 1, Page 5, Line 11, Pos (10,6)
+#, fuzzy
+msgid "『あっそ』"
+msgstr "\"Oh really.\""
+
+#. ID 1, Page 2, Line 10, Pos (10,6)
+#. ID 1, Page 2, Line 24, Pos (10,6)
+#. ID 1, Page 2, Line 43, Pos (10,6)
+#, fuzzy
+msgid "『…………………』"
+msgstr "\".....\""
+
+#. ID 1, Page 2, Line 12, Pos (10,6)
+#, fuzzy
+msgid "『よく　わかったな』"
+msgstr "\"Fine, you have me treasure.\""
+
+#. ID 1, Page 2, Line 13, Pos (10,6)
+msgid "『しかたない　オレのたから　やるよ』"
+msgstr "\"You smart.\""
+
+#. ID 1, Page 2, Line 34, Pos (10,6)
+#. ID 1, Page 2, Line 53, Pos (10,6)
+#, fuzzy
+msgid "『かみごたえ　なし』"
+msgstr "\"No guess.\""
+
+#. ID 1, Page 3, Line 8, Pos (10,6)
+msgid ""
+"\n"
+"「なにかしらね　これ……絵？」"
+msgstr ""
+"\n"
+" What could this be...\n"
+" A painting?"
+
+#. ID 1, Page 3, Line 13, Pos (10,6)
+#. ID 1, Page 4, Line 5, Pos (10,6)
+#, fuzzy
+msgid "宝石箱に　何かが入っている……"
+msgstr "There's something in the jewel box..."
+
+#. ID 1, Page 3, Line 17, Pos (10,6)
+#. ID 1, Page 4, Line 7, Pos (10,6)
+#, fuzzy
+msgid "絵画のピースを　手に入れた。"
+msgstr "Obtained a piece of a painting."
+
+#. ID 1, Page 3, Line 22, Pos (10,6)
+#. ID 1, Page 4, Line 12, Pos (10,6)
+#, fuzzy
+msgid "絵画のピースは　消えてしまった……"
+msgstr "The piece vanished..."
+
+#. ID 1, Page 3, Line 28, Pos (10,6)
+#, fuzzy
+msgid ""
+"\n"
+"「わっ　消えた……なんか\n"
+"　絵の具玉の時と　似てるわ」"
+msgstr ""
+"\n"
+" Whoa, it vanished...\n"
+" This reminds me of\n"
+" those balls of paint."
+
+#. ID 1, Page 3, Line 32, Pos (10,6)
+#, fuzzy
+msgid ""
+"\n"
+"「もしかすると　これ\n"
+"　集めると　良いのかも\n"
+"　もっと　探してみましょ　イヴ！」"
+msgstr ""
+"\n"
+" Maybe we ought to\n"
+" collect all of these.\n"
+" Let's keep looking, Ib!"
+
+#. ID 1, Page 5, Line 7, Pos (10,6)
+msgid "『はらのなか　スースーする』"
+msgstr "\"Tummy feel empty.\""
+
+#. ID 1, Page 5, Line 8, Pos (10,6)
+#. Contains choice at line 2 (2 options)
+msgid "『なんかくれ』"
+msgstr "\"Give something.\""
+
+#. ID 1, Page 5, Line 9, Pos (10,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"何もない\n"
+"バラを渡す"
+msgstr ""
+"Do nothing\n"
+"Give rose"
+
+#. ID 1, Page 5, Line 17, Pos (10,6)
+msgid ""
+"\n"
+"「イヴ！　駄目だってば！」"
+msgstr ""
+"\n"
+" Ib! Don't you dare!"
+
+#. ID 1, Page 5, Line 20, Pos (10,6)
+msgid "『じょうだんだ　いらん』"
+msgstr "\"No joke with me.\""
+
+#. ID 1, Page 5, Line 23, Pos (10,6)
+msgid "『いらん』"
+msgstr "\"Don't want.\""
+
+#. ID 1, Page 5, Line 36, Pos (10,6)
+msgid "『ここは　たいくつ』"
+msgstr "\"Me bored here.\""
+
+#. ID 1, Page 5, Line 37, Pos (10,6)
+msgid "『たまに　トリと　あそぶくらいだ』"
+msgstr "\"All me do is play with bird sometimes.\""
+
+#. ID 1, Page 5, Line 41, Pos (10,6)
+msgid "『オレ　むかしは　もっといいものもってたぞ』"
+msgstr "\"Me used to have better things.\""
+
+#. ID 1, Page 5, Line 42, Pos (10,6)
+msgid "『きれいな　いしとか　ゆびわとか』"
+msgstr "\"Pretty rocks and rings.\""
+
+#. ID 1, Page 5, Line 43, Pos (10,6)
+msgid "『もう　ないけどな』"
+msgstr "\"Me not anymore.\""
+
+#. ID 1, Page 5, Line 47, Pos (10,6)
+msgid "『しりとり　しようぜ』"
+msgstr ""
+"\"Play game.\n"
+"Me spy with me little eye.\""
+
+#. ID 1, Page 5, Line 48, Pos (10,6)
+#. Contains choice at line 2 (3 options)
+#, fuzzy
+msgid "『ほうせき』"
+msgstr "\"You say. Something that start with...\""
+
+#. ID 1, Page 5, Line 49, Pos (10,6)
+#. Choice (3 options, embedded in a message)
+#, fuzzy
+msgid ""
+"木の実\n"
+"黄色\n"
+"キリン"
+msgstr ""
+"I\n"
+"G\n"
+"M"
+
+#. ID 1, Page 5, Line 51, Pos (10,6)
+#, fuzzy
+msgid "『み……みかん』"
+msgstr "\"Me give up. You too good.\""
+
+#. ID 1, Page 5, Line 52, Pos (10,6)
+msgid "『あ　オレのまけ』"
+msgstr "\"I...? Nothing start with I.\""
+
+#. ID 1, Page 5, Line 55, Pos (10,6)
+#, fuzzy
+msgid "『ろ……ロマン』"
+msgstr "\"Dang! Me give up.\""
+
+#. ID 1, Page 5, Line 56, Pos (10,6)
+msgid "『なんか　はずかしい　しかもまけた』"
+msgstr "\"G... Gem!\""
+
+#. ID 1, Page 5, Line 57, Pos (10,6)
+msgid "『ちくしょう』"
+msgstr "\"No... not have. Embarrass.\""
+
+#. ID 1, Page 5, Line 61, Pos (10,6)
+#, fuzzy
+msgid ""
+"\n"
+"「ロマンなんて言葉\n"
+"　知ってるのね……」"
+msgstr ""
+"\n"
+" Were you trying to\n"
+" suggest me, Ib...?"
+
+#. ID 1, Page 5, Line 69, Pos (10,6)
+#, fuzzy
+msgid "『ん！　おれのかち』"
+msgstr "\"Me never win before.\""
+
+#. ID 1, Page 5, Line 70, Pos (10,6)
+msgid "『はじめて　かった』"
+msgstr "\"M... Me! Yes! Me win!\""
+
+#. ID 1, Page 5, Line 76, Pos (10,6)
+#, fuzzy
+msgid ""
+"『うえからよんでも　さかさ\n"
+"　したからよんでも　さかさ』"
+msgstr ""
+"\"Read forward, \"refer.\"\n"
+"Read backward, still \"refer.\"\""
+
+#. ID 1, Page 5, Line 78, Pos (10,6)
+#, fuzzy
+msgid "『なんでだ　きになる』"
+msgstr "\"Why? Me want to know.\""
+
+#. ID 3, Page 1, Line 2, Pos (10,10)
+msgid "こちらからカギを　開けられるみたいだ……"
+msgstr "The door can be unlocked from this side..."
+
+#. ID 3, Page 1, Line 6, Pos (10,10)
+msgid "カギを開けた……"
+msgstr "Unlocked the door..."
+
+#. ID 4, Page 1, Line 1, Pos (10,3)
+msgid "“存在しなかった天体は？”"
+msgstr "\"Which heavenly bodies weren't there?\""
+
+#. ID 5, Page 1, Line 2, Pos (10,7)
+msgid "『誘う宝石箱の魔窟』"
+msgstr "\"Jewel Box of Temptation\""
+
+#. ID 5, Page 1, Line 6, Pos (10,7)
+msgid "『誘う宝石箱の？？』"
+msgstr "\"Jewel Box of ???\""
+
+#. ID 5, Page 1, Line 7, Pos (10,7)
+msgid "難しくて　読めない字がある……"
+msgstr "You don't know this word..."
+
+#. ID 6, Page 1, Line 7, Pos (16,8)
+#. ID 6, Page 4, Line 12, Pos (16,8)
+#, fuzzy
+msgid "……バラの花が　散ってしまった……"
+msgstr "...You lost a bunch of petals..."
+
+#. ID 6, Page 2, Line 4, Pos (16,8)
+msgid ""
+"\n"
+"「……イヴ！\n"
+"　イヴお願い　起きて！」"
+msgstr ""
+"\n"
+" ...Ib!\n"
+" Ib, wake up, please!"
+
+#. ID 6, Page 2, Line 14, Pos (16,8)
+msgid ""
+"\n"
+"「………イヴ！\n"
+"　良かった　生きてた……！」"
+msgstr ""
+"\n"
+" ...Ib! Thank goodness\n"
+" you're alive...!"
+
+#. ID 6, Page 2, Line 24, Pos (16,8)
+msgid ""
+"\n"
+"「大丈夫？\n"
+"　どこか痛く……って\n"
+"　痛いに　決まってるわよね」"
+msgstr ""
+"\n"
+" Are you okay?\n"
+" Are you in...\n"
+" Why, of course you're in pain!"
+
+#. ID 6, Page 2, Line 37, Pos (16,8)
+#. Contains choice at line 3 (2 options)
+#. ID 6, Page 2, Line 66, Pos (16,8)
+#. Contains choice at line 3 (2 options)
+#, fuzzy
+msgid ""
+"\n"
+"「でも　良かった……」"
+msgstr ""
+"\n"
+" But... whew..."
+
+#. ID 6, Page 2, Line 39, Pos (16,8)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"バラの花は？\n"
+"ギャリーは？"
+msgstr ""
+"What about my rose?\n"
+"What about Garry?"
+
+#. ID 6, Page 2, Line 42, Pos (16,8)
+#, fuzzy
+msgid ""
+"\n"
+"「奇跡的に……無事だったわ\n"
+"　さすがに　もうダメかと思ったけど」"
+msgstr ""
+"\n"
+" It's fine... miraculously.\n"
+" I thought you were done for..."
+
+#. ID 6, Page 2, Line 46, Pos (16,8)
+#, fuzzy
+msgid ""
+"\n"
+"「花瓶　どこかに\n"
+"　ないかしらね……」"
+msgstr ""
+"\n"
+" Maybe there's a vase around..."
+
+#. ID 6, Page 2, Line 52, Pos (16,8)
+#. ID 6, Page 2, Line 82, Pos (16,8)
+#, fuzzy
+msgid ""
+"\n"
+"「ん　あちこち　痛むけど\n"
+"　一応は　歩けるから　大丈夫よ」"
+msgstr ""
+"\n"
+" Well, it hurts here and there...\n"
+" I should be able to walk it off."
+
+#. ID 6, Page 2, Line 56, Pos (16,8)
+#. ID 6, Page 2, Line 86, Pos (16,8)
+#, fuzzy
+msgid ""
+"\n"
+"「アタシたち……\n"
+"　背後には　もうちょっと\n"
+"　気をつけたほうが　良いわね」"
+msgstr ""
+"\n"
+" We should...\n"
+" certainly watch our backs\n"
+" from now on."
+
+#. ID 6, Page 2, Line 68, Pos (16,8)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"でもバラの花が……\n"
+"ギャリーは？"
+msgstr ""
+"But my rose...\n"
+"What about Garry?"
+
+#. ID 6, Page 2, Line 71, Pos (16,8)
+#, fuzzy
+msgid ""
+"\n"
+"「……仕方ないわよ\n"
+"　あんなに　高いところから\n"
+"　落ちたんだもの」"
+msgstr ""
+"\n"
+" ...Well, I'm not surprised,\n"
+" falling such a distance..."
+
+#. ID 6, Page 2, Line 76, Pos (16,8)
+#, fuzzy
+msgid ""
+"\n"
+"「おもちゃばこでも　そうだったけど\n"
+"　もっと背後に　気をつけなきゃダメね」"
+msgstr ""
+"\n"
+" Just like in the toy box, right?\n"
+" We need to watch our backs."
+
+#. ID 6, Page 4, Line 9, Pos (16,8)
+#, fuzzy
+msgid "……全身が　痛い……"
+msgstr "...Your whole body hurts..."
+

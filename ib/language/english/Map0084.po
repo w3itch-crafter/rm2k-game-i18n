@@ -1,0 +1,921 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 1, Pos (15,9)
+msgid "ドアが凍っていて　開けられない……"
+msgstr "The door is frozen over..."
+
+#. ID 5, Page 1, Line 1, Pos (10,8)
+#. Contains choice at line 2 (3 options)
+#. ID 5, Page 2, Line 1, Pos (10,8)
+#. Contains choice at line 2 (2 options)
+#. ID 5, Page 3, Line 1, Pos (10,8)
+#. Contains choice at line 2 (3 options)
+#. ID 5, Page 4, Line 1, Pos (10,8)
+#. Contains choice at line 2 (2 options)
+#. ID 5, Page 5, Line 1, Pos (10,8)
+#. ID 9, Page 1, Line 1, Pos (13,12)
+#. Contains choice at line 2 (3 options)
+#. ID 9, Page 2, Line 1, Pos (13,12)
+#. Contains choice at line 2 (2 options)
+#. ID 9, Page 3, Line 1, Pos (13,12)
+msgid "太陽の光が当たって　暖かい……"
+msgstr "It's warm in the sunlight..."
+
+#. ID 5, Page 1, Line 2, Pos (10,8)
+#. Choice (3 options, embedded in a message)
+#. ID 5, Page 3, Line 2, Pos (10,8)
+#. Choice (3 options, embedded in a message)
+#. ID 9, Page 1, Line 2, Pos (13,12)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"ギャリーと話す\n"
+"しばらくじっとしている\n"
+"鏡を置いてみる"
+msgstr ""
+"Talk with Garry\n"
+"Stand still\n"
+"Put down mirror"
+
+#. ID 5, Page 1, Line 9, Pos (10,8)
+#. ID 5, Page 2, Line 9, Pos (10,8)
+#. ID 5, Page 3, Line 8, Pos (10,8)
+#. ID 5, Page 4, Line 8, Pos (10,8)
+#. ID 9, Page 1, Line 9, Pos (13,12)
+#. ID 9, Page 2, Line 9, Pos (13,12)
+msgid ""
+"\n"
+"「それにしても　ずいぶん\n"
+"　進んできたわよね　アタシたち」"
+msgstr ""
+"\n"
+" I have to say, we've come\n"
+" a long way, us two..."
+
+#. ID 5, Page 1, Line 13, Pos (10,8)
+#. ID 5, Page 2, Line 13, Pos (10,8)
+#. ID 5, Page 3, Line 12, Pos (10,8)
+#. ID 5, Page 4, Line 12, Pos (10,8)
+#. ID 9, Page 1, Line 13, Pos (13,12)
+#. ID 9, Page 2, Line 13, Pos (13,12)
+msgid ""
+"\n"
+"「いつになったら　出られるのかしら\n"
+"　いい加減　足が痛くなってきたわ」"
+msgstr ""
+"\n"
+" I wonder when we'll get out?\n"
+" My feet are starting to get sore..."
+
+#. ID 5, Page 1, Line 17, Pos (10,8)
+#. ID 5, Page 2, Line 17, Pos (10,8)
+#. ID 5, Page 3, Line 16, Pos (10,8)
+#. ID 5, Page 4, Line 16, Pos (10,8)
+#. ID 9, Page 1, Line 17, Pos (13,12)
+#. ID 9, Page 2, Line 17, Pos (13,12)
+msgid ""
+"\n"
+"「はぁ………」"
+msgstr ""
+"\n"
+" Sigh..."
+
+#. ID 5, Page 1, Line 26, Pos (10,8)
+#. ID 5, Page 2, Line 26, Pos (10,8)
+#. ID 5, Page 3, Line 24, Pos (10,8)
+#. ID 5, Page 4, Line 24, Pos (10,8)
+#. ID 9, Page 1, Line 26, Pos (13,12)
+#. ID 9, Page 2, Line 26, Pos (13,12)
+msgid ""
+"\n"
+"「あー　暖かいわね……\n"
+"　でもこれ　偽物の陽光よね？」"
+msgstr ""
+"\n"
+" Ah, it's warm...\n"
+" But this is a fake sun, isn't it?"
+
+#. ID 5, Page 1, Line 30, Pos (10,8)
+#. ID 5, Page 2, Line 30, Pos (10,8)
+#. ID 5, Page 3, Line 28, Pos (10,8)
+#. ID 5, Page 4, Line 28, Pos (10,8)
+#. ID 9, Page 1, Line 30, Pos (13,12)
+#. ID 9, Page 2, Line 30, Pos (13,12)
+msgid ""
+"\n"
+"「早く　本物の空の下に\n"
+"　出たいもんだわ……」"
+msgstr ""
+"\n"
+" I hope we get to see\n"
+" a real sky again soon..."
+
+#. ID 5, Page 1, Line 40, Pos (10,8)
+#. ID 5, Page 2, Line 40, Pos (10,8)
+#. ID 5, Page 3, Line 37, Pos (10,8)
+#. ID 5, Page 4, Line 37, Pos (10,8)
+#. ID 9, Page 1, Line 40, Pos (13,12)
+#. ID 9, Page 2, Line 40, Pos (13,12)
+msgid ""
+"\n"
+"「色んな絵が　動いたり\n"
+"　飛び出したり　したのを\n"
+"　見てきたけどさ……」"
+msgstr ""
+"\n"
+" You know, after seeing all\n"
+" the moving paintings\n"
+" and things jumping out..."
+
+#. ID 5, Page 1, Line 45, Pos (10,8)
+#. ID 5, Page 2, Line 45, Pos (10,8)
+#. ID 5, Page 3, Line 42, Pos (10,8)
+#. ID 5, Page 4, Line 42, Pos (10,8)
+#. ID 9, Page 1, Line 45, Pos (13,12)
+#. ID 9, Page 2, Line 45, Pos (13,12)
+msgid ""
+"\n"
+"「なんか　絵が動くことに\n"
+"　驚かなくなっちゃったわよね\n"
+"　本当だったら　あり得ないでしょ」"
+msgstr ""
+"\n"
+" I'm hardly even surprised to\n"
+" see a moving painting now.\n"
+" Crazy, isn't it?"
+
+#. ID 5, Page 1, Line 50, Pos (10,8)
+#. ID 5, Page 2, Line 50, Pos (10,8)
+#. ID 5, Page 3, Line 47, Pos (10,8)
+#. ID 5, Page 4, Line 47, Pos (10,8)
+#. ID 9, Page 1, Line 50, Pos (13,12)
+#. ID 9, Page 2, Line 50, Pos (13,12)
+msgid ""
+"\n"
+"「トリック・アートもメじゃないわよ」"
+msgstr ""
+"\n"
+" Trick art is nothing special, huh?"
+
+#. ID 5, Page 1, Line 59, Pos (10,8)
+#. ID 5, Page 2, Line 59, Pos (10,8)
+#. ID 5, Page 3, Line 55, Pos (10,8)
+#. ID 5, Page 4, Line 55, Pos (10,8)
+#. ID 9, Page 1, Line 59, Pos (13,12)
+#. ID 9, Page 2, Line 59, Pos (13,12)
+msgid ""
+"\n"
+"「イヴさぁ……\n"
+"　マカロンって知ってる？」"
+msgstr ""
+"\n"
+" Say, Ib...\n"
+" Have you heard of macarons?"
+
+#. ID 5, Page 1, Line 63, Pos (10,8)
+#. ID 5, Page 2, Line 63, Pos (10,8)
+#. ID 5, Page 3, Line 59, Pos (10,8)
+#. ID 5, Page 4, Line 59, Pos (10,8)
+#. ID 9, Page 1, Line 63, Pos (13,12)
+#. ID 9, Page 2, Line 63, Pos (13,12)
+msgid ""
+"\n"
+"「ハンバーガーみたいな\n"
+"　形の　お菓子なんだけど」"
+msgstr ""
+"\n"
+" They're these pastries\n"
+" shaped like hamburgers."
+
+#. ID 5, Page 1, Line 67, Pos (10,8)
+#. ID 5, Page 2, Line 67, Pos (10,8)
+#. ID 5, Page 3, Line 63, Pos (10,8)
+#. ID 5, Page 4, Line 63, Pos (10,8)
+#. ID 9, Page 1, Line 67, Pos (13,12)
+#. ID 9, Page 2, Line 67, Pos (13,12)
+msgid ""
+"\n"
+"「この間　そのマカロンが\n"
+"　すっごく　美味しい\n"
+"　喫茶店を　見つけちゃって！」"
+msgstr ""
+"\n"
+" And just the other day,\n"
+" I had one at a cafe,\n"
+" and it was sooo tasty!"
+
+#. ID 5, Page 1, Line 72, Pos (10,8)
+#. ID 5, Page 2, Line 72, Pos (10,8)
+#. ID 5, Page 3, Line 68, Pos (10,8)
+#. ID 5, Page 4, Line 68, Pos (10,8)
+#. ID 9, Page 1, Line 72, Pos (13,12)
+#. ID 9, Page 2, Line 72, Pos (13,12)
+msgid ""
+"\n"
+"「これがホントに　美味しいのよ～\n"
+"　クリームも　甘すぎないし」"
+msgstr ""
+"\n"
+" It was really, really good!\n"
+" Even the cream wasn't too sweet!"
+
+#. ID 5, Page 1, Line 75, Pos (10,8)
+#. ID 5, Page 2, Line 75, Pos (10,8)
+#. ID 5, Page 3, Line 71, Pos (10,8)
+#. ID 5, Page 4, Line 71, Pos (10,8)
+#. ID 9, Page 1, Line 75, Pos (13,12)
+#. ID 9, Page 2, Line 75, Pos (13,12)
+msgid ""
+"\n"
+"「でさー　もしここ出られたら\n"
+"　いつか一緒に　行ってみない？\n"
+"　……………いや」"
+msgstr ""
+"\n"
+" So, uh, if we get out of here,\n"
+" could we go there together?\n"
+" ..........No, wait."
+
+#. ID 5, Page 1, Line 80, Pos (10,8)
+#. ID 5, Page 2, Line 80, Pos (10,8)
+#. ID 5, Page 3, Line 76, Pos (10,8)
+#. ID 5, Page 4, Line 76, Pos (10,8)
+#. ID 9, Page 1, Line 80, Pos (13,12)
+#. ID 9, Page 2, Line 80, Pos (13,12)
+msgid ""
+"\n"
+"「絶対行きましょ！\n"
+"　必ず　ここを出て！　約束よ！」"
+msgstr ""
+"\n"
+" We WILL be going there!\n"
+" And we will get out! I promise!"
+
+#. ID 5, Page 1, Line 90, Pos (10,8)
+#. ID 5, Page 2, Line 90, Pos (10,8)
+#. ID 5, Page 3, Line 85, Pos (10,8)
+#. ID 5, Page 4, Line 85, Pos (10,8)
+#. ID 9, Page 1, Line 90, Pos (13,12)
+#. ID 9, Page 2, Line 90, Pos (13,12)
+msgid ""
+"\n"
+"「さっきの　パンドラの箱から\n"
+"　なんか　飛び出していったわよね？」"
+msgstr ""
+"\n"
+" You saw that stuff flying out of\n"
+" \"Pandora's Box\" earlier, right?"
+
+#. ID 5, Page 1, Line 94, Pos (10,8)
+#. ID 5, Page 2, Line 94, Pos (10,8)
+#. ID 5, Page 3, Line 89, Pos (10,8)
+#. ID 5, Page 4, Line 89, Pos (10,8)
+#. ID 9, Page 1, Line 94, Pos (13,12)
+#. ID 9, Page 2, Line 94, Pos (13,12)
+msgid ""
+"\n"
+"「あれって　なんだったのかしら\n"
+"　なんか良くない物……だったら\n"
+"　嫌だわね」"
+msgstr ""
+"\n"
+" I wonder what it was?\n"
+" Probably not anything good...\n"
+" That would figure."
+
+#. ID 5, Page 1, Line 105, Pos (10,8)
+#. ID 5, Page 2, Line 105, Pos (10,8)
+#. ID 5, Page 3, Line 99, Pos (10,8)
+#. ID 5, Page 4, Line 99, Pos (10,8)
+#. ID 9, Page 1, Line 105, Pos (13,12)
+#. ID 9, Page 2, Line 105, Pos (13,12)
+msgid ""
+"\n"
+"「イヴ　薔薇の花は\n"
+"　ちゃんと　持ってる？」"
+msgstr ""
+"\n"
+" Ib, you're holding onto\n"
+" your rose, right?"
+
+#. ID 5, Page 1, Line 109, Pos (10,8)
+#. ID 5, Page 2, Line 109, Pos (10,8)
+#. ID 5, Page 3, Line 103, Pos (10,8)
+#. ID 5, Page 4, Line 103, Pos (10,8)
+#. ID 9, Page 1, Line 109, Pos (13,12)
+#. ID 9, Page 2, Line 109, Pos (13,12)
+msgid ""
+"\n"
+"「しっかり　持ってなきゃダメよ\n"
+"　誰かに渡すなんて　もってのほか！」"
+msgstr ""
+"\n"
+" Make sure you don't lose it.\n"
+" And don't let anyone else have it!"
+
+#. ID 5, Page 1, Line 113, Pos (10,8)
+#. ID 5, Page 2, Line 113, Pos (10,8)
+#. ID 5, Page 3, Line 107, Pos (10,8)
+#. ID 5, Page 4, Line 107, Pos (10,8)
+#. ID 9, Page 1, Line 113, Pos (13,12)
+#. ID 9, Page 2, Line 113, Pos (13,12)
+msgid ""
+"\n"
+"「それにしても　なんで\n"
+"　こんな薔薇が　あるのかしらね？」"
+msgstr ""
+"\n"
+" Although... I still wonder,\n"
+" why do we have these roses?"
+
+#. ID 5, Page 1, Line 117, Pos (10,8)
+#. ID 5, Page 2, Line 117, Pos (10,8)
+#. ID 5, Page 3, Line 111, Pos (10,8)
+#. ID 5, Page 4, Line 111, Pos (10,8)
+#. ID 9, Page 1, Line 117, Pos (13,12)
+#. ID 9, Page 2, Line 117, Pos (13,12)
+msgid ""
+"\n"
+"「……そういえば　美術館で\n"
+"　『精神の具現化』っていう\n"
+"　薔薇のオブジェを　見たけど……」"
+msgstr ""
+"\n"
+" ...Well, I recall there was a rose\n"
+" sculpture in the gallery called\n"
+" \"Embodiment of Spirit\"..."
+
+#. ID 5, Page 1, Line 121, Pos (10,8)
+#. ID 5, Page 2, Line 121, Pos (10,8)
+#. ID 5, Page 3, Line 115, Pos (10,8)
+#. ID 5, Page 4, Line 115, Pos (10,8)
+#. ID 9, Page 1, Line 121, Pos (13,12)
+#. ID 9, Page 2, Line 121, Pos (13,12)
+msgid ""
+"\n"
+"「なにか　関係あるのかしらね？」"
+msgstr ""
+"\n"
+" I wonder if there's\n"
+" a connection there?"
+
+#. ID 5, Page 1, Line 130, Pos (10,8)
+#. ID 5, Page 2, Line 130, Pos (10,8)
+#. ID 5, Page 3, Line 123, Pos (10,8)
+#. ID 5, Page 4, Line 123, Pos (10,8)
+#. ID 9, Page 1, Line 130, Pos (13,12)
+#. ID 9, Page 2, Line 130, Pos (13,12)
+#, fuzzy
+msgid ""
+"\n"
+"「ちょっと　思ったんだけど\n"
+"　どうして　メアリーは\n"
+"　アタシたちに　付いてきたのかしら」"
+msgstr ""
+"\n"
+" I was just thinking...\n"
+" Why did Mary come with us?"
+
+#. ID 5, Page 1, Line 135, Pos (10,8)
+#. ID 5, Page 2, Line 135, Pos (10,8)
+#. ID 5, Page 3, Line 128, Pos (10,8)
+#. ID 5, Page 4, Line 128, Pos (10,8)
+#. ID 9, Page 1, Line 135, Pos (13,12)
+#. ID 9, Page 2, Line 135, Pos (13,12)
+msgid ""
+"\n"
+"「アタシたちを　からかうために\n"
+"　……っていう事も　考えられるけど\n"
+"　なんか違う気が　するのよねー」"
+msgstr ""
+"\n"
+" To make fun of us?\n"
+" ...The more I think about it,\n"
+" the less likely that seems."
+
+#. ID 5, Page 1, Line 140, Pos (10,8)
+#. ID 5, Page 2, Line 140, Pos (10,8)
+#. ID 5, Page 3, Line 133, Pos (10,8)
+#. ID 5, Page 4, Line 133, Pos (10,8)
+#. ID 9, Page 1, Line 140, Pos (13,12)
+#. ID 9, Page 2, Line 140, Pos (13,12)
+msgid ""
+"\n"
+"「イマイチ　彼女の目的が\n"
+"　わかんないわ……まぁ目的なんて\n"
+"　ないのかも　しれないけど」"
+msgstr ""
+"\n"
+" We don't know very well what\n"
+" she's after... Of course, she\n"
+" may not even have a goal."
+
+#. ID 5, Page 1, Line 145, Pos (10,8)
+#. ID 5, Page 2, Line 145, Pos (10,8)
+#. ID 5, Page 3, Line 138, Pos (10,8)
+#. ID 5, Page 4, Line 138, Pos (10,8)
+#. ID 9, Page 1, Line 145, Pos (13,12)
+#. ID 9, Page 2, Line 145, Pos (13,12)
+msgid ""
+"\n"
+"「とりあえず　パレットナイフを\n"
+"　持ったまま　追いかけてくるの\n"
+"　やめてほしいわ……」"
+msgstr ""
+"\n"
+" First things first, I want her\n"
+" to stop chasing us with\n"
+" a palette knife..."
+
+#. ID 5, Page 1, Line 156, Pos (10,8)
+#. ID 5, Page 2, Line 156, Pos (10,8)
+#. ID 5, Page 3, Line 148, Pos (10,8)
+#. ID 5, Page 4, Line 148, Pos (10,8)
+#. ID 9, Page 1, Line 156, Pos (13,12)
+#. ID 9, Page 2, Line 156, Pos (13,12)
+msgid ""
+"\n"
+"「とりあえず　ここまで\n"
+"　進み続けて　きたけどさ……」"
+msgstr ""
+"\n"
+" You know, as far as we've\n"
+" managed to come..."
+
+#. ID 5, Page 1, Line 160, Pos (10,8)
+#. ID 5, Page 2, Line 160, Pos (10,8)
+#. ID 5, Page 3, Line 152, Pos (10,8)
+#. ID 5, Page 4, Line 152, Pos (10,8)
+#. ID 9, Page 1, Line 160, Pos (13,12)
+#. ID 9, Page 2, Line 160, Pos (13,12)
+msgid ""
+"\n"
+"「アタシたち　下に向かってない？\n"
+"　階段　下りてばっかり……\n"
+"　本当に　こっちで良いのよね……？」"
+msgstr ""
+"\n"
+" Aren't we headed down?\n"
+" All the stairs go down...\n"
+" Is this a good way to go...?"
+
+#. ID 5, Page 1, Line 165, Pos (10,8)
+#. ID 5, Page 2, Line 165, Pos (10,8)
+#. ID 5, Page 3, Line 157, Pos (10,8)
+#. ID 5, Page 4, Line 157, Pos (10,8)
+#. ID 9, Page 1, Line 165, Pos (13,12)
+#. ID 9, Page 2, Line 165, Pos (13,12)
+msgid ""
+"\n"
+"「………ゴメン　イヴ\n"
+"　不安に　なるような事\n"
+"　言っちゃったわ」"
+msgstr ""
+"\n"
+" .....Sorry, Ib.\n"
+" I didn't mean to\n"
+" make you anxious..."
+
+#. ID 5, Page 1, Line 170, Pos (10,8)
+#. ID 5, Page 2, Line 170, Pos (10,8)
+#. ID 5, Page 3, Line 162, Pos (10,8)
+#. ID 5, Page 4, Line 162, Pos (10,8)
+#. ID 9, Page 1, Line 170, Pos (13,12)
+#. ID 9, Page 2, Line 170, Pos (13,12)
+msgid ""
+"\n"
+"「今のは　忘れてね？」"
+msgstr ""
+"\n"
+" Forget I said it, okay?"
+
+#. ID 5, Page 1, Line 179, Pos (10,8)
+#. ID 5, Page 2, Line 179, Pos (10,8)
+#. ID 5, Page 3, Line 170, Pos (10,8)
+#. ID 5, Page 4, Line 170, Pos (10,8)
+#. ID 9, Page 1, Line 179, Pos (13,12)
+#. ID 9, Page 2, Line 179, Pos (13,12)
+msgid ""
+"\n"
+"「なんか　この場所\n"
+"　耳鳴りがする……」"
+msgstr ""
+"\n"
+" This place seems to\n"
+" make my ears ring..."
+
+#. ID 5, Page 1, Line 182, Pos (10,8)
+#. ID 5, Page 2, Line 182, Pos (10,8)
+#. ID 5, Page 3, Line 173, Pos (10,8)
+#. ID 5, Page 4, Line 173, Pos (10,8)
+#. ID 9, Page 1, Line 182, Pos (13,12)
+#. ID 9, Page 2, Line 182, Pos (13,12)
+msgid ""
+"\n"
+"「それに……気のせいかしら？\n"
+"　クレヨンの　においがしない？」"
+msgstr ""
+"\n"
+" Plus... is it just me?\n"
+" Or does it smell like crayons?"
+
+#. ID 5, Page 1, Line 186, Pos (10,8)
+#. ID 5, Page 2, Line 186, Pos (10,8)
+#. ID 5, Page 3, Line 177, Pos (10,8)
+#. ID 5, Page 4, Line 177, Pos (10,8)
+#. ID 9, Page 1, Line 186, Pos (13,12)
+#. ID 9, Page 2, Line 186, Pos (13,12)
+msgid ""
+"\n"
+"「…………なんで？」"
+msgstr ""
+"\n"
+" .....Why?"
+
+#. ID 5, Page 1, Line 193, Pos (10,8)
+#. ID 5, Page 1, Line 199, Pos (10,8)
+#. ID 5, Page 2, Line 193, Pos (10,8)
+#. ID 5, Page 2, Line 199, Pos (10,8)
+#. ID 5, Page 3, Line 184, Pos (10,8)
+#. ID 5, Page 3, Line 190, Pos (10,8)
+#. ID 5, Page 4, Line 184, Pos (10,8)
+#. ID 5, Page 4, Line 190, Pos (10,8)
+#. ID 9, Page 1, Line 323, Pos (13,12)
+#. ID 9, Page 1, Line 329, Pos (13,12)
+#. ID 9, Page 2, Line 323, Pos (13,12)
+#. ID 9, Page 2, Line 329, Pos (13,12)
+#, fuzzy
+msgid "…………………"
+msgstr ".........."
+
+#. ID 5, Page 1, Line 196, Pos (10,8)
+#. ID 5, Page 2, Line 196, Pos (10,8)
+#. ID 5, Page 3, Line 187, Pos (10,8)
+#. ID 5, Page 4, Line 187, Pos (10,8)
+#. ID 9, Page 1, Line 326, Pos (13,12)
+#. ID 9, Page 2, Line 326, Pos (13,12)
+#, fuzzy
+msgid ""
+"\n"
+"「…………………」"
+msgstr ""
+"\n"
+" ..........Ib.\n"
+" Sunbathing is nice,\n"
+" but we've got to go."
+
+#. ID 5, Page 1, Line 202, Pos (10,8)
+#. ID 5, Page 2, Line 202, Pos (10,8)
+#. ID 5, Page 3, Line 193, Pos (10,8)
+#. ID 5, Page 4, Line 193, Pos (10,8)
+#. ID 9, Page 1, Line 332, Pos (13,12)
+#. ID 9, Page 2, Line 332, Pos (13,12)
+#, fuzzy
+msgid ""
+"\n"
+"「…………………イヴ\n"
+"　日向ぼっこも　いいけど\n"
+"　そろそろ　行かないと」"
+msgstr ""
+"\n"
+" .....Or we might not get to\n"
+" see the real sun again."
+
+#. ID 5, Page 1, Line 207, Pos (10,8)
+#. ID 5, Page 2, Line 207, Pos (10,8)
+#. ID 5, Page 3, Line 198, Pos (10,8)
+#. ID 5, Page 4, Line 198, Pos (10,8)
+#. ID 9, Page 1, Line 337, Pos (13,12)
+#. ID 9, Page 2, Line 337, Pos (13,12)
+msgid ""
+"\n"
+"「………本物の　おひさま\n"
+"　見られなくなっちゃうかもよ」"
+msgstr ""
+
+#. ID 5, Page 1, Line 213, Pos (10,8)
+#. ID 5, Page 3, Line 204, Pos (10,8)
+#. ID 9, Page 1, Line 343, Pos (13,12)
+#, fuzzy
+msgid "小さな鏡を　地面に置いた……"
+msgstr "Put the Little Mirror on the ground..."
+
+#. ID 5, Page 1, Line 225, Pos (10,8)
+#. ID 5, Page 3, Line 216, Pos (10,8)
+#. ID 9, Page 1, Line 355, Pos (13,12)
+#, fuzzy
+msgid ""
+"\n"
+"「あ！\n"
+"　ドアの氷が　溶けたわ……！」"
+msgstr ""
+"\n"
+" Ah!\n"
+" The ice on the door melted...!"
+
+#. ID 5, Page 1, Line 229, Pos (10,8)
+#. ID 5, Page 3, Line 220, Pos (10,8)
+#. ID 9, Page 1, Line 359, Pos (13,12)
+#, fuzzy
+msgid ""
+"\n"
+"「なるほど……\n"
+"　光の反射を　利用したのね」"
+msgstr ""
+"\n"
+" I see now...\n"
+" You reflected the sunlight."
+
+#. ID 5, Page 1, Line 233, Pos (10,8)
+#. ID 5, Page 3, Line 224, Pos (10,8)
+#. ID 9, Page 1, Line 363, Pos (13,12)
+#, fuzzy
+msgid ""
+"\n"
+"「やるじゃなーい！」"
+msgstr ""
+"\n"
+" Not too shabbyyy!"
+
+#. ID 5, Page 2, Line 2, Pos (10,8)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 4, Line 2, Pos (10,8)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 2, Line 2, Pos (13,12)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ギャリーと話す\n"
+"しばらくじっとしている"
+msgstr ""
+"Talk with Garry\n"
+"Stand still"
+
+#. ID 9, Page 1, Line 195, Pos (13,12)
+#. ID 9, Page 2, Line 195, Pos (13,12)
+msgid ""
+"\n"
+"「あーあ　見てよイヴ\n"
+"　アタシの時計　壊れちゃった」"
+msgstr ""
+"\n"
+" Ah, dear... Look, Ib.\n"
+" My watch is broken."
+
+#. ID 9, Page 1, Line 199, Pos (13,12)
+#. ID 9, Page 2, Line 199, Pos (13,12)
+msgid ""
+"\n"
+"「今朝までは　普通に\n"
+"　動いてたのに　ここに来てから\n"
+"　止まっちゃったのよ」"
+msgstr ""
+"\n"
+" It was working this morning,\n"
+" but it stopped once I came here..."
+
+#. ID 9, Page 1, Line 204, Pos (13,12)
+#. ID 9, Page 2, Line 204, Pos (13,12)
+#, fuzzy
+msgid ""
+"\n"
+"「結構　気に入ってたんだけどね……」"
+msgstr ""
+"\n"
+" I was really fond of it, too..."
+
+#. ID 9, Page 1, Line 213, Pos (13,12)
+#. ID 9, Page 2, Line 213, Pos (13,12)
+#, fuzzy
+msgid ""
+"\n"
+"「ねぇ　イヴ　アタシと別れた後\n"
+"　向こうの部屋で　何があったの？」"
+msgstr ""
+"\n"
+" Say, Ib. What happened\n"
+" in the other room while\n"
+" we were separated?"
+
+#. ID 9, Page 1, Line 217, Pos (13,12)
+#. ID 9, Page 2, Line 217, Pos (13,12)
+msgid ""
+"\n"
+"「え？　石像がドアを塞いだって？\n"
+"　そういうことだったの……」"
+msgstr ""
+"\n"
+" Huh? A statue blocked the door?\n"
+" Really..."
+
+#. ID 9, Page 1, Line 221, Pos (13,12)
+#. ID 9, Page 2, Line 221, Pos (13,12)
+msgid ""
+"\n"
+"「たしかにアレ　意外と重いから\n"
+"　イヴたちだけじゃ　動かすのは\n"
+"　難しいわね……」"
+msgstr ""
+"\n"
+" Those things are quite heavy,\n"
+" so it would have been hard\n"
+" for you to move it..."
+
+#. ID 9, Page 1, Line 232, Pos (13,12)
+#. ID 9, Page 2, Line 232, Pos (13,12)
+msgid ""
+"\n"
+"「『作品が１人歩きする』っていう\n"
+"　言葉が　あるけど……」"
+msgstr ""
+"\n"
+" They say that art\n"
+" should stand on its own..."
+
+#. ID 9, Page 1, Line 236, Pos (13,12)
+#. ID 9, Page 2, Line 236, Pos (13,12)
+msgid ""
+"\n"
+"「ゲルテナの場合　本当の意味で\n"
+"　一人歩きしてるから　やっかいよね」"
+msgstr ""
+"\n"
+" Of course, in Guertena's case,\n"
+" the art also walks on its own,\n"
+" and attacks on its own..."
+
+#. ID 9, Page 1, Line 246, Pos (13,12)
+#. ID 9, Page 2, Line 246, Pos (13,12)
+#, fuzzy
+msgid ""
+"\n"
+"「なんか　このまま\n"
+"　寝ちゃいたいわ……」"
+msgstr ""
+"\n"
+" Why, I feel like I could\n"
+" fall asleep right here..."
+
+#. ID 9, Page 1, Line 250, Pos (13,12)
+#. ID 9, Page 2, Line 250, Pos (13,12)
+#, fuzzy
+msgid ""
+"\n"
+"「………………………」"
+msgstr ""
+"\n"
+" ...T-That was dangerous...\n"
+" I really was about to doze off.\n"
+" Ib, let's get going."
+
+#. ID 9, Page 1, Line 253, Pos (13,12)
+#. ID 9, Page 2, Line 253, Pos (13,12)
+#, fuzzy
+msgid ""
+"\n"
+"「……なんか　危ないわ\n"
+"　本当に　寝ちゃいそう\n"
+"　イヴ　とっとと行きましょう」"
+msgstr ""
+"\n"
+" Ib...\n"
+" About that slap earlier..."
+
+#. ID 9, Page 1, Line 265, Pos (13,12)
+#. ID 9, Page 2, Line 265, Pos (13,12)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴ……\n"
+"　アンタの　さっきの１発」"
+msgstr ""
+"\n"
+" Well... you have quite\n"
+" an arm for your age."
+
+#. ID 9, Page 1, Line 269, Pos (13,12)
+#. ID 9, Page 2, Line 269, Pos (13,12)
+#, fuzzy
+msgid ""
+"\n"
+"「効いたわよ？」"
+msgstr ""
+"\n"
+" But if it hadn't been so strong,\n"
+" I might not have woken up."
+
+#. ID 9, Page 1, Line 272, Pos (13,12)
+#. ID 9, Page 2, Line 272, Pos (13,12)
+#, fuzzy
+msgid ""
+"\n"
+"「でも　あれくらい　してくれなきゃ\n"
+"　アタシ　目が覚めなかったかも」"
+msgstr ""
+"\n"
+" So thanks!"
+
+#. ID 9, Page 1, Line 276, Pos (13,12)
+#. ID 9, Page 2, Line 276, Pos (13,12)
+#, fuzzy
+msgid ""
+"\n"
+"「ありがとね！」"
+msgstr ""
+"\n"
+" I'm never going to be able\n"
+" to deal with dolls... It's been\n"
+" traumatic to say the least."
+
+#. ID 9, Page 1, Line 281, Pos (13,12)
+#. ID 9, Page 2, Line 281, Pos (13,12)
+#, fuzzy
+msgid ""
+"\n"
+"「アタシ　もう\n"
+"　人形とか　無理だわ……\n"
+"　すっかり　トラウマよ」"
+msgstr ""
+"\n"
+" Actually... the \"gallery\" here\n"
+" had a drawing of one as well."
+
+#. ID 9, Page 1, Line 286, Pos (13,12)
+#. ID 9, Page 2, Line 286, Pos (13,12)
+#, fuzzy
+msgid ""
+"\n"
+"「そういえば……『びじゅつかん』に\n"
+"　あの青い人形の絵が　あったわよね」"
+msgstr ""
+"\n"
+" Are they Guertena's works?\n"
+" I just get this feeling\n"
+" they're something else..."
+
+#. ID 9, Page 1, Line 289, Pos (13,12)
+#. ID 9, Page 2, Line 289, Pos (13,12)
+#, fuzzy
+msgid ""
+"\n"
+"「あれも　ゲルテナの作品なのかしら？\n"
+"　なんとなく　他の作品とは\n"
+"　違う気がするんだけど……」"
+msgstr ""
+"\n"
+" Ib, you came to the exhibit\n"
+" with your mom and dad, yes?"
+
+#. ID 9, Page 1, Line 302, Pos (13,12)
+#. ID 9, Page 2, Line 302, Pos (13,12)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴは　家族３人で\n"
+"　ゲルテナ展に　来たんだっけ？」"
+msgstr ""
+"\n"
+" Hm? I came alone.\n"
+" ...Not to imply I don't\n"
+" have friends, of course."
+
+#. ID 9, Page 1, Line 306, Pos (13,12)
+#. ID 9, Page 2, Line 306, Pos (13,12)
+#, fuzzy
+msgid ""
+"\n"
+"「ん？　アタシは１人で来たの\n"
+"　……別に　友達がいない\n"
+"　ワケじゃ　ないのよ？」"
+msgstr ""
+"\n"
+" Art galleries aren't really places\n"
+" for groups of adults to go..."
+
+#. ID 9, Page 1, Line 311, Pos (13,12)
+#. ID 9, Page 2, Line 311, Pos (13,12)
+#, fuzzy
+msgid ""
+"\n"
+"「美術館って　ぞろぞろと大人数で\n"
+"　行くような所でも　ないし……」"
+msgstr ""
+"\n"
+" I thought it would be nicer\n"
+" to see the exhibit alone,\n"
+" take it at my own pace."
+
+#. ID 9, Page 1, Line 315, Pos (13,12)
+#. ID 9, Page 2, Line 315, Pos (13,12)
+msgid ""
+"\n"
+"「こういうのは　自分のペースで\n"
+"　ゆっくり観たいと　思ったのよ」"
+msgstr ""
+

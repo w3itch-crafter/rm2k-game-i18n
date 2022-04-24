@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 40, Pos (11,1)
+msgid ""
+"\n"
+"「一直待在這種毛毛的地方，\n"
+"　人也會變得怪怪的呢。」"
+msgstr ""
+
+#. ID 5, Page 1, Line 102, Pos (11,1)
+msgid ""
+"\n"
+"「剛……剛才只是有點被嚇到而已啦！\n"
+"　真的！」"
+msgstr ""
+
+#. ID 5, Page 3, Line 75, Pos (11,1)
+msgid ""
+"\n"
+"「短短的很好唸，\n"
+"　真是個好名字呢！」"
+msgstr ""
+
+#. ID 5, Page 3, Line 121, Pos (11,1)
+msgid ""
+"\n"
+"「剛……剛才只是有點被嚇到而已啦！\n"
+"　是真的喔！」"
+msgstr ""
+

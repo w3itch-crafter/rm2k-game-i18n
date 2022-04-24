@@ -1,0 +1,309 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 3, Pos (6,11)
+#. ID 3, Page 1, Line 7, Pos (6,11)
+#. ID 11, Page 1, Line 3, Pos (5,7)
+#. ID 11, Page 1, Line 8, Pos (5,7)
+#. ID 11, Page 2, Line 1, Pos (5,7)
+#. ID 11, Page 3, Line 1, Pos (5,7)
+#. ID 14, Page 1, Line 3, Pos (14,11)
+#. ID 14, Page 1, Line 7, Pos (14,11)
+#. ID 14, Page 2, Line 1, Pos (14,11)
+#. ID 14, Page 3, Line 1, Pos (14,11)
+msgid "マネキンの　首がある……"
+msgstr "A mannequin head..."
+
+#. ID 3, Page 1, Line 12, Pos (6,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「どこ　見てるんだろうね？」"
+msgstr ""
+"\n"
+" What's it looking at?"
+
+#. ID 3, Page 1, Line 14, Pos (6,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"そのままにしておく\n"
+"机の上から落とす"
+msgstr ""
+
+#. ID 3, Page 1, Line 17, Pos (6,11)
+msgid ""
+"\n"
+"「これすごく　重たいね\n"
+"　落としたら　危ないよ」"
+msgstr ""
+"\n"
+" This is super heavy...\n"
+" It'd be dangerous to\n"
+" pull it off the table."
+
+#. ID 3, Page 1, Line 24, Pos (6,11)
+#, fuzzy
+msgid ""
+"\n"
+"「えっ？　これ落とすの？\n"
+"　割れちゃうかもよ？」"
+msgstr ""
+"\n"
+" Huh? Take it off?\n"
+" What if it breaks?"
+
+#. ID 3, Page 1, Line 28, Pos (6,11)
+#. Contains choice at line 3 (2 options)
+#, fuzzy
+msgid ""
+"\n"
+"「しかもなんか　重たいし……」"
+msgstr ""
+"\n"
+" And it's so heavy..."
+
+#. ID 3, Page 1, Line 30, Pos (6,11)
+#. Choice (2 options, embedded in a message)
+#. ID 11, Page 1, Line 28, Pos (5,7)
+#. Choice (2 options, embedded in a message)
+#. ID 14, Page 1, Line 29, Pos (14,11)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"やっぱりやめる\n"
+"落とす"
+msgstr ""
+"Leave it\n"
+"Take it off the table"
+
+#. ID 3, Page 1, Line 33, Pos (6,11)
+#, fuzzy
+msgid ""
+"\n"
+"「そのほうが　良いと思うよ」"
+msgstr ""
+"\n"
+" Yeah, I think that's best..."
+
+#. ID 3, Page 1, Line 39, Pos (6,11)
+#, fuzzy
+msgid ""
+"\n"
+"「そ　そう……\n"
+"　そこまで言うなら\n"
+"　止めないけど……」"
+msgstr ""
+"\n"
+" O-Okay...\n"
+" If you're that sure,\n"
+" then I won't stop you..."
+
+#. ID 4, Page 1, Line 1, Pos (11,5)
+#. ID 4, Page 2, Line 2, Pos (11,5)
+msgid "『カサをなくした乙女』"
+msgstr "\"Lady Without Her Umbrella\""
+
+#. ID 4, Page 2, Line 5, Pos (11,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「イヴ！　カサって……！」"
+msgstr ""
+"\n"
+" Ib! Umbrella...!"
+
+#. ID 4, Page 2, Line 7, Pos (11,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"カサを乙女に渡す\n"
+"渡さない"
+msgstr ""
+"Give the umbrella\n"
+"Don't give"
+
+#. ID 4, Page 2, Line 10, Pos (11,5)
+msgid "カサを　絵の前にかかげた……"
+msgstr "Held the umbrella in front of the painting..."
+
+#. ID 4, Page 2, Line 23, Pos (11,5)
+msgid ""
+"\n"
+"「え？　え！？\n"
+"　部屋の中なのに\n"
+"　雨が　降ってきた！」"
+msgstr ""
+"\n"
+" Huh? Huh?!\n"
+" It started raining in the room!\n"
+" ...That's so weird!"
+
+#. ID 4, Page 2, Line 33, Pos (11,5)
+msgid ""
+"\n"
+"「結構　イジワルね……」"
+msgstr ""
+"\n"
+" You're a meanie..."
+
+#. ID 4, Page 3, Line 1, Pos (11,5)
+#. ID 4, Page 4, Line 1, Pos (11,5)
+#. ID 4, Page 5, Line 1, Pos (11,5)
+msgid "『カサを差す乙女』"
+msgstr "\"Lady With Her Umbrella\""
+
+#. ID 4, Page 4, Line 4, Pos (11,5)
+msgid ""
+"\n"
+"「……なんか　この傘\n"
+"　見覚えある　気がするわ……」"
+msgstr ""
+"\n"
+" ...I feel like I've seen\n"
+" this umbrella before..."
+
+#. ID 4, Page 5, Line 4, Pos (11,5)
+msgid ""
+"\n"
+"「カサあって　良かったね」"
+msgstr ""
+"\n"
+" Good thing you've got one!"
+
+#. ID 5, Page 1, Line 1, Pos (15,11)
+msgid "机の上に　何かがある……"
+msgstr "There's something on the table..."
+
+#. ID 5, Page 1, Line 4, Pos (15,11)
+msgid "木のカギを　手に入れた。"
+msgstr "Obtained the Tree Key."
+
+#. ID 6, Page 1, Line 3, Pos (7,11)
+#. ID 6, Page 2, Line 3, Pos (7,11)
+msgid ""
+"\n"
+"「あーあ　見てよイヴ\n"
+"　床にヒビ　入っちゃったわよ」"
+msgstr ""
+"\n"
+" Ahhh! Look, Ib!\n"
+" There's cracks in the floor!"
+
+#. ID 6, Page 1, Line 7, Pos (7,11)
+msgid ""
+"\n"
+"「しかも　なんか\n"
+"　ヘンなガス　みたいなの\n"
+"　出てるし……」"
+msgstr ""
+"\n"
+" And there's some weird\n"
+" gas coming out..."
+
+#. ID 7, Page 1, Line 1, Pos (8,11)
+msgid "マネキンの首が　転がっている……"
+msgstr "A mannequin head rolls around..."
+
+#. ID 11, Page 1, Line 12, Pos (5,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「これって　体は　ないのかな？」"
+msgstr ""
+"\n"
+" I wonder if it has a body?"
+
+#. ID 11, Page 1, Line 14, Pos (5,7)
+#. Choice (2 options, embedded in a message)
+#. ID 14, Page 1, Line 14, Pos (14,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"そのままにしておく\n"
+"机から落とす"
+msgstr ""
+
+#. ID 11, Page 1, Line 17, Pos (5,7)
+msgid ""
+"\n"
+"「触らない方が　良いと思う……」"
+msgstr ""
+"\n"
+" I think we should not touch it..."
+
+#. ID 11, Page 1, Line 22, Pos (5,7)
+#. ID 14, Page 1, Line 23, Pos (14,11)
+msgid ""
+"\n"
+"「これ　落とすの……？\n"
+"　大丈夫かなぁ………」"
+msgstr ""
+"\n"
+" Take it off...?\n"
+" Are you sure...?"
+
+#. ID 11, Page 1, Line 26, Pos (5,7)
+#. Contains choice at line 3 (2 options)
+#. ID 14, Page 1, Line 27, Pos (14,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「こわれちゃうよ？」"
+msgstr ""
+"\n"
+" It could break, you know?"
+
+#. ID 11, Page 1, Line 31, Pos (5,7)
+#. ID 14, Page 1, Line 32, Pos (14,11)
+msgid ""
+"\n"
+"「うん！　それがいいよ！」"
+msgstr ""
+"\n"
+" Yeah! Good idea!"
+
+#. ID 11, Page 1, Line 37, Pos (5,7)
+#. ID 14, Page 1, Line 38, Pos (14,11)
+msgid ""
+"\n"
+"「うぅ……大丈夫かな？」"
+msgstr ""
+"\n"
+" Ooh... are you sure?"
+
+#. ID 11, Page 1, Line 52, Pos (5,7)
+#. ID 14, Page 1, Line 53, Pos (14,11)
+msgid "跳んできた　マネキンの破片が　刺さってしまった………"
+msgstr ""
+"You were hurt by a stray shard\n"
+"from the mannequin head..."
+
+#. ID 12, Page 1, Line 1, Pos (6,8)
+#. ID 13, Page 1, Line 1, Pos (6,7)
+#. ID 15, Page 1, Line 1, Pos (13,10)
+#. ID 16, Page 1, Line 1, Pos (13,11)
+msgid "マネキンの首が　粉々になっている……"
+msgstr "A mannequin head cracked into pieces..."
+
+#. ID 14, Page 1, Line 12, Pos (14,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「なんで髪の毛　ないのかな？」"
+msgstr ""
+"\n"
+" Why doesn't it have hair?"
+
+#. ID 14, Page 1, Line 17, Pos (14,11)
+msgid ""
+"\n"
+"「なんかこれ　生きてるみたい……」"
+msgstr ""
+"\n"
+" It almost looks alive..."
+

@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 11, Line 4
+#. Contains choice at line 2 (2 options)
+#. ID 15, Line 4
+#. Contains choice at line 2 (2 options)
+#. ID 26, Line 4
+#. Contains choice at line 2 (2 options)
+msgid "タイトル画面に戻りますか？（セーブはされません）"
+msgstr "Return to title? (Unsaved data will be lost.)"
+
+#. ID 11, Line 5
+#. Choice (2 options, embedded in a message)
+#. ID 15, Line 5
+#. Choice (2 options, embedded in a message)
+#. ID 26, Line 5
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いいえ\n"
+"はい"
+msgstr ""
+"No\n"
+"Yes"
+
+#. ID 24, Line 7
+msgid ""
+"\n"
+"「やだ……やだ………！\n"
+"　なにこれ……何も　見えない！」"
+msgstr ""
+"\n"
+" No... Nooo.....!\n"
+" What is this...? I can't see a thing!"
+
+#. ID 24, Line 11
+msgid ""
+"\n"
+"「なんで……なんで　こうなるの？\n"
+"　外はもっと　明るくて　楽しくて……」"
+msgstr ""
+"\n"
+" Why... Why is it like this?\n"
+" It's supposed to be bright\n"
+" and fun and..."
+
+#. ID 24, Line 15
+#, fuzzy
+msgid ""
+"\n"
+"「人だって　いっぱい\n"
+"　いるはずなのに！\n"
+"　なんで　わたししか　いないのよ！」"
+msgstr ""
+"\n"
+" And full of people outside!\n"
+" Why is it just me here?!"
+
+#. ID 24, Line 33
+msgid ""
+"\n"
+"「うううぅ……イヴ……\n"
+"　会いたいよ……さみしいよぉ」"
+msgstr ""
+"\n"
+" Sniff... Ib...\n"
+" Where are you...? I'm lonely..."
+
+#. ID 24, Line 49
+msgid ""
+"\n"
+"「怖いよ……たすけて……\n"
+"　ギャ………ギャリーっ……！」"
+msgstr ""
+"\n"
+" I'm so scared... Help...\n"
+" Ga... Garry...!"
+
+#. ID 24, Line 57
+msgid "「うわあぁぁん……だれかぁ……」"
+msgstr "Waaaaahhh... Somebodyyy..."
+
+#. ID 24, Line 62
+msgid "「……………お父さん…………！」"
+msgstr "..........father..........!"
+
+#. ID 27, Line 4
+msgid ""
+"\n"
+"「…………？」"
+msgstr ""
+"\n"
+" .....?"
+
+#. ID 28, Line 4
+msgid ""
+"\n"
+"「………だれか……いないの？」"
+msgstr ""
+"\n"
+" ...Is someone... there?"
+
+#. ID 28, Line 7
+msgid ""
+"\n"
+"「……………………\n"
+"　……念のため………」"
+msgstr ""
+"\n"
+" ..........\n"
+" ...just in case....."
+
+#. ID 29, Line 4
+msgid ""
+"\n"
+"「怖いよ……\n"
+"　だれか　たすけて……」"
+msgstr ""
+"\n"
+" I'm scared...\n"
+" Help me..."
+
+#. ID 30, Line 35
+#. Contains choice at line 3 (2 options)
+msgid ""
+"クリアデータをセーブしますか？\n"
+"（調べた美術品・EDが記憶されます）"
+msgstr ""
+"Save clear data?\n"
+"(Records exhibits seen and endings.)"
+
+#. ID 30, Line 37
+#. Choice (2 options, embedded in a message)
+#. ID 30, Line 61
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"Yes\n"
+"No"
+
+#. ID 30, Line 47
+msgid "黒のカギが　光っている……"
+msgstr "The Black Key gleams..."
+
+#. ID 30, Line 60
+#. Contains choice at line 2 (2 options)
+msgid "真・ゲルテナ展へ行きますか？"
+msgstr "Go to the True Guertena Exhibition?"
+

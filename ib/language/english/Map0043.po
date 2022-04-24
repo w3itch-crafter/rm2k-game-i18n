@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (10,4)
+#. ID 1, Page 2, Line 2, Pos (10,4)
+#. ID 1, Page 3, Line 2, Pos (10,4)
+msgid "鏡がある……"
+msgstr "A mirror..."
+
+#. ID 1, Page 2, Line 7, Pos (10,4)
+msgid ""
+"\n"
+"「………………えっ？」"
+msgstr ""
+"\n"
+" ..........Hm?"
+
+#. ID 2, Page 1, Line 7, Pos (17,1)
+msgid ""
+"\n"
+"「ぎゃーっ！！」"
+msgstr ""
+"\n"
+" EEEEEK!!"
+
+#. ID 2, Page 1, Line 10, Pos (17,1)
+msgid ""
+"\n"
+"「なっ　なによ　コレ……！」"
+msgstr ""
+"\n"
+" W-Wh-WHAT is THAT?!"
+
+#. ID 2, Page 1, Line 18, Pos (17,1)
+msgid ""
+"\n"
+"「こ………」"
+msgstr ""
+"\n"
+" Y..."
+
+#. ID 2, Page 1, Line 24, Pos (17,1)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「この…………！」"
+msgstr ""
+"\n"
+" Why, you.....!"
+
+#. ID 2, Page 1, Line 26, Pos (17,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"とっさに目をつむる\n"
+"ギャリーを止める"
+msgstr ""
+"Cover your eyes\n"
+"Stop Garry"
+
+#. ID 2, Page 1, Line 46, Pos (17,1)
+msgid ""
+"\n"
+"「…………はぁ……」"
+msgstr ""
+"\n"
+" ..........*pant*..."
+
+#. ID 2, Page 1, Line 51, Pos (17,1)
+msgid ""
+"\n"
+"「フン……ただの　マネキンじゃない」"
+msgstr ""
+"\n"
+" Hmph... see, just a mannequin."
+
+#. ID 2, Page 1, Line 57, Pos (17,1)
+msgid ""
+"\n"
+"「さっさと　行きましょう　イヴ」"
+msgstr ""
+"\n"
+" Let's get going, Ib."
+
+#. ID 2, Page 1, Line 73, Pos (17,1)
+msgid ""
+"\n"
+"「……………………」"
+msgstr ""
+"\n"
+" .........."
+
+#. ID 2, Page 1, Line 77, Pos (17,1)
+msgid ""
+"\n"
+"「………わかったわよ　イヴ\n"
+"　ちょっと　大人げなかったわね」"
+msgstr ""
+"\n"
+" .....R-Right, Ib.\n"
+" My, that was immature of me..."
+
+#. ID 2, Page 1, Line 83, Pos (17,1)
+msgid ""
+"\n"
+"「さ……じゃあ　行きましょ」"
+msgstr ""
+"\n"
+" Well... let's go."
+
+#. ID 4, Page 1, Line 1, Pos (10,12)
+#. ID 4, Page 2, Line 1, Pos (10,12)
+#. ID 5, Page 1, Line 1, Pos (9,6)
+msgid "マネキンの　首がある……"
+msgstr "A mannequin head..."
+
+#. ID 4, Page 1, Line 4, Pos (10,12)
+msgid ""
+"\n"
+"「なによコレ……いつの間に\n"
+"　部屋に　入ってきたのよ……」"
+msgstr ""
+"\n"
+" What the... When did this\n"
+" get into the room...?"
+
+#. ID 8, Page 1, Line 1, Pos (14,6)
+#. ID 9, Page 1, Line 1, Pos (14,7)
+msgid "マネキンの首が　粉々になっている……"
+msgstr "A mannequin head cracked into pieces..."
+

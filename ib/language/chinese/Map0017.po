@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 1, Pos (19,12)
+#. ID 5, Page 2, Line 1, Pos (19,12)
+#. ID 7, Page 1, Line 1, Pos (19,11)
+msgid "“かくれんぼ　する？”"
+msgstr "“玩　捉迷藏嗎？”"
+
+#. ID 9, Page 2, Line 2, Pos (4,19)
+#. Contains choice at line 2 (2 options)
+#. ID 16, Page 2, Line 1, Pos (9,19)
+#. Contains choice at line 2 (2 options)
+#. ID 16, Page 3, Line 1, Pos (9,19)
+#. Contains choice at line 2 (2 options)
+#. ID 17, Page 2, Line 2, Pos (4,12)
+#. Contains choice at line 2 (2 options)
+#. ID 18, Page 2, Line 2, Pos (14,12)
+#. Contains choice at line 2 (2 options)
+#. ID 19, Page 2, Line 2, Pos (19,19)
+#. Contains choice at line 2 (2 options)
+#. ID 19, Page 3, Line 1, Pos (19,19)
+#. Contains choice at line 2 (2 options)
+#. ID 20, Page 2, Line 2, Pos (9,12)
+#. Contains choice at line 2 (2 options)
+#. ID 21, Page 2, Line 2, Pos (14,19)
+#. Contains choice at line 2 (2 options)
+msgid "ボタンのような　ものがある……"
+msgstr "有個像是按鈕的東西……"
+
+#. ID 9, Page 2, Line 3, Pos (4,19)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 2, Line 2, Pos (9,19)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 3, Line 2, Pos (9,19)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 2, Line 3, Pos (4,12)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 2, Line 3, Pos (14,12)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 2, Line 3, Pos (19,19)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 3, Line 2, Pos (19,19)
+#. Choice (2 options, embedded in a message)
+#. ID 20, Page 2, Line 3, Pos (9,12)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 2, Line 3, Pos (14,19)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"押す\n"
+"押さない"
+msgstr ""
+"按\n"
+"不按"
+
+#. ID 9, Page 3, Line 1, Pos (4,19)
+msgid "この絵には　近づきたくない……"
+msgstr "不想再接近這幅畫了……"
+
+#. ID 16, Page 3, Line 16, Pos (9,19)
+msgid ""
+"\n"
+"「いった！」"
+msgstr ""
+"\n"
+"「好痛！」"
+
+#. ID 17, Page 3, Line 1, Pos (4,12)
+msgid "月の絵が　飾ってある……"
+msgstr "掛著一幅月亮的畫……"
+
+#. ID 18, Page 3, Line 1, Pos (14,12)
+msgid "音符の絵が　飾ってある……"
+msgstr "掛著一幅音符的畫……"
+
+#. ID 20, Page 3, Line 1, Pos (9,12)
+msgid "赤い手形の絵が　飾ってある……"
+msgstr "掛著一幅紅色手印的畫……"
+
+#. ID 21, Page 2, Line 10, Pos (14,19)
+#. ID 21, Page 3, Line 1, Pos (14,19)
+msgid "……とても不吉な　絵を見てしまった……"
+msgstr "……看到了一幅非常不祥的畫……"
+
+#. ID 21, Page 3, Line 5, Pos (14,19)
+msgid ""
+"\n"
+"「……なんで　イヴの絵がここに？」"
+msgstr ""
+"\n"
+"「……為什麼Ib的畫會在這裡？」"
+
+#. ID 22, Page 1, Line 2, Pos (20,19)
+#. ID 22, Page 2, Line 2, Pos (20,19)
+msgid "“みつかった　けいひん　あげる”"
+msgstr "“送你　找到我的　獎品”"
+
+#. ID 23, Page 1, Line 1, Pos (11,5)
+msgid "何かが　落ちている……"
+msgstr "有東西掉在地上……"
+
+#. ID 23, Page 1, Line 4, Pos (11,5)
+msgid "木のさかな（頭）を手に入れた。"
+msgstr "得到一個　木魚（頭）。"
+
+#. ID 23, Page 3, Line 2, Pos (11,5)
+msgid ""
+"木のさかな（頭）と木のさかな（尾）が\n"
+"くっついて　一つになった……"
+msgstr ""
+"把木魚（頭）和\n"
+"木魚（尾）組合在一起……"
+
+#. ID 23, Page 3, Line 6, Pos (11,5)
+msgid "さかなのカギを　手に入れた。"
+msgstr "得到一把　魚的鑰匙。"
+
+#. ID 26, Page 1, Line 1, Pos (11,4)
+msgid "『板前の腕』"
+msgstr "『廚師的手藝』"
+

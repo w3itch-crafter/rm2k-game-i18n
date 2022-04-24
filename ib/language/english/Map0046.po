@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 11, Pos (31,13)
+msgid ""
+"\n"
+"「はぁ……はぁ…………\n"
+"　こ………………………」"
+msgstr ""
+"\n"
+" *pant*... *pant*.....\n"
+" Th.............."
+
+#. ID 1, Page 1, Line 17, Pos (31,13)
+msgid ""
+"\n"
+"「ここまで来れば……\n"
+"　大丈夫　でしょ……」"
+msgstr ""
+"\n"
+" That should be...\n"
+" far enough... I think..."
+
+#. ID 1, Page 1, Line 24, Pos (31,13)
+msgid ""
+"\n"
+"「ザマぁ　みなさい！」"
+msgstr ""
+"\n"
+" We certainly showed THEM!"
+
+#. ID 1, Page 1, Line 33, Pos (31,13)
+msgid ""
+"\n"
+"「さてと………」"
+msgstr ""
+"\n"
+" My... well then..."
+
+#. ID 1, Page 1, Line 39, Pos (31,13)
+msgid ""
+"\n"
+"「それじゃあ　先に……って　イヴ？」"
+msgstr ""
+"\n"
+" Let's keep go... ...Ib?"
+
+#. ID 1, Page 1, Line 49, Pos (31,13)
+msgid ""
+"\n"
+"「どうしたの？　大丈夫？」"
+msgstr ""
+"\n"
+" Oh my, what is it?\n"
+" Are you okay?"
+
+#. ID 1, Page 1, Line 58, Pos (31,13)
+#, fuzzy
+msgid ""
+"\n"
+"「イ　イヴ！？\n"
+"　ちょっと　しっかり！」"
+msgstr ""
+"\n"
+" I-Ib?!\n"
+" Stay with me, now!"
+
+#. ID 1, Page 1, Line 62, Pos (31,13)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴ！　イヴッ！！」"
+msgstr ""
+"\n"
+" Ib! IB!!"
+
+#. ID 3, Page 1, Line 3, Pos (2,8)
+msgid ""
+"\n"
+"「イヴ……そっちに行くのは\n"
+"　もう　やめておきましょ？」"
+msgstr ""
+"\n"
+" Ib... Let's not go over\n"
+" there anymore, okay?"
+

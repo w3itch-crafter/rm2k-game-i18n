@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 9, Page 1, Line 1, Pos (9,5)
+#. ID 9, Page 2, Line 1, Pos (9,5)
+msgid "壁が　さかなの形に　くぼんでいる……"
+msgstr "牆上有個魚形狀的缺口……"
+
+#. ID 9, Page 2, Line 2, Pos (9,5)
+#. Contains choice at line 2 (2 options)
+msgid "さかなのカギを　はめてみますか？"
+msgstr "要嵌入魚的鑰匙嗎？"
+
+#. ID 9, Page 2, Line 3, Pos (9,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はめる\n"
+"はめない"
+msgstr ""
+"嵌入\n"
+"不嵌入"
+
+#. ID 9, Page 2, Line 6, Pos (9,5)
+msgid "さかなのカギを　くぼみにはめた。"
+msgstr "嵌入了魚的鑰匙。"
+

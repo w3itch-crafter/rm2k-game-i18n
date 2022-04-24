@@ -1,0 +1,313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 1, Pos (11,4)
+msgid "大きな氷の絵が　飾ってある……"
+msgstr "A painting of some large ice..."
+
+#. ID 4, Page 1, Line 1, Pos (7,4)
+msgid "女の人の絵が　飾ってある……"
+msgstr "A painting of a girl..."
+
+#. ID 5, Page 1, Line 1, Pos (25,24)
+msgid "コーヒーとケーキの絵が　飾ってある……"
+msgstr "A painting of coffee and cake..."
+
+#. ID 6, Page 1, Line 4, Pos (2,15)
+msgid ""
+"\n"
+"「な……なんか\n"
+"　この眼だけ　充血してない？」"
+msgstr ""
+"\n"
+" D... Does this lone eye\n"
+" have a congestion problem?"
+
+#. ID 7, Page 1, Line 1, Pos (20,4)
+msgid "どこかの景色の絵が　飾ってある……"
+msgstr "A painting of some scenery..."
+
+#. ID 8, Page 1, Line 1, Pos (15,3)
+#. ID 43, Page 1, Line 1, Pos (15,4)
+msgid "ヘビの目の部分が　くぼんでいる……"
+msgstr "There's a hole in the snake's eye..."
+
+#. ID 8, Page 2, Line 1, Pos (15,3)
+#. ID 43, Page 2, Line 2, Pos (15,4)
+msgid "目の部分が　くぼんでいる……"
+msgstr "There's a hole in the eye..."
+
+#. ID 8, Page 2, Line 2, Pos (15,3)
+#. Contains choice at line 2 (2 options)
+msgid "赤いガラス玉を　はめてみますか？"
+msgstr ""
+
+#. ID 8, Page 2, Line 3, Pos (15,3)
+#. Choice (2 options, embedded in a message)
+#. ID 43, Page 2, Line 4, Pos (15,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はめる\n"
+"やめておく"
+msgstr ""
+"Put in\n"
+"Never mind"
+
+#. ID 9, Page 1, Line 1, Pos (20,5)
+msgid "額縁の裏に　文字が書かれている……"
+msgstr "There's writing on the back of the frame..."
+
+#. ID 9, Page 1, Line 2, Pos (20,5)
+msgid "“大きな木の後ろに……”"
+msgstr "\"Behind the big tree...\""
+
+#. ID 18, Page 2, Line 2, Pos (2,16)
+#. Contains choice at line 2 (2 options)
+msgid "充血した眼が　こちらを見ている……"
+msgstr "The congested eye is looking your way..."
+
+#. ID 18, Page 2, Line 3, Pos (2,16)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"じっと見つめ返す\n"
+"目薬をさす"
+msgstr ""
+"Stare back\n"
+"Use Eyedrops"
+
+#. ID 18, Page 2, Line 8, Pos (2,16)
+msgid "………………………"
+msgstr ".........."
+
+#. ID 18, Page 2, Line 11, Pos (2,16)
+msgid ""
+"\n"
+"「…………ちょっと　イヴ\n"
+"　なにしてんのよ？」"
+msgstr ""
+"\n"
+" ..........Um, Ib?\n"
+" What are you doing?"
+
+#. ID 18, Page 2, Line 20, Pos (2,16)
+msgid "目薬を　眼に垂らした……"
+msgstr "Applied the Eyedrops to the eye..."
+
+#. ID 18, Page 2, Line 30, Pos (2,16)
+msgid "充血が治った……"
+msgstr "The congestion was cured..."
+
+#. ID 39, Page 1, Line 1, Pos (4,9)
+msgid "目薬を入れた眼が　じっと壁を見つめている……"
+msgstr ""
+"The eye you gave the eyedrops to\n"
+"is staring intently at the wall..."
+
+#. ID 40, Page 1, Line 1, Pos (5,9)
+msgid "壁の色が　少し違う……"
+msgstr "The wall is a slightly different color..."
+
+#. ID 40, Page 1, Line 3, Pos (5,9)
+msgid "隠し通路を　見つけた……"
+msgstr "Found a secret passage..."
+
+#. ID 41, Page 1, Line 2, Pos (26,4)
+#. ID 41, Page 2, Line 2, Pos (26,4)
+msgid ""
+"『えへへへ　へへへへへ\n"
+"　はな……おはな　いいなぁ……』"
+msgstr ""
+"\"Ehehehe, hehehehehe...\n"
+"Flowers... flowers're nice...\""
+
+#. ID 41, Page 1, Line 4, Pos (26,4)
+#. ID 41, Page 2, Line 4, Pos (26,4)
+msgid ""
+"『そのお花　くれたら\n"
+"　ここ　通してあげるよ……えへへ』"
+msgstr ""
+"\"Give me that there flower\n"
+"and I'll let you through... ehehe...\""
+
+#. ID 41, Page 1, Line 6, Pos (26,4)
+#. Contains choice at line 2 (2 options)
+#. ID 41, Page 2, Line 6, Pos (26,4)
+#. Contains choice at line 2 (3 options)
+msgid "『えへへ……お花　ちょうだい？』"
+msgstr ""
+
+#. ID 41, Page 1, Line 7, Pos (26,4)
+#. Choice (2 options, embedded in a message)
+#. ID 41, Page 1, Line 11, Pos (26,4)
+#. Choice (2 options, embedded in a message)
+#. ID 41, Page 1, Line 32, Pos (26,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"あげない\n"
+"赤いバラを渡す"
+msgstr ""
+"Don't give\n"
+"Give Red Rose"
+
+#. ID 41, Page 1, Line 9, Pos (26,4)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"『ねぇ　おねがい……ちょっとだけ\n"
+"　におい　嗅ぐだけだからさぁ……』"
+msgstr ""
+"\"Aw, I'm begging you...\n"
+"I just wanna have a snifffff...\""
+
+#. ID 41, Page 1, Line 14, Pos (26,4)
+#. ID 41, Page 2, Line 13, Pos (26,4)
+msgid ""
+"『ちょっとぐらい　いいじゃん……\n"
+"　えへへ　へへへへへ　へへへへへ\n"
+"　あはははははははははははははは』"
+msgstr ""
+"\"I just want it for a li'l bit...\n"
+"Ehehe, hehehehe, hehehehehe...\n"
+"Ahahahahahahahahahahahaha!"
+
+#. ID 41, Page 1, Line 17, Pos (26,4)
+#. ID 41, Page 2, Line 16, Pos (26,4)
+msgid ""
+"『あはははははは　はははははははははは\n"
+"　はははははははははははははははははは\n"
+"　はははははははははははははははははは\n"
+"　はははははははははははははははははは』"
+msgstr ""
+"\"AHAHAHAHAHAHA HAHAHAHAHAHAHAHAHAHA\n"
+"HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA\n"
+"HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA\n"
+"HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA\""
+
+#. ID 41, Page 1, Line 26, Pos (26,4)
+#. ID 41, Page 2, Line 25, Pos (26,4)
+msgid ""
+"\n"
+"「ちょ　ちょっと\n"
+"　イヴ……大丈夫なの？\n"
+"　なんかコイツ　信用できないわ……」"
+msgstr ""
+"\n"
+" N-Now hold on, Ib...\n"
+" Are you sure about that?\n"
+" I wouldn't trust this thing..."
+
+#. ID 41, Page 1, Line 31, Pos (26,4)
+#. Contains choice at line 2 (2 options)
+#. ID 41, Page 2, Line 30, Pos (26,4)
+#. Contains choice at line 2 (3 options)
+msgid "『えへへへ　お花……ちょうだい？』"
+msgstr ""
+
+#. ID 41, Page 1, Line 37, Pos (26,4)
+#. ID 41, Page 2, Line 36, Pos (26,4)
+msgid "赤いバラを　渡した……"
+msgstr "Handed over the Red Rose..."
+
+#. ID 41, Page 1, Line 38, Pos (26,4)
+#. ID 41, Page 2, Line 37, Pos (26,4)
+msgid ""
+"『えへへへ　ありがとう………\n"
+"　きれいだなぁー…………えへへ』"
+msgstr ""
+"\"Ehehehe, thanks...\n"
+"It's so preeetty..... eheheh.\""
+
+#. ID 41, Page 1, Line 41, Pos (26,4)
+#. ID 41, Page 2, Line 40, Pos (26,4)
+#. ID 41, Page 2, Line 86, Pos (26,4)
+msgid "『それじゃ　いただきます』"
+msgstr "\"Well, chow time!\""
+
+#. ID 41, Page 2, Line 7, Pos (26,4)
+#. Choice (3 options, embedded in a message)
+#. ID 41, Page 2, Line 10, Pos (26,4)
+#. Choice (3 options, embedded in a message)
+#. ID 41, Page 2, Line 31, Pos (26,4)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"あげない\n"
+"赤いバラを渡す\n"
+"ブーケを渡す"
+msgstr ""
+"Don't give\n"
+"Give Red Rose\n"
+"Give Bouquet"
+
+#. ID 41, Page 2, Line 9, Pos (26,4)
+#. Contains choice at line 2 (3 options)
+msgid "『におい　嗅ぐだけだからさぁ……』"
+msgstr "\"I just wanna have a snifffff...\""
+
+#. ID 41, Page 2, Line 82, Pos (26,4)
+msgid "ブーケを　渡した……"
+msgstr "Handed over the Bouquet..."
+
+#. ID 41, Page 2, Line 83, Pos (26,4)
+msgid ""
+"『えへへへ　ありがとう………\n"
+"　いいにおいだなぁー…………えへへ』"
+msgstr ""
+"\"Ehehehe, thanks...\n"
+"It smells niiice..... eheheh.\""
+
+#. ID 41, Page 2, Line 90, Pos (26,4)
+msgid "『あー　おいしかった　えへへへ』"
+msgstr "\"Ahhh, that was good... eheheh.\""
+
+#. ID 41, Page 2, Line 91, Pos (26,4)
+msgid ""
+"『ありがとう　ありがとう\n"
+"　約束だからね　ここ通すよ』"
+msgstr ""
+"\"Thank you, thanks so much...\n"
+"As promised, you can go through.\""
+
+#. ID 41, Page 2, Line 95, Pos (26,4)
+msgid ""
+"『このドアで　奥に行けるよ\n"
+"　それじゃあね　えへへへへ』"
+msgstr ""
+"\"Just take this door in...\n"
+"Well, see ya... eheheheh!\""
+
+#. ID 42, Page 1, Line 6, Pos (6,18)
+#. ID 42, Page 1, Line 21, Pos (6,18)
+msgid ""
+"\n"
+"「きゃ―――！\n"
+"　なにこれ　気持ち悪い！」"
+msgstr ""
+"\n"
+" Yaaaah!\n"
+" What is THAT?! Gross is what!"
+
+#. ID 42, Page 1, Line 10, Pos (6,18)
+#. ID 42, Page 1, Line 25, Pos (6,18)
+msgid ""
+"\n"
+"「なんで　床に目があるのよ……！」"
+msgstr ""
+"\n"
+" Why are there EYES on the FLOOR...?!"
+
+#. ID 43, Page 2, Line 3, Pos (15,4)
+#. Contains choice at line 2 (2 options)
+msgid "赤色のガラス玉を　はめてみますか？"
+msgstr ""
+
+#. ID 43, Page 3, Line 1, Pos (15,4)
+#. ID 44, Page 1, Line 1, Pos (16,4)
+msgid "白いヘビの絵が　飾ってある……"
+msgstr "A painting of a white snake..."
+

@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (8,10)
+#. ID 1, Page 4, Line 2, Pos (8,10)
+#. ID 5, Page 1, Line 1, Pos (7,10)
+#. ID 5, Page 2, Line 1, Pos (7,10)
+msgid "頭がない　像がある……"
+msgstr "A headless statue..."
+
+#. ID 1, Page 1, Line 5, Pos (8,10)
+msgid ""
+"\n"
+"「………これ　邪魔………」"
+msgstr ""
+"\n"
+" .....This is in the way....."
+
+#. ID 1, Page 2, Line 12, Pos (8,10)
+msgid ""
+"\n"
+"「この階段で　下に行けそうね\n"
+"　よしちょっと　イヴ離れてて」"
+msgstr ""
+"\n"
+" Looks like these stairs go down.\n"
+" Alright, Ib, step back."
+
+#. ID 1, Page 2, Line 21, Pos (8,10)
+msgid ""
+"\n"
+"「くぅ………！」"
+msgstr ""
+"\n"
+" Oogh.....!"
+
+#. ID 1, Page 2, Line 30, Pos (8,10)
+msgid ""
+"\n"
+"「はぁ………\n"
+"　ここにきて　どれだけ\n"
+"　石像を　ずらしたのかしら……」"
+msgstr ""
+"\n"
+" Whew...\n"
+" Just how many statues\n"
+" have I pushed today...?"
+
+#. ID 1, Page 2, Line 37, Pos (8,10)
+msgid ""
+"\n"
+"「ま　いいわ\n"
+"　それじゃ　行きましょ！」"
+msgstr ""
+"\n"
+" Oh, well.\n"
+" Let's go!"
+
+#. ID 1, Page 4, Line 11, Pos (8,10)
+msgid ""
+"\n"
+"「……ちょっと　どいてよ\n"
+"　下に　行くんだから」"
+msgstr ""
+"\n"
+" ...Can you move for a sec?\n"
+" I need to go down."
+
+#. ID 1, Page 4, Line 21, Pos (8,10)
+msgid ""
+"\n"
+"「わーい」"
+msgstr ""
+"\n"
+" Yaaay!"
+
+#. ID 5, Page 2, Line 4, Pos (7,10)
+msgid ""
+"\n"
+"「バイバイ！」"
+msgstr ""
+"\n"
+" Bye-bye!"
+
+#. ID 7, Page 1, Line 1, Pos (9,5)
+#. ID 7, Page 2, Line 1, Pos (9,5)
+msgid "『憧れ』"
+msgstr "\"Aspiration\""
+
+#. ID 7, Page 2, Line 4, Pos (9,5)
+msgid ""
+"\n"
+"「月のベッド　欲しいなぁ……」"
+msgstr ""
+"\n"
+" I wanna moon bed..."
+
+#. ID 8, Page 1, Line 3, Pos (9,10)
+msgid ""
+"\n"
+"「これ邪魔だわ……\n"
+"　これさえ　なければ\n"
+"　今すぐに下に　行けるのに！」"
+msgstr ""
+"\n"
+" This is in the way...\n"
+" If only this thing weren't here,\n"
+" we could go down there!"
+
+#. ID 8, Page 1, Line 7, Pos (9,10)
+msgid ""
+"\n"
+"「早くどかさないと……\n"
+"　早くどかさないと……！」"
+msgstr ""
+"\n"
+" Gotta move it now...\n"
+" Gotta move it now...!"
+
+#. ID 9, Page 1, Line 3, Pos (9,6)
+msgid ""
+"\n"
+"「うふふふ……\n"
+"　いいなー　月のベッド！」"
+msgstr ""
+"\n"
+" Ohohoho...\n"
+" Yes! A moon bed!"
+
+#. ID 9, Page 1, Line 7, Pos (9,6)
+msgid ""
+"\n"
+"「ゆらゆら　揺れて\n"
+"　きっと　ゆりかごみたいだよ！」"
+msgstr ""
+"\n"
+" Swinging back and forth...\n"
+" like a great big cradle!"
+
+#. ID 13, Page 1, Line 3, Pos (14,12)
+msgid ""
+"\n"
+"「あ！　イヴ見て\n"
+"　階段があるよ！」"
+msgstr ""
+"\n"
+" Ah! Look, Ib! Stairs!"
+
+#. ID 13, Page 1, Line 7, Pos (14,12)
+#, fuzzy
+msgid ""
+"\n"
+"「あそこから\n"
+"　下の階に　行けるかも！」"
+msgstr ""
+"\n"
+" I bet we can take them\n"
+" to the lower floor!"
+

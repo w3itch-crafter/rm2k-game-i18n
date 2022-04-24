@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 1, Pos (7,8)
+#. ID 3, Page 3, Line 1, Pos (7,8)
+msgid ""
+"「いやー　さすが　ゲルテナ先生だ\n"
+"　観れば観るほど　趣深い……」"
+msgstr ""
+"「哇！真不愧是Guertena老師啊！\n"
+"　這畫越看越有深意……」"
+
+#. ID 4, Page 1, Line 1, Pos (6,30)
+#. ID 4, Page 3, Line 1, Pos (6,30)
+msgid ""
+"「本当　素晴らしい絵……\n"
+"　こんなの　どうやったら　描けるのかしら」"
+msgstr ""
+"「真的是很棒的畫……\n"
+"　這到底是怎麼畫出來的呢？」"
+
+#. ID 22, Page 1, Line 1, Pos (7,7)
+msgid "『地平線の風景』"
+msgstr "『地平線的風景』"
+
+#. ID 23, Page 1, Line 1, Pos (3,7)
+#. ID 23, Page 2, Line 1, Pos (3,7)
+#. ID 23, Page 3, Line 1, Pos (3,7)
+msgid "『波打ち際の？？』"
+msgstr "『海岸線的？？』"
+
+#. ID 23, Page 1, Line 2, Pos (3,7)
+#. ID 23, Page 3, Line 2, Pos (3,7)
+#. ID 24, Page 1, Line 2, Pos (11,7)
+#. ID 25, Page 1, Line 2, Pos (15,7)
+#. ID 35, Page 1, Line 2, Pos (15,30)
+msgid "難しくて　読めない字がある……"
+msgstr "有些字太難了，看不懂……"
+
+#. ID 23, Page 2, Line 4, Pos (3,7)
+msgid ""
+"\n"
+"「これ　海かなぁ……行ってみたいなー」"
+msgstr ""
+"\n"
+"「這就是海嗎……好想去看看喔──」"
+
+#. ID 24, Page 1, Line 1, Pos (11,7)
+msgid "『？？の器』"
+msgstr "『？？？？的容器』"
+
+#. ID 25, Page 1, Line 1, Pos (15,7)
+msgid "『？？の精神』"
+msgstr "『？？的精神』"
+
+#. ID 26, Page 1, Line 1, Pos (6,29)
+msgid "『ある丘から見た空』"
+msgstr "『某山丘上所見之天空』"
+
+#. ID 27, Page 1, Line 1, Pos (2,29)
+msgid "『個性なき番人』"
+msgstr "『無個性的守衛』"
+
+#. ID 29, Page 1, Line 1, Pos (15,17)
+#. ID 29, Page 3, Line 1, Pos (15,17)
+msgid "「んまー　きれい………」"
+msgstr "「哎呀──，好漂亮………」"
+
+#. ID 35, Page 1, Line 1, Pos (15,30)
+msgid "『？？と星の？めき』"
+msgstr "『？？與星星的？爍』"
+
+#. ID 36, Page 1, Line 1, Pos (12,25)
+#. ID 36, Page 3, Line 1, Pos (12,25)
+msgid "「これほしいなー………」"
+msgstr "「好想要這個唷………」"
+
+#. ID 37, Page 1, Line 1, Pos (12,24)
+#. ID 37, Page 3, Line 1, Pos (12,24)
+msgid "「………」"
+msgstr "「………」"
+
+#. ID 43, Page 1, Line 1, Pos (9,7)
+msgid ""
+"“さみしいよ　もどっておいで\n"
+"　みんな　きみを　まってるから”"
+msgstr ""
+"“好寂寞喔　快回來吧\n"
+"　大家　都在　等妳”"
+

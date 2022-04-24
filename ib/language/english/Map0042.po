@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. ID 1, Page 1, Line 1, Pos (13,4)
+msgid ""
+"『作品にはお手を触れぬよう　お願いいたします\n"
+"　万が一　備品や作品に何らかの損害を　与えた場合は\n"
+"　あなた　　をも　　　賠　させ　　ます』"
+msgstr ""
+"\"Please do not touch the displays.\n"
+"If by any chance you damage any exhibits,\n"
+"you wil  be exp  t d to pay w  h your   f .\""
+
+#. ID 1, Page 1, Line 4, Pos (13,4)
+msgid "所々の文字が　抜けている……"
+msgstr "Some of the letters are missing..."
+
+#. ID 1, Page 2, Line 1, Pos (13,4)
+msgid ""
+"『先ほど　お客様の中に\n"
+"　備品を破損された方が　いらっしゃいます\n"
+"　見かけた方は　ただちに　ご連絡ください』"
+msgstr ""
+"\"One of our visitors has\n"
+"damaged one of the displays.\n"
+"If found, please report them promptly.\""
+
+#. ID 1, Page 2, Line 4, Pos (13,4)
+#. Contains choice at line 2 (2 options)
+msgid "……張り紙が　剥がれかかっている……"
+msgstr "...The poster is coming off the wall..."
+
+#. ID 1, Page 2, Line 5, Pos (13,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はがしてみる\n"
+"そのままにしておく"
+msgstr ""
+"Pull it off\n"
+"Leave it"
+
+#. ID 1, Page 2, Line 9, Pos (13,4)
+msgid "壁に文字が　書かれている……"
+msgstr "There's writing on the wall..."
+
+#. ID 1, Page 2, Line 10, Pos (13,4)
+#. ID 1, Page 3, Line 1, Pos (13,4)
+msgid "“ギャリーは　首を吊って　死ぬ”"
+msgstr "\"Hanged Garry\""
+
+#. ID 1, Page 2, Line 13, Pos (13,4)
+msgid ""
+"\n"
+"「………………」"
+msgstr ""
+"\n"
+" .........."
+
+#. ID 2, Page 1, Line 5, Pos (3,3)
+msgid "どこかで　音がした……"
+msgstr "There was a sound..."
+
+#. ID 3, Page 1, Line 2, Pos (17,5)
+msgid "『楽しい毎日』"
+msgstr "\"Wonderful Days\""
+
+#. ID 3, Page 1, Line 4, Pos (17,5)
+msgid ""
+"『美術館は　ちょっと不気味な遊園地\n"
+"　おかしなものが　たくさんあるのよ』"
+msgstr ""
+"\"The gallery is like a spooky amusement\n"
+"park with lots of strange things!\""
+
+#. ID 3, Page 1, Line 7, Pos (17,5)
+msgid ""
+"『ここで遊んでいると\n"
+"　あっという間に　１日が　終わってしまうの』"
+msgstr ""
+"\"It's so much fun playing here,\n"
+"the day's over before I know it!\""
+
+#. ID 3, Page 1, Line 10, Pos (17,5)
+msgid ""
+"『とっても　素敵でしょう？\n"
+"　だからあなたも　ここにいれば？』"
+msgstr ""
+"\"Isn't it a fantastic place?\n"
+"Why don't you join me here?\""
+
+#. ID 3, Page 1, Line 13, Pos (17,5)
+msgid "『大丈夫　みんなが　いるから』"
+msgstr "\"You'll never be lonely with all this company...\""
+
+#. ID 4, Page 1, Line 1, Pos (6,8)
+msgid "誰もいないのに　人の気配がする……"
+msgstr "There's no one around, but you feel a presence..."
+
+#. ID 5, Page 1, Line 2, Pos (5,8)
+msgid "花瓶と台が　描かれている……"
+msgstr "It depicts a vase on a table..."
+
+#. ID 6, Page 2, Line 1, Pos (3,6)
+#. ID 17, Page 2, Line 1, Pos (14,7)
+msgid "花瓶に　水が入っていない……"
+msgstr "There's no water in the vase..."
+
+#. ID 11, Page 1, Line 5, Pos (19,0)
+msgid ""
+"\n"
+"「うわ………」"
+msgstr ""
+"\n"
+" Wah...!"
+
+#. ID 11, Page 1, Line 14, Pos (19,0)
+msgid ""
+"\n"
+"「……………」"
+msgstr ""
+"\n"
+" .........."
+
+#. ID 11, Page 1, Line 18, Pos (19,0)
+msgid ""
+"\n"
+"「イヴ」"
+msgstr ""
+"\n"
+" Ib."
+
+#. ID 11, Page 1, Line 25, Pos (19,0)
+msgid ""
+"\n"
+"「ここは　何もなさそうだわ\n"
+"　さっさと　出ましょう」"
+msgstr ""
+"\n"
+" I don't think there's\n"
+" anything in here.\n"
+" Let's leave now."
+
+#. ID 17, Page 1, Line 1, Pos (14,7)
+#. Contains choice at line 2 (2 options)
+msgid "水の入った花瓶がある……"
+msgstr "A vase full of water..."
+
+#. ID 17, Page 1, Line 2, Pos (14,7)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 3, Line 7, Pos (14,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"バラを活ける\n"
+"活けない"
+msgstr ""
+"Place rose\n"
+"Don't place"
+
+#. ID 17, Page 1, Line 8, Pos (14,7)
+msgid "バラの花が　元気になった！"
+msgstr "The rose returned to health!"
+
+#. ID 17, Page 1, Line 10, Pos (14,7)
+msgid "花瓶の水が　なくなってしまった……"
+msgstr "The vase is out of water..."
+
+#. ID 17, Page 3, Line 3, Pos (14,7)
+msgid ""
+"\n"
+"「……これ……絵の具？」"
+msgstr ""
+"\n"
+" ...Is this... paint?"
+
+#. ID 17, Page 3, Line 6, Pos (14,7)
+#. Contains choice at line 2 (2 options)
+msgid "真っ赤になった　花瓶がある……"
+msgstr "A vase painted red..."
+
+#. ID 17, Page 3, Line 15, Pos (14,7)
+#, fuzzy
+msgid "バラの花が　しおれてしまった……"
+msgstr "The rose withered..."

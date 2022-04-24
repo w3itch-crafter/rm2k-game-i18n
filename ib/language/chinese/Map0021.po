@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 13, Page 1, Line 1, Pos (22,12)
+msgid "縄につながれた　人形がぶら下がっている……"
+msgstr "用繩子垂吊著的人偶……"
+
+#. ID 17, Page 1, Line 1, Pos (22,21)
+msgid "“猛　唇　注　意”"
+msgstr "“猛　唇　注　意”"
+
+#. ID 19, Page 1, Line 2, Pos (33,21)
+#. ID 19, Page 2, Line 2, Pos (33,21)
+msgid "「はら　へった　くいもの　よこせ」"
+msgstr "「肚子　餓了　給我拿　食物來」"
+
+#. ID 19, Page 2, Line 3, Pos (33,21)
+msgid "「その　くいもの　よこせ」"
+msgstr "「那個食物　給我」"
+
+#. ID 19, Page 2, Line 4, Pos (33,21)
+#. Contains choice at line 2 (2 options)
+msgid "木のリンゴを　あげますか？"
+msgstr "要把木蘋果給它嗎？"
+
+#. ID 19, Page 2, Line 5, Pos (33,21)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"あげる\n"
+"あげない"
+msgstr ""
+"給它\n"
+"不給它"
+
+#. ID 19, Page 2, Line 8, Pos (33,21)
+msgid "木のリンゴを　口の中にいれた……"
+msgstr "把木蘋果放到嘴巴裡……"
+
+#. ID 19, Page 2, Line 13, Pos (33,21)
+msgid "「うまい　これ」"
+msgstr "「這個　好吃」"
+
+#. ID 19, Page 2, Line 14, Pos (33,21)
+msgid ""
+"「おまえ　きにいった　こことおす\n"
+"　おれの　くちのなか　くぐっていけ」"
+msgstr ""
+"「我　中意妳　讓妳通過這裡\n"
+"　穿過　我的口腔　繼續前進吧」"
+
+#. ID 19, Page 2, Line 22, Pos (33,21)
+msgid "「おまえ　いじわる　きらい」"
+msgstr "「妳　真壞心　討厭妳」"
+
+#. ID 20, Page 1, Line 1, Pos (33,10)
+msgid "扉に暗号のようなものが　描いてある……"
+msgstr "門上畫著像是暗號般的東西……"
+
+#. ID 20, Page 1, Line 2, Pos (33,10)
+msgid "“\\c[18]●\\c[0]×\\c[11]●\\c[0]＋\\c[4]●\\c[0]＝？”"
+msgstr "“\\c[18]●\\c[0]×\\c[11]●\\c[0]＋\\c[4]●\\c[0]＝？”"
+
+#. ID 20, Page 1, Line 8, Pos (33,10)
+msgid "何かの音がした……"
+msgstr "不知名的聲音響起……"
+
+#. ID 20, Page 1, Line 13, Pos (33,10)
+msgid "何も　起こらない……"
+msgstr "什麼也沒發生……"
+
+#. ID 22, Page 1, Line 1, Pos (4,21)
+#. ID 22, Page 2, Line 1, Pos (4,21)
+msgid "真っ白な絵がある……"
+msgstr "有一幅全白的畫……"
+
+#. ID 22, Page 2, Line 2, Pos (4,21)
+msgid ""
+"……よく見ると　真ん中に\n"
+"小さく数字が　書いてある……"
+msgstr ""
+"……仔細一看，\n"
+"上面寫著小小的數字……"
+
+#. ID 22, Page 2, Line 4, Pos (4,21)
+msgid "『\\c[11]９\\c[0]』"
+msgstr "『\\c[11]９\\c[0]』"
+
+#. ID 25, Page 1, Line 1, Pos (7,21)
+msgid "舌が動いている……"
+msgstr "舌頭在動……"
+
+#. ID 29, Page 1, Line 1, Pos (25,12)
+#. ID 35, Page 1, Line 1, Pos (36,12)
+msgid "人形が落ちている……"
+msgstr "人偶掉了下來……"
+
+#. ID 29, Page 1, Line 2, Pos (25,12)
+msgid "人形の服に　小さく数字が縫ってある……"
+msgstr "人偶的衣服上，繡了小小的數字……"
+
+#. ID 29, Page 1, Line 3, Pos (25,12)
+msgid "『\\c[18]１８\\c[0]』"
+msgstr "『\\c[18]１８\\c[0]』"
+
+#. ID 31, Page 1, Line 1, Pos (13,21)
+msgid "『忘れたころに……』"
+msgstr "『當你忘記的時候……』"
+
+#. ID 32, Page 1, Line 1, Pos (6,10)
+msgid "“ウソつきたちの部屋”"
+msgstr "“騙子們的房間”"
+

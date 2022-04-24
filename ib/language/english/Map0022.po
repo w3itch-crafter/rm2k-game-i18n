@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 10, Page 1, Line 1, Pos (3,5)
+msgid ""
+"“石像の正面に立って\n"
+"　西に３歩　次に南へ１歩　そこが正解”"
+msgstr ""
+"\"Stand in front of the statue,\n"
+"go west 3 steps, then south 1 step.\n"
+"That's the answer!\""
+
+#. ID 10, Page 2, Line 1, Pos (3,5)
+#. ID 11, Page 2, Line 1, Pos (9,5)
+#. ID 12, Page 2, Line 1, Pos (15,5)
+#. ID 13, Page 2, Line 1, Pos (18,5)
+#. ID 14, Page 2, Line 1, Pos (21,5)
+msgid "“ウソつき！”"
+msgstr "\"Liar!\""
+
+#. ID 11, Page 1, Line 1, Pos (9,5)
+msgid "“白い服が言ってることは　本当だよ”"
+msgstr "\"The one in white speaks the truth!\""
+
+#. ID 12, Page 1, Line 1, Pos (15,5)
+msgid "“本当のこと言ってるのは　緑の服だけだよ”"
+msgstr "\"The only truth-speaker wears green!\""
+
+#. ID 13, Page 1, Line 1, Pos (18,5)
+msgid ""
+"“石像の正面に立って\n"
+"　東に２歩　次に南へ２歩　そこが正解”"
+msgstr ""
+"\"Stand in front of the statue,\n"
+"go east 2 steps, then south 2 steps.\n"
+"That's the answer!\""
+
+#. ID 14, Page 1, Line 1, Pos (21,5)
+msgid "“黄の服に　同意！”"
+msgstr "\"I agree with the one in yellow!\""
+
+#. ID 15, Page 1, Line 1, Pos (6,5)
+msgid ""
+"“石像の正面に立って\n"
+"　東に４歩　次に北へ２歩　そこが正解”"
+msgstr ""
+"\"Stand in front of the statue,\n"
+"go east 4 steps, then north 2 steps.\n"
+"That's the answer!\""
+
+#. ID 15, Page 2, Line 1, Pos (6,5)
+#. ID 15, Page 3, Line 1, Pos (6,5)
+msgid "赤い絵の具が　したたっている……"
+msgstr "It's dripping with red paint..."
+
+#. ID 15, Page 3, Line 4, Pos (6,5)
+msgid ""
+"\n"
+"「……うわ……なにこれ\n"
+"　ヒドイわね……」"
+msgstr ""
+"\n"
+" ...M-My... My word...\n"
+" This is terrible..."
+
+#. ID 15, Page 3, Line 8, Pos (6,5)
+msgid ""
+"\n"
+"「イヴ　ここ早く出ましょ」"
+msgstr ""
+"\n"
+" Ib, let's get out of here!"
+

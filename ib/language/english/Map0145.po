@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 10, Page 1, Line 1, Pos (4,18)
+#. ID 14, Page 1, Line 1, Pos (7,18)
+#. ID 15, Page 1, Line 1, Pos (10,18)
+#. ID 16, Page 1, Line 1, Pos (14,18)
+#. ID 17, Page 1, Line 1, Pos (17,18)
+#. ID 18, Page 1, Line 1, Pos (20,18)
+#. ID 19, Page 1, Line 1, Pos (2,12)
+#. ID 20, Page 1, Line 1, Pos (5,12)
+#. ID 21, Page 1, Line 1, Pos (10,12)
+#. ID 22, Page 1, Line 1, Pos (14,12)
+#. ID 23, Page 1, Line 1, Pos (19,12)
+#. ID 24, Page 1, Line 1, Pos (22,12)
+#. ID 34, Page 1, Line 1, Pos (20,5)
+msgid "真っ白な　プレートがある……"
+msgstr "A blank plate..."
+
+#. ID 10, Page 2, Line 1, Pos (4,18)
+msgid "『赤いボタン』"
+msgstr "\"Red Button\""
+
+#. ID 14, Page 2, Line 1, Pos (7,18)
+msgid "『青いボタン』"
+msgstr "\"Blue Button\""
+
+#. ID 15, Page 2, Line 1, Pos (10,18)
+msgid "『緑のボタン』"
+msgstr "\"Green Button\""
+
+#. ID 16, Page 2, Line 1, Pos (14,18)
+msgid "『ミルクパズル』"
+msgstr "\"Milk Puzzle\""
+
+#. ID 17, Page 2, Line 1, Pos (17,18)
+msgid "『争いの矛先』"
+msgstr "\"The Force of Quarrel\""
+
+#. ID 18, Page 2, Line 1, Pos (20,18)
+msgid "『深層』"
+msgstr "\"Depths\""
+
+#. ID 19, Page 2, Line 1, Pos (2,12)
+msgid "『嫉妬深き花』"
+msgstr "\"Flowers of Jealousy\""
+
+#. ID 20, Page 2, Line 1, Pos (5,12)
+msgid "『釣り針』"
+msgstr "\"Fishing Hook\""
+
+#. ID 21, Page 2, Line 1, Pos (10,12)
+msgid "『月夜に散る儚き想い』"
+msgstr "\"Fleeting Thoughts on a Moonlit Night\""
+
+#. ID 22, Page 2, Line 1, Pos (14,12)
+msgid "『ミドリのよる』"
+msgstr "\"Marvelous Night\""
+
+#. ID 23, Page 2, Line 1, Pos (19,12)
+msgid "『ジャグリング』"
+msgstr "\"Juggling\""
+
+#. ID 24, Page 2, Line 1, Pos (22,12)
+msgid "『聞き耳』"
+msgstr "\"Strained Ear\""
+
+#. ID 34, Page 2, Line 1, Pos (20,5)
+msgid "『決別』"
+msgstr "\"Separation\""
+
+#. ID 35, Page 1, Line 2, Pos (12,19)
+msgid "『心壊』"
+msgstr "\"Ruin of the Heart\""
+
+#. ID 35, Page 1, Line 4, Pos (12,19)
+msgid ""
+"『あまりに　精神が疲弊すると\n"
+"　そのうち　幻覚が見え始め……』"
+msgstr ""
+"\"If your mind suffers too much,\n"
+"you will soon start to hallucinate...\""
+
+#. ID 35, Page 1, Line 7, Pos (12,19)
+msgid "『最後は　壊れてしまうだろう』"
+msgstr "\"And in the end, it will break apart.\""
+
+#. ID 35, Page 1, Line 9, Pos (12,19)
+msgid "『そして　厄介なことに………』"
+msgstr "\"And more worrying yet...\""
+
+#. ID 35, Page 1, Line 11, Pos (12,19)
+msgid ""
+"『自身が　“壊れて”いるのを\n"
+"　自覚する事は　できない』"
+msgstr ""
+"\"Is that you will not even be able\n"
+"to recognize that fact.\""
+
+#. ID 45, Page 1, Line 1, Pos (12,5)
+msgid "『赤色の目』"
+msgstr "\"Red Eyes\""
+

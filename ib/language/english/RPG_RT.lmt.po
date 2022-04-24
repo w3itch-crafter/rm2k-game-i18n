@@ -1,0 +1,531 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2
+msgid "美術館_出入口"
+msgstr "Gallery Entrance"
+
+#. ID 3
+msgid "黒背景"
+msgstr "Black Background"
+
+#. ID 4
+#. ID 102
+msgid "2F_出入り口上"
+msgstr "2F Above Entrance"
+
+#. ID 5
+#. ID 99
+msgid "1F_大広間"
+msgstr "1F Reception Hall"
+
+#. ID 6
+#. ID 100
+msgid "1F_通路1"
+msgstr "1F Passage 1"
+
+#. ID 7
+msgid "1F_通路バラの間"
+msgstr "1F Passage Rose Room"
+
+#. ID 8
+#. ID 103
+msgid "2F_通路1"
+msgstr "2F Passage 1"
+
+#. ID 9
+#. ID 104
+msgid "巨大絵の部屋"
+msgstr "Mural Room"
+
+#. ID 10
+msgid "■青の間"
+msgstr "Blue Space"
+
+#. ID 11
+msgid "次への部屋"
+msgstr "Room to Next"
+
+#. ID 12
+#. ID 15
+#. ID 21
+#. ID 27
+#. ID 33
+#. ID 41
+#. ID 50
+#. ID 62
+#. ID 63
+msgid "通路"
+msgstr "Passage"
+
+#. ID 13
+msgid "鍵の部屋"
+msgstr "Key Room"
+
+#. ID 14
+msgid "■緑の間"
+msgstr "Green Space"
+
+#. ID 16
+#. ID 28
+#. ID 109
+msgid "小部屋"
+msgstr ""
+
+#. ID 17
+msgid "←左の部屋B"
+msgstr "Left Room B"
+
+#. ID 18
+msgid "■黄の間"
+msgstr "Yellow Space"
+
+#. ID 19
+#. ID 29
+msgid "←左の部屋"
+msgstr "Left Room"
+
+#. ID 20
+#. ID 30
+msgid "→右の部屋"
+msgstr ""
+
+#. ID 22
+msgid "ウソつき部屋"
+msgstr "Liar Room"
+
+#. ID 23
+msgid "暗号②部屋"
+msgstr "Password 2 Room"
+
+#. ID 24
+msgid "食べ物部屋"
+msgstr "Food Room"
+
+#. ID 25
+msgid "赤の間へ"
+msgstr "To Red Space"
+
+#. ID 26
+msgid "■赤の間"
+msgstr "Red Space"
+
+#. ID 31
+msgid "青バラ部屋"
+msgstr "Blue Rose Room"
+
+#. ID 32
+msgid "灰の間へ"
+msgstr "To Gray Space"
+
+#. ID 34
+msgid "■灰の間"
+msgstr "Gray Space"
+
+#. ID 35
+msgid "迷路の部屋"
+msgstr "Maze Room"
+
+#. ID 36
+msgid "　灰の間２"
+msgstr "Gray Space 2"
+
+#. ID 37
+msgid "隠し通路"
+msgstr "Hidden Passage"
+
+#. ID 38
+msgid "オブジェ部屋"
+msgstr "Sculpture Room"
+
+#. ID 39
+msgid "目薬部屋"
+msgstr "Eyedrops Room"
+
+#. ID 40
+msgid "マネキンロード"
+msgstr "Mannequin Road"
+
+#. ID 42
+msgid "二つ部屋"
+msgstr "Two Rooms"
+
+#. ID 43
+msgid "鏡の部屋"
+msgstr "Mirror Room"
+
+#. ID 44
+msgid "メアリと会う部屋"
+msgstr "Meet Mary Room"
+
+#. ID 45
+msgid "灰のカギ部屋"
+msgstr "Gray Key Room"
+
+#. ID 46
+msgid "紫の間へ"
+msgstr "To Violet Space"
+
+#. ID 47
+msgid "安全部屋"
+msgstr "Safe Room"
+
+#. ID 48
+msgid "■紫の間"
+msgstr "Violet Space"
+
+#. ID 49
+msgid "小通路"
+msgstr "Small Passage"
+
+#. ID 51
+msgid "停電部屋"
+msgstr "Power Out Room"
+
+#. ID 52
+msgid "←左の部屋C"
+msgstr "Left Room C"
+
+#. ID 53
+msgid "1F_うさぎ部屋"
+msgstr "1F Rabbit Room"
+
+#. ID 54
+msgid "　茶の間へ"
+msgstr "To Brown Space"
+
+#. ID 55
+msgid "■茶の間"
+msgstr "Brown Space"
+
+#. ID 56
+msgid "ed用"
+msgstr "Ending"
+
+#. ID 57
+#. ID 97
+#. ID 135
+msgid "階段"
+msgstr "Stairs"
+
+#. ID 58
+msgid "人形部屋2"
+msgstr "Doll Room 2"
+
+#. ID 59
+msgid "橋"
+msgstr "Bridge"
+
+#. ID 60
+msgid "ヒモ部屋"
+msgstr "Cord Room"
+
+#. ID 61
+msgid "人形ロード"
+msgstr "Doll Road"
+
+#. ID 64
+msgid "雨部屋"
+msgstr "Rain Room"
+
+#. ID 65
+msgid "白黒部屋"
+msgstr "Monochrome Room"
+
+#. ID 66
+msgid "図書室"
+msgstr "Library"
+
+#. ID 67
+msgid "人形部屋"
+msgstr "Doll Room"
+
+#. ID 68
+msgid "毒部屋"
+msgstr "Poison Room"
+
+#. ID 69
+msgid "画家部屋"
+msgstr "Artist Room"
+
+#. ID 70
+msgid "小さい部屋"
+msgstr ""
+
+#. ID 71
+msgid "奈落の一本道"
+msgstr "Straight Basement Road"
+
+#. ID 72
+msgid "一本階段へ"
+msgstr "To Long Stairs"
+
+#. ID 73
+msgid "１階へ"
+msgstr "To First Floor"
+
+#. ID 74
+msgid "人形部屋（合流地点）"
+msgstr "Doll Room (Reunite)"
+
+#. ID 75
+msgid "２階へ"
+msgstr "To Second Floor"
+
+#. ID 76
+msgid "一本階段"
+msgstr "Long Stairs"
+
+#. ID 77
+msgid "スケッチブック"
+msgstr "Sketchbook"
+
+#. ID 78
+msgid "右下"
+msgstr "Lower-Right"
+
+#. ID 79
+msgid "イヴ悪夢"
+msgstr "Ib's Nightmare"
+
+#. ID 80
+msgid "民家"
+msgstr "House"
+
+#. ID 81
+msgid "右上"
+msgstr "Upper-Right"
+
+#. ID 82
+msgid "右中央"
+msgstr "Middle-Right"
+
+#. ID 83
+msgid "中上"
+msgstr "Upper"
+
+#. ID 84
+msgid "左上"
+msgstr "Upper-Left"
+
+#. ID 85
+msgid "左中央"
+msgstr "Middle-Left"
+
+#. ID 86
+msgid "左下"
+msgstr "Lower-Left"
+
+#. ID 87
+msgid "中下"
+msgstr "Lower"
+
+#. ID 88
+msgid "中中央"
+msgstr "Center"
+
+#. ID 89
+msgid "バケツの家"
+msgstr "Bucket House"
+
+#. ID 90
+msgid "びじゅつかん"
+msgstr "Gallery"
+
+#. ID 91
+msgid "パンドラの間"
+msgstr "Pandora's Space"
+
+#. ID 92
+msgid "メアリーの家"
+msgstr "Mary's House"
+
+#. ID 93
+msgid "2F"
+msgstr "2F"
+
+#. ID 94
+msgid "おもちゃばこ"
+msgstr "Toy Box"
+
+#. ID 95
+msgid "一本通路"
+msgstr "Straight Passage"
+
+#. ID 96
+msgid "黒の間へ"
+msgstr "To Black Space"
+
+#. ID 98
+msgid "■黒の間"
+msgstr "Black Space"
+
+#. ID 101
+msgid "1F_通路2"
+msgstr "1F Passage 2"
+
+#. ID 105
+msgid "人形部屋3"
+msgstr "Doll Room 3"
+
+#. ID 106
+msgid "人形部屋4"
+msgstr "Doll Room 4"
+
+#. ID 107
+msgid "人形部屋（ED）"
+msgstr "Doll Room End"
+
+#. ID 108
+msgid "美術館の深層"
+msgstr "Depths of the Gallery"
+
+#. ID 110
+msgid "■橙の間"
+msgstr "Orange Space"
+
+#. ID 111
+msgid "入口"
+msgstr "Entrance"
+
+#. ID 112
+msgid "メアリ用階段"
+msgstr "Mary's Stairs"
+
+#. ID 113
+msgid "真・ゲルテナ展入口"
+msgstr "True Exhibit Entrance"
+
+#. ID 114
+msgid "1Fメイン広間"
+msgstr "1F Main Hall"
+
+#. ID 115
+msgid "1F造形物"
+msgstr "1F Models"
+
+#. ID 116
+msgid "青"
+msgstr "Blue"
+
+#. ID 117
+msgid "1の部屋"
+msgstr "Room 1"
+
+#. ID 118
+msgid "真っ暗闇の部屋"
+msgstr "Pitch Black Room"
+
+#. ID 119
+msgid "チョウチョ部屋"
+msgstr "Butterfly Room"
+
+#. ID 120
+msgid "→の部屋"
+msgstr ""
+
+#. ID 121
+msgid "踊り場1"
+msgstr "Landing 1"
+
+#. ID 122
+msgid "同じ絵の部屋"
+msgstr "Same Painting Room"
+
+#. ID 123
+msgid "アトリエ"
+msgstr "Atelier"
+
+#. ID 124
+msgid "■深海の間"
+msgstr "Abyssal Space"
+
+#. ID 125
+msgid "永遠の通路"
+msgstr "Endless Passage"
+
+#. ID 126
+msgid "ドローイングの部屋"
+msgstr "Drawing Room"
+
+#. ID 127
+#. ID 147
+msgid "コペルニクス的転回の展開"
+msgstr "Copernicus Birth"
+
+#. ID 128
+msgid "休憩部屋・資料"
+msgstr "Break/Materials Room"
+
+#. ID 129
+msgid "深海庭園"
+msgstr "Abyssal Park"
+
+#. ID 130
+msgid "落下口"
+msgstr "Drop"
+
+#. ID 131
+msgid "トゲ迷路"
+msgstr "Spike Maze"
+
+#. ID 132
+msgid "あの世への階段"
+msgstr "Stairs to the Afterlife"
+
+#. ID 133
+msgid "宝石箱の家"
+msgstr "Jewel Box House"
+
+#. ID 134
+#. ID 144
+msgid "秘密の部屋"
+msgstr "Secret Room"
+
+#. ID 136
+msgid "緑"
+msgstr "Green"
+
+#. ID 137
+msgid "黄"
+msgstr "Yellow"
+
+#. ID 138
+msgid "赤"
+msgstr "Red"
+
+#. ID 139
+msgid "灰"
+msgstr "Gray"
+
+#. ID 140
+msgid "紫"
+msgstr "Violet"
+
+#. ID 141
+msgid "茶"
+msgstr "Brown"
+
+#. ID 142
+msgid "橙"
+msgstr "Orange"
+
+#. ID 143
+msgid "深海"
+msgstr "Abyss"
+
+#. ID 145
+msgid "黒"
+msgstr "Black"
+
+#. ID 146
+msgid "コペルニクス"
+msgstr "Copernicus"
+

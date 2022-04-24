@@ -1,0 +1,278 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 7, Page 1, Line 1, Pos (22,21)
+#. ID 8, Page 1, Line 1, Pos (5,21)
+#. ID 15, Page 1, Line 1, Pos (23,14)
+#. ID 16, Page 1, Line 1, Pos (22,14)
+#. ID 17, Page 1, Line 1, Pos (9,14)
+#. ID 18, Page 1, Line 1, Pos (10,14)
+#. ID 25, Page 1, Line 1, Pos (18,14)
+#. ID 26, Page 1, Line 1, Pos (17,14)
+#. ID 33, Page 1, Line 1, Pos (4,14)
+#. ID 34, Page 1, Line 1, Pos (5,14)
+#. ID 43, Page 1, Line 1, Pos (4,6)
+#. ID 44, Page 1, Line 1, Pos (9,6)
+#. ID 46, Page 1, Line 1, Pos (18,6)
+#. ID 48, Page 1, Line 1, Pos (23,6)
+#. ID 52, Page 1, Line 1, Pos (14,21)
+#. ID 53, Page 1, Line 1, Pos (13,21)
+msgid "真っ白な　プレートがある……"
+msgstr "A blank plate..."
+
+#. ID 7, Page 2, Line 1, Pos (22,21)
+msgid "『無個性』"
+msgstr "\"Death of the Individual\""
+
+#. ID 8, Page 2, Line 1, Pos (5,21)
+msgid "『指定席』"
+msgstr "\"Reserved Seat\""
+
+#. ID 15, Page 2, Line 1, Pos (23,14)
+#. ID 16, Page 2, Line 1, Pos (22,14)
+msgid ""
+"『精神の具現化』\n"
+"　一見美しい　その姿は\n"
+"　近づきすぎると　痛い目に遭い\n"
+"　健全な肉体にしか　咲くことができない"
+msgstr ""
+"\"Embodiment of Spirit\"\n"
+"Beautiful at a glance, but if you\n"
+"get too close, it will induce pain.\n"
+"It can only bloom in wholesome bodies."
+
+#. ID 17, Page 2, Line 1, Pos (9,14)
+#. ID 18, Page 2, Line 1, Pos (10,14)
+msgid "『警戒心』"
+msgstr "\"Wariness\""
+
+#. ID 25, Page 2, Line 1, Pos (18,14)
+#. ID 26, Page 2, Line 1, Pos (17,14)
+msgid "『口直しの樹』"
+msgstr "\"Taste-Cleansing Tree\""
+
+#. ID 33, Page 2, Line 1, Pos (4,14)
+#. ID 34, Page 2, Line 1, Pos (5,14)
+msgid "『融解』"
+msgstr "\"Fusion\""
+
+#. ID 43, Page 2, Line 1, Pos (4,6)
+msgid "『苦味の果実』"
+msgstr "\"Bitter Fruit\""
+
+#. ID 44, Page 2, Line 1, Pos (9,6)
+msgid "『世紀末の情景』"
+msgstr "\"Spectacle of Century's End\""
+
+#. ID 46, Page 2, Line 1, Pos (18,6)
+msgid "『黒い姿の君』"
+msgstr "\"Your Dark Figure\""
+
+#. ID 48, Page 2, Line 1, Pos (23,6)
+msgid "『悟り』"
+msgstr "\"Enlightenment\""
+
+#. ID 52, Page 2, Line 1, Pos (14,21)
+#. ID 53, Page 2, Line 1, Pos (13,21)
+msgid "『星と鉱石の煌めき』"
+msgstr "\"The Gleam of Ores and Stars\""
+
+#. ID 54, Page 1, Line 6, Pos (14,13)
+msgid ""
+"\n"
+"「イヴ！\n"
+"　アクセサリーは　見た？」"
+msgstr ""
+"\n"
+" Ib!\n"
+" Did you see the jewelry on display?"
+
+#. ID 54, Page 1, Line 10, Pos (14,13)
+msgid ""
+"\n"
+"「色んな石があって　綺麗よ\n"
+"　ガーネットは　真っ赤で\n"
+"　イヴの目と　おんなじ！」"
+msgstr ""
+"\n"
+" They have all kinds of gems!\n"
+" Even some brilliant garnets!\n"
+" They're red like your eyes, Ib!"
+
+#. ID 54, Page 1, Line 15, Pos (14,13)
+msgid ""
+"\n"
+"「え？　お父さん？\n"
+"　そうねぇ……あの人は……」"
+msgstr ""
+"\n"
+" Hm? Your father?\n"
+" Oh, yes... he would be..."
+
+#. ID 54, Page 1, Line 19, Pos (14,13)
+msgid ""
+"\n"
+"「サファイア　かしらねー」"
+msgstr ""
+"\n"
+" A sapphire, I suppose?"
+
+#. ID 54, Page 1, Line 26, Pos (14,13)
+msgid ""
+"\n"
+"「フフ……イヴ　知ってる？\n"
+"　お父さんたら　はじめて\n"
+"　ゲルテナの絵を　本で見た日……」"
+msgstr ""
+"\n"
+" Heehee... Did you know, Ib?\n"
+" The day your father first saw\n"
+" a Guertena painting in a book..."
+
+#. ID 54, Page 1, Line 31, Pos (14,13)
+msgid ""
+"\n"
+"「夜中に　うなされちゃったのよ\n"
+"　……相当　インパクトが\n"
+"　強かった　みたい」"
+msgstr ""
+"\n"
+" He had a nightmare!\n"
+" ...It must have had\n"
+" quite an impact on him."
+
+#. ID 54, Page 1, Line 36, Pos (14,13)
+msgid ""
+"\n"
+"「……あら　イヴも怖いの？\n"
+"　仕方ないわね　じゃあ今日は\n"
+"　一緒に　寝ましょうか」"
+msgstr ""
+"\n"
+" ...Oh? Are you scared too, Ib?\n"
+" Oh, very well... We can\n"
+" sleep together tonight."
+
+#. ID 54, Page 1, Line 48, Pos (14,13)
+msgid ""
+"\n"
+"「ゲルテナの作品って\n"
+"　ちょっと　不気味だけれど\n"
+"　なぜか　心惹かれるのよね……」"
+msgstr ""
+"\n"
+" Guertena's works are often eerie,\n"
+" but they somehow captivate me..."
+
+#. ID 54, Page 1, Line 53, Pos (14,13)
+#, fuzzy
+msgid ""
+"\n"
+"「観てても　飽きないし\n"
+"　やっぱり私　ゲルテナ好きだわ」"
+msgstr ""
+"\n"
+" I never get tired of them!\n"
+" Yes, I adore Guertena!"
+
+#. ID 54, Page 1, Line 63, Pos (14,13)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴ　好きな作品はあった？」"
+msgstr ""
+"\n"
+" Do you have a favorite piece, Ib?"
+
+#. ID 54, Page 1, Line 66, Pos (14,13)
+#, fuzzy
+msgid ""
+"\n"
+"「お母さんね\n"
+"　あのソファー　気にいっちゃったわ\n"
+"　おうちに　置きたいくらい」"
+msgstr ""
+"\n"
+" I personally quite like that sofa.\n"
+" I'd like to have it at home!"
+
+#. ID 54, Page 1, Line 71, Pos (14,13)
+#, fuzzy
+msgid ""
+"\n"
+"「うふふ　お父さんは\n"
+"　反対するでしょうけどね」"
+msgstr ""
+"\n"
+" Heehee, but I'm sure\n"
+" your father would object..."
+
+#. ID 54, Page 1, Line 79, Pos (14,13)
+#, fuzzy
+msgid ""
+"\n"
+"「せっかく\n"
+"　ゲルテナ展に　来たんだから\n"
+"　お土産でも　買いたいわね」"
+msgstr ""
+"\n"
+" While we're at the Guertena\n"
+" exhibition, I'd like to get a souvenir."
+
+#. ID 54, Page 1, Line 84, Pos (14,13)
+#, fuzzy
+msgid ""
+"\n"
+"「絵画のレプリカは　ないかしら\n"
+"　玄関の壁が　空いてるから\n"
+"　そこに　飾りたいわ」"
+msgstr ""
+"\n"
+" Could we get a painting replica?\n"
+" That wall in our entryway\n"
+" does look a little bare..."
+
+#. ID 54, Page 1, Line 96, Pos (14,13)
+#, fuzzy
+msgid ""
+"\n"
+"「作品を観てると\n"
+"　ゲルテナは　どんな人だったのか\n"
+"　すごく　気になってくるわよね」"
+msgstr ""
+"\n"
+" I always have to wonder\n"
+" what kind of person Guertena was\n"
+" when I look at his works..."
+
+#. ID 54, Page 1, Line 106, Pos (14,13)
+#, fuzzy
+msgid ""
+"\n"
+"「ゲルテナの　作品って\n"
+"　まだまだ　たくさん\n"
+"　あるらしいのよ……」"
+msgstr ""
+"\n"
+" It seems there are many more\n"
+" Guertena pieces yet to be seen..."
+
+#. ID 54, Page 1, Line 111, Pos (14,13)
+#, fuzzy
+msgid ""
+"\n"
+"「はぁ……できれば\n"
+"　全ての作品を　この目で\n"
+"　観てみたいわ……」"
+msgstr ""
+"\n"
+" Sigh... If only I could,\n"
+" I would love to see them all..."
+

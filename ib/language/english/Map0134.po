@@ -1,0 +1,478 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (2,17)
+msgid ""
+"『習作・？？の微笑み』\n"
+"　目を？らして　みてごらん\n"
+"　生命を持つのは　誰だろう"
+msgstr ""
+"\"??? Smile: A Study\"\n"
+"Focus your eyes and look...\n"
+"Who is the one that lives?"
+
+#. ID 1, Page 2, Line 2, Pos (2,17)
+msgid ""
+"『習作・単眼の微笑み』\n"
+"　目を凝らして　みてごらん\n"
+"　生命を持つのは　誰だろう"
+msgstr ""
+"\"Cycloptic Smile: A Study\"\n"
+"Focus your eyes and look...\n"
+"Who is the one that lives?"
+
+#. ID 2, Page 1, Line 2, Pos (29,17)
+msgid "『永遠の通路』"
+msgstr "\"Endless Corridor\""
+
+#. ID 3, Page 1, Line 1, Pos (15,7)
+#. ID 16, Page 1, Line 1, Pos (16,7)
+msgid "真っ白なプレートがある……"
+msgstr "A blank plate..."
+
+#. ID 3, Page 2, Line 2, Pos (15,7)
+#. ID 16, Page 2, Line 2, Pos (16,7)
+msgid "『ゲルテナ』"
+msgstr "\"Guertena\""
+
+#. ID 3, Page 2, Line 7, Pos (15,7)
+#. ID 16, Page 2, Line 7, Pos (16,7)
+msgid ""
+"\n"
+"「ゲルテナ……？\n"
+"　この人物が　そうなのかしら」"
+msgstr ""
+"\n"
+" Guertena...?\n"
+" Is it really the man himself?"
+
+#. ID 3, Page 2, Line 11, Pos (15,7)
+#. ID 16, Page 2, Line 11, Pos (16,7)
+msgid ""
+"\n"
+"「ゲルテナは　自画像を\n"
+"　残さなかったと　聞いてるけど……」"
+msgstr ""
+"\n"
+" I heard Guertena didn't\n"
+" leave any self-portraits..."
+
+#. ID 7, Page 1, Line 2, Pos (7,11)
+msgid "『余白の美』"
+msgstr "\"The Beauty of Blanc\""
+
+#. ID 7, Page 1, Line 6, Pos (7,11)
+msgid ""
+"\n"
+"「余白の美　ねぇ……」"
+msgstr ""
+"\n"
+" Hmm...\n"
+" It leaves parts blank...\n"
+" An experiment in white space?"
+
+#. ID 7, Page 1, Line 9, Pos (7,11)
+#, fuzzy
+msgid ""
+"\n"
+"「……なんとなく\n"
+"　手を　抜いてるようにしか\n"
+"　見えないけど……」"
+msgstr ""
+"\n"
+" ...Sorry, but this just comes off\n"
+" as a lack of effort to me..."
+
+#. ID 7, Page 1, Line 16, Pos (7,11)
+#, fuzzy
+msgid "『？？の美』"
+msgstr "\"The Beauty of ???\""
+
+#. ID 7, Page 1, Line 17, Pos (7,11)
+#. ID 61, Page 1, Line 2, Pos (16,18)
+#. ID 62, Page 1, Line 2, Pos (15,18)
+#, fuzzy
+msgid "難しくて　読めない字がある……"
+msgstr "You don't know this word..."
+
+#. ID 9, Page 1, Line 1, Pos (12,24)
+#. Contains choice at line 2 (2 options)
+#. ID 15, Page 1, Line 1, Pos (13,24)
+#. Contains choice at line 2 (2 options)
+msgid "水の入った花瓶がある……"
+msgstr "A vase full of water..."
+
+#. ID 9, Page 1, Line 2, Pos (12,24)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 1, Line 2, Pos (13,24)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"バラを活ける\n"
+"活けない"
+msgstr ""
+"Place rose\n"
+"Don't place"
+
+#. ID 9, Page 1, Line 8, Pos (12,24)
+#. ID 15, Page 1, Line 8, Pos (13,24)
+msgid "バラの花が　元気になった！"
+msgstr "The rose returned to health!"
+
+#. ID 9, Page 1, Line 10, Pos (12,24)
+#. ID 15, Page 1, Line 10, Pos (13,24)
+msgid "花瓶の水が　なくなってしまった……"
+msgstr "The vase is out of water..."
+
+#. ID 9, Page 2, Line 1, Pos (12,24)
+#. ID 15, Page 2, Line 1, Pos (13,24)
+msgid "花瓶に　水が入っていない……"
+msgstr "There's no water in the vase..."
+
+#. ID 27, Page 1, Line 5, Pos (20,19)
+msgid ""
+"\n"
+"「なにかしらね　これ……絵？」"
+msgstr ""
+"\n"
+" What could this be...\n"
+" A painting?"
+
+#. ID 27, Page 1, Line 10, Pos (20,19)
+#. ID 27, Page 2, Line 1, Pos (20,19)
+#, fuzzy
+msgid "何かが　落ちている……"
+msgstr "There's something on the ground..."
+
+#. ID 27, Page 1, Line 14, Pos (20,19)
+#. ID 27, Page 2, Line 3, Pos (20,19)
+#, fuzzy
+msgid "絵画のピースを　手に入れた。"
+msgstr "Obtained a piece of a painting."
+
+#. ID 27, Page 1, Line 19, Pos (20,19)
+#. ID 27, Page 2, Line 6, Pos (20,19)
+#, fuzzy
+msgid "絵画のピースは　消えてしまった……"
+msgstr "The piece vanished..."
+
+#. ID 27, Page 1, Line 23, Pos (20,19)
+#, fuzzy
+msgid ""
+"\n"
+"「わっ　消えた……なんか\n"
+"　絵の具玉の時と　似てるわ」"
+msgstr ""
+"\n"
+" Whoa, it vanished...\n"
+" This reminds me of\n"
+" those balls of paint."
+
+#. ID 27, Page 1, Line 27, Pos (20,19)
+#, fuzzy
+msgid ""
+"\n"
+"「もしかすると　これ\n"
+"　集めると　良いのかも\n"
+"　もっと　探してみましょ　イヴ！」"
+msgstr ""
+"\n"
+" Maybe we ought to\n"
+" collect all of these.\n"
+" Let's keep looking, Ib!"
+
+#. ID 43, Page 1, Line 3, Pos (23,11)
+msgid "ドアが　開かない……"
+msgstr "The door won't open..."
+
+#. ID 45, Page 2, Line 4, Pos (0,0)
+#. ID 46, Page 1, Line 4, Pos (16,19)
+msgid ""
+"\n"
+"「あら　このコ　ついてくるわよ……」"
+msgstr ""
+"\n"
+" Ah? It's coming along..."
+
+#. ID 55, Page 1, Line 1, Pos (24,22)
+msgid "『呑み込める夜』"
+msgstr "\"Drinking in the Night\""
+
+#. ID 55, Page 1, Line 8, Pos (24,22)
+msgid ""
+"\n"
+"「この空みたいなの　どうやって\n"
+"　浮いてるのかしら……」"
+msgstr ""
+"\n"
+" How is it able to\n"
+" float like that...?"
+
+#. ID 55, Page 1, Line 17, Pos (24,22)
+msgid ""
+"\n"
+"「夜って　どんな味が\n"
+"　するのかしらね……」"
+msgstr ""
+"\n"
+" I have to wonder what\n"
+" the night tastes like..."
+
+#. ID 55, Page 1, Line 26, Pos (24,22)
+msgid ""
+"\n"
+"「すごいわねー……\n"
+"　変な作品も　多いけど\n"
+"　こういうのなら　好きかも」"
+msgstr ""
+"\n"
+" My, this is impressive...\n"
+" There's been so many strange\n"
+" pieces, but I might like this one."
+
+#. ID 55, Page 1, Line 31, Pos (24,22)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「イヴは　こういうの好き？」"
+msgstr ""
+"\n"
+" Do you like this, Ib?"
+
+#. ID 55, Page 1, Line 33, Pos (24,22)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"好き\n"
+"あんまり……"
+msgstr ""
+"Yeah\n"
+"Eh..."
+
+#. ID 55, Page 1, Line 36, Pos (24,22)
+msgid ""
+"\n"
+"「そっかぁ……ふふ\n"
+"　アタシも　好きよ\n"
+"　なんか　綺麗だものね」"
+msgstr ""
+"\n"
+" I see... heehee.\n"
+" Yes, it's quite pretty.\n"
+" I'm fond of it as well."
+
+#. ID 55, Page 1, Line 44, Pos (24,22)
+msgid ""
+"\n"
+"「あら　そうなの……\n"
+"　ま　人によって感じ方が\n"
+"　違うのは　当然よね……」"
+msgstr ""
+"\n"
+" Ah, I see...\n"
+" Well, no surprise that people\n"
+" can feel differently..."
+
+#. ID 55, Page 1, Line 49, Pos (24,22)
+msgid ""
+"\n"
+"「いつか　イヴが好きになれる\n"
+"　芸術家が　見つかるといいわね」"
+msgstr ""
+"\n"
+" I hope you can find some artists\n"
+" you do like, Ib."
+
+#. ID 56, Page 1, Line 1, Pos (7,22)
+#. ID 56, Page 2, Line 1, Pos (7,22)
+#. ID 56, Page 3, Line 1, Pos (7,22)
+msgid "『弾力のある石』"
+msgstr "\"Flexible Stone\""
+
+#. ID 56, Page 1, Line 5, Pos (7,22)
+msgid ""
+"\n"
+"「ちょっと\n"
+"　触ってみたい気も　するわね……」"
+msgstr ""
+"\n"
+" I kind of want to go up\n"
+" and touch it..."
+
+#. ID 56, Page 2, Line 5, Pos (7,22)
+msgid ""
+"\n"
+"「…………？\n"
+"　この石　こんなに\n"
+"　へこんでたかしら……」"
+msgstr ""
+"\n"
+" .....?\n"
+" Was this rock dented before...?"
+
+#. ID 61, Page 1, Line 1, Pos (16,18)
+#. ID 62, Page 1, Line 1, Pos (15,18)
+msgid "『死後の？？』"
+msgstr "\"??? After Death\""
+
+#. ID 61, Page 2, Line 1, Pos (16,18)
+#. ID 62, Page 2, Line 1, Pos (15,18)
+msgid "『死後の逢瀬』"
+msgstr "\"Tryst After Death\""
+
+#. ID 61, Page 2, Line 7, Pos (16,18)
+#. ID 62, Page 2, Line 7, Pos (15,18)
+msgid ""
+"\n"
+"「下のやつ……本物の額縁よね\n"
+"　骸骨と人は　本物の服だわ」"
+msgstr ""
+"\n"
+" The lower part...\n"
+" That's a real frame.\n"
+" And both are wearing real clothes."
+
+#. ID 61, Page 2, Line 11, Pos (16,18)
+#. ID 62, Page 2, Line 11, Pos (15,18)
+#, fuzzy
+msgid ""
+"\n"
+"「これ　作るのに\n"
+"　どのくらいかかるのかしら……」"
+msgstr ""
+"\n"
+" I wonder how long it must\n"
+" have taken to make this..."
+
+#. ID 61, Page 2, Line 20, Pos (16,18)
+#. Contains choice at line 3 (2 options)
+#. ID 62, Page 2, Line 20, Pos (15,18)
+#. Contains choice at line 3 (2 options)
+#, fuzzy
+msgid ""
+"\n"
+"「死後の逢瀬……ですって」"
+msgstr ""
+"\n"
+" \"Tryst After Death,\" hm..."
+
+#. ID 61, Page 2, Line 22, Pos (16,18)
+#. Choice (2 options, embedded in a message)
+#. ID 62, Page 2, Line 22, Pos (15,18)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"おうせってなに？\n"
+"なんか怖い"
+msgstr ""
+"What's a tryst?\n"
+"It's scary"
+
+#. ID 61, Page 2, Line 25, Pos (16,18)
+#. ID 62, Page 2, Line 25, Pos (15,18)
+#, fuzzy
+msgid ""
+"\n"
+"「ん？　逢瀬っていうのは……\n"
+"　好きな人同士が　こっそり会う事\n"
+"　……みたいな　感じねー」"
+msgstr ""
+"\n"
+" Hm? A tryst...\n"
+" Well, it's something like a secret\n"
+" meeting with someone you like."
+
+#. ID 61, Page 2, Line 30, Pos (16,18)
+#. ID 62, Page 2, Line 30, Pos (15,18)
+#, fuzzy
+msgid ""
+"\n"
+"「え？　なんでこっそり会うのって？\n"
+"　な　なんででしょうね……\n"
+"　色々と理由が　あるんじゃない？」"
+msgstr ""
+"\n"
+" Huh? Why is it secret?\n"
+" W-Well, er, I wonder...\n"
+" It could be any number of reasons!"
+
+#. ID 61, Page 2, Line 38, Pos (16,18)
+#. ID 62, Page 2, Line 38, Pos (15,18)
+#, fuzzy
+msgid ""
+"\n"
+"「たしかに……なんか不安になるわよね\n"
+"　死後っていうのが　また……」"
+msgstr ""
+"\n"
+" Indeed... It does make one uneasy.\n"
+" The \"after death\" especially..."
+
+#. ID 61, Page 2, Line 42, Pos (16,18)
+#. ID 62, Page 2, Line 42, Pos (15,18)
+#, fuzzy
+msgid ""
+"\n"
+"「あ　イヴは　骸骨が怖いの？\n"
+"　結構大きいから　不気味よね」"
+msgstr ""
+"\n"
+" Are you scared of skeletons, Ib?\n"
+" It being so big is rather spooky."
+
+#. ID 61, Page 2, Line 46, Pos (16,18)
+#. ID 62, Page 2, Line 46, Pos (15,18)
+#, fuzzy
+msgid ""
+"\n"
+"「じゃあ　あんまり\n"
+"　近づかないように　しましょうか」"
+msgstr ""
+"\n"
+" Well, let's keep our distance\n"
+" from it, shall we?"
+
+#. ID 61, Page 2, Line 57, Pos (16,18)
+msgid ""
+"\n"
+"「ゲルテナは　どうして\n"
+"　この作品を　作ったのかしら……」"
+msgstr ""
+
+#. ID 61, Page 2, Line 61, Pos (16,18)
+#. ID 62, Page 2, Line 61, Pos (15,18)
+#, fuzzy
+msgid ""
+"\n"
+"「どういう意味を　込めて\n"
+"　作ったのか　気になる……」"
+msgstr ""
+"\n"
+" Why did Guertena make\n"
+" such a piece, I wonder?"
+
+#. ID 61, Page 2, Line 70, Pos (16,18)
+#. ID 62, Page 2, Line 70, Pos (15,18)
+#, fuzzy
+msgid ""
+"\n"
+"「あの　骸骨のマント……\n"
+"　どうして　あんなに\n"
+"　ボロボロなの　かしらね？」"
+msgstr ""
+"\n"
+" I can't help but be curious\n"
+" what meaning he intended..."
+
+#. ID 62, Page 2, Line 57, Pos (15,18)
+msgid ""
+"\n"
+"「ゲルテナは　どうして\n"
+"　この作品を　作ったのかしら」"
+msgstr ""
+

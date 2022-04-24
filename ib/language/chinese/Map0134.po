@@ -1,0 +1,469 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (2,17)
+msgid ""
+"『習作・？？の微笑み』\n"
+"　目を？らして　みてごらん\n"
+"　生命を持つのは　誰だろう"
+msgstr ""
+"『習作‧？？的微笑』\n"
+"　仔細？視看看\n"
+"　擁有生命的是誰呢"
+
+#. ID 1, Page 2, Line 2, Pos (2,17)
+msgid ""
+"『習作・単眼の微笑み』\n"
+"　目を凝らして　みてごらん\n"
+"　生命を持つのは　誰だろう"
+msgstr ""
+"『習作‧單眼的微笑』\n"
+"　仔細凝視看看\n"
+"　擁有生命的是誰呢"
+
+#. ID 2, Page 1, Line 2, Pos (29,17)
+msgid "『永遠の通路』"
+msgstr "『永遠的通道』"
+
+#. ID 3, Page 1, Line 1, Pos (15,7)
+#. ID 16, Page 1, Line 1, Pos (16,7)
+msgid "真っ白なプレートがある……"
+msgstr "全白的標示牌……"
+
+#. ID 3, Page 2, Line 2, Pos (15,7)
+#. ID 16, Page 2, Line 2, Pos (16,7)
+msgid "『ゲルテナ』"
+msgstr "『Guertena』"
+
+#. ID 3, Page 2, Line 7, Pos (15,7)
+#. ID 16, Page 2, Line 7, Pos (16,7)
+msgid ""
+"\n"
+"「ゲルテナ……？\n"
+"　この人物が　そうなのかしら」"
+msgstr ""
+"\n"
+"「Guertena……？\n"
+"　這個人是Guertena嗎？」"
+
+#. ID 3, Page 2, Line 11, Pos (15,7)
+#. ID 16, Page 2, Line 11, Pos (16,7)
+msgid ""
+"\n"
+"「ゲルテナは　自画像を\n"
+"　残さなかったと　聞いてるけど……」"
+msgstr ""
+"\n"
+"「聽說Guertena\n"
+"　並沒有留下自畫像的說……」"
+
+#. ID 7, Page 1, Line 2, Pos (7,11)
+msgid "『余白の美』"
+msgstr "『留白之美』"
+
+#. ID 7, Page 1, Line 6, Pos (7,11)
+msgid ""
+"\n"
+"「余白の美　ねぇ……」"
+msgstr ""
+"\n"
+"「留白之美啊……」"
+
+#. ID 7, Page 1, Line 9, Pos (7,11)
+msgid ""
+"\n"
+"「……なんとなく\n"
+"　手を　抜いてるようにしか\n"
+"　見えないけど……」"
+msgstr ""
+"\n"
+"「……但是怎麼看\n"
+"　都覺得只是偷懶而已啊……」"
+
+#. ID 7, Page 1, Line 16, Pos (7,11)
+#, fuzzy
+msgid "『？？の美』"
+msgstr "『？？之美』"
+
+#. ID 7, Page 1, Line 17, Pos (7,11)
+#. ID 61, Page 1, Line 2, Pos (16,18)
+#. ID 62, Page 1, Line 2, Pos (15,18)
+#, fuzzy
+msgid "難しくて　読めない字がある……"
+msgstr "有些字太難了，看不懂……"
+
+#. ID 9, Page 1, Line 1, Pos (12,24)
+#. Contains choice at line 2 (2 options)
+#. ID 15, Page 1, Line 1, Pos (13,24)
+#. Contains choice at line 2 (2 options)
+msgid "水の入った花瓶がある……"
+msgstr "有一個裝了水的花瓶……"
+
+#. ID 9, Page 1, Line 2, Pos (12,24)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 1, Line 2, Pos (13,24)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"バラを活ける\n"
+"活けない"
+msgstr ""
+"把玫瑰插進花瓶裡\n"
+"不插進花瓶"
+
+#. ID 9, Page 1, Line 8, Pos (12,24)
+#. ID 15, Page 1, Line 8, Pos (13,24)
+msgid "バラの花が　元気になった！"
+msgstr "玫瑰再度盛開了！"
+
+#. ID 9, Page 1, Line 10, Pos (12,24)
+#. ID 15, Page 1, Line 10, Pos (13,24)
+msgid "花瓶の水が　なくなってしまった……"
+msgstr "花瓶裡的水用完了……"
+
+#. ID 9, Page 2, Line 1, Pos (12,24)
+#. ID 15, Page 2, Line 1, Pos (13,24)
+msgid "花瓶に　水が入っていない……"
+msgstr "花瓶裡沒有裝水……"
+
+#. ID 27, Page 1, Line 5, Pos (20,19)
+msgid ""
+"\n"
+"「なにかしらね　これ……絵？」"
+msgstr ""
+"\n"
+"「是什麼東西呢，這是……畫？」"
+
+#. ID 27, Page 1, Line 10, Pos (20,19)
+#. ID 27, Page 2, Line 1, Pos (20,19)
+msgid "何かが　落ちている……"
+msgstr "有東西掉在地上……"
+
+#. ID 27, Page 1, Line 14, Pos (20,19)
+#. ID 27, Page 2, Line 3, Pos (20,19)
+msgid "絵画のピースを　手に入れた。"
+msgstr "得到一片　繪畫的拼圖。"
+
+#. ID 27, Page 1, Line 19, Pos (20,19)
+#. ID 27, Page 2, Line 6, Pos (20,19)
+msgid "絵画のピースは　消えてしまった……"
+msgstr "繪畫的拼圖消失了……"
+
+#. ID 27, Page 1, Line 23, Pos (20,19)
+msgid ""
+"\n"
+"「わっ　消えた……なんか\n"
+"　絵の具玉の時と　似てるわ」"
+msgstr ""
+"\n"
+"「哇！消失了……\n"
+"　跟蒐集顏料球的時候很像呢。」"
+
+#. ID 27, Page 1, Line 27, Pos (20,19)
+msgid ""
+"\n"
+"「もしかすると　これ\n"
+"　集めると　良いのかも\n"
+"　もっと　探してみましょ　イヴ！」"
+msgstr ""
+"\n"
+"「說不定，\n"
+"　就是要蒐集這些拼圖呢。\n"
+"　去找出其他拼圖吧，Ib！」"
+
+#. ID 43, Page 1, Line 3, Pos (23,11)
+msgid "ドアが　開かない……"
+msgstr "門打不開……"
+
+#. ID 45, Page 2, Line 4, Pos (0,0)
+#. ID 46, Page 1, Line 4, Pos (16,19)
+msgid ""
+"\n"
+"「あら　このコ　ついてくるわよ……」"
+msgstr ""
+"\n"
+"「唉呀，這孩子跟著我們出來了呢……」"
+
+#. ID 55, Page 1, Line 1, Pos (24,22)
+msgid "『呑み込める夜』"
+msgstr "『吞噬之夜』"
+
+#. ID 55, Page 1, Line 8, Pos (24,22)
+msgid ""
+"\n"
+"「この空みたいなの　どうやって\n"
+"　浮いてるのかしら……」"
+msgstr ""
+"\n"
+"「這個像天空的東西，\n"
+"　是怎麼樣讓它浮在半空中的啊……」"
+
+#. ID 55, Page 1, Line 17, Pos (24,22)
+msgid ""
+"\n"
+"「夜って　どんな味が\n"
+"　するのかしらね……」"
+msgstr ""
+"\n"
+"「夜晚會是什麼味道呢……」"
+
+#. ID 55, Page 1, Line 26, Pos (24,22)
+#, fuzzy
+msgid ""
+"\n"
+"「すごいわねー……\n"
+"　変な作品も　多いけど\n"
+"　こういうのなら　好きかも」"
+msgstr ""
+"\n"
+"「真厲害啊──……雖然也有很多\n"
+"　奇怪的作品，但如果是這種作品，\n"
+"　人家還滿喜歡的呢。」"
+
+#. ID 55, Page 1, Line 31, Pos (24,22)
+#. Contains choice at line 3 (2 options)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴは　こういうの好き？」"
+msgstr ""
+"\n"
+"「Ib喜歡這種作品嗎？」"
+
+#. ID 55, Page 1, Line 33, Pos (24,22)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"好き\n"
+"あんまり……"
+msgstr ""
+"喜歡\n"
+"不太喜歡……"
+
+#. ID 55, Page 1, Line 36, Pos (24,22)
+#, fuzzy
+msgid ""
+"\n"
+"「そっかぁ……ふふ\n"
+"　アタシも　好きよ\n"
+"　なんか　綺麗だものね」"
+msgstr ""
+"\n"
+"「是嗎……呵呵，\n"
+"　人家也喜歡喔，\n"
+"　因為看起來很漂亮嘛。」"
+
+#. ID 55, Page 1, Line 44, Pos (24,22)
+#, fuzzy
+msgid ""
+"\n"
+"「あら　そうなの……\n"
+"　ま　人によって感じ方が\n"
+"　違うのは　当然よね……」"
+msgstr ""
+"\n"
+"「哎呀，是這樣啊……\n"
+"　嗯，每個人對作品的感受都不同\n"
+"　這是理所當然的嘛……」"
+
+#. ID 55, Page 1, Line 49, Pos (24,22)
+#, fuzzy
+msgid ""
+"\n"
+"「いつか　イヴが好きになれる\n"
+"　芸術家が　見つかるといいわね」"
+msgstr ""
+"\n"
+"「要是Ib有天能找到\n"
+"　喜歡的藝術家就好了呢。」"
+
+#. ID 56, Page 1, Line 1, Pos (7,22)
+#. ID 56, Page 2, Line 1, Pos (7,22)
+#. ID 56, Page 3, Line 1, Pos (7,22)
+msgid "『弾力のある石』"
+msgstr "『有彈性的石頭』"
+
+#. ID 56, Page 1, Line 5, Pos (7,22)
+msgid ""
+"\n"
+"「ちょっと\n"
+"　触ってみたい気も　するわね……」"
+msgstr ""
+"\n"
+"「有點想要摸摸看呢……」"
+
+#. ID 56, Page 2, Line 5, Pos (7,22)
+msgid ""
+"\n"
+"「…………？\n"
+"　この石　こんなに\n"
+"　へこんでたかしら……」"
+msgstr ""
+"\n"
+"「…………？\n"
+"　這塊石頭，有這麼凹嗎……」"
+
+#. ID 61, Page 1, Line 1, Pos (16,18)
+#. ID 62, Page 1, Line 1, Pos (15,18)
+msgid "『死後の？？』"
+msgstr "『死後的？？』"
+
+#. ID 61, Page 2, Line 1, Pos (16,18)
+#. ID 62, Page 2, Line 1, Pos (15,18)
+msgid "『死後の逢瀬』"
+msgstr "『死後的幽會』"
+
+#. ID 61, Page 2, Line 7, Pos (16,18)
+#. ID 62, Page 2, Line 7, Pos (15,18)
+msgid ""
+"\n"
+"「下のやつ……本物の額縁よね\n"
+"　骸骨と人は　本物の服だわ」"
+msgstr ""
+"\n"
+"「下面的那個，是真的畫框吧，\n"
+"　骨骸跟人也是穿著真的衣服呢。」"
+
+#. ID 61, Page 2, Line 11, Pos (16,18)
+#. ID 62, Page 2, Line 11, Pos (15,18)
+msgid ""
+"\n"
+"「これ　作るのに\n"
+"　どのくらいかかるのかしら……」"
+msgstr ""
+"\n"
+"「做出這個作品，\n"
+"　要花多少錢呢……」"
+
+#. ID 61, Page 2, Line 20, Pos (16,18)
+#. Contains choice at line 3 (2 options)
+#. ID 62, Page 2, Line 20, Pos (15,18)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「死後の逢瀬……ですって」"
+msgstr ""
+"\n"
+"「這叫做……死後的幽會喔。」"
+
+#. ID 61, Page 2, Line 22, Pos (16,18)
+#. Choice (2 options, embedded in a message)
+#. ID 62, Page 2, Line 22, Pos (15,18)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"おうせってなに？\n"
+"なんか怖い"
+msgstr ""
+"幽會是什麼？\n"
+"感覺有點可怕"
+
+#. ID 61, Page 2, Line 25, Pos (16,18)
+#. ID 62, Page 2, Line 25, Pos (15,18)
+msgid ""
+"\n"
+"「ん？　逢瀬っていうのは……\n"
+"　好きな人同士が　こっそり会う事\n"
+"　……みたいな　感じねー」"
+msgstr ""
+"\n"
+"「嗯？所謂的幽會啊……\n"
+"　就是互相喜歡的兩人偷偷見面，\n"
+"　……大概是像這樣吧──」"
+
+#. ID 61, Page 2, Line 30, Pos (16,18)
+#. ID 62, Page 2, Line 30, Pos (15,18)
+msgid ""
+"\n"
+"「え？　なんでこっそり会うのって？\n"
+"　な　なんででしょうね……\n"
+"　色々と理由が　あるんじゃない？」"
+msgstr ""
+"\n"
+"「咦？為什麼要偷偷見面啊？\n"
+"　是、是為什麼呢……\n"
+"　應該有各式各樣的理由吧？」"
+
+#. ID 61, Page 2, Line 38, Pos (16,18)
+#. ID 62, Page 2, Line 38, Pos (15,18)
+msgid ""
+"\n"
+"「たしかに……なんか不安になるわよね\n"
+"　死後っていうのが　また……」"
+msgstr ""
+"\n"
+"「的確……\n"
+"　總覺得給人一種不安的感覺呢。\n"
+"　而且又說是死後……」"
+
+#. ID 61, Page 2, Line 42, Pos (16,18)
+#. ID 62, Page 2, Line 42, Pos (15,18)
+#, fuzzy
+msgid ""
+"\n"
+"「あ　イヴは　骸骨が怖いの？\n"
+"　結構大きいから　不気味よね」"
+msgstr ""
+"\n"
+"「啊，Ib是覺得骨骸很可怕嗎？\n"
+"　因為很巨大，所以感覺很不舒服吧。」"
+
+#. ID 61, Page 2, Line 46, Pos (16,18)
+#. ID 62, Page 2, Line 46, Pos (15,18)
+#, fuzzy
+msgid ""
+"\n"
+"「じゃあ　あんまり\n"
+"　近づかないように　しましょうか」"
+msgstr ""
+"\n"
+"「那就不要太靠近它好了。」"
+
+#. ID 61, Page 2, Line 57, Pos (16,18)
+msgid ""
+"\n"
+"「ゲルテナは　どうして\n"
+"　この作品を　作ったのかしら……」"
+msgstr ""
+"\n"
+"「Guertena為什麼會\n"
+"　創作出這樣的作品呢……」"
+
+#. ID 61, Page 2, Line 61, Pos (16,18)
+#. ID 62, Page 2, Line 61, Pos (15,18)
+msgid ""
+"\n"
+"「どういう意味を　込めて\n"
+"　作ったのか　気になる……」"
+msgstr ""
+"\n"
+"「到底是投入什麼樣的心思\n"
+"　而做出來的呢？真好奇……」"
+
+#. ID 61, Page 2, Line 70, Pos (16,18)
+#. ID 62, Page 2, Line 70, Pos (15,18)
+msgid ""
+"\n"
+"「あの　骸骨のマント……\n"
+"　どうして　あんなに\n"
+"　ボロボロなの　かしらね？」"
+msgstr ""
+"\n"
+"「那個骨骸的斗篷……\n"
+"　為什麼會那麼破爛呢？」"
+
+#. ID 62, Page 2, Line 57, Pos (15,18)
+msgid ""
+"\n"
+"「ゲルテナは　どうして\n"
+"　この作品を　作ったのかしら」"
+msgstr ""
+"\n"
+"「Guertena為什麼會\n"
+"　創作出這個作品呢……」"
+

@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 10, Page 1, Line 1, Pos (4,18)
+#. ID 14, Page 1, Line 1, Pos (7,18)
+#. ID 15, Page 1, Line 1, Pos (10,18)
+#. ID 16, Page 1, Line 1, Pos (14,18)
+#. ID 17, Page 1, Line 1, Pos (17,18)
+#. ID 18, Page 1, Line 1, Pos (20,18)
+#. ID 19, Page 1, Line 1, Pos (2,12)
+#. ID 20, Page 1, Line 1, Pos (5,12)
+#. ID 21, Page 1, Line 1, Pos (10,12)
+#. ID 22, Page 1, Line 1, Pos (14,12)
+#. ID 23, Page 1, Line 1, Pos (19,12)
+#. ID 24, Page 1, Line 1, Pos (22,12)
+#. ID 34, Page 1, Line 1, Pos (20,5)
+msgid "真っ白な　プレートがある……"
+msgstr "全白的標示牌……"
+
+#. ID 10, Page 2, Line 1, Pos (4,18)
+msgid "『赤いボタン』"
+msgstr "『紅色的按鈕』"
+
+#. ID 14, Page 2, Line 1, Pos (7,18)
+msgid "『青いボタン』"
+msgstr "『藍色的按鈕』"
+
+#. ID 15, Page 2, Line 1, Pos (10,18)
+msgid "『緑のボタン』"
+msgstr "『綠色的按鈕』"
+
+#. ID 16, Page 2, Line 1, Pos (14,18)
+msgid "『ミルクパズル』"
+msgstr "『牛奶拼圖』"
+
+#. ID 17, Page 2, Line 1, Pos (17,18)
+msgid "『争いの矛先』"
+msgstr "『爭執的矛頭』"
+
+#. ID 18, Page 2, Line 1, Pos (20,18)
+msgid "『深層』"
+msgstr "『深層』"
+
+#. ID 19, Page 2, Line 1, Pos (2,12)
+msgid "『嫉妬深き花』"
+msgstr "『善妒之花』"
+
+#. ID 20, Page 2, Line 1, Pos (5,12)
+msgid "『釣り針』"
+msgstr "『釣鉤』"
+
+#. ID 21, Page 2, Line 1, Pos (10,12)
+msgid "『月夜に散る儚き想い』"
+msgstr "『月夜下飄散的思念』"
+
+#. ID 22, Page 2, Line 1, Pos (14,12)
+msgid "『ミドリのよる』"
+msgstr "『綠色的夜晚』"
+
+#. ID 23, Page 2, Line 1, Pos (19,12)
+msgid "『ジャグリング』"
+msgstr "『雜耍』"
+
+#. ID 24, Page 2, Line 1, Pos (22,12)
+msgid "『聞き耳』"
+msgstr "『聽聞之耳』"
+
+#. ID 34, Page 2, Line 1, Pos (20,5)
+msgid "『決別』"
+msgstr "『訣別』"
+
+#. ID 35, Page 1, Line 2, Pos (12,19)
+msgid "『心壊』"
+msgstr "『心壞』"
+
+#. ID 35, Page 1, Line 4, Pos (12,19)
+msgid ""
+"『あまりに　精神が疲弊すると\n"
+"　そのうち　幻覚が見え始め……』"
+msgstr ""
+"『當精神太過疲憊時\n"
+"　便會開始出現幻覺……』"
+
+#. ID 35, Page 1, Line 7, Pos (12,19)
+msgid "『最後は　壊れてしまうだろう』"
+msgstr "『最後　終究會完全崩壞吧』"
+
+#. ID 35, Page 1, Line 9, Pos (12,19)
+msgid "『そして　厄介なことに………』"
+msgstr "『但　最糟糕的是………』"
+
+#. ID 35, Page 1, Line 11, Pos (12,19)
+msgid ""
+"『自身が　“壊れて”いるのを\n"
+"　自覚する事は　できない』"
+msgstr ""
+"『自己沒辦法察覺\n"
+"　自己已經「崩壞」了』"
+
+#. ID 45, Page 1, Line 1, Pos (12,5)
+msgid "『赤色の目』"
+msgstr "『紅色的眼睛』"
+

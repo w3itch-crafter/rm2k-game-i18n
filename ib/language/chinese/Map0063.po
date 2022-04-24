@@ -1,0 +1,1247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 11, Page 1, Line 3, Pos (4,21)
+#. ID 16, Page 1, Line 2, Pos (21,11)
+msgid "カギが　かかっている……"
+msgstr "門鎖住了……"
+
+#. ID 11, Page 1, Line 6, Pos (4,21)
+msgid ""
+"\n"
+"「なんだろう　これ……\n"
+"　名前を入れれば　いいのかな？」"
+msgstr ""
+"\n"
+"「這是什麼呢……\n"
+"　只要輸入名稱就可以了嗎？」"
+
+#. ID 11, Page 1, Line 15, Pos (4,21)
+msgid "何かの音がした……"
+msgstr "不知名的聲音響起……"
+
+#. ID 11, Page 1, Line 20, Pos (4,21)
+msgid "何も　起こらない……"
+msgstr "什麼也沒發生……"
+
+#. ID 13, Page 1, Line 1, Pos (3,11)
+msgid "『天の糸』"
+msgstr "『天之絲』"
+
+#. ID 15, Page 1, Line 1, Pos (7,21)
+msgid "『皮と？』"
+msgstr "『皮與？』"
+
+#. ID 15, Page 1, Line 2, Pos (7,21)
+msgid "難しくて　読めない字がある……"
+msgstr "有些字太難了，看不懂……"
+
+#. ID 15, Page 2, Line 1, Pos (7,21)
+msgid "『皮と鱗』"
+msgstr "『皮與鱗』"
+
+#. ID 16, Page 2, Line 2, Pos (21,11)
+msgid "茶のカギを　使った。"
+msgstr "使用　茶色鑰匙。"
+
+#. ID 18, Page 1, Line 1, Pos (25,11)
+#. ID 18, Page 2, Line 1, Pos (25,11)
+#. ID 18, Page 3, Line 2, Pos (25,11)
+#. ID 18, Page 4, Line 1, Pos (25,11)
+msgid "『釣り人』"
+msgstr "『垂釣者』"
+
+#. ID 18, Page 1, Line 4, Pos (25,11)
+msgid ""
+"\n"
+"「……だれも　いないね」"
+msgstr ""
+"\n"
+"「……沒有人呢。」"
+
+#. ID 18, Page 3, Line 5, Pos (25,11)
+msgid ""
+"\n"
+"「……ねぇ　イヴ見て……\n"
+"　なんか　釣れてる！」"
+msgstr ""
+"\n"
+"「……欸，Ib妳看……\n"
+"　他好像釣到什麼了！」"
+
+#. ID 19, Page 1, Line 1, Pos (23,17)
+#. ID 20, Page 1, Line 1, Pos (27,18)
+#. ID 21, Page 1, Line 1, Pos (27,12)
+#. ID 22, Page 1, Line 1, Pos (21,19)
+#. ID 23, Page 1, Line 1, Pos (1,24)
+#. ID 24, Page 1, Line 1, Pos (10,6)
+#. ID 25, Page 1, Line 1, Pos (18,6)
+#. ID 26, Page 1, Line 1, Pos (25,19)
+#. ID 27, Page 1, Line 1, Pos (8,15)
+#. ID 28, Page 1, Line 1, Pos (8,22)
+#. ID 29, Page 1, Line 1, Pos (20,24)
+#. ID 30, Page 1, Line 1, Pos (18,10)
+#. ID 31, Page 1, Line 1, Pos (5,12)
+#. ID 32, Page 1, Line 1, Pos (4,12)
+#. ID 33, Page 1, Line 1, Pos (3,22)
+#. ID 34, Page 1, Line 1, Pos (1,17)
+msgid "マネキンの　首がある……"
+msgstr "人體模型的頭……"
+
+#. ID 35, Page 1, Line 1, Pos (26,12)
+#. Contains choice at line 2 (2 options)
+msgid "カサが　置いてある……"
+msgstr "有一把雨傘……"
+
+#. ID 35, Page 1, Line 2, Pos (26,12)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"持っていく\n"
+"そのままにしておく"
+msgstr ""
+"拿走\n"
+"就這樣放著不管它"
+
+#. ID 35, Page 1, Line 6, Pos (26,12)
+msgid "赤いカサを　手に入れた。"
+msgstr "得到一把　紅色雨傘。"
+
+#. ID 41, Page 1, Line 4, Pos (15,16)
+#. Contains choice at line 2 (3 options)
+msgid "「……………」"
+msgstr "「……………」"
+
+#. ID 41, Page 1, Line 5, Pos (15,16)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"メアリー？\n"
+"どうしたの？\n"
+"大丈夫？"
+msgstr ""
+"M ary？\n"
+"妳怎麼了？\n"
+"妳還好吧？"
+
+#. ID 41, Page 1, Line 9, Pos (15,16)
+msgid ""
+"\n"
+"「………メアリー………\n"
+"　わたし　メアリー……」"
+msgstr ""
+"\n"
+"「………M ary………\n"
+"　我是　M ary……」"
+
+#. ID 41, Page 1, Line 13, Pos (15,16)
+msgid ""
+"\n"
+"「うふ　ふふふ　ふふふふふ\n"
+"　あははは　あはははははは」"
+msgstr ""
+"\n"
+"「唔呵　呵呵呵　呵呵呵呵呵\n"
+"　啊哈哈哈　啊哈哈哈哈哈哈！」"
+
+#. ID 41, Page 1, Line 18, Pos (15,16)
+msgid ""
+"\n"
+"「わたし　メアリーっていうの\n"
+"　わたし　メアリーっていうの\n"
+"　わたし　メアリーっていうの」"
+msgstr ""
+"\n"
+"「我叫做　M ary喔！\n"
+"　我叫做　M ary喔！\n"
+"　我叫做　M ary喔！」"
+
+#. ID 41, Page 1, Line 23, Pos (15,16)
+msgid ""
+"\n"
+"「うふふふふ　ふふふふふ……」"
+msgstr ""
+"\n"
+"「唔呵呵呵呵　呵呵呵呵呵……」"
+
+#. ID 41, Page 1, Line 38, Pos (15,16)
+msgid ""
+"\n"
+"「……なん　でも　ない」"
+msgstr ""
+"\n"
+"「……沒有　事。」"
+
+#. ID 41, Page 1, Line 41, Pos (15,16)
+msgid ""
+"\n"
+"「…………あはっ\n"
+"　どうしたの？　ドウシタノ？」"
+msgstr ""
+"\n"
+"「…………啊哈，\n"
+"　妳怎麼了？　妳怎麼了？」"
+
+#. ID 41, Page 1, Line 44, Pos (15,16)
+msgid ""
+"\n"
+"「あはははは　ふふふふふ」"
+msgstr ""
+"\n"
+"「啊哈哈哈哈　呵呵呵呵呵！」"
+
+#. ID 41, Page 1, Line 47, Pos (15,16)
+msgid ""
+"\n"
+"「いやだなぁ　あのひと……\n"
+"　うふふふ　ふふふふふふ」"
+msgstr ""
+"\n"
+"「真討厭啊　那個傢伙……\n"
+"　唔呵呵呵　呵呵呵呵呵呵！」"
+
+#. ID 41, Page 1, Line 63, Pos (15,16)
+msgid ""
+"\n"
+"「………うん　大丈夫」"
+msgstr ""
+"\n"
+"「………嗯　沒事。」"
+
+#. ID 41, Page 1, Line 66, Pos (15,16)
+msgid ""
+"\n"
+"「……だい　じょうぶ？\n"
+"　ダイジョウブ？　大丈夫？」"
+msgstr ""
+"\n"
+"「……沒有　事？\n"
+"　沒事吧？　妳還好吧？」"
+
+#. ID 41, Page 1, Line 70, Pos (15,16)
+msgid ""
+"\n"
+"「うふふふ　ふふふふ\n"
+"　あははは　はははは」"
+msgstr ""
+"\n"
+"「唔呵呵呵　呵呵呵呵\n"
+"　啊哈哈哈　哈哈哈哈！」"
+
+#. ID 41, Page 1, Line 74, Pos (15,16)
+msgid ""
+"\n"
+"「イヴ　大丈夫　メアリー\n"
+"　大丈夫　わたし　あははは\n"
+"　うふふふふ　はははははは」"
+msgstr ""
+"\n"
+"「Ib　沒事　M ary\n"
+"　我　沒事　啊哈哈哈\n"
+"　唔呵呵呵呵　哈哈哈哈哈哈！」"
+
+#. ID 42, Page 1, Line 3, Pos (7,13)
+#. ID 43, Page 1, Line 3, Pos (8,12)
+#. ID 44, Page 1, Line 3, Pos (6,12)
+msgid ""
+"\n"
+"「……イヴ……どこに行くの……？」"
+msgstr ""
+"\n"
+"「……Ib……妳要去哪裡……？」"
+
+#. ID 42, Page 1, Line 6, Pos (7,13)
+#. ID 43, Page 1, Line 6, Pos (8,12)
+#. ID 44, Page 1, Line 6, Pos (6,12)
+msgid ""
+"\n"
+"「いっしょに　いこ？」"
+msgstr ""
+"\n"
+"「我們一起走吧？」"
+
+#. ID 42, Page 2, Line 5, Pos (7,13)
+#. ID 46, Page 2, Line 5, Pos (29,21)
+msgid ""
+"\n"
+"「早く　外に出たいね……\n"
+"　ここにいるの　飽きちゃったし……」"
+msgstr ""
+"\n"
+"「好想要快點到外面去唷……\n"
+"　我已經在這裡待膩了……」"
+
+#. ID 42, Page 2, Line 14, Pos (7,13)
+#. ID 46, Page 2, Line 14, Pos (29,21)
+msgid ""
+"\n"
+"「ギャリーは　今頃\n"
+"　なにしてるんだろうね？」"
+msgstr ""
+"\n"
+"「Garry現在\n"
+"　在做什麼呢？」"
+
+#. ID 42, Page 2, Line 18, Pos (7,13)
+#. ID 46, Page 2, Line 18, Pos (29,21)
+msgid ""
+"\n"
+"「ひとりで　さみしくて\n"
+"　泣いてるのかな？\n"
+"　早く　会えるといいね……」"
+msgstr ""
+"\n"
+"「他會不會因為一個人太寂寞了\n"
+"　而在哭啊？\n"
+"　要是能快點見到他就好了呢……」"
+
+#. ID 42, Page 2, Line 28, Pos (7,13)
+#. ID 46, Page 2, Line 28, Pos (29,21)
+msgid ""
+"\n"
+"「お人形さんあそび　したいなぁ……\n"
+"　わたしが　お母さん人形\n"
+"　イヴが　お父さん人形ね」"
+msgstr ""
+"\n"
+"「好想要用人偶玩扮家家酒喔……\n"
+"　我拿媽媽的人偶，\n"
+"　Ib拿爸爸的人偶喔。」"
+
+#. ID 42, Page 2, Line 38, Pos (7,13)
+#. ID 46, Page 2, Line 38, Pos (29,21)
+msgid ""
+"\n"
+"「わたし　お絵かき大好き\n"
+"　色んなクレヨンで　いっぱい\n"
+"　お絵かき　するんだ！」"
+msgstr ""
+"\n"
+"「我最喜歡畫畫了。\n"
+"　用各種顏色的蠟筆，\n"
+"　畫好多好多的畫！」"
+
+#. ID 42, Page 2, Line 43, Pos (7,13)
+#. ID 46, Page 2, Line 43, Pos (29,21)
+msgid ""
+"\n"
+"「結構　上手いんだから！」"
+msgstr ""
+"\n"
+"「我很會畫喔！」"
+
+#. ID 42, Page 2, Line 51, Pos (7,13)
+#. Contains choice at line 2 (3 options)
+#. ID 46, Page 2, Line 51, Pos (29,21)
+#. Contains choice at line 2 (3 options)
+msgid "「………………」"
+msgstr "「………………」"
+
+#. ID 42, Page 2, Line 52, Pos (7,13)
+#. Choice (3 options, embedded in a message)
+#. ID 46, Page 2, Line 52, Pos (29,21)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"さっきどうして　行っちゃったの？\n"
+"ギャリー　無事だといいね\n"
+"疲れてきたけど　がんばろうね"
+msgstr ""
+"剛才為什麼跑走了呢？\n"
+"Garry要是沒事就好了呢\n"
+"雖然有點累了，但繼續加油喔"
+
+#. ID 42, Page 2, Line 56, Pos (7,13)
+#. ID 46, Page 2, Line 56, Pos (29,21)
+msgid ""
+"\n"
+"「えっ………？\n"
+"　あぁ　あれは……ごめん\n"
+"　わたしにも　わかんない……」"
+msgstr ""
+"\n"
+"「咦………？\n"
+"　啊啊，那個是……對不起，\n"
+"　我也不知道……」"
+
+#. ID 42, Page 2, Line 61, Pos (7,13)
+#. ID 46, Page 2, Line 61, Pos (29,21)
+msgid ""
+"\n"
+"「なんか……\n"
+"　急にいろんな　気持ちが\n"
+"　こう……なんて言えばいいのかな？」"
+msgstr ""
+"\n"
+"「感覺上，\n"
+"　突然間覺得，\n"
+"　像這樣……要怎麼說才好呢？」"
+
+#. ID 42, Page 2, Line 65, Pos (7,13)
+#. ID 46, Page 2, Line 65, Pos (29,21)
+msgid ""
+"\n"
+"「ふき出して？　きて………\n"
+"　ちょっと……その………」"
+msgstr ""
+"\n"
+"「爆發？出來………\n"
+"　稍微……那個………」"
+
+#. ID 42, Page 2, Line 69, Pos (7,13)
+#. ID 46, Page 2, Line 69, Pos (29,21)
+msgid ""
+"\n"
+"「まぁ　気にしないで！\n"
+"　もう　大丈夫だから」"
+msgstr ""
+"\n"
+"「唉，不要在意啦！\n"
+"　我已經沒事了。」"
+
+#. ID 42, Page 2, Line 76, Pos (7,13)
+#. ID 46, Page 2, Line 76, Pos (29,21)
+msgid ""
+"\n"
+"「……そうだね………\n"
+"　無事なら………いいけどね」"
+msgstr ""
+"\n"
+"「……是啊………\n"
+"　要是沒事………就好了呢。」"
+
+#. ID 42, Page 2, Line 80, Pos (7,13)
+#. ID 46, Page 2, Line 80, Pos (29,21)
+msgid ""
+"\n"
+"「でももし　無事じゃなかったら\n"
+"　置いていくしか　ないよね？」"
+msgstr ""
+"\n"
+"「但是如果他發生了什麼事，\n"
+"　也只好丟下他了吧？」"
+
+#. ID 42, Page 2, Line 84, Pos (7,13)
+#. ID 46, Page 2, Line 84, Pos (29,21)
+msgid ""
+"\n"
+"「もしもの話　ね？」"
+msgstr ""
+"\n"
+"「如果的話啦！」"
+
+#. ID 42, Page 2, Line 90, Pos (7,13)
+#. ID 46, Page 2, Line 90, Pos (29,21)
+msgid ""
+"\n"
+"「うん……そっか　イヴは\n"
+"　ずっと歩いて　きたんだもんね」"
+msgstr ""
+"\n"
+"「嗯……對喔，\n"
+"　Ib是一直走才走到這裡來的呢。」"
+
+#. ID 42, Page 2, Line 94, Pos (7,13)
+#. ID 46, Page 2, Line 94, Pos (29,21)
+msgid ""
+"\n"
+"「イヴは倒れたら　ダメだからね？\n"
+"　一緒にここを　出るんだから！」"
+msgstr ""
+"\n"
+"「Ib妳不可以倒下喔？\n"
+"　因為我們要一起出去啊！」"
+
+#. ID 42, Page 2, Line 98, Pos (7,13)
+#. ID 46, Page 2, Line 98, Pos (29,21)
+msgid ""
+"\n"
+"「あと少しだよ　がんばろー！」"
+msgstr ""
+"\n"
+"「只剩一點點了喔，加油吧──！」"
+
+#. ID 42, Page 2, Line 108, Pos (7,13)
+#. ID 46, Page 2, Line 108, Pos (29,21)
+msgid ""
+"\n"
+"「ケーキに　クッキーに\n"
+"　チョコレートに………」"
+msgstr ""
+"\n"
+"「蛋糕、餅乾，\n"
+"　還有巧克力………」"
+
+#. ID 42, Page 2, Line 112, Pos (7,13)
+#. ID 46, Page 2, Line 112, Pos (29,21)
+msgid ""
+"\n"
+"「えへへ　食べたいもの！\n"
+"　色んなお菓子　早く　食べたいね！」"
+msgstr ""
+"\n"
+"「耶嘿嘿，好想吃喔！\n"
+"　好想趕快吃到很多點心喔！」"
+
+#. ID 42, Page 2, Line 121, Pos (7,13)
+#. ID 46, Page 2, Line 121, Pos (29,21)
+msgid ""
+"\n"
+"「イヴのバラ　赤くてきれいだね……」"
+msgstr ""
+"\n"
+"「Ib的玫瑰好紅好漂亮喔……」"
+
+#. ID 42, Page 2, Line 124, Pos (7,13)
+#. Contains choice at line 3 (2 options)
+#. ID 46, Page 2, Line 124, Pos (29,21)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「ちょっと　触らせて？」"
+msgstr ""
+"\n"
+"「可以讓我摸摸看嗎？」"
+
+#. ID 42, Page 2, Line 126, Pos (7,13)
+#. Choice (2 options, embedded in a message)
+#. ID 46, Page 2, Line 126, Pos (29,21)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"やだ\n"
+"バラをメアリーに渡す"
+msgstr ""
+"不要\n"
+"把玫瑰給M ary"
+
+#. ID 42, Page 2, Line 129, Pos (7,13)
+#. ID 46, Page 2, Line 129, Pos (29,21)
+msgid ""
+"\n"
+"「………ちぇ………」"
+msgstr ""
+"\n"
+"「………嘖………」"
+
+#. ID 42, Page 2, Line 135, Pos (7,13)
+#. ID 46, Page 2, Line 135, Pos (29,21)
+msgid ""
+"\n"
+"「わぁ　ありがとう……！\n"
+"　すごく　きれい………」"
+msgstr ""
+"\n"
+"「哇！謝謝……！\n"
+"　好漂亮喔………」"
+
+#. ID 42, Page 2, Line 139, Pos (7,13)
+#. ID 46, Page 2, Line 139, Pos (29,21)
+msgid ""
+"\n"
+"「でも　バラって　きれいなのに\n"
+"　トゲがあって　危ないよね\n"
+"　………………………あ」"
+msgstr ""
+"\n"
+"「可是玫瑰花雖然漂亮，\n"
+"　花莖上卻有刺，很危險呢。\n"
+"　………………………啊，」"
+
+#. ID 42, Page 2, Line 145, Pos (7,13)
+#. ID 46, Page 2, Line 145, Pos (29,21)
+msgid ""
+"\n"
+"「ごめん　イヴ\n"
+"　花びら　ちぎれちゃった……」"
+msgstr ""
+"\n"
+"「對不起，Ib，\n"
+"　我把花瓣拔下來了……」"
+
+#. ID 42, Page 2, Line 156, Pos (7,13)
+#. ID 46, Page 2, Line 156, Pos (29,21)
+msgid ""
+"\n"
+"「ここは　美術館なのに\n"
+"　お客様が　全然来ないよね……」"
+msgstr ""
+"\n"
+"「這裡明明是美術館，\n"
+"　但是都沒有客人來呢……」"
+
+#. ID 42, Page 2, Line 160, Pos (7,13)
+#. ID 46, Page 2, Line 160, Pos (29,21)
+msgid ""
+"\n"
+"「もっと　たくさん\n"
+"　来ればいいのに……」"
+msgstr ""
+"\n"
+"「要是有更多人\n"
+"　能來這裡就好了……」"
+
+#. ID 42, Page 2, Line 169, Pos (7,13)
+#. ID 46, Page 2, Line 169, Pos (29,21)
+msgid ""
+"\n"
+"「あはっ……ふふっ…………」"
+msgstr ""
+"\n"
+"「啊哈……呵呵…………」"
+
+#. ID 42, Page 2, Line 172, Pos (7,13)
+#. ID 46, Page 2, Line 172, Pos (29,21)
+msgid ""
+"\n"
+"「ちょっと前に　通ったとこに\n"
+"　ピエロの絵が　あったよね……」"
+msgstr ""
+"\n"
+"「我們之前經過的地方，\n"
+"　有一張小丑的圖對吧……」"
+
+#. ID 42, Page 2, Line 175, Pos (7,13)
+#. ID 46, Page 2, Line 175, Pos (29,21)
+msgid ""
+"\n"
+"「あの階段　転がってたのって\n"
+"　ピエロの鼻　だったんだね」"
+msgstr ""
+"\n"
+"「那個掉在樓梯下的東西，\n"
+"　是小丑的鼻子呢。」"
+
+#. ID 42, Page 2, Line 179, Pos (7,13)
+#. ID 46, Page 2, Line 179, Pos (29,21)
+msgid ""
+"\n"
+"「あははは………」"
+msgstr ""
+"\n"
+"「啊哈哈哈………」"
+
+#. ID 42, Page 2, Line 187, Pos (7,13)
+#. ID 46, Page 2, Line 187, Pos (29,21)
+msgid ""
+"\n"
+"「え？　どうして\n"
+"　後ろに　つくのかって？」"
+msgstr ""
+"\n"
+"「咦？為什麼要跟在後面？」"
+
+#. ID 42, Page 2, Line 191, Pos (7,13)
+#. ID 46, Page 2, Line 191, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「いいじゃない　別に……\n"
+"　特に　理由なんてないよ」"
+msgstr ""
+"\n"
+"「有什麼關係嘛……\n"
+"　沒有什麼特別的理由喔。」"
+
+#. ID 42, Page 2, Line 195, Pos (7,13)
+#. ID 46, Page 2, Line 195, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「……………」"
+msgstr ""
+"\n"
+"「……………」"
+
+#. ID 42, Page 2, Line 203, Pos (7,13)
+#. ID 46, Page 2, Line 203, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴ　わたしと\n"
+"　友達になってくれる？」"
+msgstr ""
+"\n"
+"「Ib，妳願意當我的朋友嗎？」"
+
+#. ID 42, Page 2, Line 207, Pos (7,13)
+#. ID 46, Page 2, Line 207, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「わたしね……ずっと\n"
+"　同じくらいの　女の子の友達が\n"
+"　欲しかったの」"
+msgstr ""
+"\n"
+"「我啊……一直想要\n"
+"　跟我差不多大的女生朋友呢。」"
+
+#. ID 42, Page 2, Line 212, Pos (7,13)
+#. ID 46, Page 2, Line 212, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「あと　イヴのお母さんに\n"
+"　会ってみたいな！」"
+msgstr ""
+"\n"
+"「還有，我也想要見見Ib的媽媽呢！」"
+
+#. ID 42, Page 2, Line 216, Pos (7,13)
+#. ID 46, Page 2, Line 216, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「わたし\n"
+"　お父さんしか　いないから……」"
+msgstr ""
+"\n"
+"「因為我只有爸爸而已……」"
+
+#. ID 42, Page 2, Line 225, Pos (7,13)
+#. Contains choice at line 3 (2 options)
+#. ID 46, Page 2, Line 225, Pos (29,21)
+#. Contains choice at line 3 (2 options)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴ……このスカーフ　どう思う？」"
+msgstr ""
+"\n"
+"「Ib……妳覺得這條領巾怎麼樣？」"
+
+#. ID 42, Page 2, Line 227, Pos (7,13)
+#. Choice (2 options, embedded in a message)
+#. ID 46, Page 2, Line 227, Pos (29,21)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"かわいいね\n"
+"似合うね"
+msgstr ""
+"很可愛呢\n"
+"很適合妳呢"
+
+#. ID 42, Page 2, Line 230, Pos (7,13)
+#. ID 46, Page 2, Line 230, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「えへへ……うれしいなー\n"
+"　わたしも　気にいってるんだー」"
+msgstr ""
+"\n"
+"「耶嘿嘿……好高興喔──\n"
+"　我也很喜歡喔──」"
+
+#. ID 42, Page 2, Line 234, Pos (7,13)
+#. ID 46, Page 2, Line 234, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴの　リボンも\n"
+"　大きくて　かわいいよ！」"
+msgstr ""
+"\n"
+"「Ib的緞帶也很大很可愛喔！」"
+
+#. ID 42, Page 2, Line 240, Pos (7,13)
+#. ID 46, Page 2, Line 240, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「ホント？　良かったー\n"
+"　わたし　青好きなんだー」"
+msgstr ""
+"\n"
+"「真的嗎？太好了──\n"
+"　我很喜歡藍色喔──」"
+
+#. ID 42, Page 2, Line 244, Pos (7,13)
+#. ID 46, Page 2, Line 244, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴは　やっぱり\n"
+"　赤が　似合うね！」"
+msgstr ""
+"\n"
+"「Ib的話，果然還是適合紅色呢！」"
+
+#. ID 42, Page 2, Line 255, Pos (7,13)
+#. Contains choice at line 3 (2 options)
+#. ID 46, Page 2, Line 255, Pos (29,21)
+#. Contains choice at line 3 (2 options)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴは　雪って知ってる？」"
+msgstr ""
+"\n"
+"「Ib，妳知道雪嗎？」"
+
+#. ID 42, Page 2, Line 257, Pos (7,13)
+#. Choice (2 options, embedded in a message)
+#. ID 46, Page 2, Line 257, Pos (29,21)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"知ってる\n"
+"知らない"
+msgstr ""
+"知道\n"
+"不知道"
+
+#. ID 42, Page 2, Line 260, Pos (7,13)
+#. ID 46, Page 2, Line 260, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「えー　いいなぁ\n"
+"　あれすごく　冷たいんでしょ？」"
+msgstr ""
+"\n"
+"「欸──，真好！\n"
+"　那個很冰吧？」"
+
+#. ID 42, Page 2, Line 264, Pos (7,13)
+#. ID 46, Page 2, Line 264, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「シロップかければ\n"
+"　食べれるって　本に書いてあった！」"
+msgstr ""
+"\n"
+"「書上有寫說，\n"
+"　加上糖漿的話就可以吃呢！」"
+
+#. ID 42, Page 2, Line 268, Pos (7,13)
+#. ID 46, Page 2, Line 268, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「どんな味が　するんだろ……」"
+msgstr ""
+"\n"
+"「吃起來是什麼味道呢……」"
+
+#. ID 42, Page 2, Line 273, Pos (7,13)
+#. ID 46, Page 2, Line 273, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「なんか　こんな\n"
+"　小さくて　白くて……\n"
+"　空から　降ってくるんだって！」"
+msgstr ""
+"\n"
+"「好像是像這樣，\n"
+"　又小又白的……\n"
+"　會從天空飄下來喔！」"
+
+#. ID 42, Page 2, Line 278, Pos (7,13)
+#. ID 46, Page 2, Line 278, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「その雪を　いっぱい集めると\n"
+"　ボールみたいに　できて……」"
+msgstr ""
+"\n"
+"「然後把那個雪聚集起來，\n"
+"　做成像球一樣的形狀……」"
+
+#. ID 42, Page 2, Line 282, Pos (7,13)
+#. ID 46, Page 2, Line 282, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「これを　ぶつけて遊ぶ\n"
+"　ゆきがっせん　っていうのが\n"
+"　面白いらしいの！」"
+msgstr ""
+"\n"
+"「把那個丟來丟去的遊戲，\n"
+"　叫做打雪仗。\n"
+"　好像很好玩喔！」"
+
+#. ID 42, Page 2, Line 286, Pos (7,13)
+#. ID 46, Page 2, Line 286, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「やってみたーい！　ね！」"
+msgstr ""
+"\n"
+"「真──想玩玩看！對吧！」"
+
+#. ID 42, Page 2, Line 296, Pos (7,13)
+#. ID 46, Page 2, Line 296, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴは……友達　いる？\n"
+"　どのくらい　いるの？」"
+msgstr ""
+"\n"
+"「Ib……妳有朋友嗎？\n"
+"　有幾個朋友呢？」"
+
+#. ID 42, Page 2, Line 300, Pos (7,13)
+#. ID 46, Page 2, Line 300, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「友達って　一緒に遊ぶんだよね！\n"
+"　ケンカも　時々するんだよね！？」"
+msgstr ""
+"\n"
+"「朋友會一起玩對吧！\n"
+"　然後有時候也會吵架對不對！？」"
+
+#. ID 42, Page 2, Line 304, Pos (7,13)
+#. ID 46, Page 2, Line 304, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「ケンカしたあとに　仲直りすれば\n"
+"　もっと仲良く　なれるんだよね……！」"
+msgstr ""
+"\n"
+"「吵架之後，只要和好的話，\n"
+"　感情就會變得更好對吧……！」"
+
+#. ID 42, Page 2, Line 313, Pos (7,13)
+#. ID 46, Page 2, Line 313, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「る　る　る　るん！\n"
+"　ら　ら　ら　らん！」"
+msgstr ""
+"\n"
+"「嚕　嚕　嚕　嚕！\n"
+"　啦　啦　啦　啦！」"
+
+#. ID 42, Page 2, Line 317, Pos (7,13)
+#. ID 46, Page 2, Line 317, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「あはははは　歌だよー！\n"
+"　わたしの　オリジナル！」"
+msgstr ""
+"\n"
+"「啊哈哈哈哈，這是歌喔──！\n"
+"　是我作的歌！」"
+
+#. ID 42, Page 2, Line 321, Pos (7,13)
+#. ID 46, Page 2, Line 321, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「さみしい時は　歌えばいいよ\n"
+"　だんだん楽しく　なってくるから！」"
+msgstr ""
+"\n"
+"「寂寞的時候，只要唱歌就好了喔！\n"
+"　然後就會慢慢地開心起來！」"
+
+#. ID 42, Page 2, Line 330, Pos (7,13)
+#. ID 46, Page 2, Line 330, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「……大人って　どうして\n"
+"　あんなに　背が高いのかな？」"
+msgstr ""
+"\n"
+"「……大人為什麼都長得那麼高呢？」"
+
+#. ID 42, Page 2, Line 334, Pos (7,13)
+#. ID 46, Page 2, Line 334, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「わたしも　ギャリーくらい\n"
+"　大きくなれるのかなぁ」"
+msgstr ""
+"\n"
+"「我也能長得像Garry一樣高嗎？」"
+
+#. ID 42, Page 2, Line 338, Pos (7,13)
+#. ID 46, Page 2, Line 338, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「早く大人に　なりたいよ……」"
+msgstr ""
+"\n"
+"「好想趕快變成大人喔……」"
+
+#. ID 42, Page 2, Line 346, Pos (7,13)
+#. Contains choice at line 3 (2 options)
+#. ID 46, Page 2, Line 346, Pos (29,21)
+#. Contains choice at line 3 (2 options)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴ　お父さん好き？」"
+msgstr ""
+"\n"
+"「Ib，妳喜歡妳爸爸嗎？」"
+
+#. ID 42, Page 2, Line 348, Pos (7,13)
+#. Choice (2 options, embedded in a message)
+#. ID 46, Page 2, Line 348, Pos (29,21)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"うん\n"
+"だいすき"
+msgstr ""
+"嗯\n"
+"最喜歡了"
+
+#. ID 42, Page 2, Line 351, Pos (7,13)
+#. ID 46, Page 2, Line 351, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「そうなんだ……\n"
+"　だっことか　肩車してくれる？」"
+msgstr ""
+"\n"
+"「是喔……\n"
+"　他會抱妳或是讓妳坐在肩膀上嗎？」"
+
+#. ID 42, Page 2, Line 355, Pos (7,13)
+#. ID 46, Page 2, Line 355, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「ちょっと　\n"
+"　そういうの　あこがれてるの！」"
+msgstr ""
+"\n"
+"「我一直都好想要那樣喔！」"
+
+#. ID 42, Page 2, Line 361, Pos (7,13)
+#. ID 46, Page 2, Line 361, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「ふーん……\n"
+"　わたしも　お父さん　好き」"
+msgstr ""
+"\n"
+"「喔──……\n"
+"　我也喜歡我爸爸喔。」"
+
+#. ID 42, Page 2, Line 365, Pos (7,13)
+#. ID 46, Page 2, Line 365, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「でも　会えないみたい……\n"
+"　ずっと　探してるんだけど\n"
+"　どこにも　いなくて」"
+msgstr ""
+"\n"
+"「可是我好像沒辦法見到他……\n"
+"　雖然我一直在找他，\n"
+"　但是一直找不到。」"
+
+#. ID 42, Page 2, Line 370, Pos (7,13)
+#. ID 46, Page 2, Line 370, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「もしかすると\n"
+"　外にいるのかも　しれないなぁ……」"
+msgstr ""
+"\n"
+"「說不定，\n"
+"　他是在外面呢……」"
+
+#. ID 42, Page 2, Line 381, Pos (7,13)
+#. ID 46, Page 2, Line 381, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「……イヴ　知ってる？\n"
+"　クレヨンって　かじったらね……」"
+msgstr ""
+"\n"
+"「……Ib，妳知道嗎？\n"
+"　要是用嘴巴咬蠟筆的話啊……」"
+
+#. ID 42, Page 2, Line 385, Pos (7,13)
+#. ID 46, Page 2, Line 385, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「すっごく　マズイの」"
+msgstr ""
+"\n"
+"「非──常的難吃喔。」"
+
+#. ID 42, Page 2, Line 393, Pos (7,13)
+#. ID 46, Page 2, Line 393, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「ねぇ　イヴ\n"
+"　花占いしたことある？」"
+msgstr ""
+"\n"
+"「欸，Ib。\n"
+"　妳有玩過花占卜嗎？」"
+
+#. ID 42, Page 2, Line 397, Pos (7,13)
+#. ID 46, Page 2, Line 397, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「あれね……\n"
+"　最後に　絶対“好き”で\n"
+"　終わる方法が　あるんだよ」"
+msgstr ""
+"\n"
+"「我跟妳說喔，那個啊……\n"
+"　有一個絕對可以\n"
+"　用『喜歡』結束的方法喔！」"
+
+#. ID 42, Page 2, Line 402, Pos (7,13)
+#. Contains choice at line 3 (2 options)
+#. ID 46, Page 2, Line 402, Pos (29,21)
+#. Contains choice at line 3 (2 options)
+#, fuzzy
+msgid ""
+"\n"
+"「……知りたい？」"
+msgstr ""
+"\n"
+"「……妳想不想知道？」"
+
+#. ID 42, Page 2, Line 404, Pos (7,13)
+#. Choice (2 options, embedded in a message)
+#. ID 46, Page 2, Line 404, Pos (29,21)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"知りたい\n"
+"知ってる"
+msgstr ""
+"想知道\n"
+"我知道"
+
+#. ID 42, Page 2, Line 407, Pos (7,13)
+#. ID 46, Page 2, Line 407, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「いいよ！　教えてあげる\n"
+"　あのね　花びらが　なくなっても……」"
+msgstr ""
+"\n"
+"「好啊！我教妳。\n"
+"　就是啊，如果花瓣數完了……」"
+
+#. ID 42, Page 2, Line 411, Pos (7,13)
+#. ID 46, Page 2, Line 411, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「クキも　かぞえちゃえば\n"
+"　絶対“好き”で　終わるんだよ！」"
+msgstr ""
+"\n"
+"「把花莖也算進去的話，\n"
+"　就絕對可以用『喜歡』結束了喔！」"
+
+#. ID 42, Page 2, Line 417, Pos (7,13)
+#. ID 46, Page 2, Line 417, Pos (29,21)
+#, fuzzy
+msgid ""
+"\n"
+"「なーんだ……つまんないの\n"
+"　わたししか　知らないと\n"
+"　思ってたのに……」"
+msgstr ""
+"\n"
+"「什麼嘛──……真無聊，\n"
+"　我還以為只有我知道呢……」"
+
+#. ID 45, Page 1, Line 6, Pos (27,19)
+msgid ""
+"\n"
+"「イヴ………」"
+msgstr ""
+"\n"
+"「Ib………」"
+
+#. ID 45, Page 1, Line 11, Pos (27,19)
+msgid ""
+"\n"
+"「おいてかないで……」"
+msgstr ""
+"\n"
+"「不要丟下我……」"
+
+#. ID 49, Page 1, Line 1, Pos (14,5)
+#. ID 49, Page 2, Line 1, Pos (14,5)
+#. ID 49, Page 3, Line 1, Pos (14,5)
+#. ID 49, Page 4, Line 1, Pos (14,5)
+#. ID 49, Page 5, Line 1, Pos (14,5)
+msgid "『告げ口』"
+msgstr "『告知之口』"
+
+#. ID 49, Page 2, Line 2, Pos (14,5)
+msgid "何かを　呟いている……"
+msgstr "似乎在說些什麼……"
+
+#. ID 52, Page 1, Line 1, Pos (18,13)
+#. ID 53, Page 1, Line 1, Pos (18,14)
+#. ID 54, Page 1, Line 1, Pos (10,12)
+#. ID 55, Page 1, Line 1, Pos (18,12)
+#. ID 56, Page 1, Line 1, Pos (10,14)
+#. ID 57, Page 1, Line 1, Pos (10,13)
+msgid "メアリーが……"
+msgstr "M ary她……"
+
+#. ID 59, Page 1, Line 1, Pos (14,8)
+#. Contains choice at line 2 (2 options)
+msgid "水の入った花瓶がある……"
+msgstr "有一個裝了水的花瓶……"
+
+#. ID 59, Page 1, Line 2, Pos (14,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"バラを活ける\n"
+"活けない"
+msgstr ""
+"把玫瑰插進花瓶裡\n"
+"不插進花瓶"
+
+#. ID 59, Page 1, Line 8, Pos (14,8)
+msgid "バラの花が　元気になった！"
+msgstr "玫瑰再度盛開了！"
+
+#. ID 59, Page 1, Line 10, Pos (14,8)
+msgid "花瓶の水が　なくなってしまった……"
+msgstr "花瓶裡的水用完了……"
+
+#. ID 59, Page 2, Line 1, Pos (14,8)
+msgid "花瓶に　水が入っていない……"
+msgstr "花瓶裡沒有裝水……"
+
+#. ID 59, Page 3, Line 1, Pos (14,8)
+msgid "花瓶がある……"
+msgstr "有一個花瓶……"
+

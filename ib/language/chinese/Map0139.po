@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (14,9)
+#. Contains choice at line 2 (2 options)
+#. ID 4, Page 1, Line 2, Pos (6,9)
+#. Contains choice at line 2 (2 options)
+msgid "よく見ると壁に　小さなスイッチがある……"
+msgstr "仔細一看，牆壁上有個小按鈕……"
+
+#. ID 1, Page 1, Line 3, Pos (14,9)
+#. Choice (2 options, embedded in a message)
+#. ID 4, Page 1, Line 3, Pos (6,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"押してみる\n"
+"何もしない"
+msgstr ""
+"按按看\n"
+"什麼都不做"
+
+#. ID 3, Page 1, Line 5, Pos (10,8)
+msgid ""
+"\n"
+"「なにかしらね　これ……絵？」"
+msgstr ""
+"\n"
+"「是什麼東西呢，這是……畫？」"
+
+#. ID 3, Page 1, Line 10, Pos (10,8)
+#. ID 3, Page 2, Line 2, Pos (10,8)
+msgid "何かが　落ちている……"
+msgstr "有東西掉在地上……"
+
+#. ID 3, Page 1, Line 14, Pos (10,8)
+#. ID 3, Page 2, Line 4, Pos (10,8)
+msgid "絵画のピースを　手に入れた。"
+msgstr "得到一片　繪畫的拼圖。"
+
+#. ID 3, Page 1, Line 19, Pos (10,8)
+#. ID 3, Page 2, Line 9, Pos (10,8)
+msgid "絵画のピースは　消えてしまった……"
+msgstr "繪畫的拼圖消失了……"
+
+#. ID 3, Page 1, Line 23, Pos (10,8)
+msgid ""
+"\n"
+"「わっ　消えた……なんか\n"
+"　絵の具玉の時と　似てるわ」"
+msgstr ""
+"\n"
+"「哇！消失了……\n"
+"　跟蒐集顏料球的時候很像呢。」"
+
+#. ID 3, Page 1, Line 27, Pos (10,8)
+msgid ""
+"\n"
+"「もしかすると　これ\n"
+"　集めると　良いのかも\n"
+"　もっと　探してみましょ　イヴ！」"
+msgstr ""
+"\n"
+"「說不定，\n"
+"　就是要蒐集這些拼圖呢。\n"
+"　去找出其他拼圖吧，Ib！」"
+
+#. ID 5, Page 1, Line 1, Pos (10,5)
+msgid "『\\c[5]●\\c[0]羽のカラスと５■の\\c[10]●●●\\c[0]』"
+msgstr "『\\c[5]●\\c[0]隻烏鴉與5■\\c[10]●\\c[0]』"
+
+#. ID 5, Page 2, Line 1, Pos (10,5)
+msgid "『\\c[5]３\\c[0]羽のカラスと５■の\\c[10]●●●\\c[0]』"
+msgstr "『\\c[5]3\\c[0]隻烏鴉與5■\\c[10]●\\c[0]』"
+
+#. ID 5, Page 3, Line 1, Pos (10,5)
+msgid "『\\c[5]●\\c[0]羽のカラスと５■の\\c[10]サカナ\\c[0]』"
+msgstr "『\\c[5]●\\c[0]隻烏鴉與5■\\c[10]魚\\c[0]』"
+
+#. ID 5, Page 4, Line 2, Pos (10,5)
+msgid "『\\c[5]３\\c[0]羽のカラスと５■の\\c[10]サカナ\\c[0]』"
+msgstr "『\\c[5]3\\c[0]隻烏鴉與5■\\c[10]魚\\c[0]』"
+
+#. ID 5, Page 5, Line 1, Pos (10,5)
+msgid "『３羽のカラスと５匹のサカナ』"
+msgstr "『3隻烏鴉與5條魚』"
+
+#. ID 7, Page 1, Line 2, Pos (8,6)
+#. Contains choice at line 2 (2 options)
+msgid "数字を入れる　パネルがある……"
+msgstr "有個可以輸入數字的面板……"
+
+#. ID 7, Page 1, Line 3, Pos (8,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"数字を入れてみる\n"
+"触らないでおく"
+msgstr ""
+"試著輸入數字\n"
+"不要碰"
+
+#. ID 7, Page 2, Line 1, Pos (8,6)
+msgid "パネルに「３」の数字が　書かれている……"
+msgstr "面板上顯示著「3」的數字……"
+
+#. ID 8, Page 1, Line 2, Pos (12,6)
+#. Contains choice at line 2 (2 options)
+msgid "文字を入れる　パネルがある……"
+msgstr "有個可以輸入文字的面板……"
+
+#. ID 8, Page 1, Line 3, Pos (12,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"文字を入れてみる\n"
+"触らないでおく"
+msgstr ""
+"試著輸入文字\n"
+"不要碰"
+
+#. ID 8, Page 2, Line 1, Pos (12,6)
+msgid "パネルに「サカナ」の文字が　書かれている……"
+msgstr "面板上顯示著「魚」的文字……"
+

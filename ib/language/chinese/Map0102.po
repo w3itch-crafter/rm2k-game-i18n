@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 1, Pos (5,7)
+msgid "外は真っ黒で　なにも見えない……"
+msgstr "外面一片漆黑，什麼都看不見……"
+
+#. ID 6, Page 1, Line 1, Pos (13,30)
+msgid "『指定席』"
+msgstr "『指定席』"
+
+#. ID 7, Page 1, Line 1, Pos (13,21)
+msgid "『無個性』"
+msgstr "『無個性』"
+
+#. ID 26, Page 1, Line 1, Pos (21,29)
+msgid "『テーブルに置かれた？？』"
+msgstr "『放置在桌上的？？』"
+
+#. ID 26, Page 1, Line 2, Pos (21,29)
+#. ID 32, Page 1, Line 2, Pos (17,7)
+msgid "難しくて　読めない字がある……"
+msgstr "有些字太難了，看不懂……"
+
+#. ID 26, Page 2, Line 1, Pos (21,29)
+msgid "『テーブルに置かれた静物』"
+msgstr "『放置在桌上的靜物』"
+
+#. ID 28, Page 1, Line 1, Pos (9,7)
+msgid "『新聞を取る貴婦人』"
+msgstr "『拿報紙的貴婦』"
+
+#. ID 30, Page 1, Line 1, Pos (13,7)
+msgid "『吊るされた男』"
+msgstr "『被倒吊的男人』"
+
+#. ID 32, Page 1, Line 1, Pos (17,7)
+msgid "『？？』"
+msgstr "『？？』"
+
+#. ID 32, Page 2, Line 1, Pos (17,7)
+msgid "『双塔』"
+msgstr "『雙塔』"
+
+#. ID 34, Page 1, Line 1, Pos (21,7)
+msgid "『心配』"
+msgstr "『擔心』"
+
+#. ID 38, Page 2, Line 1, Pos (19,29)
+msgid "“もどって　おいで”"
+msgstr "“回來吧”"
+

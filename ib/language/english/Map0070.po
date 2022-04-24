@@ -1,0 +1,359 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (11,5)
+#. ID 1, Page 2, Line 2, Pos (11,5)
+#. ID 1, Page 3, Line 2, Pos (11,5)
+#. ID 1, Page 4, Line 2, Pos (11,5)
+msgid "『ゲルテナ作品集　上』"
+msgstr "\"Collected Works of Guertena (Part 1)\""
+
+#. ID 1, Page 1, Line 3, Pos (11,5)
+#. ID 1, Page 2, Line 3, Pos (11,5)
+#. ID 1, Page 3, Line 3, Pos (11,5)
+#. ID 1, Page 4, Line 3, Pos (11,5)
+msgid ""
+"ゲルテナが　描いた絵が\n"
+"アルファベット順に　のっている……"
+msgstr ""
+"It contains paintings by Guertena\n"
+"in alphabetical order..."
+
+#. ID 1, Page 1, Line 5, Pos (11,5)
+#. Contains choice at line 2 (3 options)
+#. ID 1, Page 3, Line 5, Pos (11,5)
+#. Contains choice at line 2 (3 options)
+msgid "どのページを　見ようか……"
+msgstr "Hm, which page..."
+
+#. ID 1, Page 1, Line 6, Pos (11,5)
+#. Choice (3 options, embedded in a message)
+#. ID 1, Page 2, Line 8, Pos (11,5)
+#. Choice (3 options, embedded in a message)
+#. ID 1, Page 3, Line 6, Pos (11,5)
+#. Choice (3 options, embedded in a message)
+#. ID 1, Page 4, Line 8, Pos (11,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"Aのページ\n"
+"Kのページ\n"
+"Jのページ"
+msgstr ""
+"L page\n"
+"G page\n"
+"J page"
+
+#. ID 1, Page 1, Line 9, Pos (11,5)
+#. ID 1, Page 2, Line 15, Pos (11,5)
+#. ID 1, Page 3, Line 9, Pos (11,5)
+#. ID 1, Page 4, Line 15, Pos (11,5)
+msgid ""
+"『赤い服の女』　6210年\n"
+"当時はゲルテナの　愛人をモデルにしたとも\n"
+"言われていたが　本人の口から否定の言葉が出た。"
+msgstr ""
+"\"The Lady in Red\" (6210)\n"
+"It was said that he based this on a lover he\n"
+"had at the time, but he has denied this claim."
+
+#. ID 1, Page 1, Line 13, Pos (11,5)
+#. ID 1, Page 2, Line 19, Pos (11,5)
+#. ID 1, Page 4, Line 19, Pos (11,5)
+msgid ""
+"実際は　ゲルテナの遺産を　狙い\n"
+"言い寄ってきた　？く？？な　女性たちを\n"
+"イメージとして　残したものとのこと。"
+msgstr ""
+"In truth, Guertena based it around the\n"
+"??? women who attempted\n"
+"to ??? him for his inheritance."
+
+#. ID 1, Page 1, Line 16, Pos (11,5)
+#. ID 1, Page 1, Line 27, Pos (11,5)
+#. ID 1, Page 2, Line 22, Pos (11,5)
+#. ID 1, Page 2, Line 33, Pos (11,5)
+#, fuzzy
+msgid "難しくて　読めない字がある……"
+msgstr "You don't know some of these words..."
+
+#. ID 1, Page 1, Line 21, Pos (11,5)
+#. ID 1, Page 2, Line 27, Pos (11,5)
+#. ID 1, Page 4, Line 31, Pos (11,5)
+msgid ""
+"『？？？模様の魚』　6235年\n"
+"モノクロで描かれた　にも関わらず\n"
+"光の加減や角度により　色づいて見える不思議な作品。"
+msgstr ""
+"\"The ??? Fish\" (6235)\n"
+"Despite being grayscale, this curious\n"
+"piece makes clever use of shading and\n"
+"angles to give the impression of color."
+
+#. ID 1, Page 1, Line 25, Pos (11,5)
+#. ID 1, Page 2, Line 31, Pos (11,5)
+#. ID 1, Page 4, Line 35, Pos (11,5)
+#, fuzzy
+msgid ""
+"非常に？？で　？？な？の描写は\n"
+"見る人に様々な感情を　呼び起こすであろう。"
+msgstr ""
+"The ??? detail put into\n"
+"even the scales evokes a wide\n"
+"variety of emotions in people."
+
+#. ID 1, Page 1, Line 32, Pos (11,5)
+#. ID 1, Page 2, Line 38, Pos (11,5)
+#. ID 1, Page 3, Line 35, Pos (11,5)
+#. ID 1, Page 4, Line 46, Pos (11,5)
+#, fuzzy
+msgid ""
+"『ジャグリング』　6223年\n"
+"孫と見に行った　サーカスで出演した\n"
+"ジャグラーをモデルに　描かれた作品。"
+msgstr ""
+"\"Juggling\" (6223)\n"
+"A work based on a juggler he saw\n"
+"at the circus with his grandchild."
+
+#. ID 1, Page 1, Line 36, Pos (11,5)
+#. ID 1, Page 2, Line 42, Pos (11,5)
+#. ID 1, Page 3, Line 39, Pos (11,5)
+#. ID 1, Page 4, Line 50, Pos (11,5)
+#, fuzzy
+msgid ""
+"ゲルテナが　実在する人物を\n"
+"モデルに描くのは　大変珍しく\n"
+"現在でも　この作品は　高値で取引されている。"
+msgstr ""
+"As it is extremely rare for Guertena\n"
+"to use real people as models,\n"
+"this piece is highly valuable."
+
+#. ID 1, Page 2, Line 7, Pos (11,5)
+#. Contains choice at line 2 (3 options)
+msgid "「ちょっと　見てみようか？」"
+msgstr " Should we take a look?"
+
+#. ID 1, Page 3, Line 13, Pos (11,5)
+msgid ""
+"実際は　ゲルテナの遺産を　狙い\n"
+"言い寄ってきた　醜く傲慢な　女性たちを\n"
+"イメージとして　残したものとのこと。"
+msgstr ""
+"In truth, Guertena based it around the\n"
+"despicable women who attempted\n"
+"to court him for his inheritance."
+
+#. ID 1, Page 3, Line 18, Pos (11,5)
+msgid ""
+"\n"
+"「……この絵に　込められた想いが\n"
+"　正確に　反映されてるわね\n"
+"　あの　追っかけ女たちに……」"
+msgstr ""
+"\n"
+" ...Well, the feeling sure shows.\n"
+" Given all those women\n"
+" who chase me around..."
+
+#. ID 1, Page 3, Line 26, Pos (11,5)
+msgid ""
+"『幾何学模様の魚』　6235年\n"
+"モノクロで描かれた　にも関わらず\n"
+"光の加減や角度により　色づいて見える不思議な作品。"
+msgstr ""
+"\"The Geometric Fish\" (6235)\n"
+"Despite being grayscale, this curious\n"
+"piece makes clever use of shading and\n"
+"angles to give the impression of color."
+
+#. ID 1, Page 3, Line 30, Pos (11,5)
+#, fuzzy
+msgid ""
+"非常に緻密で　繊細な鱗の描写は\n"
+"見る人に様々な感情を　呼び起こすであろう。"
+msgstr ""
+"The meticulous detail put into\n"
+"even the scales evokes a wide\n"
+"variety of emotions in people."
+
+#. ID 1, Page 3, Line 44, Pos (11,5)
+#, fuzzy
+msgid ""
+"\n"
+"「あら　この絵……\n"
+"　下の階で　見たわよ」"
+msgstr ""
+"\n"
+" Ah, this painting...\n"
+" I saw it on the lower floor."
+
+#. ID 1, Page 4, Line 7, Pos (11,5)
+#. Contains choice at line 2 (3 options)
+msgid "「ちょっと　見てみようかな」"
+msgstr " Should I take a look?"
+
+#. ID 1, Page 4, Line 24, Pos (11,5)
+msgid ""
+"\n"
+"「あ……お姉ちゃんだ」"
+msgstr ""
+"\n"
+" Oh... It's big sis!"
+
+#. ID 1, Page 4, Line 39, Pos (11,5)
+#, fuzzy
+msgid ""
+"\n"
+"「ヘンな　サカナ！」"
+msgstr ""
+"\n"
+" Weird fishie!"
+
+#. ID 1, Page 4, Line 55, Pos (11,5)
+#, fuzzy
+msgid ""
+"\n"
+"「わー！　サーカスだー！\n"
+"　わたしも　見たいなぁ！」"
+msgstr ""
+"\n"
+" Yay! The circus!\n"
+" I wanna go!"
+
+#. ID 3, Page 1, Line 1, Pos (12,4)
+#. ID 3, Page 2, Line 2, Pos (12,4)
+#. ID 3, Page 3, Line 1, Pos (12,4)
+msgid "『１つの鍵穴』"
+msgstr "\"A Lone Keyhole\""
+
+#. ID 3, Page 2, Line 3, Pos (12,4)
+#. Contains choice at line 2 (2 options)
+msgid "絵に　穴が開いている……"
+msgstr "There's a hole in the painting..."
+
+#. ID 3, Page 2, Line 4, Pos (12,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"指を入れてみる\n"
+"木のカギを使う"
+msgstr ""
+"Put finger in\n"
+"Use Tree Key"
+
+#. ID 3, Page 2, Line 7, Pos (12,4)
+msgid "小さくて　入らない……"
+msgstr "It's too small..."
+
+#. ID 3, Page 2, Line 11, Pos (12,4)
+msgid "木のカギを　使った。"
+msgstr "Used the Tree Key."
+
+#. ID 3, Page 2, Line 16, Pos (12,4)
+msgid ""
+"\n"
+"「……………？」"
+msgstr ""
+"\n"
+" ..........?"
+
+#. ID 4, Page 1, Line 1, Pos (7,5)
+msgid "『ある少女の末路』"
+msgstr "\"A Girl's Demise\""
+
+#. ID 4, Page 1, Line 3, Pos (7,5)
+#. ID 4, Page 2, Line 3, Pos (7,5)
+msgid "『あるところに　小さな女の子がいました』"
+msgstr "\"Once upon a time, there was a little girl.\""
+
+#. ID 4, Page 1, Line 5, Pos (7,5)
+msgid ""
+"『女の子は　両親といっしょに\n"
+"　美術館へ　行きました』"
+msgstr ""
+"\"The girl went with her parents\n"
+"to an art gallery.\""
+
+#. ID 4, Page 1, Line 8, Pos (7,5)
+#. ID 4, Page 2, Line 8, Pos (7,5)
+msgid ""
+"『しかし　ふと気が付くと\n"
+"　女の子は　迷子になってしまい……』"
+msgstr ""
+"\"But all of a sudden, the girl\n"
+"realized that she was lost...\""
+
+#. ID 4, Page 1, Line 11, Pos (7,5)
+msgid ""
+"『うす暗い　美術館の中を\n"
+"　探しましたが　両親も出口も　見つからず……』"
+msgstr ""
+"\"She searched through the dim gallery,\n"
+"but found neither her parents nor the exit...\""
+
+#. ID 4, Page 1, Line 14, Pos (7,5)
+msgid ""
+"『怖くて　心細くて　さみしくて\n"
+"　お腹もへり　ノドが乾き\n"
+"　転んでケガをして　体力も限界になって……』"
+msgstr ""
+"\"Scared, helpless, lonely, hungry,\n"
+"and thirsty, she fell and hurt herself,\n"
+"putting her body past the limit...\""
+
+#. ID 4, Page 1, Line 18, Pos (7,5)
+#. ID 4, Page 2, Line 18, Pos (7,5)
+msgid ""
+"……最後のページに　小さな女の子が\n"
+"倒れている挿し絵で　終わっている……"
+msgstr ""
+"...The last page has an\n"
+"illustration of a collapsed girl..."
+
+#. ID 4, Page 2, Line 1, Pos (7,5)
+msgid "『ある■■の末路』"
+msgstr "\"A ?????'s Demise\""
+
+#. ID 4, Page 2, Line 5, Pos (7,5)
+msgid ""
+"『女の子は　■■■■■■■■\n"
+"　美術館■　■■■■■』"
+msgstr ""
+"\"The girl ???????????\n"
+"?????? an art gallery ?????\""
+
+#. ID 4, Page 2, Line 11, Pos (7,5)
+msgid ""
+"『うす暗い　美術館の中を\n"
+"　探しましたが　■■も出口も　見つからず……』"
+msgstr ""
+"\"She searched through the dim gallery,\n"
+"but found neither ?????? nor the exit...\""
+
+#. ID 4, Page 2, Line 14, Pos (7,5)
+msgid ""
+"『怖くて　心細くて　さみしくて\n"
+"　■■■■■　■■■■■\n"
+"　転んでケガをして　体力も限界になって……』"
+msgstr ""
+"\"Scared, helpless, lonely, ??????\n"
+"??????? she fell and hurt herself,\n"
+"putting her body past the limit...\""
+
+#. ID 4, Page 2, Line 23, Pos (7,5)
+msgid ""
+"\n"
+"「文字が　にじんでる……\n"
+"　これじゃあ　読めないよ」"
+msgstr ""
+"\n"
+" The letters are all blurred...\n"
+" I can't read this."
+

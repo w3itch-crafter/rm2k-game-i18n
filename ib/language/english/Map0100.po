@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 7, Page 1, Line 1, Pos (3,7)
+msgid "『波打ち際の？？』"
+msgstr "\"??? at Water's Edge\""
+
+#. ID 7, Page 1, Line 2, Pos (3,7)
+#. ID 11, Page 1, Line 2, Pos (11,7)
+#. ID 23, Page 1, Line 2, Pos (15,7)
+#. ID 32, Page 1, Line 2, Pos (15,30)
+msgid "難しくて　読めない字がある……"
+msgstr ""
+
+#. ID 7, Page 2, Line 1, Pos (3,7)
+msgid "『波打ち際の孤独』"
+msgstr "\"Isolation at Water's Edge\""
+
+#. ID 9, Page 1, Line 1, Pos (7,7)
+msgid "『地平線の風景』"
+msgstr "\"Horizon View\""
+
+#. ID 11, Page 1, Line 1, Pos (11,7)
+msgid "『？？の器』"
+msgstr "\"Glass of ???\""
+
+#. ID 11, Page 2, Line 1, Pos (11,7)
+msgid "『対極の器』"
+msgstr "\"Glass of Antipodes\""
+
+#. ID 23, Page 1, Line 1, Pos (15,7)
+msgid "『？？の精神』"
+msgstr "\"??? Spirit\""
+
+#. ID 23, Page 2, Line 1, Pos (15,7)
+msgid "『蛇蠍の精神』"
+msgstr "\"Serpentine Spirit\""
+
+#. ID 25, Page 1, Line 1, Pos (2,29)
+msgid "『個性なき番人』"
+msgstr "\"Selfless Guard\""
+
+#. ID 27, Page 1, Line 1, Pos (6,29)
+msgid "『ある丘から見た空』"
+msgstr "\"The Sky Seen From A Hill\""
+
+#. ID 32, Page 1, Line 1, Pos (15,30)
+msgid "『？？と星の？めき』"
+msgstr "\"The ??? of ??? and Stars\""
+
+#. ID 32, Page 2, Line 1, Pos (15,30)
+msgid "『鉱石と星の煌めき』"
+msgstr "\"The Gleam of Ores and Stars\""
+

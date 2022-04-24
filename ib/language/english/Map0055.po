@@ -1,0 +1,320 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (10,5)
+#. ID 2, Page 1, Line 1, Pos (4,9)
+#. ID 3, Page 1, Line 1, Pos (9,5)
+#. ID 4, Page 1, Line 1, Pos (8,5)
+msgid "頭がない　像がある……　"
+msgstr "A headless statue..."
+
+#. ID 2, Page 1, Line 4, Pos (4,9)
+msgid ""
+"\n"
+"「これぶつけたら　壊れそうだよね」"
+msgstr ""
+"\n"
+" I bet those vines'd break\n"
+" if with hit them with this!"
+
+#. ID 2, Page 1, Line 7, Pos (4,9)
+#, fuzzy
+msgid ""
+"\n"
+"「……重くてぜんぜん　動かせないけど」"
+msgstr ""
+"\n"
+" ...Way too heavy to move, though."
+
+#. ID 6, Page 1, Line 1, Pos (6,5)
+#. ID 6, Page 2, Line 1, Pos (6,5)
+msgid "色んな種類の絵の具が　入っている……"
+msgstr "It's filled with various kinds of paint..."
+
+#. ID 6, Page 2, Line 2, Pos (6,5)
+msgid "赤の絵の具だけ　無くなっている……"
+msgstr "The red paint is missing..."
+
+#. ID 7, Page 1, Line 1, Pos (9,7)
+#. ID 7, Page 2, Line 1, Pos (9,7)
+msgid "黄ばんだ画用紙が　入っている……"
+msgstr "It's filled with yellowed drawing paper..."
+
+#. ID 7, Page 2, Line 2, Pos (9,7)
+msgid "なぜか　湿っている……"
+msgstr "For some reason, it's wet..."
+
+#. ID 8, Page 1, Line 1, Pos (10,9)
+#. ID 8, Page 2, Line 2, Pos (10,9)
+#. ID 8, Page 3, Line 1, Pos (10,9)
+msgid "使い古してある筆が　入っている……"
+msgstr "It's filled with worn brushes..."
+
+#. ID 8, Page 2, Line 6, Pos (10,9)
+msgid ""
+"\n"
+"「うーん……あんまり\n"
+"　役に立ちそうなもの　ないね」"
+msgstr ""
+"\n"
+" Hmm... I don't really\n"
+" see anything useful."
+
+#. ID 8, Page 2, Line 10, Pos (10,9)
+msgid ""
+"\n"
+"「いったん\n"
+"　ギャリーのとこに　戻ろっか？」"
+msgstr ""
+"\n"
+" Should we just go back\n"
+" to Garry for now?"
+
+#. ID 8, Page 2, Line 23, Pos (10,9)
+msgid ""
+"\n"
+"「わっ　なに！？」"
+msgstr ""
+"\n"
+" Wahhh! Huh?!"
+
+#. ID 8, Page 2, Line 33, Pos (10,9)
+msgid ""
+"\n"
+"「びっくりしたー……」"
+msgstr ""
+"\n"
+" That scared me..."
+
+#. ID 8, Page 3, Line 2, Pos (10,9)
+msgid "よく見ると　毛先は髪の毛で　できている……"
+msgstr "Looking closer, they're made with hair..."
+
+#. ID 9, Page 1, Line 1, Pos (14,6)
+#. ID 9, Page 2, Line 1, Pos (14,6)
+#. ID 9, Page 3, Line 1, Pos (14,6)
+msgid "色々な画材が　詰めこんである……"
+msgstr "It's packed with various painting tools..."
+
+#. ID 9, Page 1, Line 4, Pos (14,6)
+msgid ""
+"\n"
+"「……何か\n"
+"　役に立ちそうなもの　ないかな」"
+msgstr ""
+"\n"
+" Hmm... Is there anything\n"
+" useful in here?"
+
+#. ID 9, Page 1, Line 8, Pos (14,6)
+msgid ""
+"\n"
+"「………………あ」"
+msgstr ""
+"\n"
+" .....Ah!"
+
+#. ID 9, Page 1, Line 11, Pos (14,6)
+msgid "箱の奥に　パレットナイフがある……"
+msgstr "There's a palette knife deep in the box..."
+
+#. ID 9, Page 1, Line 14, Pos (14,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「これで　あのツル　削れないかな！？」"
+msgstr ""
+"\n"
+" Maybe this can cut those vines?!"
+
+#. ID 9, Page 1, Line 16, Pos (14,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"やればできる\n"
+"さすがに無理"
+msgstr ""
+"Let's try it\n"
+"I doubt it"
+
+#. ID 9, Page 1, Line 19, Pos (14,6)
+msgid ""
+"\n"
+"「あはは　できるわけないじゃん！\n"
+"　イヴったら　冗談通じないんだから」"
+msgstr ""
+"\n"
+" Ahaha! I was just kidding!\n"
+" You're not good with jokes,\n"
+" are you, Ib?"
+
+#. ID 9, Page 1, Line 25, Pos (14,6)
+#, fuzzy
+msgid ""
+"\n"
+"「そうだよね……\n"
+"　やっぱり　だめかぁ……」"
+msgstr ""
+"\n"
+" You're right...\n"
+" Nah, it wouldn't work..."
+
+#. ID 9, Page 1, Line 31, Pos (14,6)
+#, fuzzy
+msgid ""
+"\n"
+"「でも一応　これ\n"
+"　持っていこうかな……」"
+msgstr ""
+"\n"
+" But I think I'll hold onto this..."
+
+#. ID 9, Page 1, Line 35, Pos (14,6)
+msgid ""
+"\n"
+"「念のため　ね………」"
+msgstr ""
+"\n"
+" You know, just in case..."
+
+#. ID 9, Page 3, Line 2, Pos (14,6)
+msgid "箱の中から　凄まじい　カビの臭いがする……"
+msgstr "The box smells terribly moldy..."
+
+#. ID 10, Page 1, Line 3, Pos (7,4)
+msgid ""
+"\n"
+"「先に　この部屋　調べちゃおうよ」"
+msgstr ""
+"\n"
+" Let's check this room first!"
+
+#. ID 10, Page 2, Line 3, Pos (7,4)
+msgid ""
+"\n"
+"「いったん\n"
+"　ギャリーのとこ　戻りましょ」"
+msgstr ""
+"\n"
+" Let's go back to Garry for now."
+
+#. ID 10, Page 3, Line 3, Pos (7,4)
+msgid ""
+"\n"
+"「仕方ないから　こっち\n"
+"　行ってみようよ　イヴ！」"
+msgstr ""
+"\n"
+" I guess we'll just have to\n"
+" look over this way, Ib!"
+
+#. ID 11, Page 1, Line 1, Pos (12,5)
+msgid "よくわからない物の　デッサンがある……"
+msgstr "A sketch of some strange thing..."
+
+#. ID 12, Page 1, Line 1, Pos (11,5)
+msgid "誰もいないのに　人の気配がする……"
+msgstr "There's no one around, but you feel a presence..."
+
+#. ID 12, Page 1, Line 4, Pos (11,5)
+msgid ""
+"\n"
+"「このイス　持っていきたいけど……」"
+msgstr ""
+"\n"
+" I'd like to take this stool, but..."
+
+#. ID 12, Page 1, Line 7, Pos (11,5)
+msgid ""
+"\n"
+"「床に　くっついて\n"
+"　離れないみたい」"
+msgstr ""
+"\n"
+" It looks like it's stuck\n"
+" to the ground."
+
+#. ID 12, Page 2, Line 1, Pos (11,5)
+msgid "イスが氷のように　冷たくなっている……"
+msgstr "The stool is ice-cold..."
+
+#. ID 16, Page 1, Line 5, Pos (7,7)
+msgid ""
+"\n"
+"「あれ？　出口が……」"
+msgstr ""
+"\n"
+" Huh? The exit..."
+
+#. ID 16, Page 1, Line 8, Pos (7,7)
+msgid ""
+"\n"
+"「な　なんで　移動してるの？\n"
+"　さっきは　壁ぎわにあったよね？」"
+msgstr ""
+"\n"
+" Wh-When did that move?\n"
+" Wasn't it just against the wall?"
+
+#. ID 16, Page 1, Line 12, Pos (7,7)
+msgid ""
+"\n"
+"「どかそう！　イヴ！」"
+msgstr ""
+"\n"
+" Move it, Ib!"
+
+#. ID 17, Page 1, Line 5, Pos (6,9)
+msgid ""
+"\n"
+"「こっちからじゃ　押せないよ」"
+msgstr ""
+"\n"
+" We can't push it from here!"
+
+#. ID 17, Page 1, Line 14, Pos (6,9)
+#. ID 17, Page 1, Line 33, Pos (6,9)
+msgid ""
+"\n"
+"「押すよ？　せーのっ………！」"
+msgstr ""
+"\n"
+" Ready? Heeeave.....!"
+
+#. ID 17, Page 1, Line 17, Pos (6,9)
+#. ID 17, Page 1, Line 36, Pos (6,9)
+msgid "………………"
+msgstr ".........."
+
+#. ID 17, Page 1, Line 20, Pos (6,9)
+#. ID 17, Page 1, Line 39, Pos (6,9)
+msgid ""
+"\n"
+"「はぁ……ダメだわ………\n"
+"　ビクともしない…………」"
+msgstr ""
+"\n"
+" Pant... no good.....\n"
+" It won't even budge....."
+
+#. ID 17, Page 1, Line 23, Pos (6,9)
+#. ID 17, Page 1, Line 42, Pos (6,9)
+msgid ""
+"\n"
+"「イヴ　どうしよう……\n"
+"　出られなく　なっちゃった」"
+msgstr ""
+"\n"
+" What do we do, Ib...?\n"
+" We can't get out..."
+
+#. ID 17, Page 2, Line 1, Pos (6,9)
+msgid "自分たちだけでは　動かせない……"
+msgstr "You can't move it by yourselves..."
+

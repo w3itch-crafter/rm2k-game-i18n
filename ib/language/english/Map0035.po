@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 1, Pos (9,21)
+msgid "『ラビリンス』"
+msgstr "\"Labyrinth\""
+
+#. ID 4, Page 1, Line 2, Pos (17,5)
+msgid "“赤い絵の具から　まっすぐ南へ”"
+msgstr "\"Check directly south from the red paint.\""
+
+#. ID 6, Page 1, Line 2, Pos (2,7)
+#. ID 6, Page 2, Line 2, Pos (2,7)
+msgid ""
+"『迷路を抜け出す　コツ……\n"
+"　壁に片手を　つきながら　進んでいけば\n"
+"　いつかは　ゴールに　たどり着ける』"
+msgstr ""
+"\"There's a trick to solving mazes...\n"
+"Hug the right hand side and\n"
+"you'll reach the end eventually.\""
+
+#. ID 6, Page 1, Line 7, Pos (2,7)
+msgid ""
+"\n"
+"「コツは　いいんだけど……\n"
+"　天井低くて　参っちゃうわ」"
+msgstr ""
+"\n"
+" Not a bad trick...\n"
+" But that doesn't help the ceiling\n"
+" being far too low for comfort."
+
+#. ID 6, Page 1, Line 11, Pos (2,7)
+#, fuzzy
+msgid ""
+"\n"
+"「おまけに　変なのウロついてるし……」"
+msgstr ""
+"\n"
+" Not to mention those weird\n"
+" things loitering around...\n"
+" gives me the creeps."
+
+#. ID 6, Page 1, Line 13, Pos (2,7)
+#, fuzzy
+msgid ""
+"\n"
+"「ハサミうちに　ならないよう\n"
+"　気を付けなさいよ？　イヴ」"
+msgstr ""
+"\n"
+" Be careful not to get trapped\n"
+" between them, okay, Ib?"
+
+#. ID 7, Page 1, Line 1, Pos (13,15)
+#. Contains choice at line 2 (2 options)
+msgid "水の入った花瓶がある……"
+msgstr "A vase full of water..."
+
+#. ID 7, Page 1, Line 2, Pos (13,15)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"バラを活ける\n"
+"活けない"
+msgstr ""
+"Place rose\n"
+"Don't place"
+
+#. ID 7, Page 1, Line 8, Pos (13,15)
+msgid "バラの花が　元気になった！"
+msgstr "The rose returned to health!"
+
+#. ID 7, Page 1, Line 10, Pos (13,15)
+msgid "花瓶の水が　なくなってしまった……"
+msgstr "The vase is out of water..."
+
+#. ID 7, Page 2, Line 1, Pos (13,15)
+msgid "花瓶に　水が入っていない……"
+msgstr "There's no water in the vase..."
+
+#. ID 13, Page 1, Line 2, Pos (5,13)
+msgid "壁にスイッチのような物がある……"
+msgstr "There's a switch on the wall..."
+
+#. ID 13, Page 1, Line 3, Pos (5,13)
+#. Contains choice at line 2 (2 options)
+msgid "押してみますか？"
+msgstr "Press it?"
+
+#. ID 13, Page 1, Line 4, Pos (5,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"押す\n"
+"押さない"
+msgstr ""
+"Press\n"
+"Don't press"
+
+#. ID 13, Page 1, Line 10, Pos (5,13)
+msgid "部屋の外で　音がした……"
+msgstr "There was a sound outside..."
+
+#. ID 16, Page 1, Line 1, Pos (2,10)
+msgid "“迷路は　好きですか？”"
+msgstr "\"Do you like mazes?\""
+

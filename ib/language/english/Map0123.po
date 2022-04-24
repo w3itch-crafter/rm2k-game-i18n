@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (16,32)
+#. Contains choice at line 2 (2 options)
+#. ID 27, Page 1, Line 2, Pos (16,31)
+#. Contains choice at line 2 (2 options)
+#. ID 28, Page 1, Line 1, Pos (16,30)
+msgid "大きな　シッポがある……"
+msgstr "A huge tail..."
+
+#. ID 1, Page 1, Line 3, Pos (16,32)
+#. Choice (2 options, embedded in a message)
+#. ID 27, Page 1, Line 3, Pos (16,31)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ひっぱってみる\n"
+"何もしないでおく"
+msgstr ""
+"Pull it\n"
+"Don't do anything"
+
+#. ID 1, Page 1, Line 8, Pos (16,32)
+#. ID 27, Page 1, Line 8, Pos (16,31)
+msgid ""
+"\n"
+"「ひっぱっても　大丈夫かしら……\n"
+"　起きたり　しない？」"
+msgstr ""
+"\n"
+" Should we...?\n"
+" What if it wakes up?"
+
+#. ID 1, Page 2, Line 1, Pos (16,32)
+#. ID 27, Page 2, Line 1, Pos (16,31)
+msgid "大きなヘビの　体がある……"
+msgstr "A huge snake..."
+
+#. ID 2, Page 1, Line 1, Pos (7,29)
+#. ID 2, Page 2, Line 1, Pos (7,29)
+#. ID 2, Page 3, Line 1, Pos (7,29)
+msgid "『失敗作』"
+msgstr "\"Mistake\""
+
+#. ID 2, Page 1, Line 5, Pos (7,29)
+msgid ""
+"\n"
+"「失敗作でも　額縁に入れて\n"
+"　タイトル　つけるのね\n"
+"　……へんなの」"
+msgstr ""
+"\n"
+" Putting a \"mistake\" in a frame\n"
+" and giving it a title...\n"
+" ...How strange."
+
+#. ID 2, Page 3, Line 5, Pos (7,29)
+msgid ""
+"\n"
+"「イヴ……この失敗作ってやつ……\n"
+"　顔が　塗りつぶされてたじゃない？」"
+msgstr ""
+"\n"
+" Ib... this \"Mistake\"...\n"
+" Its face is scribbled over, huh?"
+
+#. ID 2, Page 3, Line 9, Pos (7,29)
+msgid ""
+"\n"
+"「まっすぐ　襲ってこないのは\n"
+"　もしかすると　前が見えないのかも」"
+msgstr ""
+"\n"
+" Maybe it can't come directly\n"
+" after us because it can't see?"
+
+#. ID 3, Page 1, Line 1, Pos (13,29)
+msgid ""
+"“絵には　心を\n"
+"　作品には　魂を”"
+msgstr ""
+"\"To paintings, my heart.\n"
+"To creations, my spirit.\""
+
+#. ID 4, Page 1, Line 2, Pos (3,3)
+#. ID 4, Page 2, Line 1, Pos (3,3)
+msgid "『捕らわれの炎』"
+msgstr "\"Imprisoned Flame\""
+
+#. ID 4, Page 1, Line 4, Pos (3,3)
+#. Contains choice at line 2 (2 options)
+msgid "チョウチョが　壁にぬいつけられている……"
+msgstr "A butterfly is stuck to the wall..."
+
+#. ID 4, Page 1, Line 5, Pos (3,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"触らないでおく\n"
+"針を抜いてあげる"
+msgstr ""
+"Don't touch it\n"
+"Pull out the needles"
+
+#. ID 4, Page 1, Line 14, Pos (3,3)
+msgid "針を抜いた……"
+msgstr "Pulled the needles..."
+
+#. ID 4, Page 1, Line 22, Pos (3,3)
+msgid "チョウチョが　飛んで行ってしまった……"
+msgstr "The butterfly flew away..."
+
+#. ID 5, Page 1, Line 1, Pos (4,26)
+#. Contains choice at line 2 (2 options)
+msgid "さっきの　チョウチョが飛んでいる……"
+msgstr "The butterfly flutters around..."
+
+#. ID 5, Page 1, Line 2, Pos (4,26)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"観察してみる\n"
+"つかまえる"
+msgstr ""
+"Observe\n"
+"Catch it"
+
+#. ID 5, Page 1, Line 5, Pos (4,26)
+msgid "チョウチョのハネが　暖かい……"
+msgstr "Its wings look warm..."
+
+#. ID 5, Page 1, Line 9, Pos (4,26)
+msgid "チョウチョを　捕まえた。"
+msgstr "Caught the butterfly."
+
+#. ID 9, Page 1, Line 2, Pos (17,3)
+msgid "『晴天の彼方』"
+msgstr "\"Beyond Halcyon Skies\""
+
+#. ID 9, Page 1, Line 6, Pos (17,3)
+msgid "『？？の彼方』"
+msgstr "\"Beyond ??? Skies\""
+
+#. ID 9, Page 1, Line 7, Pos (17,3)
+#. ID 9, Page 2, Line 8, Pos (17,3)
+#. ID 9, Page 3, Line 6, Pos (17,3)
+msgid "難しくて　読めない字がある……"
+msgstr "You don't know this word..."
+
+#. ID 9, Page 2, Line 3, Pos (17,3)
+#. ID 9, Page 3, Line 2, Pos (17,3)
+msgid "『零れ落ちる星空』"
+msgstr "\"Teeming Night Sky\""
+
+#. ID 9, Page 2, Line 7, Pos (17,3)
+#. ID 9, Page 3, Line 5, Pos (17,3)
+msgid "『？れ落ちる星空』"
+msgstr "\"??? Night Sky\""
+
+#. ID 9, Page 2, Line 11, Pos (17,3)
+#. Contains choice at line 2 (2 options)
+msgid "……絵の中の星が　揺れている………"
+msgstr "...The stars in the painting sway..."
+
+#. ID 9, Page 2, Line 12, Pos (17,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"じっと見てる\n"
+"額縁を揺らしてみる"
+msgstr ""
+"Stare intently\n"
+"Shake the frame"
+
+#. ID 9, Page 2, Line 14, Pos (17,3)
+msgid "…………………………"
+msgstr ".........."
+
+#. ID 9, Page 2, Line 19, Pos (17,3)
+msgid ""
+"\n"
+"「キラキラしてて　綺麗ね\n"
+"　ゲルテナも　こういう絵だけ\n"
+"　描けばいいのに……」"
+msgstr ""
+"\n"
+" It's a very pleasant piece.\n"
+" If only Guertena had just\n"
+" painted things like this..."
+
+#. ID 9, Page 2, Line 26, Pos (17,3)
+msgid "星が　光っている……"
+msgstr "The stars shine..."
+
+#. ID 9, Page 2, Line 43, Pos (17,3)
+msgid "絵の中の星が　落ちてきた………"
+msgstr "A star fell out of the painting..."
+
+#. ID 11, Page 2, Line 1, Pos (16,4)
+msgid "絵から落ちた星が　転がっている……"
+msgstr "A star from the painting..."
+
+#. ID 11, Page 2, Line 3, Pos (16,4)
+msgid "小さな星くずを　手に入れた。"
+msgstr "Got a shard of Stardust."
+
+#. ID 21, Page 1, Line 1, Pos (9,22)
+msgid "『コレクション』"
+msgstr "\"Collection\""
+
+#. ID 26, Page 2, Line 1, Pos (10,6)
+msgid "黒いバラが　散っている……"
+msgstr "Pieces of a black rose..."
+

@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 1, Pos (6,5)
+msgid "ウサギの　ぬいぐるみがある……"
+msgstr "兔子的玩偶……"
+
+#. ID 3, Page 1, Line 1, Pos (4,5)
+#. Contains choice at line 2 (2 options)
+msgid "バケツがある……"
+msgstr "有個水桶……"
+
+#. ID 3, Page 1, Line 2, Pos (4,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"持っていく\n"
+"そのままにしておく"
+msgstr ""
+"拿走\n"
+"就這樣放著不管它"
+
+#. ID 3, Page 1, Line 7, Pos (4,5)
+msgid "バケツを　手に入れた。"
+msgstr "得到一個　水桶。"
+
+#. ID 4, Page 1, Line 1, Pos (8,4)
+msgid "……………"
+msgstr "……………"
+
+#. ID 4, Page 1, Line 5, Pos (8,4)
+msgid ""
+"\n"
+"「多分　コートハンガーね　これ」"
+msgstr ""
+"\n"
+"「這個大概是衣帽架吧。」"
+
+#. ID 6, Page 1, Line 14, Pos (17,5)
+msgid ""
+"\n"
+"「イヴ……ギャリー……\n"
+"　………どこにいるの？」"
+msgstr ""
+"\n"
+"「Ib……Garry……\n"
+"　………你們在哪裡？」"
+
+#. ID 6, Page 1, Line 29, Pos (17,5)
+msgid ""
+"\n"
+"「……………」"
+msgstr ""
+"\n"
+"「……………」"
+
+#. ID 6, Page 1, Line 40, Pos (17,5)
+msgid ""
+"\n"
+"「……今のって……まさか」"
+msgstr ""
+"\n"
+"「……剛才那是……難道…」"
+
+#. ID 6, Page 1, Line 43, Pos (17,5)
+msgid ""
+"\n"
+"「追ってきたんだわ　あの子……」"
+msgstr ""
+"\n"
+"「那孩子追過來了耶……」"
+
+#. ID 7, Page 1, Line 1, Pos (12,7)
+#. ID 8, Page 1, Line 1, Pos (12,6)
+msgid "赤い果物の　ようなものがある……"
+msgstr "看起來像是紅色的水果……"
+

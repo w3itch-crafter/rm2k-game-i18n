@@ -1,0 +1,329 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 1, Line 2, Pos (9,16)
+#. ID 13, Page 1, Line 2, Pos (4,5)
+#, fuzzy
+msgid "カギが　かかっている……"
+msgstr "It's locked..."
+
+#. ID 6, Page 1, Line 3, Pos (9,16)
+#. Contains choice at line 2 (2 options)
+msgid "扉に　のぞき穴がある……"
+msgstr "There's a peephole on the door..."
+
+#. ID 6, Page 1, Line 4, Pos (9,16)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"覗いてみる\n"
+"やめておく"
+msgstr ""
+"Look inside\n"
+"Never mind"
+
+#. ID 6, Page 1, Line 8, Pos (9,16)
+msgid "………何も　見えない………"
+msgstr ".....You don't see anything....."
+
+#. ID 10, Page 2, Line 2, Pos (14,21)
+#. ID 10, Page 3, Line 1, Pos (14,21)
+msgid "壁に文字が　浮かんでいる……"
+msgstr "There's some text on the wall..."
+
+#. ID 10, Page 2, Line 3, Pos (14,21)
+#. ID 10, Page 3, Line 2, Pos (14,21)
+msgid ""
+"“ゲルテナ展にある　床に描かれた\n"
+"　大きな絵の　タイトルは？”"
+msgstr ""
+"\"What is the title of the large floor\n"
+"painting in Guertena's exhibition?\""
+
+#. ID 10, Page 2, Line 7, Pos (14,21)
+msgid ""
+"\n"
+"「げ……もしかして　暗号？\n"
+"　あの　大きな魚が　描いてあった\n"
+"　絵よね？　イヴ見た？」"
+msgstr ""
+"\n"
+" Gah... Could it be a password?\n"
+" The big fish painting, right?\n"
+" Did you see that one, Ib?"
+
+#. ID 10, Page 2, Line 11, Pos (14,21)
+msgid ""
+"\n"
+"「なんだったかしら………\n"
+"　たしか　深海のなんとかって……」"
+msgstr ""
+"\n"
+" But what was it...\n"
+" I think it was...\n"
+" Something of the deep?"
+
+#. ID 10, Page 2, Line 15, Pos (14,21)
+#, fuzzy
+msgid ""
+"\n"
+"「一文字だったのよねー……\n"
+"　ちょっと　イヴ適当に\n"
+"　一文字　あげてくれない？」"
+msgstr ""
+"\n"
+" Hm... What was that word...?\n"
+" Ib, can you give me a letter\n"
+" to jog my memory?"
+
+#. ID 10, Page 2, Line 20, Pos (14,21)
+#. Contains choice at line 2 (3 options)
+#, fuzzy
+msgid "「深海の………」"
+msgstr " Of the deep... what of the deep...?"
+
+#. ID 10, Page 2, Line 21, Pos (14,21)
+#. Choice (3 options, embedded in a message)
+#, fuzzy
+msgid ""
+"ま\n"
+"よ\n"
+"え"
+msgstr ""
+"R...?\n"
+"A...?\n"
+"V...?"
+
+#. ID 10, Page 2, Line 25, Pos (14,21)
+#, fuzzy
+msgid ""
+"\n"
+"「深海の間……か\n"
+"　あー　それっぽいわね」"
+msgstr ""
+"\n"
+" R... Realm of the Deep?\n"
+" Ah, that sounds right!"
+
+#. ID 10, Page 2, Line 29, Pos (14,21)
+#, fuzzy
+msgid ""
+"\n"
+"「でもなんか　こう……\n"
+"　もっとスケールの　大きい\n"
+"　感じだったような……」"
+msgstr ""
+"\n"
+" Except, hm...\n"
+" I feel like the title carried\n"
+" a grander sense of scale..."
+
+#. ID 10, Page 2, Line 34, Pos (14,21)
+#, fuzzy
+msgid ""
+"\n"
+"「ま　いっか！\n"
+"　……ところで　この暗号は\n"
+"　どうすれば　いいのかしらね？」"
+msgstr ""
+"\n"
+" Ah, well!\n"
+" ...At any rate, where are we\n"
+" to use this password?"
+
+#. ID 10, Page 2, Line 42, Pos (14,21)
+#, fuzzy
+msgid ""
+"\n"
+"「深海の世…………あ！」"
+msgstr ""
+"\n"
+" A... byss of the Deep..... Ah!"
+
+#. ID 10, Page 2, Line 45, Pos (14,21)
+#, fuzzy
+msgid ""
+"\n"
+"「そうよ　それだわイヴ！\n"
+"　『深海の世』！\n"
+"　………タイトル　読めた？」"
+msgstr ""
+"\n"
+" Yes, that was it, Ib!\n"
+" \"Abyss of the Deep\"!\n"
+" .....Did you read the title?"
+
+#. ID 10, Page 2, Line 50, Pos (14,21)
+#, fuzzy
+msgid ""
+"\n"
+"「『しんかいのよ』だからね！」"
+msgstr ""
+"\n"
+" Okay, let's remember that!\n"
+" \"Abyss of the Deep\"!"
+
+#. ID 10, Page 2, Line 58, Pos (14,21)
+#, fuzzy
+msgid ""
+"\n"
+"「深海の絵……ねぇ\n"
+"　なんか　そのまんますぎない？」"
+msgstr ""
+"\n"
+" V... View of the Deep...? Hm.\n"
+" Isn't that a bit straightforward?"
+
+#. ID 10, Page 2, Line 61, Pos (14,21)
+#, fuzzy
+msgid ""
+"\n"
+"「さすがに違う　気がするわ……」"
+msgstr ""
+"\n"
+" I get the feeling that's not it..."
+
+#. ID 10, Page 3, Line 6, Pos (14,21)
+msgid ""
+"\n"
+"「『しんかいのよ』で合ってるはず！」"
+msgstr ""
+"\n"
+" It must be \"Abyss of the Deep\"!"
+
+#. ID 11, Page 2, Line 1, Pos (14,20)
+msgid "『』"
+msgstr "\"\""
+
+#. ID 13, Page 1, Line 5, Pos (4,5)
+#, fuzzy
+msgid ""
+"\n"
+"「なにかしら　この\n"
+"　パネル　みたいなの……\n"
+"　何か　入力できるみたいよ？」"
+msgstr ""
+"\n"
+" What's the story with\n"
+" this panel here...?\n"
+" Can we put something in?"
+
+#. ID 13, Page 1, Line 15, Pos (4,5)
+#, fuzzy
+msgid "何かの音がした……"
+msgstr ""
+"\n"
+" Let's try it...\n"
+" \"Realm of the Deep\"..."
+
+#. ID 13, Page 1, Line 20, Pos (4,5)
+#, fuzzy
+msgid "何も　起こらない……"
+msgstr ""
+"\n"
+" Let's try it...\n"
+" \"Abyss of the Deep\"..."
+
+#. ID 14, Page 1, Line 2, Pos (12,5)
+#. ID 14, Page 2, Line 2, Pos (12,5)
+#. ID 14, Page 3, Line 2, Pos (12,5)
+#. ID 14, Page 4, Line 2, Pos (12,5)
+msgid "鏡がある……"
+msgstr "A mirror..."
+
+#. ID 14, Page 3, Line 21, Pos (12,5)
+#. ID 14, Page 3, Line 65, Pos (12,5)
+#. ID 14, Page 3, Line 109, Pos (12,5)
+#. ID 14, Page 3, Line 153, Pos (12,5)
+#. ID 14, Page 3, Line 197, Pos (12,5)
+msgid ""
+"\n"
+"「ど　どうしたの？　イヴ\n"
+"　怖い顔して…………」"
+msgstr ""
+"\n"
+" W-What's wrong, Ib?\n"
+" You looked frightened....."
+
+#. ID 14, Page 3, Line 25, Pos (12,5)
+#. Contains choice at line 3 (2 options)
+#. ID 14, Page 3, Line 69, Pos (12,5)
+#. Contains choice at line 3 (2 options)
+#. ID 14, Page 3, Line 113, Pos (12,5)
+#. Contains choice at line 3 (2 options)
+#. ID 14, Page 3, Line 157, Pos (12,5)
+#. Contains choice at line 3 (2 options)
+#. ID 14, Page 3, Line 201, Pos (12,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「……………」"
+msgstr ""
+"\n"
+" .........."
+
+#. ID 14, Page 3, Line 27, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+#. ID 14, Page 3, Line 71, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+#. ID 14, Page 3, Line 115, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+#. ID 14, Page 3, Line 159, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+#. ID 14, Page 3, Line 203, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"なんでもない\n"
+"ギャリーの顔が……"
+msgstr ""
+"It's nothing\n"
+"Your face was..."
+
+#. ID 14, Page 3, Line 29, Pos (12,5)
+#. ID 14, Page 3, Line 73, Pos (12,5)
+#. ID 14, Page 3, Line 117, Pos (12,5)
+#. ID 14, Page 3, Line 161, Pos (12,5)
+#. ID 14, Page 3, Line 205, Pos (12,5)
+msgid ""
+"\n"
+"「そう……？\n"
+"　なら　いいんだけど……」"
+msgstr ""
+"\n"
+" Really...?\n"
+" Well... All right..."
+
+#. ID 14, Page 3, Line 34, Pos (12,5)
+#. ID 14, Page 3, Line 78, Pos (12,5)
+#. ID 14, Page 3, Line 122, Pos (12,5)
+#. ID 14, Page 3, Line 166, Pos (12,5)
+#. ID 14, Page 3, Line 210, Pos (12,5)
+msgid ""
+"\n"
+"「え？　なんのこと？」"
+msgstr ""
+"\n"
+" Hm? What do you mean?"
+
+#. ID 14, Page 3, Line 37, Pos (12,5)
+#. ID 14, Page 3, Line 81, Pos (12,5)
+#. ID 14, Page 3, Line 125, Pos (12,5)
+#. ID 14, Page 3, Line 169, Pos (12,5)
+#. ID 14, Page 3, Line 213, Pos (12,5)
+msgid ""
+"\n"
+"「…………？」"
+msgstr ""
+"\n"
+" .....?"
+
+#. ID 14, Page 5, Line 1, Pos (12,5)
+msgid "鏡が割れている……"
+msgstr "The mirror is cracked..."
+

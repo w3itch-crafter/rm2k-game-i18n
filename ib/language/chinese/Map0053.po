@@ -1,0 +1,327 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 1, Pos (15,8)
+#. ID 17, Page 1, Line 1, Pos (3,6)
+#. ID 18, Page 1, Line 1, Pos (3,7)
+#. ID 19, Page 1, Line 1, Pos (3,8)
+#. ID 20, Page 1, Line 1, Pos (3,9)
+#. ID 21, Page 1, Line 1, Pos (3,10)
+#. ID 22, Page 1, Line 1, Pos (3,11)
+#. ID 23, Page 1, Line 1, Pos (15,9)
+#. ID 24, Page 1, Line 1, Pos (15,7)
+#. ID 25, Page 1, Line 1, Pos (15,6)
+#. ID 26, Page 1, Line 1, Pos (15,11)
+#. ID 27, Page 1, Line 1, Pos (15,10)
+msgid "ウサギの　置物がある……"
+msgstr "兔子的擺飾品……"
+
+#. ID 4, Page 1, Line 2, Pos (9,5)
+#. ID 4, Page 2, Line 1, Pos (9,5)
+#. ID 4, Page 3, Line 1, Pos (9,5)
+msgid "『赤色の目』"
+msgstr "『紅色的眼睛』"
+
+#. ID 4, Page 1, Line 6, Pos (9,5)
+msgid ""
+"\n"
+"「……ったく\n"
+"　この絵といい　部屋といい\n"
+"　なんでこんな　気色悪いのよ！」"
+msgstr ""
+"\n"
+"「……真是的，\n"
+"　無論是這幅畫還是這房間，\n"
+"　為什麼都這麼噁心啊！」"
+
+#. ID 4, Page 1, Line 11, Pos (9,5)
+msgid ""
+"\n"
+"「えっ？　そうかな……\n"
+"　カワイイと　思うけど」"
+msgstr ""
+"\n"
+"「咦？是這樣嗎……\n"
+"　我覺得很可愛啊。」"
+
+#. ID 4, Page 1, Line 15, Pos (9,5)
+msgid ""
+"\n"
+"「えー！？\n"
+"　これのどこが　カワイイのよ！」"
+msgstr ""
+"\n"
+"「欸──！？\n"
+"　這種東西哪裡可愛了啊！」"
+
+#. ID 4, Page 1, Line 20, Pos (9,5)
+#. Contains choice at line 2 (3 options)
+msgid "「そうかなぁ……イヴはどう思う？」"
+msgstr "「是這樣嗎……Ib妳覺得呢？」"
+
+#. ID 4, Page 1, Line 21, Pos (9,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"カワイイ\n"
+"撫でたい\n"
+"わからない"
+msgstr ""
+"很可愛\n"
+"想摸摸它\n"
+"不知道"
+
+#. ID 4, Page 1, Line 27, Pos (9,5)
+msgid ""
+"\n"
+"「そうだよねー！\n"
+"　やっぱり　カワイイよね！」"
+msgstr ""
+"\n"
+"「就是嘛──！\n"
+"　果然很可愛對吧！」"
+
+#. ID 4, Page 1, Line 31, Pos (9,5)
+msgid ""
+"\n"
+"「はぁ………\n"
+"　もう　いいわ………\n"
+"　はやく　ここ調べて　出ましょ」"
+msgstr ""
+"\n"
+"「唉………\n"
+"　怎樣都好啦………\n"
+"　趕快調查完出去吧。」"
+
+#. ID 4, Page 1, Line 41, Pos (9,5)
+msgid ""
+"\n"
+"「……イヴ……\n"
+"　好きなの？　こういうの……」"
+msgstr ""
+"\n"
+"「……Ib……\n"
+"　妳喜歡這種東西嗎……」"
+
+#. ID 4, Page 1, Line 45, Pos (9,5)
+msgid ""
+"\n"
+"「アタシは　無理だわ………」"
+msgstr ""
+"\n"
+"「人家可沒辦法呢………」"
+
+#. ID 4, Page 1, Line 48, Pos (9,5)
+msgid ""
+"\n"
+"「ギャリーって……ヘン！」"
+msgstr ""
+"\n"
+"「Garry……好奇怪喔！」"
+
+#. ID 4, Page 1, Line 51, Pos (9,5)
+msgid ""
+"\n"
+"「変なのは　アンタたちでしょ！\n"
+"　………まぁ　それはともかく！」"
+msgstr ""
+"\n"
+"「奇怪的是妳們吧！\n"
+"　………算了，先不管那個！」"
+
+#. ID 4, Page 1, Line 55, Pos (9,5)
+msgid ""
+"\n"
+"「こんなとこ\n"
+"　さっさと調べて　とっとと出ましょ」"
+msgstr ""
+"\n"
+"「像這種地方，\n"
+"　還是趕快調查完然後出去吧。」"
+
+#. ID 4, Page 1, Line 62, Pos (9,5)
+msgid ""
+"\n"
+"「わからないって……」"
+msgstr ""
+"\n"
+"「為什麼會不知道嘛……」"
+
+#. ID 4, Page 1, Line 65, Pos (9,5)
+msgid ""
+"\n"
+"「まぁ　いいじゃないの……」"
+msgstr ""
+"\n"
+"「唉，算了啦……」"
+
+#. ID 4, Page 1, Line 68, Pos (9,5)
+msgid ""
+"\n"
+"「それより　とっとと\n"
+"　こんな　気味の悪いトコ　出ましょ」"
+msgstr ""
+"\n"
+"「比起那個，\n"
+"　還是趕快離開這個噁心的房間吧。」"
+
+#. ID 4, Page 1, Line 74, Pos (9,5)
+msgid ""
+"\n"
+"「この部屋　なんだか\n"
+"　見られてる　みたいで\n"
+"　すごく　落ち着かないわ」"
+msgstr ""
+"\n"
+"「待在這房間，\n"
+"　總覺得有種一直被盯著看的感覺，\n"
+"　讓人冷靜不下來呢。」"
+
+#. ID 4, Page 3, Line 4, Pos (9,5)
+msgid ""
+"\n"
+"「……何回見ても　これが\n"
+"　カワイイだなんて　思えないわ」"
+msgstr ""
+"\n"
+"「……不管看幾次，\n"
+"　都沒辦法覺得它可愛啊。」"
+
+#. ID 5, Page 1, Line 2, Pos (5,6)
+#. ID 5, Page 2, Line 2, Pos (5,6)
+msgid "『心壊』"
+msgstr "『心壞』"
+
+#. ID 5, Page 1, Line 4, Pos (5,6)
+#. ID 5, Page 2, Line 4, Pos (5,6)
+msgid ""
+"『あまりに　精神が疲弊すると\n"
+"　そのうち　幻覚が見え始め……』"
+msgstr ""
+"『當精神太過疲憊時\n"
+"　便會開始出現幻覺……』"
+
+#. ID 5, Page 1, Line 7, Pos (5,6)
+#. ID 5, Page 2, Line 7, Pos (5,6)
+msgid "『最後は　壊れてしまうだろう』"
+msgstr "『最後　終究會完全崩壞吧』"
+
+#. ID 5, Page 1, Line 9, Pos (5,6)
+#. ID 5, Page 2, Line 9, Pos (5,6)
+msgid "『そして　厄介なことに………』"
+msgstr "『但　最糟糕的是………』"
+
+#. ID 5, Page 1, Line 11, Pos (5,6)
+#. ID 5, Page 2, Line 11, Pos (5,6)
+msgid ""
+"『自身が　“壊れて”いるのを\n"
+"　自覚する事は　できない』"
+msgstr ""
+"『自己沒辦法察覺\n"
+"　自己已經「崩壞」了』"
+
+#. ID 6, Page 2, Line 5, Pos (13,6)
+msgid ""
+"\n"
+"「めぼしいものは　ないわねぇ……」"
+msgstr ""
+"\n"
+"「沒發現什麼有用的東西呢……」"
+
+#. ID 6, Page 2, Line 8, Pos (13,6)
+msgid ""
+"\n"
+"「………ん？」"
+msgstr ""
+"\n"
+"「………嗯？」"
+
+#. ID 6, Page 2, Line 17, Pos (13,6)
+msgid ""
+"\n"
+"「あらま　動いたわ\n"
+"　なんでさっき\n"
+"　気づかなかったのかしら」"
+msgstr ""
+"\n"
+"「哎呀，可以移動嘛。\n"
+"　怎麼剛剛都沒有發現呢。」"
+
+#. ID 6, Page 2, Line 22, Pos (13,6)
+#, fuzzy
+msgid ""
+"\n"
+"「まぁ　いいわ\n"
+"　ここから　出られそうね」"
+msgstr ""
+"\n"
+"「不過算了，\n"
+"　應該可以從這裡出去呢。」"
+
+#. ID 8, Page 2, Line 1, Pos (14,9)
+#. ID 8, Page 3, Line 1, Pos (14,9)
+msgid "ウサギの置物が　割れている……"
+msgstr "兔子的擺飾品破掉了……"
+
+#. ID 8, Page 2, Line 2, Pos (14,9)
+msgid "破片の中で　何かが光っている……"
+msgstr "碎片中有東西在發光……"
+
+#. ID 8, Page 2, Line 5, Pos (14,9)
+msgid "紫のカギを　手に入れた。"
+msgstr "得到一把　紫色鑰匙。"
+
+#. ID 8, Page 4, Line 1, Pos (14,9)
+#. ID 17, Page 2, Line 1, Pos (3,6)
+#. ID 18, Page 2, Line 1, Pos (3,7)
+#. ID 19, Page 2, Line 1, Pos (3,8)
+#. ID 20, Page 2, Line 1, Pos (3,9)
+#. ID 21, Page 2, Line 1, Pos (3,10)
+#. ID 22, Page 2, Line 1, Pos (3,11)
+#. ID 23, Page 2, Line 1, Pos (15,9)
+#. ID 24, Page 2, Line 1, Pos (15,7)
+#. ID 25, Page 2, Line 1, Pos (15,6)
+#. ID 26, Page 2, Line 1, Pos (15,11)
+#. ID 27, Page 2, Line 1, Pos (15,10)
+#. ID 52, Page 1, Line 1, Pos (7,7)
+msgid "気味の悪い　人形がある……"
+msgstr "令人感到噁心的人偶……"
+
+#. ID 50, Page 1, Line 4, Pos (7,8)
+msgid ""
+"\n"
+"「…………？」"
+msgstr ""
+"\n"
+"「…………？」"
+
+#. ID 50, Page 1, Line 7, Pos (7,8)
+#. Contains choice at line 2 (2 options)
+msgid "テーブルの下に　何かがある……"
+msgstr "桌子下面有東西……"
+
+#. ID 50, Page 1, Line 8, Pos (7,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ひっぱり出す\n"
+"やめておく"
+msgstr ""
+"拉出來\n"
+"算了"
+
+#. ID 50, Page 1, Line 19, Pos (7,8)
+msgid ""
+"\n"
+"「ぎゃあああ！\n"
+"　いらないわよ　こんなの！」"
+msgstr ""
+"\n"
+"「呀啊啊啊啊！\n"
+"　人家不需要這種鬼東西啦！」"
+

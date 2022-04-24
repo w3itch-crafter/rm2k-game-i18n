@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (4,6)
+#. ID 1, Page 2, Line 1, Pos (4,6)
+#. ID 1, Page 3, Line 1, Pos (4,6)
+msgid "“心　許された者のみ　道は開く”"
+msgstr "“只為　敞開心胸的人　開啟道路”"
+
+#. ID 1, Page 1, Line 5, Pos (4,6)
+msgid ""
+"\n"
+"「どういう事かしら……？」"
+msgstr ""
+"\n"
+"「這是什麼意思啊……？」"
+
+#. ID 1, Page 2, Line 5, Pos (4,6)
+msgid ""
+"\n"
+"「さっきの　トリ……\n"
+"　なんか　妙な動き　してなかった？」"
+msgstr ""
+"\n"
+"「剛才的小鳥……\n"
+"　是不是用了奇怪的方式前進呢？」"
+
+#. ID 1, Page 2, Line 9, Pos (4,6)
+msgid ""
+"\n"
+"「ちょっと　気になるわね」"
+msgstr ""
+"\n"
+"「有點在意呢。」"
+
+#. ID 18, Page 1, Line 5, Pos (28,7)
+msgid ""
+"\n"
+"「なにかしらね　これ……絵？」"
+msgstr ""
+"\n"
+"「是什麼東西呢，這是……畫？」"
+
+#. ID 18, Page 1, Line 10, Pos (28,7)
+#. ID 18, Page 2, Line 2, Pos (28,7)
+msgid "何かが　落ちている……"
+msgstr "有東西掉在地上……"
+
+#. ID 18, Page 1, Line 14, Pos (28,7)
+#. ID 18, Page 2, Line 4, Pos (28,7)
+msgid "絵画のピースを　手に入れた。"
+msgstr "得到一片　繪畫的拼圖。"
+
+#. ID 18, Page 1, Line 19, Pos (28,7)
+#. ID 18, Page 2, Line 9, Pos (28,7)
+msgid "絵画のピースは　消えてしまった……"
+msgstr "繪畫的拼圖消失了……"
+
+#. ID 18, Page 1, Line 23, Pos (28,7)
+msgid ""
+"\n"
+"「わっ　消えた……なんか\n"
+"　絵の具玉の時と　似てるわ」"
+msgstr ""
+"\n"
+"「哇！消失了……\n"
+"　跟蒐集顏料球的時候很像呢。」"
+
+#. ID 18, Page 1, Line 27, Pos (28,7)
+msgid ""
+"\n"
+"「もしかすると　これ\n"
+"　集めると　良いのかも\n"
+"　もっと　探してみましょ　イヴ！」"
+msgstr ""
+"\n"
+"「說不定，\n"
+"　就是要蒐集這些拼圖呢。\n"
+"　去找出其他拼圖吧，Ib！」"
+
+#. ID 21, Page 1, Line 6, Pos (27,6)
+#. ID 21, Page 2, Line 1, Pos (27,6)
+msgid "『あたたかな居場所』"
+msgstr "『溫暖的歸宿』"
+
+#. ID 21, Page 1, Line 12, Pos (27,6)
+msgid ""
+"\n"
+"「ここに　おうちが　あったのね……」"
+msgstr ""
+"\n"
+"「牠的家在這邊呢……」"
+

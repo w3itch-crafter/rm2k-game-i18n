@@ -1,0 +1,248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 2, Pos (9,6)
+msgid "『決別』"
+msgstr "\"Separation\""
+
+#. ID 2, Page 1, Line 9, Pos (9,6)
+msgid ""
+"\n"
+"「なんか　嫌な絵ね……」"
+msgstr ""
+"\n"
+" What an off-putting painting..."
+
+#. ID 2, Page 1, Line 21, Pos (9,6)
+msgid ""
+"\n"
+"「わっ　なに！？　停電！？」"
+msgstr ""
+"\n"
+" Wh-What?! The lights?!"
+
+#. ID 2, Page 1, Line 28, Pos (9,6)
+msgid ""
+"\n"
+"「ちょ　暗くて何も\n"
+"　見えないじゃない……！」"
+msgstr ""
+"\n"
+" I-It's too dark to see...!"
+
+#. ID 2, Page 1, Line 33, Pos (9,6)
+#. Contains choice at line 2 (3 options)
+#, fuzzy
+msgid "「イ　イヴ！　いる！？」"
+msgstr " I-Ib! Are you there?!"
+
+#. ID 2, Page 1, Line 34, Pos (9,6)
+#. Choice (3 options, embedded in a message)
+#, fuzzy
+msgid ""
+"いる\n"
+"いない\n"
+"……………"
+msgstr ""
+"I'm here\n"
+"I'm not\n"
+".........."
+
+#. ID 2, Page 1, Line 39, Pos (9,6)
+#, fuzzy
+msgid ""
+"\n"
+"「そう　なら良いわ……\n"
+"　ちゃんと　そこに　いてよ？」"
+msgstr ""
+"\n"
+" That's good to hear...\n"
+" Stay right there, all right?"
+
+#. ID 2, Page 1, Line 47, Pos (9,6)
+#, fuzzy
+msgid ""
+"\n"
+"「なに　言ってんのよ\n"
+"　いるじゃないのっ！」"
+msgstr ""
+"\n"
+" What are you saying...\n"
+" Of course you're here!"
+
+#. ID 2, Page 1, Line 54, Pos (9,6)
+#, fuzzy
+msgid ""
+"\n"
+"「え　イヴ……？　いないの！？\n"
+"　やだ　どうしよ………！」"
+msgstr ""
+"\n"
+" Uh, Ib...? Are you there?!\n"
+" Oh no, what do I do.....?!"
+
+#. ID 2, Page 1, Line 57, Pos (9,6)
+#. ID 2, Page 1, Line 118, Pos (9,6)
+#, fuzzy
+msgid ""
+"\n"
+"「………………」"
+msgstr ""
+"\n"
+" .........."
+
+#. ID 2, Page 1, Line 60, Pos (9,6)
+#, fuzzy
+msgid ""
+"\n"
+"「って　ここに　いるじゃない……\n"
+"　返事くらいしてよ　焦ったでしょ」"
+msgstr ""
+"\n"
+" ...No, you're there...\n"
+" You should've said something!\n"
+" You worried me!"
+
+#. ID 2, Page 1, Line 69, Pos (9,6)
+msgid ""
+"\n"
+"「しかし\n"
+"　困ったわね……あ　そうだわ」"
+msgstr ""
+"\n"
+" But, this is a problem...\n"
+" Ah, that's right."
+
+#. ID 2, Page 1, Line 73, Pos (9,6)
+msgid ""
+"\n"
+"「ライターがあったの　忘れてた」"
+msgstr ""
+"\n"
+" I forgot I had a lighter."
+
+#. ID 2, Page 1, Line 100, Pos (9,6)
+msgid ""
+"\n"
+"「…………え？」"
+msgstr ""
+"\n"
+" .....Huh?"
+
+#. ID 2, Page 1, Line 110, Pos (9,6)
+msgid ""
+"\n"
+"「な……なによコレ………！」"
+msgstr ""
+"\n"
+" Wh... What is THIS.....?!"
+
+#. ID 2, Page 1, Line 126, Pos (9,6)
+msgid ""
+"\n"
+"「ホント　キッツイわ……精神的に」"
+msgstr ""
+"\n"
+" I don't think this is...\n"
+" good for my mental health..."
+
+#. ID 2, Page 2, Line 1, Pos (9,6)
+msgid "『や　め　ろ』"
+msgstr "\"S T O P\""
+
+#. ID 3, Page 1, Line 1, Pos (5,7)
+#. ID 3, Page 2, Line 1, Pos (5,7)
+msgid "マネキンの　首がある……"
+msgstr "A mannequin head..."
+
+#. ID 4, Page 1, Line 1, Pos (15,7)
+msgid "『ここの　女性たちは……』"
+msgstr "\"The women here...\""
+
+#. ID 4, Page 1, Line 3, Pos (15,7)
+msgid "『皆　花占いが好き』"
+msgstr "\"Like playing \"Loves Me, Loves Me Not.\"\""
+
+#. ID 5, Page 1, Line 2, Pos (2,7)
+#. ID 5, Page 2, Line 2, Pos (2,7)
+#, fuzzy
+msgid "『？？？』"
+msgstr "\"???\""
+
+#. ID 5, Page 1, Line 4, Pos (2,7)
+#. ID 5, Page 2, Line 4, Pos (2,7)
+#, fuzzy
+msgid ""
+"『私はその　？めかしく\n"
+"　美しい？？に　指を？らせ……』"
+msgstr ""
+"\"I found myself ??? my finger\n"
+"over her ???, beautiful ???...\""
+
+#. ID 5, Page 1, Line 7, Pos (2,7)
+#. ID 5, Page 2, Line 7, Pos (2,7)
+#, fuzzy
+msgid "『？？を？えさせる彼女を　そのまま……』"
+msgstr "\"And as she lay there, ??? my ???, I...\""
+
+#. ID 5, Page 1, Line 10, Pos (2,7)
+#, fuzzy
+msgid "ギャリーに　本を閉じられた……"
+msgstr "Garry closed the book..."
+
+#. ID 5, Page 1, Line 14, Pos (2,7)
+#, fuzzy
+msgid ""
+"\n"
+"「……こういうのは\n"
+"　大人になってから　読みなさいね」"
+msgstr ""
+"\n"
+" ...Wait until you get older\n"
+" to read this kind of stuff."
+
+#. ID 5, Page 2, Line 10, Pos (2,7)
+#, fuzzy
+msgid ""
+"\n"
+"「なんて　書いてあるのかな？\n"
+"　読んでよ　ギャリー……」"
+msgstr ""
+"\n"
+" I wonder what this says?\n"
+" Read it for me, Garry..."
+
+#. ID 5, Page 2, Line 14, Pos (2,7)
+#, fuzzy
+msgid ""
+"\n"
+"「…………ヤダ」"
+msgstr ""
+"\n"
+" .....I'd rather not."
+
+#. ID 5, Page 2, Line 17, Pos (2,7)
+#, fuzzy
+msgid ""
+"\n"
+"「えー　なんで？　気になるー！」"
+msgstr ""
+"\n"
+" Huuuh, why? I wanna know!"
+
+#. ID 5, Page 2, Line 20, Pos (2,7)
+#, fuzzy
+msgid ""
+"\n"
+"「……アンタたちには　早いのよ」"
+msgstr ""
+"\n"
+" ...It's too soon for you two."
+

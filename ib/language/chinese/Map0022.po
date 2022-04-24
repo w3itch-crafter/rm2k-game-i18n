@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 10, Page 1, Line 1, Pos (3,5)
+msgid ""
+"“石像の正面に立って\n"
+"　西に３歩　次に南へ１歩　そこが正解”"
+msgstr ""
+"“面對石像\n"
+"　向西3步　再向南1步　那裡就是解答”"
+
+#. ID 10, Page 2, Line 1, Pos (3,5)
+#. ID 11, Page 2, Line 1, Pos (9,5)
+#. ID 12, Page 2, Line 1, Pos (15,5)
+#. ID 13, Page 2, Line 1, Pos (18,5)
+#. ID 14, Page 2, Line 1, Pos (21,5)
+msgid "“ウソつき！”"
+msgstr "“騙子！”"
+
+#. ID 11, Page 1, Line 1, Pos (9,5)
+msgid "“白い服が言ってることは　本当だよ”"
+msgstr "“白色衣服的人說的話是真的喔”"
+
+#. ID 12, Page 1, Line 1, Pos (15,5)
+msgid "“本当のこと言ってるのは　緑の服だけだよ”"
+msgstr "“只有綠色衣服的人說的話才是真的喔”"
+
+#. ID 13, Page 1, Line 1, Pos (18,5)
+msgid ""
+"“石像の正面に立って\n"
+"　東に２歩　次に南へ２歩　そこが正解”"
+msgstr ""
+"“面對石像\n"
+"　向東2步　再向南2步　那裡就是解答”"
+
+#. ID 14, Page 1, Line 1, Pos (21,5)
+msgid "“黄の服に　同意！”"
+msgstr "“我同意黃色衣服說的！”"
+
+#. ID 15, Page 1, Line 1, Pos (6,5)
+msgid ""
+"“石像の正面に立って\n"
+"　東に４歩　次に北へ２歩　そこが正解”"
+msgstr ""
+"“面對石像\n"
+"　向東4步　再向北2步　那裡就是解答”"
+
+#. ID 15, Page 2, Line 1, Pos (6,5)
+#. ID 15, Page 3, Line 1, Pos (6,5)
+msgid "赤い絵の具が　したたっている……"
+msgstr "滴著紅色的顏料……"
+
+#. ID 15, Page 3, Line 4, Pos (6,5)
+msgid ""
+"\n"
+"「……うわ……なにこれ\n"
+"　ヒドイわね……」"
+msgstr ""
+"\n"
+"「……嗚哇……這是什麼……\n"
+"　好慘喔……」"
+
+#. ID 15, Page 3, Line 8, Pos (6,5)
+msgid ""
+"\n"
+"「イヴ　ここ早く出ましょ」"
+msgstr ""
+"\n"
+"「Ib，我們快出去吧！」"
+

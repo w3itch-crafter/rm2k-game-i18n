@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 1, Pos (13,8)
+msgid "「………………」"
+msgstr "「………………」"
+
+#. ID 5, Page 1, Line 1, Pos (5,7)
+#. ID 5, Page 6, Line 1, Pos (5,7)
+msgid "窓の外は　明るい………"
+msgstr "窗外好明亮………"
+
+#. ID 5, Page 2, Line 1, Pos (5,7)
+msgid "窓が曇っていて　外が見えない……"
+msgstr "窗戶上起了霧，看不見外面……"
+
+#. ID 5, Page 3, Line 1, Pos (5,7)
+#. ID 5, Page 4, Line 1, Pos (5,7)
+#. ID 5, Page 7, Line 1, Pos (5,7)
+msgid "カギはかかっていないのに　開かない……"
+msgstr "明明沒有上鎖，卻打不開……"
+
+#. ID 5, Page 5, Line 1, Pos (5,7)
+msgid "誰かが　叩いた跡が　残っている……"
+msgstr "上面留著不知是誰用手拍過的痕跡……"
+
+#. ID 5, Page 8, Line 1, Pos (5,7)
+msgid "窓の外は　真っ赤だ……"
+msgstr "窗外一片血紅……"
+
+#. ID 24, Page 1, Line 1, Pos (9,9)
+#. ID 24, Page 3, Line 1, Pos (9,9)
+msgid "「ふむ………」"
+msgstr "「嗯………」"
+
+#. ID 25, Page 1, Line 1, Pos (13,7)
+msgid "『吊るされた男』"
+msgstr "『被倒吊的男人』"
+
+#. ID 25, Page 2, Line 3, Pos (13,7)
+msgid "『忘れられた肖像』"
+msgstr "『被遺忘的肖像』"
+
+#. ID 25, Page 2, Line 5, Pos (13,7)
+msgid "眠っている男性が　描かれている………"
+msgstr "畫著一個沉睡的男人………"
+
+#. ID 25, Page 2, Line 8, Pos (13,7)
+msgid "「イヴ！」"
+msgstr "「Ib！」"
+
+#. ID 25, Page 2, Line 18, Pos (13,7)
+msgid ""
+"\n"
+"「ここにいたのね\n"
+"　もう……捜したのよ」"
+msgstr ""
+"\n"
+"「原來妳在這啊，\n"
+"　真是的……我找妳找了好久呢。」"
+
+#. ID 25, Page 2, Line 22, Pos (13,7)
+msgid ""
+"\n"
+"「やっぱり一緒に　まわりましょうよ\n"
+"　せっかくみんなで　来たんだから」"
+msgstr ""
+"\n"
+"「我們還是一起逛吧？\n"
+"　難得大家一起來這裡。」"
+
+#. ID 25, Page 2, Line 25, Pos (13,7)
+msgid ""
+"\n"
+"「そうだ！　観終わったら\n"
+"　お父さんに　飲み物でも\n"
+"　買ってもらおっか！」"
+msgstr ""
+"\n"
+"「對了！參觀完後，\n"
+"　請爸爸買些飲料給我們吧！」"
+
+#. ID 25, Page 2, Line 30, Pos (13,7)
+#, fuzzy
+msgid ""
+"\n"
+"「うん　そうしましょ！」"
+msgstr ""
+"\n"
+"「嗯！就這麼做吧！」"
+
+#. ID 25, Page 2, Line 41, Pos (13,7)
+#, fuzzy
+msgid "「イヴー！　早くおいでー！」"
+msgstr "「Ib──！快點過來──！」"
+
+#. ID 27, Page 1, Line 1, Pos (9,7)
+msgid "『新聞を取る貴婦人』"
+msgstr "『拿報紙的貴婦』"
+
+#. ID 32, Page 1, Line 1, Pos (17,7)
+msgid "『？？』"
+msgstr "『？？』"
+
+#. ID 32, Page 1, Line 2, Pos (17,7)
+#. ID 34, Page 1, Line 2, Pos (21,29)
+msgid "難しくて　読めない字がある……"
+msgstr "有些字太難了，看不懂……"
+
+#. ID 33, Page 1, Line 1, Pos (21,7)
+msgid "『心配』"
+msgstr "『擔心』"
+
+#. ID 34, Page 1, Line 1, Pos (21,29)
+msgid "『テーブルに置かれた？？』"
+msgstr "『放置在桌上的？？』"
+
+#. ID 35, Page 1, Line 1, Pos (10,18)
+msgid ""
+"「僕が思うに……ゲルテナの言う\n"
+"　“個性”っていうのは　表情だと　思うんだよね」"
+msgstr ""
+"「我在想……Guertena所說的『個性』，\n"
+"　大概是指表情吧。」"
+
+#. ID 35, Page 1, Line 3, Pos (10,18)
+msgid ""
+"「だから　この像たちには\n"
+"　頭が　ないんじゃないかな？」"
+msgstr ""
+"「所以，\n"
+"　這些雕像才沒有頭吧？」"
+
+#. ID 35, Page 1, Line 5, Pos (10,18)
+#. Contains choice at line 2 (3 options)
+msgid "「そう思わない？」"
+msgstr "「妳不這麼覺得嗎？」"
+
+#. ID 35, Page 1, Line 6, Pos (10,18)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"そうかもしれない\n"
+"うーん……？\n"
+"頭がないと怖い"
+msgstr ""
+"說不定是這樣吧\n"
+"唔嗯……？\n"
+"沒有頭的話很可怕"
+
+#. ID 35, Page 1, Line 8, Pos (10,18)
+msgid ""
+"「おー！\n"
+"　わかってくれたみたいで　嬉しいよ！\n"
+"　やっぱり　そうだよね」"
+msgstr ""
+"「喔！妳好像能理解我的想法，\n"
+"　真令人高興！\n"
+"　果然是這樣呢！」"
+
+#. ID 35, Page 1, Line 13, Pos (10,18)
+msgid ""
+"「う……やっぱり\n"
+"　君みたいな　小さい子には\n"
+"　まだ　わからなかったか……ごめんよ」"
+msgstr ""
+"「唔……果然，\n"
+"　像妳這麼小的孩子，\n"
+"　還沒辦法理解吧……對不起喔。」"
+
+#. ID 35, Page 1, Line 18, Pos (10,18)
+msgid ""
+"「あー　たしかにねー\n"
+"　でもその　頭をなくすことにより\n"
+"　人間の個性をも　消すっていうのが……」"
+msgstr ""
+"「啊──，確實是這樣呢──，\n"
+"　但是比起沒有了頭這件事，\n"
+"　人類的個性也被抹去的部分更……」"
+
+#. ID 35, Page 1, Line 21, Pos (10,18)
+msgid "男の人は　独り言を　呟いている………"
+msgstr "男人在自言自語………"
+
+#. ID 35, Page 2, Line 1, Pos (10,18)
+msgid ""
+"「しかし　この像って\n"
+"　結構スタイル　良いよな……」"
+msgstr ""
+"「但是這些雕像，\n"
+"　身材跟打扮都很不錯呢……」"
+
+#. ID 35, Page 4, Line 1, Pos (10,18)
+msgid "「え？　一番大きな絵？」"
+msgstr "「咦？最大的一幅畫？」"
+
+#. ID 35, Page 4, Line 2, Pos (10,18)
+msgid ""
+"「今回の展覧会で　一番大きい絵なら\n"
+"　一階の大広間に　あるやつかな……」"
+msgstr ""
+"「如果是說這次展覽中最大的一幅畫，\n"
+"　大概是一樓大廳的那幅吧……」"
+
+#. ID 35, Page 5, Line 1, Pos (10,18)
+msgid ""
+"「いやー　さっき\n"
+"　すごく可愛い　女の子を\n"
+"　見かけちゃったよ……」"
+msgstr ""
+"「哎呀──\n"
+"　剛才看到了一個非常可愛的女孩子喔……」"
+
+#. ID 35, Page 5, Line 4, Pos (10,18)
+#, fuzzy
+msgid ""
+"「なんと言うか……正に\n"
+"　絵に描いたような　美少女！\n"
+"　って感じ　だったなぁ……」"
+msgstr ""
+"「該怎麼說才好……\n"
+"　就像是畫裡的美少女一樣！\n"
+"　給人這種印象呢……」"
+
+#. ID 36, Page 1, Line 1, Pos (14,30)
+#. ID 36, Page 3, Line 1, Pos (14,30)
+msgid ""
+"「変なソファー……でも　それが良い……\n"
+"　座ってみたいけど　ダメだろうなぁ……」"
+msgstr ""
+"「奇怪的沙發……但是，就是這樣才好……\n"
+"　雖然想坐坐看，但應該不行吧……」"
+
+#. ID 37, Page 1, Line 3, Pos (23,37)
+msgid ""
+"\n"
+"「だれか　いないかな……\n"
+"　ここも　美術館なのかな？」"
+msgstr ""
+"\n"
+"「沒有其他人在嗎……\n"
+"　這裡也是美術館嗎？」"
+
+#. ID 40, Page 1, Line 1, Pos (13,30)
+msgid "『指定席』"
+msgstr "『指定席』"
+
+#. ID 41, Page 1, Line 1, Pos (13,21)
+msgid "『無個性』"
+msgstr "『無個性』"
+

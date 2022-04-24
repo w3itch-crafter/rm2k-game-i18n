@@ -1,0 +1,436 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 1, Pos (6,23)
+msgid "『挑発』"
+msgstr "\"Stirred Up\""
+
+#. ID 5, Page 1, Line 1, Pos (26,8)
+msgid "『？？？の血』"
+msgstr "\"A ??? of Blood\""
+
+#. ID 5, Page 1, Line 2, Pos (26,8)
+#. ID 31, Page 1, Line 2, Pos (15,8)
+msgid "難しくて　読めない字がある……"
+msgstr "You don't know this word..."
+
+#. ID 5, Page 2, Line 1, Pos (26,8)
+msgid "『見世物の血』"
+msgstr "\"A Spectacle of Blood\""
+
+#. ID 6, Page 1, Line 1, Pos (23,10)
+msgid "「ぼく　シロアリ」"
+msgstr "\"i'm a white ant.\""
+
+#. ID 6, Page 1, Line 2, Pos (23,10)
+msgid "「床　抜けて　帰れない」"
+msgstr "\"i can't cross this hole.\""
+
+#. ID 6, Page 1, Line 3, Pos (23,10)
+msgid "「帰りたい」"
+msgstr "\"i wanna go home.\""
+
+#. ID 7, Page 1, Line 2, Pos (26,10)
+msgid "「おなかすいた　なにか　たべたい」"
+msgstr "\"i'm hungry. i want something to eat.\""
+
+#. ID 7, Page 1, Line 3, Pos (26,10)
+msgid "「あまいもの　たべたい」"
+msgstr "\"something sweet would be great.\""
+
+#. ID 7, Page 2, Line 4, Pos (26,10)
+msgid "「おなかが　すいた　なにかないかな」"
+msgstr "\"i'm hungry. do you have anything?\""
+
+#. ID 7, Page 2, Line 6, Pos (26,10)
+#. Contains choice at line 2 (2 options)
+#. ID 7, Page 2, Line 31, Pos (26,10)
+#. Contains choice at line 2 (2 options)
+msgid "「おまえ　なにか　持ってる？」"
+msgstr "\"you do, don't you?\""
+
+#. ID 7, Page 2, Line 7, Pos (26,10)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 2, Line 32, Pos (26,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"なにもないよ\n"
+"キャンディをあげる"
+msgstr ""
+"Nope, nothing\n"
+"Give Candy"
+
+#. ID 7, Page 2, Line 9, Pos (26,10)
+#. ID 7, Page 2, Line 34, Pos (26,10)
+msgid "「なんだ　気のせいか」"
+msgstr "\"oh. maybe i was wrong then.\""
+
+#. ID 7, Page 2, Line 15, Pos (26,10)
+#. ID 7, Page 2, Line 40, Pos (26,10)
+msgid ""
+"\n"
+"「……イヴ……\n"
+"　あげるの？　それ……」"
+msgstr ""
+"\n"
+" ...Ib... Are you really\n"
+" going to give it that...?"
+
+#. ID 7, Page 2, Line 19, Pos (26,10)
+#. ID 7, Page 2, Line 44, Pos (26,10)
+msgid ""
+"\n"
+"「…………別に　良いけどね」"
+msgstr ""
+"\n"
+" ...I mean, that's fine, but..."
+
+#. ID 7, Page 2, Line 25, Pos (26,10)
+#. ID 7, Page 2, Line 49, Pos (26,10)
+msgid "「ぼく　たべたいの　これじゃない」"
+msgstr "\"i don't want to eat this.\""
+
+#. ID 7, Page 2, Line 57, Pos (26,10)
+msgid ""
+"「ぼくの　家\n"
+"　ときどき　星　おちてくる」"
+msgstr "\"sometimes stars fall down to my home.\""
+
+#. ID 7, Page 2, Line 59, Pos (26,10)
+#, fuzzy
+msgid "「きっと　かみさまの　プレゼント」"
+msgstr "\"i'm pretty sure they're from god.\""
+
+#. ID 7, Page 2, Line 63, Pos (26,10)
+#, fuzzy
+msgid ""
+"「ぼく　あまいもの　すき\n"
+"　からいもの　きらい」"
+msgstr ""
+"\"i like sweet things.\n"
+"i hate salty things.\""
+
+#. ID 7, Page 2, Line 65, Pos (26,10)
+#, fuzzy
+msgid "「からいもの　たべたこと　ないけど」"
+msgstr "\"i've never eaten anything salty though.\""
+
+#. ID 7, Page 2, Line 69, Pos (26,10)
+#, fuzzy
+msgid "「おまえ　星　しってるか」"
+msgstr "\"do you know about stars?\""
+
+#. ID 7, Page 2, Line 70, Pos (26,10)
+#, fuzzy
+msgid "「あまくて　おいしい　空にある　たべものだ」"
+msgstr "\"they're sweet and tasty food in the sky.\""
+
+#. ID 7, Page 2, Line 74, Pos (26,10)
+#, fuzzy
+msgid ""
+"\n"
+"「たべもの……？」"
+msgstr ""
+"\n"
+" Food...?"
+
+#. ID 7, Page 3, Line 2, Pos (26,10)
+msgid ""
+"「あー　それ　星\n"
+"　ぼくの　すきなやつ」"
+msgstr ""
+"\"oh. that's a star.\n"
+"i love those.\""
+
+#. ID 7, Page 3, Line 4, Pos (26,10)
+#. Contains choice at line 2 (2 options)
+msgid "「ほしい」"
+msgstr "\"i want it.\""
+
+#. ID 7, Page 3, Line 5, Pos (26,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"小さな星くずをあげる\n"
+"なにもあげない"
+msgstr ""
+"Give Stardust\n"
+"Nope"
+
+#. ID 7, Page 3, Line 7, Pos (26,10)
+msgid "小さな星くずを　アリにあげた……"
+msgstr "Gave the ant the Stardust..."
+
+#. ID 7, Page 3, Line 12, Pos (26,10)
+msgid ""
+"\n"
+"「……星というか　どうみても\n"
+"　コンペイトウよね　これ……」"
+msgstr ""
+"\n"
+" ...It looks more like candy\n"
+" than a star to me..."
+
+#. ID 7, Page 3, Line 22, Pos (26,10)
+msgid "「………………………」"
+msgstr "\"..........\""
+
+#. ID 7, Page 4, Line 2, Pos (26,10)
+msgid "「わー　ありがとう」"
+msgstr "\"yaaay. thank you.\""
+
+#. ID 7, Page 4, Line 3, Pos (26,10)
+msgid "「ちょっと　待ってて」"
+msgstr "\"wait a moment.\""
+
+#. ID 7, Page 4, Line 15, Pos (26,10)
+msgid "「これ　礼」"
+msgstr "\"gift.\""
+
+#. ID 7, Page 4, Line 17, Pos (26,10)
+msgid "橙のカギを　手に入れた。"
+msgstr "Obtained the Orange Key."
+
+#. ID 13, Page 1, Line 1, Pos (4,8)
+#. ID 13, Page 2, Line 2, Pos (4,8)
+#. ID 13, Page 3, Line 1, Pos (4,8)
+msgid "『キャンバスの中の光源』"
+msgstr "\"Light Within the Canvas\""
+
+#. ID 13, Page 2, Line 3, Pos (4,8)
+msgid "………？"
+msgstr ".....?"
+
+#. ID 13, Page 2, Line 4, Pos (4,8)
+#. Contains choice at line 2 (2 options)
+msgid "この絵は　壁から外れそうだ……"
+msgstr "It looks like it can be taken off the wall..."
+
+#. ID 13, Page 2, Line 5, Pos (4,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"外す\n"
+"外さない"
+msgstr ""
+"Remove\n"
+"Leave it"
+
+#. ID 13, Page 2, Line 8, Pos (4,8)
+msgid "ロウソクの絵を　手に入れた。"
+msgstr "Obtained the Candle Painting."
+
+#. ID 15, Page 1, Line 1, Pos (20,8)
+msgid "『寝起きの悪い男』"
+msgstr "\"Hard-to-Wake Man\""
+
+#. ID 15, Page 2, Line 1, Pos (20,8)
+msgid "『夜更かしをする男』"
+msgstr "\"Night-Owl Man\""
+
+#. ID 16, Page 3, Line 1, Pos (15,7)
+#. ID 17, Page 3, Line 1, Pos (15,6)
+msgid "大きな花は　動かない……"
+msgstr "The large flower doesn't move..."
+
+#. ID 18, Page 1, Line 2, Pos (15,4)
+msgid "カギが　かかっている……"
+msgstr "It's locked..."
+
+#. ID 18, Page 2, Line 2, Pos (15,4)
+msgid "橙のカギを　使った。"
+msgstr "Used the Orange Key."
+
+#. ID 21, Page 2, Line 1, Pos (24,23)
+#. ID 27, Page 1, Line 1, Pos (24,25)
+msgid "大きなヘビが　寝ている……"
+msgstr "A giant sleeping snake..."
+
+#. ID 21, Page 2, Line 5, Pos (24,23)
+msgid ""
+"\n"
+"「このヘビ\n"
+"　いつまで　寝てんのよ……」"
+msgstr ""
+"\n"
+" How sleepy is this snake...?"
+
+#. ID 23, Page 1, Line 4, Pos (2,17)
+#. ID 24, Page 1, Line 4, Pos (18,9)
+#. ID 26, Page 1, Line 4, Pos (3,17)
+#. ID 29, Page 1, Line 4, Pos (1,17)
+#. ID 51, Page 1, Line 4, Pos (18,10)
+#. ID 52, Page 1, Line 4, Pos (18,11)
+msgid "…………！"
+msgstr ".....!"
+
+#. ID 23, Page 1, Line 8, Pos (2,17)
+#. ID 24, Page 1, Line 8, Pos (18,9)
+#. ID 26, Page 1, Line 8, Pos (3,17)
+#. ID 29, Page 1, Line 8, Pos (1,17)
+#. ID 51, Page 1, Line 8, Pos (18,10)
+#. ID 52, Page 1, Line 8, Pos (18,11)
+msgid "チョウチョが　飛んで行ってしまった……"
+msgstr "The butterfly flew away..."
+
+#. ID 27, Page 1, Line 5, Pos (24,25)
+msgid ""
+"\n"
+"「ヘ　ヘビだわ……なんて大きいの\n"
+"　起こさないように　しましょ」"
+msgstr ""
+"\n"
+" A-A snake... Sure is big.\n"
+" Let's not wake it up."
+
+#. ID 31, Page 1, Line 1, Pos (15,8)
+msgid "『？？な双子』"
+msgstr "\"??? Twins\""
+
+#. ID 31, Page 2, Line 1, Pos (15,8)
+msgid "『執拗な双子』"
+msgstr "\"Stubborn Twins\""
+
+#. ID 32, Page 1, Line 1, Pos (23,11)
+msgid "「あ　それ　ぼくの家」"
+msgstr "\"hey, that's my home.\""
+
+#. ID 32, Page 1, Line 2, Pos (23,11)
+msgid "「したに　おいて」"
+msgstr "\"put it down for me.\""
+
+#. ID 32, Page 5, Line 4, Pos (23,11)
+msgid "「これ　おいしい　しあわせ」"
+msgstr "\"this tastes great. i'm so happy.\""
+
+#. ID 32, Page 5, Line 8, Pos (23,11)
+msgid "「これ　大きくて　穴　入らない」"
+msgstr "\"i'm not going in this big hole.\""
+
+#. ID 32, Page 5, Line 9, Pos (23,11)
+msgid "「ここで　たべる」"
+msgstr "\"i'll just eat here.\""
+
+#. ID 32, Page 5, Line 13, Pos (23,11)
+msgid "「おまえも　ここに　住めばいい」"
+msgstr ""
+"\"you can live here too.\n"
+"you know, if you want.\""
+
+#. ID 32, Page 5, Line 14, Pos (23,11)
+#, fuzzy
+msgid "「かみさまから　星　もらえる」"
+msgstr "\"god will give you stars to eat.\""
+
+#. ID 32, Page 5, Line 18, Pos (23,11)
+#, fuzzy
+msgid "「いつか　空に行って　星をいっぱい　たべるの」"
+msgstr "\"that's my dream.\""
+
+#. ID 32, Page 5, Line 19, Pos (23,11)
+msgid "「ぼくの　夢」"
+msgstr ""
+"\"someday i want to go into the sky\n"
+"and eat lots of stars.\""
+
+#. ID 33, Page 1, Line 1, Pos (22,10)
+#. ID 33, Page 2, Line 2, Pos (22,10)
+#. Contains choice at line 2 (2 options)
+msgid "床が抜けていて　通れない……"
+msgstr "You can't cross this hole in the floor..."
+
+#. ID 33, Page 2, Line 3, Pos (22,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"アリの巣の絵を　置いてみる\n"
+"そのままにしておく"
+msgstr ""
+"Lay down the Anthill Painting\n"
+"Leave it be"
+
+#. ID 33, Page 2, Line 6, Pos (22,10)
+msgid "アリの巣の絵を　穴の上に置いた。"
+msgstr "Laid the Anthill Painting over the hole."
+
+#. ID 35, Page 1, Line 2, Pos (22,7)
+msgid "「あ　かえり道　もどった」"
+msgstr "\"oh, there's a way back now.\""
+
+#. ID 35, Page 1, Line 6, Pos (22,7)
+msgid "「これで　帰れる」"
+msgstr "\"i'll go home then.\""
+
+#. ID 36, Page 1, Line 1, Pos (15,23)
+msgid "真っ白な　プレートがある……"
+msgstr "A blank plate..."
+
+#. ID 36, Page 1, Line 5, Pos (15,23)
+msgid ""
+"\n"
+"「これ……時計かしら？\n"
+"　こんなに大きい時計　初めて見たわ」"
+msgstr ""
+"\n"
+" Is this... a clock?\n"
+" I've never seen one so big!"
+
+#. ID 36, Page 1, Line 9, Pos (15,23)
+msgid ""
+"\n"
+"「でも　動いてないみたいね\n"
+"　……あの真ん中の\n"
+"　黒いやつは　なにかしら？」"
+msgstr ""
+"\n"
+" But it doesn't seem to work.\n"
+" ...I wonder what that black\n"
+" thing in the middle is?"
+
+#. ID 36, Page 2, Line 3, Pos (15,23)
+#. ID 36, Page 3, Line 1, Pos (15,23)
+msgid "『さぼり癖のある秒針』"
+msgstr "\"Truant Seconds Hand\""
+
+#. ID 36, Page 2, Line 4, Pos (15,23)
+msgid "時計の下に　数字をいれるパネルがある……"
+msgstr "There's a panel below to input a number..."
+
+#. ID 36, Page 2, Line 26, Pos (15,23)
+msgid "時計が動いて　夜になった……"
+msgstr "The clock moved, making it night..."
+
+#. ID 36, Page 2, Line 30, Pos (15,23)
+msgid "ロウソクの絵の　ロウソクがなくなってしまった……"
+msgstr "The candle disappeared from the painting..."
+
+#. ID 36, Page 2, Line 36, Pos (15,23)
+msgid "何も　起こらない……"
+msgstr "Nothing happens..."
+
+#. ID 40, Page 1, Line 1, Pos (10,8)
+msgid "『手の届かぬ場所』"
+msgstr "\"A Place Out of Reach\""
+
+#. ID 49, Page 1, Line 1, Pos (28,24)
+msgid "赤い首が　落ちている……"
+msgstr "A red head lies on the ground..."
+
+#. ID 49, Page 1, Line 5, Pos (28,24)
+msgid ""
+"\n"
+"「やだ……\n"
+"　イヴ　早く離れましょ……」"
+msgstr ""
+"\n"
+" Ugh...\n"
+" Stay away from it, Ib..."
+
+#. ID 54, Page 1, Line 1, Pos (15,24)
+msgid "チョウチョが　飛んでいる……"
+msgstr "A butterfly..."
+

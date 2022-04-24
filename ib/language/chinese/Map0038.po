@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 1, Line 2, Pos (4,7)
+#. ID 6, Page 1, Line 16, Pos (4,7)
+msgid "『ワインソファ』"
+msgstr "『紅酒沙發』"
+
+#. ID 6, Page 1, Line 3, Pos (4,7)
+#. ID 6, Page 1, Line 17, Pos (4,7)
+msgid ""
+"大きなワイングラスが　斜めにカットされて\n"
+"中に赤いクッションが　入っている……"
+msgstr ""
+"巨大的玻璃酒杯被斜切開來，\n"
+"中間塞進了紅色的抱枕……"
+
+#. ID 6, Page 1, Line 7, Pos (4,7)
+#. ID 6, Page 1, Line 21, Pos (4,7)
+msgid ""
+"\n"
+"「あんまり　座り心地\n"
+"　良くなさそうね……」"
+msgstr ""
+"\n"
+"「總覺得這個\n"
+"　坐起來會不太舒服呢……」"
+
+#. ID 7, Page 1, Line 2, Pos (11,8)
+#. ID 8, Page 1, Line 2, Pos (10,8)
+msgid "『憂鬱』"
+msgstr "『憂鬱』"
+
+#. ID 7, Page 1, Line 3, Pos (11,8)
+#. ID 8, Page 1, Line 3, Pos (10,8)
+msgid "字が難しくて　読めない……"
+msgstr "這些字太難了，看不懂……"
+
+#. ID 7, Page 1, Line 6, Pos (11,8)
+#. ID 8, Page 1, Line 6, Pos (10,8)
+msgid ""
+"\n"
+"「ゆううつ　ね\n"
+"　ま　こんなとこにいれば\n"
+"　憂鬱にも　なるわよねぇ」"
+msgstr ""
+"\n"
+"「唸做『憂鬱』喔。\n"
+"　也是啦，待在這種地方，\n"
+"　當然會讓人感到憂鬱啦！」"
+
+#. ID 9, Page 1, Line 2, Pos (17,7)
+#. ID 10, Page 1, Line 2, Pos (18,7)
+msgid "『パズル』"
+msgstr "『拼圖』"
+
+#. ID 9, Page 1, Line 3, Pos (17,7)
+#. ID 10, Page 1, Line 3, Pos (18,7)
+msgid "色々な色で塗られた　ガイコツだ……"
+msgstr "被塗上許多顏色的骨骸……"
+
+#. ID 9, Page 1, Line 6, Pos (17,7)
+#. ID 10, Page 1, Line 6, Pos (18,7)
+msgid ""
+"\n"
+"「これ　ニセモノよね？」"
+msgstr ""
+"\n"
+"「這個應該是假的吧？」"
+
+#. ID 11, Page 1, Line 2, Pos (23,8)
+#. ID 11, Page 1, Line 15, Pos (23,8)
+#, fuzzy
+msgid "『感情』"
+msgstr "『感情』"
+
+#. ID 11, Page 1, Line 3, Pos (23,8)
+#. ID 11, Page 1, Line 16, Pos (23,8)
+#, fuzzy
+msgid "人の形にも見える　木のオブジェだ……"
+msgstr "看起來像人型的樹木作品……"
+
+#. ID 11, Page 1, Line 6, Pos (23,8)
+#. ID 11, Page 1, Line 19, Pos (23,8)
+msgid ""
+"\n"
+"「よく　こんなもの\n"
+"　考えつくわよね……」"
+msgstr ""
+
+#. ID 12, Page 1, Line 2, Pos (24,7)
+msgid "葉っぱの中に　何かが光っている……"
+msgstr "樹葉的間隙中有東西在發光……"
+
+#. ID 12, Page 1, Line 5, Pos (24,7)
+msgid "銀色の指輪を　手に入れた。"
+msgstr "得到一只　銀色戒指。"
+
+#. ID 12, Page 1, Line 8, Pos (24,7)
+msgid ""
+"\n"
+"「これ……結婚指輪じゃない？\n"
+"　どうして　こんなところに？」"
+msgstr ""
+"\n"
+"「這個……不是結婚戒指嗎？\n"
+"　為什麼會在這種地方呢？」"
+

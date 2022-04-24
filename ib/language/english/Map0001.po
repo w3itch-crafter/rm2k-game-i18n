@@ -1,0 +1,624 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 3, Line 19, Pos (1,1)
+msgid ""
+"\n"
+"「………！？」"
+msgstr ""
+"\n"
+" .....?!"
+
+#. ID 5, Page 1, Line 1, Pos (3,6)
+#. ID 5, Page 3, Line 1, Pos (3,6)
+#. ID 6, Page 1, Line 1, Pos (6,6)
+#. ID 6, Page 4, Line 1, Pos (6,6)
+msgid "窓の外は　明るい………"
+msgstr "It's nice and bright outside..."
+
+#. ID 5, Page 2, Line 1, Pos (3,6)
+#. ID 5, Page 4, Line 1, Pos (3,6)
+#. ID 6, Page 2, Line 2, Pos (6,6)
+#. ID 6, Page 5, Line 1, Pos (6,6)
+msgid "カギはかかっていないのに　開かない……"
+msgstr ""
+"It doesn't look like it's locked,\n"
+"but it won't open..."
+
+#. ID 5, Page 5, Line 1, Pos (3,6)
+#. ID 6, Page 6, Line 1, Pos (6,6)
+msgid "窓の外は　真っ赤だ……"
+msgstr "It's completely red outside..."
+
+#. ID 5, Page 6, Line 1, Pos (3,6)
+msgid "赤い絵の具が　流れている……"
+msgstr "It's leaking red paint..."
+
+#. ID 6, Page 3, Line 1, Pos (6,6)
+msgid "窓の外に　赤い液体が流れている……"
+msgstr "A red fluid is leaking from behind the window..."
+
+#. ID 7, Page 1, Line 1, Pos (0,8)
+#. ID 7, Page 3, Line 1, Pos (0,8)
+#. ID 44, Page 1, Line 1, Pos (0,9)
+#. ID 44, Page 3, Line 1, Pos (0,9)
+#. ID 45, Page 1, Line 1, Pos (0,10)
+#. ID 45, Page 3, Line 1, Pos (0,10)
+#. ID 46, Page 1, Line 1, Pos (0,11)
+#. ID 46, Page 3, Line 1, Pos (0,11)
+msgid "勝手に出てはいけない。"
+msgstr "You can't just up and leave."
+
+#. ID 7, Page 2, Line 3, Pos (0,8)
+#. ID 44, Page 2, Line 3, Pos (0,9)
+#. ID 45, Page 2, Line 3, Pos (0,10)
+#. ID 46, Page 2, Line 3, Pos (0,11)
+msgid "出入り口が開かない……"
+msgstr "The entrance is locked..."
+
+#. ID 7, Page 4, Line 3, Pos (0,8)
+#. ID 7, Page 5, Line 3, Pos (0,8)
+#. ID 44, Page 4, Line 3, Pos (0,9)
+#. ID 44, Page 5, Line 3, Pos (0,9)
+#. ID 45, Page 4, Line 3, Pos (0,10)
+#. ID 45, Page 5, Line 3, Pos (0,10)
+#. ID 46, Page 4, Line 3, Pos (0,11)
+#. ID 46, Page 5, Line 3, Pos (0,11)
+msgid "ドアが　開かない……"
+msgstr "The door won't open..."
+
+#. ID 7, Page 4, Line 8, Pos (0,8)
+#. ID 44, Page 4, Line 8, Pos (0,9)
+#. ID 45, Page 4, Line 8, Pos (0,10)
+#. ID 46, Page 4, Line 8, Pos (0,11)
+msgid ""
+"\n"
+"「あれ……開かない\n"
+"　カギが　かかってる……」"
+msgstr ""
+"\n"
+" Huh... It won't open?\n"
+" It's locked..."
+
+#. ID 7, Page 4, Line 12, Pos (0,8)
+#. ID 44, Page 4, Line 12, Pos (0,9)
+#. ID 45, Page 4, Line 12, Pos (0,10)
+#. ID 46, Page 4, Line 12, Pos (0,11)
+msgid ""
+"\n"
+"「どうしよう……\n"
+"　早く外に　行きたいのに」"
+msgstr ""
+"\n"
+" What now...?\n"
+" I just wanna get outside..."
+
+#. ID 16, Page 1, Line 7, Pos (13,3)
+msgid ""
+"\n"
+"「ねー　お母さん\n"
+"　今日の晩ご飯　なに？」"
+msgstr ""
+"\n"
+" Hey, mommy!\n"
+" What's for dinner tonight?"
+
+#. ID 16, Page 1, Line 11, Pos (13,3)
+msgid ""
+"\n"
+"「んもー　メアリーったら\n"
+"　もう　晩御飯の話？」"
+msgstr ""
+"\n"
+" Come, now, Mary...\n"
+" Talking about dinner already?"
+
+#. ID 16, Page 1, Line 15, Pos (13,3)
+msgid ""
+"\n"
+"「だって　お腹空いたんだもん！」"
+msgstr ""
+"\n"
+" Well, it's 'cause I'm hungry!"
+
+#. ID 16, Page 1, Line 18, Pos (13,3)
+msgid ""
+"\n"
+"「……………あ！」"
+msgstr ""
+"\n"
+" .....Ah!"
+
+#. ID 16, Page 1, Line 26, Pos (13,3)
+msgid ""
+"\n"
+"「おかえり」"
+msgstr ""
+"\n"
+" Welcome back!"
+
+#. ID 16, Page 1, Line 34, Pos (13,3)
+msgid ""
+"\n"
+"「イヴ　見つけたよ！」"
+msgstr ""
+"\n"
+" Hey, I found Ib!"
+
+#. ID 16, Page 1, Line 37, Pos (13,3)
+msgid ""
+"\n"
+"「あらま　イヴ\n"
+"　どこに行ってたの？」"
+msgstr ""
+"\n"
+" My word, Ib!\n"
+" Where did you get to?"
+
+#. ID 16, Page 1, Line 41, Pos (13,3)
+msgid ""
+"\n"
+"「お母さん　イヴと一緒に\n"
+"　まわりたかったのに……」"
+msgstr ""
+"\n"
+" Your mother wanted to\n"
+" go see the exhibits with you..."
+
+#. ID 16, Page 1, Line 45, Pos (13,3)
+msgid ""
+"\n"
+"「まぁ　いいじゃないか\n"
+"　イヴだって　１人で静かに観て\n"
+"　まわりたかったのかも　しれないよ」"
+msgstr ""
+"\n"
+" Hey, it's all right.\n"
+" Maybe Ib just wanted to see\n"
+" the exhibits by herself in peace!"
+
+#. ID 16, Page 1, Line 53, Pos (13,3)
+msgid ""
+"\n"
+"「そうなの？　イヴ」"
+msgstr ""
+"\n"
+" Yeah! That's it, huh, Ib?"
+
+#. ID 16, Page 1, Line 59, Pos (13,3)
+msgid ""
+"\n"
+"「………さぁ　それじゃあ\n"
+"　そろそろ　帰ろうか？」"
+msgstr ""
+"\n"
+" ...Well, in any case.\n"
+" We should get going soon."
+
+#. ID 16, Page 1, Line 62, Pos (13,3)
+msgid ""
+"\n"
+"「メアリーが\n"
+"　お腹空いてる　みたいだし」"
+msgstr ""
+"\n"
+" Mary's feeling hungry already,\n"
+" it would seem."
+
+#. ID 16, Page 1, Line 66, Pos (13,3)
+msgid ""
+"\n"
+"「そうね　お母さんも\n"
+"　喉が　渇いちゃった\n"
+"　喫茶店にでも　寄りましょうか」"
+msgstr ""
+"\n"
+" Yes, and your mother's\n"
+" feeling a bit parched.\n"
+" Let's see if we can find a cafe."
+
+#. ID 16, Page 1, Line 71, Pos (13,3)
+msgid ""
+"\n"
+"「わーい　喫茶店！」"
+msgstr ""
+"\n"
+" Yaaay! Cafe! Cafe!"
+
+#. ID 16, Page 1, Line 77, Pos (13,3)
+msgid ""
+"\n"
+"「イヴ　喫茶店だって！\n"
+"　何があるのかな　楽しみだね！」"
+msgstr ""
+"\n"
+" Ib, hear that? A cafe!\n"
+" I can't wait to see what they have!"
+
+#. ID 16, Page 1, Line 85, Pos (13,3)
+msgid ""
+"\n"
+"「じゃあ　行きましょう」"
+msgstr ""
+"\n"
+" Okay, let's go!"
+
+#. ID 16, Page 1, Line 88, Pos (13,3)
+msgid ""
+"\n"
+"「うん！」"
+msgstr ""
+"\n"
+" Yeah!"
+
+#. ID 16, Page 1, Line 98, Pos (13,3)
+msgid ""
+"\n"
+"「良かったわね　ゲルテナ展」"
+msgstr ""
+"\n"
+" The Guertena exhibition\n"
+" was quite something..."
+
+#. ID 16, Page 1, Line 101, Pos (13,3)
+#, fuzzy
+msgid ""
+"\n"
+"「あぁ　イヴとメアリーにも\n"
+"　良い勉強に　なったんじゃないのか？」"
+msgstr ""
+"\n"
+" Yep... I bet Ib and Mary learned\n"
+" a lot from it too, huh?"
+
+#. ID 16, Page 1, Line 105, Pos (13,3)
+#, fuzzy
+msgid ""
+"\n"
+"「うん　すごく良かったよ！\n"
+"　ね　イヴ？」"
+msgstr ""
+"\n"
+" Yeah, it was the best!\n"
+" Right, Ib?"
+
+#. ID 16, Page 1, Line 109, Pos (13,3)
+#, fuzzy
+msgid "……………………"
+msgstr ".........."
+
+#. ID 16, Page 1, Line 112, Pos (13,3)
+#. ID 16, Page 1, Line 131, Pos (13,3)
+#, fuzzy
+msgid "……………？"
+msgstr ".....?"
+
+#. ID 16, Page 1, Line 113, Pos (13,3)
+#, fuzzy
+msgid "ポケットに　キャンディが入っている……"
+msgstr "There's some candy in your pocket..."
+
+#. ID 16, Page 1, Line 116, Pos (13,3)
+#, fuzzy
+msgid ""
+"\n"
+"「あっ　キャンディだ\n"
+"　ちょーだいっ！」"
+msgstr ""
+"\n"
+" Ooh, candy!\n"
+" Gimme!"
+
+#. ID 16, Page 1, Line 124, Pos (13,3)
+#, fuzzy
+msgid ""
+"\n"
+"「えへへ………おいしい！」"
+msgstr ""
+"\n"
+" Teehee... tasty!"
+
+#. ID 16, Page 1, Line 132, Pos (13,3)
+#, fuzzy
+msgid "ポケットに　ライターが入っている……"
+msgstr "There's a lighter in your pocket..."
+
+#. ID 16, Page 1, Line 135, Pos (13,3)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴ……なに？　それ……」"
+msgstr ""
+"\n"
+" Ib... huh? What's..."
+
+#. ID 16, Page 1, Line 138, Pos (13,3)
+#, fuzzy
+msgid ""
+"\n"
+"「ライター……？\n"
+"　だめじゃない　そんな\n"
+"　危ない物　持ったら……」"
+msgstr ""
+"\n"
+" A lighter...?\n"
+" Whoa, that's dangerous!\n"
+" Where'd you get that...?"
+
+#. ID 16, Page 1, Line 143, Pos (13,3)
+#, fuzzy
+msgid ""
+"\n"
+"「後でわたしが　捨てといてあげるね」"
+msgstr ""
+"\n"
+" I better throw this away later!"
+
+#. ID 16, Page 1, Line 152, Pos (13,3)
+#, fuzzy
+msgid ""
+"\n"
+"「……ねー　イヴ\n"
+"　帰ったら何して　遊ぼうか？」"
+msgstr ""
+"\n"
+" ...Hey, Ib.\n"
+" What do you wanna play\n"
+" when we get home?"
+
+#. ID 16, Page 1, Line 156, Pos (13,3)
+#, fuzzy
+msgid ""
+"\n"
+"「フフ　考えるだけで　楽しみー！」"
+msgstr ""
+"\n"
+" Ooh, I'm getting excited\n"
+" just thinking about it!"
+
+#. ID 16, Page 1, Line 159, Pos (13,3)
+#, fuzzy
+msgid ""
+"\n"
+"「これから　ずっと……\n"
+"　一緒にいようね！　イヴ！」"
+msgstr ""
+"\n"
+" Promise me, from now on...\n"
+" We'll always be together, Ib!"
+
+#. ID 19, Page 1, Line 3, Pos (10,7)
+#. ID 19, Page 3, Line 2, Pos (10,7)
+msgid ""
+"「おやおや　お嬢さん\n"
+"　こちらに入っては　いけませんよ？」"
+msgstr ""
+"Hold on there, miss.\n"
+"You can't come behind here, okay?"
+
+#. ID 20, Page 1, Line 1, Pos (8,8)
+msgid "パンフレットが　置いてある………"
+msgstr "There are pamphlets here..."
+
+#. ID 20, Page 1, Line 3, Pos (8,8)
+msgid ""
+"■操作方法■\n"
+"・enterキー ……話す、調べる、決定\n"
+"・esc、xキー……所持アイテムの確認\n"
+"・shiftキー ……タイトル画面に戻る"
+msgstr ""
+"Movement Controls\n"
+"Enter Key - Talk, Check, Confirm\n"
+"Escape/X - Check Inventory\n"
+"Shift Key - Return to Title"
+
+#. ID 20, Page 2, Line 3, Pos (8,8)
+msgid ""
+"\n"
+"「これ　なんだろう？」"
+msgstr ""
+"\n"
+" Huh, what's this?"
+
+#. ID 20, Page 2, Line 7, Pos (8,8)
+#. ID 20, Page 3, Line 2, Pos (8,8)
+msgid "『わるいこ　わるいこ　きみのことだ』"
+msgstr ""
+"\"Bad girl... Bad girl...\n"
+"You know who you are...\""
+
+#. ID 20, Page 2, Line 10, Pos (8,8)
+#, fuzzy
+msgid ""
+"\n"
+"「？」"
+msgstr ""
+"\n"
+" ?"
+
+#. ID 22, Page 1, Line 1, Pos (6,7)
+#. ID 22, Page 3, Line 1, Pos (6,7)
+msgid "「一服してこようかな……」"
+msgstr "Maybe I should take a break..."
+
+#. ID 26, Page 1, Line 15, Pos (1,13)
+msgid ""
+"\n"
+"「さぁ　着いたわよ\n"
+"　……イヴは美術館　初めてよね？」"
+msgstr ""
+"\n"
+" Well, we're here.\n"
+" ...This is your first time in\n"
+" an art gallery, right, Ib?"
+
+#. ID 26, Page 1, Line 20, Pos (1,13)
+#, fuzzy
+msgid ""
+"\n"
+"「今日　観に来たのは\n"
+"　『ゲルテナ』っていう人の\n"
+"　展覧会で……」"
+msgstr ""
+"\n"
+" We're here today to see an\n"
+" exhibition of works by an\n"
+" artist named Guertena..."
+
+#. ID 26, Page 1, Line 24, Pos (1,13)
+#, fuzzy
+msgid ""
+"\n"
+"「絵のほかにも　彫刻とか……\n"
+"　色々と面白い作品が　あるらしいから」"
+msgstr ""
+"\n"
+" And they don't just have paintings,\n"
+" but also sculptures... and all kinds\n"
+" of other creations!"
+
+#. ID 26, Page 1, Line 28, Pos (1,13)
+#, fuzzy
+msgid ""
+"\n"
+"「きっと　イヴでも\n"
+"　楽しめると　思うわ」"
+msgstr ""
+"\n"
+" I don't doubt that\n"
+" even you'll enjoy it, Ib."
+
+#. ID 26, Page 1, Line 40, Pos (1,13)
+#, fuzzy
+msgid ""
+"\n"
+"「受付　済ませてしまおうか」"
+msgstr ""
+"\n"
+" Should we get to the reception desk?"
+
+#. ID 26, Page 1, Line 45, Pos (1,13)
+#, fuzzy
+msgid ""
+"\n"
+"「そうね　あと\n"
+"　パンフレットも　もらいましょ」"
+msgstr ""
+"\n"
+" Ah, yes. Let's get\n"
+" some pamphlets as well."
+
+#. ID 26, Page 1, Line 66, Pos (1,13)
+#, fuzzy
+msgid ""
+"\n"
+"「え？　先に観てるって？\n"
+"　もー　イヴったら……仕方ないわね」"
+msgstr ""
+"\n"
+" Hm? You want to go on ahead?\n"
+" Really, Ib... Oh, all right."
+
+#. ID 26, Page 1, Line 70, Pos (1,13)
+#, fuzzy
+msgid ""
+"\n"
+"「いい？　美術館の中では\n"
+"　静かにしてなきゃ　ダメよ？」"
+msgstr ""
+"\n"
+" Just make sure you're quiet in the\n"
+" gallery, okay? Don't make a ruckus!"
+
+#. ID 26, Page 1, Line 74, Pos (1,13)
+#, fuzzy
+msgid ""
+"\n"
+"「……ま　アナタなら\n"
+"　心配ないと思うけど」"
+msgstr ""
+"\n"
+" Not that there's any need to\n"
+" worry about you, I suppose..."
+
+#. ID 26, Page 1, Line 78, Pos (1,13)
+#. ID 28, Page 1, Line 3, Pos (9,9)
+#, fuzzy
+msgid ""
+"\n"
+"「他の人の迷惑に　ならないようにね」"
+msgstr ""
+"\n"
+" Don't cause the other visitors\n"
+" any trouble, now!"
+
+#. ID 27, Page 1, Line 1, Pos (10,9)
+msgid "おとうさんは　受付の人と　話している……"
+msgstr "Dad is talking with the receptionist..."
+
+#. ID 30, Page 1, Line 3, Pos (8,10)
+#. ID 34, Page 1, Line 3, Pos (8,11)
+#. ID 35, Page 1, Line 3, Pos (8,12)
+#. ID 37, Page 1, Line 3, Pos (8,9)
+msgid ""
+"\n"
+"「あ！　ドアがある！\n"
+"　あそこが　出口かな！？」"
+msgstr ""
+"\n"
+" Oh! A door!\n"
+" Is that an exit?!"
+
+#. ID 33, Page 1, Line 7, Pos (12,7)
+msgid ""
+"\n"
+"「こらっ　イヴ！」"
+msgstr ""
+"\n"
+" Hey! Ib!"
+
+#. ID 33, Page 1, Line 11, Pos (12,7)
+msgid ""
+"\n"
+"「そこに入ったら　ダメでしょ！」"
+msgstr ""
+"\n"
+" You know you shouldn't\n"
+" go back there!"
+
+#. ID 33, Page 1, Line 23, Pos (12,7)
+#, fuzzy
+msgid ""
+"\n"
+"「そっちは　ダメだよ　イヴ」"
+msgstr ""
+"\n"
+" Don't go behind there, Ib."
+
+#. ID 36, Page 1, Line 1, Pos (10,6)
+msgid "ゲルテナ展の　ポスターが貼ってある……"
+msgstr "A poster for the Guertena exhibition..."
+
+#. ID 36, Page 2, Line 3, Pos (10,6)
+msgid ""
+"\n"
+"「ゲルテナ展……」"
+msgstr ""
+"\n"
+" Guertena Exhibition..."
+
+#. ID 36, Page 3, Line 3, Pos (10,6)
+msgid ""
+"\n"
+"「これ　わたし……？」"
+msgstr ""
+"\n"
+" Is this me...?"
+

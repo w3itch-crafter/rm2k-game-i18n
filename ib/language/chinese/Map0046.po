@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 11, Pos (31,13)
+msgid ""
+"\n"
+"「はぁ……はぁ…………\n"
+"　こ………………………」"
+msgstr ""
+"\n"
+"「哈啊……哈啊…………\n"
+"　到………………………」"
+
+#. ID 1, Page 1, Line 17, Pos (31,13)
+msgid ""
+"\n"
+"「ここまで来れば……\n"
+"　大丈夫　でしょ……」"
+msgstr ""
+"\n"
+"「到這裡就……\n"
+"　應該沒問題了吧……」"
+
+#. ID 1, Page 1, Line 24, Pos (31,13)
+msgid ""
+"\n"
+"「ザマぁ　みなさい！」"
+msgstr ""
+"\n"
+"「瞧瞧你們那個蠢樣子！」"
+
+#. ID 1, Page 1, Line 33, Pos (31,13)
+msgid ""
+"\n"
+"「さてと………」"
+msgstr ""
+"\n"
+"「接下來………」"
+
+#. ID 1, Page 1, Line 39, Pos (31,13)
+msgid ""
+"\n"
+"「それじゃあ　先に……って　イヴ？」"
+msgstr ""
+"\n"
+"「總之先……咦，Ib？」"
+
+#. ID 1, Page 1, Line 49, Pos (31,13)
+msgid ""
+"\n"
+"「どうしたの？　大丈夫？」"
+msgstr ""
+"\n"
+"「妳怎麼了？還好吧？」"
+
+#. ID 1, Page 1, Line 58, Pos (31,13)
+msgid ""
+"\n"
+"「イ　イヴ！？\n"
+"　ちょっと　しっかり！」"
+msgstr ""
+"\n"
+"「I、Ib！？\n"
+"　妳振作點啊！」"
+
+#. ID 1, Page 1, Line 62, Pos (31,13)
+msgid ""
+"\n"
+"「イヴ！　イヴッ！！」"
+msgstr ""
+"\n"
+"「Ib！　Ib！！」"
+
+#. ID 3, Page 1, Line 3, Pos (2,8)
+msgid ""
+"\n"
+"「イヴ……そっちに行くのは\n"
+"　もう　やめておきましょ？」"
+msgstr ""
+"\n"
+"「Ib……我們別再接近那邊了好嗎？」"
+

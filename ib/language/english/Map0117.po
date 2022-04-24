@@ -1,0 +1,478 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 1, Pos (3,6)
+#. ID 4, Page 1, Line 1, Pos (6,6)
+#. ID 5, Page 1, Line 1, Pos (9,6)
+#. ID 8, Page 1, Line 1, Pos (4,13)
+#. ID 10, Page 1, Line 1, Pos (7,13)
+#. ID 12, Page 1, Line 1, Pos (4,19)
+#. ID 14, Page 1, Line 1, Pos (7,19)
+#. ID 45, Page 1, Line 1, Pos (14,19)
+#. ID 46, Page 1, Line 1, Pos (15,19)
+#. ID 71, Page 1, Line 1, Pos (14,6)
+#. ID 72, Page 1, Line 1, Pos (15,6)
+#. ID 75, Page 1, Line 1, Pos (20,6)
+#. ID 77, Page 1, Line 1, Pos (23,6)
+#. ID 79, Page 1, Line 1, Pos (26,6)
+#. ID 81, Page 1, Line 1, Pos (22,13)
+#. ID 83, Page 1, Line 1, Pos (25,13)
+#. ID 85, Page 1, Line 1, Pos (22,19)
+#. ID 87, Page 1, Line 1, Pos (25,19)
+msgid "真っ白な　プレートがある……"
+msgstr "A blank plate..."
+
+#. ID 3, Page 2, Line 1, Pos (3,6)
+msgid "『波打ち際の孤独』"
+msgstr "\"Isolation at Water's Edge\""
+
+#. ID 4, Page 2, Line 1, Pos (6,6)
+msgid "『地平線の風景』"
+msgstr "\"Horizon View\""
+
+#. ID 5, Page 2, Line 1, Pos (9,6)
+msgid "『対極の器』"
+msgstr "\"Glass of Antipodes\""
+
+#. ID 8, Page 2, Line 1, Pos (4,13)
+msgid "『せきをする男』"
+msgstr "\"The Coughing Man\""
+
+#. ID 10, Page 2, Line 1, Pos (7,13)
+msgid "『新聞を取る貴婦人』"
+msgstr "\"Lady Taking the Newspaper\""
+
+#. ID 12, Page 2, Line 1, Pos (4,19)
+msgid "『心配』"
+msgstr "\"Worry\""
+
+#. ID 14, Page 2, Line 1, Pos (7,19)
+msgid "『テーブルに置かれた静物』"
+msgstr "\"Nature-Morte on Table\""
+
+#. ID 45, Page 2, Line 1, Pos (14,19)
+#. ID 46, Page 2, Line 1, Pos (15,19)
+msgid ""
+"『深海の世』\n"
+"　ヒトが立ち入ることは　許されない\n"
+"　その世界を　堪能するため　私は\n"
+"　キャンバスの中に　その世界を創った"
+msgstr ""
+"\"Abyss of the Deep\"\n"
+"A world where man will never stand...\n"
+"To realize that world, I decided that\n"
+"I would engrave it within the canvas."
+
+#. ID 71, Page 2, Line 1, Pos (14,6)
+#. ID 72, Page 2, Line 1, Pos (15,6)
+msgid "『悪意なき地獄』"
+msgstr "\"A Well-Meaning Hell\""
+
+#. ID 75, Page 2, Line 1, Pos (20,6)
+msgid "『蛇蠍の精神』"
+msgstr "\"Serpentine Spirit\""
+
+#. ID 77, Page 2, Line 1, Pos (23,6)
+msgid "『ある丘から見た空』"
+msgstr "\"The Sky Seen From A Hill\""
+
+#. ID 79, Page 2, Line 1, Pos (26,6)
+msgid "『個性なき番人』"
+msgstr "\"Selfless Guard\""
+
+#. ID 81, Page 2, Line 1, Pos (22,13)
+msgid "『吊るされた男』"
+msgstr "\"The Hanged Man\""
+
+#. ID 83, Page 2, Line 1, Pos (25,13)
+msgid "『双塔』"
+msgstr "\"Couplet Towers\""
+
+#. ID 85, Page 2, Line 1, Pos (22,19)
+msgid "『不格好なダイヤ』"
+msgstr "\"Misshapen Diamond\""
+
+#. ID 87, Page 2, Line 1, Pos (25,19)
+msgid "『赤い服の女』"
+msgstr "\"The Lady in Red\""
+
+#. ID 89, Page 1, Line 5, Pos (19,15)
+msgid ""
+"\n"
+"「お……イヴ\n"
+"　ゲルテナ展は　どうだい？」"
+msgstr ""
+"\n"
+" Oh... Ib.\n"
+" How's the Guertena exhibition?"
+
+#. ID 89, Page 1, Line 9, Pos (19,15)
+msgid ""
+"\n"
+"「こんなにたくさん　絵があると\n"
+"　全部見るのは　大変だね」"
+msgstr ""
+"\n"
+" So many paintings, it's almost\n"
+" an ordeal to look at them all..."
+
+#. ID 89, Page 1, Line 19, Pos (19,15)
+msgid ""
+"\n"
+"「やっぱり　この\n"
+"　『深海の世』が　一番すごいな」"
+msgstr ""
+"\n"
+" I have to say, \"Abyss of\n"
+" the Deep\" is probably the\n"
+" most impressive of the lot."
+
+#. ID 89, Page 1, Line 23, Pos (19,15)
+#, fuzzy
+msgid ""
+"\n"
+"「ずっと観てると\n"
+"　自分が　絵の中に落ちて\n"
+"　しまいそうな　感じがするね」"
+msgstr ""
+"\n"
+" Looking at it makes me\n"
+" feel like I'm really going to\n"
+" fall into the painting!"
+
+#. ID 89, Page 1, Line 32, Pos (19,15)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴ　美術館は\n"
+"　いかがかな？」"
+msgstr ""
+"\n"
+" Ib, what do you think\n"
+" of art galleries?"
+
+#. ID 89, Page 1, Line 36, Pos (19,15)
+#, fuzzy
+msgid ""
+"\n"
+"「ちょっと　独特な雰囲気だけど\n"
+"　なかなか　面白いだろ」"
+msgstr ""
+"\n"
+" They have a peculiar air,\n"
+" but I think it's nice."
+
+#. ID 89, Page 1, Line 39, Pos (19,15)
+#, fuzzy
+msgid ""
+"\n"
+"「気にいったのなら\n"
+"　また今度　別の展覧会にでも\n"
+"　行ってみようか」"
+msgstr ""
+"\n"
+" If you like this one,\n"
+" maybe we can go see\n"
+" another exhibition sometime."
+
+#. ID 89, Page 1, Line 51, Pos (19,15)
+#, fuzzy
+msgid ""
+"\n"
+"「お父さん　あんまり\n"
+"　芸術には　詳しくないけど……」"
+msgstr ""
+"\n"
+" Your father may not know\n"
+" a lot about art, but..."
+
+#. ID 89, Page 1, Line 54, Pos (19,15)
+#, fuzzy
+msgid ""
+"\n"
+"「ゲルテナが\n"
+"　すごい人なんだなって　いうのは\n"
+"　わかる　気がするよ」"
+msgstr ""
+"\n"
+" I think I can say for sure that\n"
+" Guertena was one amazing guy!"
+
+#. ID 89, Page 1, Line 65, Pos (19,15)
+msgid ""
+"\n"
+"「さっき『心配』って言う\n"
+"　作品が　あったんだけど……」"
+msgstr ""
+"\n"
+" I saw a painting\n"
+" named \"Worry\" earlier..."
+
+#. ID 89, Page 1, Line 69, Pos (19,15)
+msgid ""
+"\n"
+"「なんだか　ずっと\n"
+"　見られてるみたいで\n"
+"　落ち着かなかったなぁ」"
+msgstr ""
+"\n"
+" I kinda couldn't keep myself\n"
+" calm with this feeling\n"
+" it was watching me..."
+
+#. ID 89, Page 1, Line 78, Pos (19,15)
+msgid ""
+"\n"
+"「お母さんは　ゲルテナの\n"
+"　どこが　好きなんだろうね？」"
+msgstr ""
+"\n"
+" What do you suppose your\n"
+" mother likes about Guertena?"
+
+#. ID 89, Page 1, Line 82, Pos (19,15)
+msgid ""
+"\n"
+"「たしかに　ゲルテナは\n"
+"　すごいとは　思うけど\n"
+"　不気味な絵が　多いし……」"
+msgstr ""
+"\n"
+" Sure, he's pretty amazing,\n"
+" but so many creepy paintings..."
+
+#. ID 89, Page 1, Line 87, Pos (19,15)
+#, fuzzy
+msgid ""
+"\n"
+"「何か　惹かれるものが\n"
+"　あったのかな……」"
+msgstr ""
+"\n"
+" Is there something to that\n"
+" that captivates her...?"
+
+#. ID 89, Page 1, Line 99, Pos (19,15)
+#, fuzzy
+msgid ""
+"\n"
+"「イ　イヴ……\n"
+"　さっき　誰もいない場所から\n"
+"　誰かのせきの音が　聞こえてね……」"
+msgstr ""
+"\n"
+" I-Ib...\n"
+" I heard someone coughing\n"
+" when there was no one around..."
+
+#. ID 89, Page 1, Line 104, Pos (19,15)
+#, fuzzy
+msgid ""
+"\n"
+"「お父さん　少し\n"
+"　怖くなちゃったよ……\n"
+"　……気のせい　だろうけどね」"
+msgstr ""
+"\n"
+" Your father's getting\n"
+" a little scared...\n"
+" ...I'm sure it was just me, though."
+
+#. ID 89, Page 1, Line 113, Pos (19,15)
+#, fuzzy
+msgid ""
+"\n"
+"「お母さん　ここに来て\n"
+"　珍しく　はしゃいでるね……」"
+msgstr ""
+"\n"
+" Your mother's been\n"
+" very excitable here..."
+
+#. ID 89, Page 1, Line 117, Pos (19,15)
+#, fuzzy
+msgid ""
+"\n"
+"「お母さんが　嬉しそうだと\n"
+"　僕もなんだか　嬉しいよ」"
+msgstr ""
+"\n"
+" When she's happy,\n"
+" well, I feel happy myself."
+
+#. ID 90, Page 1, Line 5, Pos (13,9)
+msgid ""
+"\n"
+"「イヴが　読めなかった字……\n"
+"　アタシが　教えてあげたわよね？」"
+msgstr ""
+"\n"
+" Ib, those words you didn't know...\n"
+" I taught you them, right?"
+
+#. ID 90, Page 1, Line 9, Pos (13,9)
+msgid ""
+"\n"
+"「イヴなら　ちゃーんと\n"
+"　覚えてるでしょうから……」"
+msgstr ""
+"\n"
+" I'm sure you still\n"
+" remember them now..."
+
+#. ID 90, Page 1, Line 13, Pos (13,9)
+msgid ""
+"\n"
+"「もう　アタシがいなくても　大丈夫ね」"
+msgstr ""
+"\n"
+" So you shouldn't need me\n"
+" to read the titles on these."
+
+#. ID 90, Page 1, Line 21, Pos (13,9)
+#, fuzzy
+msgid ""
+"\n"
+"「ゲルテナって　ホント\n"
+"　色々　作ってるわよねー」"
+msgstr ""
+"\n"
+" Guertena really created\n"
+" a lot of stuff..."
+
+#. ID 90, Page 1, Line 25, Pos (13,9)
+#, fuzzy
+msgid ""
+"\n"
+"「作品ばっかり　作ってて\n"
+"　飽きないのかしらね？」"
+msgstr ""
+"\n"
+" I wonder if he got tired\n"
+" of constant creation?"
+
+#. ID 90, Page 1, Line 34, Pos (13,9)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴ　アンタ\n"
+"　ちゃんと食べてる？」"
+msgstr ""
+"\n"
+" Ib, are you eating right?"
+
+#. ID 90, Page 1, Line 38, Pos (13,9)
+msgid ""
+"\n"
+"「なんか　細くて心配だわ\n"
+"　栄養あるもの　食べなさいね」"
+msgstr ""
+"\n"
+" You look pretty skinny...\n"
+" Make sure to eat nutritious foods."
+
+#. ID 90, Page 1, Line 47, Pos (13,9)
+msgid ""
+"\n"
+"「ゲルテナの絵ってさ……\n"
+"　嫌な記憶　ばかりだけど\n"
+"　助けてくれたヤツも　いたわよね」"
+msgstr ""
+"\n"
+" Guertena's living works...\n"
+" While I have many bad memories\n"
+" with them, some did help out."
+
+#. ID 90, Page 1, Line 52, Pos (13,9)
+msgid ""
+"\n"
+"「そう考えると……\n"
+"　作品も　人間社会も\n"
+"　変わらないのかもね」"
+msgstr ""
+"\n"
+" I guess thinking of it that way...\n"
+" Things aren't so different\n"
+" between humans and living art."
+
+#. ID 90, Page 1, Line 62, Pos (13,9)
+msgid ""
+"\n"
+"「芸術家ってさ……\n"
+"　何考えてるか　わからないわよね\n"
+"　変わった人が　多いと思わない？」"
+msgstr ""
+"\n"
+" I'll never know what artists\n"
+" are thinking... Lots of oddballs,\n"
+" don't you think?"
+
+#. ID 90, Page 1, Line 67, Pos (13,9)
+msgid ""
+"\n"
+"「やっぱり　普通の人とは\n"
+"　見てる世界が　違うのかしら」"
+msgstr ""
+"\n"
+" I guess they see the world\n"
+" quite differently from others..."
+
+#. ID 90, Page 1, Line 76, Pos (13,9)
+msgid ""
+"\n"
+"「イヴって普段は　どう過ごしてるの？\n"
+"　お友達と　遊んだりしてる？」"
+msgstr ""
+"\n"
+" How do you usually pass time, Ib?\n"
+" Playing with your friends?"
+
+#. ID 90, Page 1, Line 80, Pos (13,9)
+msgid ""
+"\n"
+"「こどものうちは\n"
+"　たくさん　遊びなさいね」"
+msgstr ""
+"\n"
+" You should play lots\n"
+" while you're still young."
+
+#. ID 90, Page 1, Line 89, Pos (13,9)
+msgid ""
+"\n"
+"「そういえば……美術館に\n"
+"　シロアリが　いたじゃない？」"
+msgstr ""
+"\n"
+" Say... There was that\n"
+" white ant in the gallery, yes?"
+
+#. ID 90, Page 1, Line 93, Pos (13,9)
+msgid ""
+"\n"
+"「シロアリって　普通\n"
+"　コンペイトウは\n"
+"　食べないんじゃ……と思ったけど」"
+msgstr ""
+"\n"
+" White ants don't usually\n"
+" eat candy... but..."
+
+#. ID 90, Page 1, Line 98, Pos (13,9)
+#, fuzzy
+msgid ""
+"\n"
+"「そもそも\n"
+"　喋ってる事が　普通じゃなかったわ」"
+msgstr ""
+"\n"
+" Well, they don't\n"
+" normally speak, either."
+

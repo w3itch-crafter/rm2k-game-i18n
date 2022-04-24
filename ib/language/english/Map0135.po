@@ -1,0 +1,163 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (9,11)
+msgid "『コペルニクス的転回の展開』"
+msgstr "\"Birth of the Copernicus Revolution\""
+
+#. ID 3, Page 1, Line 2, Pos (9,7)
+#. Contains choice at line 2 (2 options)
+#. ID 3, Page 2, Line 2, Pos (9,7)
+#. Contains choice at line 2 (2 options)
+msgid "真っ暗な穴が　空いている……"
+msgstr "A wide, dark hole..."
+
+#. ID 3, Page 1, Line 3, Pos (9,7)
+#. Choice (2 options, embedded in a message)
+#. ID 3, Page 2, Line 3, Pos (9,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"下をのぞいてみる\n"
+"飛び込んでみる"
+msgstr ""
+"Look down\n"
+"Jump down"
+
+#. ID 3, Page 1, Line 8, Pos (9,7)
+msgid ""
+"\n"
+"「うわぁ……なにこの穴……\n"
+"　これも　ゲルテナの作品なのかしら？」"
+msgstr ""
+"\n"
+" Whoa... This hole...\n"
+" Is THIS a Guertena piece?"
+
+#. ID 3, Page 1, Line 12, Pos (9,7)
+msgid ""
+"\n"
+"「もう　なんか\n"
+"　感性の次元が　違いすぎて……ね」"
+msgstr ""
+"\n"
+" This is just...\n"
+" beyond the realm of sense."
+
+#. ID 3, Page 1, Line 19, Pos (9,7)
+#. ID 3, Page 2, Line 19, Pos (9,7)
+msgid "………暗くて　底が見えない……"
+msgstr "...You can't see the bottom..."
+
+#. ID 3, Page 1, Line 27, Pos (9,7)
+msgid ""
+"\n"
+"「イヴ　いくらなんでも危険すぎるわ\n"
+"　他の場所を　まわりましょ」"
+msgstr ""
+"\n"
+" Ib, that's FAR too dangerous!\n"
+" Let's go somewhere else."
+
+#. ID 3, Page 2, Line 8, Pos (9,7)
+msgid ""
+"\n"
+"「この穴の中　落ちてるときにさ……\n"
+"　まわりになにか　浮いてなかった？」"
+msgstr ""
+"\n"
+" When we fell down this hole...\n"
+" Weren't there things around us?"
+
+#. ID 3, Page 2, Line 12, Pos (9,7)
+msgid ""
+"\n"
+"「アタシも　ちゃんと見てなかったけど\n"
+"　あれって　ただの飾りかしら……」"
+msgstr ""
+"\n"
+" I wasn't really looking,\n"
+" but I think they were decorations..."
+
+#. ID 6, Page 1, Line 21, Pos (3,9)
+msgid ""
+"\n"
+"「……………っ！？」"
+msgstr ""
+"\n"
+" .....?!"
+
+#. ID 6, Page 1, Line 26, Pos (3,9)
+msgid "………………！"
+msgstr ".....!"
+
+#. ID 8, Page 1, Line 2, Pos (9,5)
+msgid "顔が塗りつぶされた　絵がある……"
+msgstr "A painting with a smeared-out face..."
+
+#. ID 8, Page 1, Line 6, Pos (9,5)
+msgid ""
+"\n"
+"「なんか　嫌な場所に　あるわね……」"
+msgstr ""
+"\n"
+" What a bad place to be..."
+
+#. ID 9, Page 1, Line 5, Pos (9,6)
+msgid ""
+"\n"
+"「なにかしらね　これ……絵？」"
+msgstr ""
+"\n"
+" What could this be...\n"
+" A painting?"
+
+#. ID 9, Page 1, Line 10, Pos (9,6)
+#. ID 9, Page 2, Line 2, Pos (9,6)
+#, fuzzy
+msgid "何かが　落ちている……"
+msgstr "There's something on the ground..."
+
+#. ID 9, Page 1, Line 14, Pos (9,6)
+#. ID 9, Page 2, Line 4, Pos (9,6)
+#, fuzzy
+msgid "絵画のピースを　手に入れた。"
+msgstr "Obtained a piece of a painting."
+
+#. ID 9, Page 1, Line 19, Pos (9,6)
+#. ID 9, Page 2, Line 7, Pos (9,6)
+#, fuzzy
+msgid "絵画のピースは　消えてしまった……"
+msgstr "The piece vanished..."
+
+#. ID 9, Page 1, Line 23, Pos (9,6)
+#, fuzzy
+msgid ""
+"\n"
+"「わっ　消えた……なんか\n"
+"　絵の具玉の時と　似てるわ」"
+msgstr ""
+"\n"
+" Whoa, it vanished...\n"
+" This reminds me of\n"
+" those balls of paint."
+
+#. ID 9, Page 1, Line 27, Pos (9,6)
+#, fuzzy
+msgid ""
+"\n"
+"「もしかすると　これ\n"
+"　集めると　良いのかも\n"
+"　もっと　探してみましょ　イヴ！」"
+msgstr ""
+"\n"
+" Maybe we ought to\n"
+" collect all of these.\n"
+" Let's keep looking, Ib!"
+

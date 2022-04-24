@@ -1,0 +1,313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (22,7)
+#. Contains choice at line 2 (3 options)
+#. ID 4, Page 1, Line 2, Pos (2,7)
+#. Contains choice at line 2 (3 options)
+#. ID 7, Page 4, Line 1, Pos (14,14)
+#. Contains choice at line 2 (3 options)
+#. ID 8, Page 1, Line 2, Pos (14,18)
+#. Contains choice at line 2 (3 options)
+#. ID 8, Page 2, Line 2, Pos (14,18)
+#. Contains choice at line 2 (3 options)
+#. ID 8, Page 3, Line 2, Pos (14,18)
+#. Contains choice at line 2 (2 options)
+#. ID 8, Page 4, Line 2, Pos (14,18)
+#. Contains choice at line 2 (3 options)
+#. ID 9, Page 1, Line 2, Pos (6,7)
+#. Contains choice at line 2 (3 options)
+#. ID 9, Page 2, Line 3, Pos (6,7)
+#. Contains choice at line 2 (3 options)
+#. ID 9, Page 3, Line 2, Pos (6,7)
+#. Contains choice at line 2 (2 options)
+#. ID 9, Page 4, Line 2, Pos (6,7)
+#. Contains choice at line 2 (3 options)
+#. ID 13, Page 1, Line 2, Pos (16,7)
+#. Contains choice at line 2 (3 options)
+#. ID 13, Page 2, Line 3, Pos (16,7)
+#. Contains choice at line 2 (3 options)
+#. ID 13, Page 3, Line 2, Pos (16,7)
+#. Contains choice at line 2 (2 options)
+#. ID 13, Page 4, Line 2, Pos (16,7)
+#. Contains choice at line 2 (3 options)
+#. ID 31, Page 1, Line 2, Pos (20,7)
+#. Contains choice at line 2 (3 options)
+#. ID 32, Page 1, Line 2, Pos (18,7)
+#. Contains choice at line 2 (3 options)
+#. ID 34, Page 1, Line 2, Pos (14,7)
+#. Contains choice at line 2 (3 options)
+#. ID 35, Page 1, Line 2, Pos (12,7)
+#. Contains choice at line 2 (3 options)
+#. ID 36, Page 1, Line 2, Pos (10,7)
+#. Contains choice at line 2 (3 options)
+#. ID 37, Page 1, Line 2, Pos (8,7)
+#. Contains choice at line 2 (3 options)
+#. ID 38, Page 1, Line 2, Pos (4,7)
+#. Contains choice at line 2 (3 options)
+#. ID 39, Page 1, Line 2, Pos (20,18)
+#. Contains choice at line 2 (3 options)
+#. ID 40, Page 1, Line 2, Pos (18,18)
+#. Contains choice at line 2 (3 options)
+#. ID 41, Page 1, Line 2, Pos (16,18)
+#. Contains choice at line 2 (3 options)
+#. ID 42, Page 1, Line 2, Pos (12,18)
+#. Contains choice at line 2 (3 options)
+#. ID 43, Page 1, Line 2, Pos (10,18)
+#. Contains choice at line 2 (3 options)
+#. ID 44, Page 1, Line 2, Pos (8,18)
+#. Contains choice at line 2 (3 options)
+#. ID 45, Page 1, Line 2, Pos (6,18)
+#. Contains choice at line 2 (3 options)
+#. ID 46, Page 1, Line 2, Pos (4,18)
+#. Contains choice at line 2 (3 options)
+msgid "絵の中の人が　こちらを見ている……"
+msgstr "The people in the paintings stare..."
+
+#. ID 1, Page 1, Line 3, Pos (22,7)
+#. Choice (3 options, embedded in a message)
+#. ID 4, Page 1, Line 3, Pos (2,7)
+#. Choice (3 options, embedded in a message)
+#. ID 7, Page 4, Line 2, Pos (14,14)
+#. Choice (3 options, embedded in a message)
+#. ID 8, Page 1, Line 3, Pos (14,18)
+#. Choice (3 options, embedded in a message)
+#. ID 8, Page 2, Line 3, Pos (14,18)
+#. Choice (3 options, embedded in a message)
+#. ID 8, Page 4, Line 3, Pos (14,18)
+#. Choice (3 options, embedded in a message)
+#. ID 9, Page 1, Line 3, Pos (6,7)
+#. Choice (3 options, embedded in a message)
+#. ID 9, Page 2, Line 4, Pos (6,7)
+#. Choice (3 options, embedded in a message)
+#. ID 9, Page 4, Line 3, Pos (6,7)
+#. Choice (3 options, embedded in a message)
+#. ID 13, Page 1, Line 3, Pos (16,7)
+#. Choice (3 options, embedded in a message)
+#. ID 13, Page 2, Line 4, Pos (16,7)
+#. Choice (3 options, embedded in a message)
+#. ID 13, Page 4, Line 3, Pos (16,7)
+#. Choice (3 options, embedded in a message)
+#. ID 31, Page 1, Line 3, Pos (20,7)
+#. Choice (3 options, embedded in a message)
+#. ID 32, Page 1, Line 3, Pos (18,7)
+#. Choice (3 options, embedded in a message)
+#. ID 34, Page 1, Line 3, Pos (14,7)
+#. Choice (3 options, embedded in a message)
+#. ID 35, Page 1, Line 3, Pos (12,7)
+#. Choice (3 options, embedded in a message)
+#. ID 36, Page 1, Line 3, Pos (10,7)
+#. Choice (3 options, embedded in a message)
+#. ID 37, Page 1, Line 3, Pos (8,7)
+#. Choice (3 options, embedded in a message)
+#. ID 38, Page 1, Line 3, Pos (4,7)
+#. Choice (3 options, embedded in a message)
+#. ID 39, Page 1, Line 3, Pos (20,18)
+#. Choice (3 options, embedded in a message)
+#. ID 40, Page 1, Line 3, Pos (18,18)
+#. Choice (3 options, embedded in a message)
+#. ID 41, Page 1, Line 3, Pos (16,18)
+#. Choice (3 options, embedded in a message)
+#. ID 42, Page 1, Line 3, Pos (12,18)
+#. Choice (3 options, embedded in a message)
+#. ID 43, Page 1, Line 3, Pos (10,18)
+#. Choice (3 options, embedded in a message)
+#. ID 44, Page 1, Line 3, Pos (8,18)
+#. Choice (3 options, embedded in a message)
+#. ID 45, Page 1, Line 3, Pos (6,18)
+#. Choice (3 options, embedded in a message)
+#. ID 46, Page 1, Line 3, Pos (4,18)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"一番上の絵を指さす\n"
+"真ん中の絵を指さす\n"
+"一番下の絵を指さす"
+msgstr ""
+"Point at top painting\n"
+"Point at middle painting\n"
+"Point at bottom painting"
+
+#. ID 1, Page 1, Line 6, Pos (22,7)
+#. ID 1, Page 1, Line 10, Pos (22,7)
+#. ID 1, Page 1, Line 14, Pos (22,7)
+#. ID 4, Page 1, Line 6, Pos (2,7)
+#. ID 4, Page 1, Line 10, Pos (2,7)
+#. ID 4, Page 1, Line 14, Pos (2,7)
+#. ID 7, Page 4, Line 5, Pos (14,14)
+#. ID 7, Page 4, Line 9, Pos (14,14)
+#. ID 7, Page 4, Line 13, Pos (14,14)
+#. ID 8, Page 1, Line 6, Pos (14,18)
+#. ID 8, Page 1, Line 10, Pos (14,18)
+#. ID 8, Page 1, Line 14, Pos (14,18)
+#. ID 8, Page 2, Line 36, Pos (14,18)
+#. ID 8, Page 2, Line 40, Pos (14,18)
+#. ID 8, Page 3, Line 6, Pos (14,18)
+#. ID 8, Page 3, Line 10, Pos (14,18)
+#. ID 8, Page 4, Line 6, Pos (14,18)
+#. ID 8, Page 4, Line 10, Pos (14,18)
+#. ID 8, Page 4, Line 14, Pos (14,18)
+#. ID 9, Page 1, Line 6, Pos (6,7)
+#. ID 9, Page 1, Line 10, Pos (6,7)
+#. ID 9, Page 1, Line 14, Pos (6,7)
+#. ID 9, Page 2, Line 7, Pos (6,7)
+#. ID 9, Page 2, Line 40, Pos (6,7)
+#. ID 9, Page 3, Line 6, Pos (6,7)
+#. ID 9, Page 3, Line 10, Pos (6,7)
+#. ID 9, Page 4, Line 6, Pos (6,7)
+#. ID 9, Page 4, Line 10, Pos (6,7)
+#. ID 9, Page 4, Line 14, Pos (6,7)
+#. ID 13, Page 1, Line 6, Pos (16,7)
+#. ID 13, Page 1, Line 10, Pos (16,7)
+#. ID 13, Page 1, Line 14, Pos (16,7)
+#. ID 13, Page 2, Line 34, Pos (16,7)
+#. ID 13, Page 2, Line 38, Pos (16,7)
+#. ID 13, Page 3, Line 6, Pos (16,7)
+#. ID 13, Page 3, Line 10, Pos (16,7)
+#. ID 13, Page 4, Line 6, Pos (16,7)
+#. ID 13, Page 4, Line 10, Pos (16,7)
+#. ID 13, Page 4, Line 14, Pos (16,7)
+#. ID 31, Page 1, Line 6, Pos (20,7)
+#. ID 31, Page 1, Line 10, Pos (20,7)
+#. ID 31, Page 1, Line 14, Pos (20,7)
+#. ID 32, Page 1, Line 6, Pos (18,7)
+#. ID 32, Page 1, Line 10, Pos (18,7)
+#. ID 32, Page 1, Line 14, Pos (18,7)
+#. ID 34, Page 1, Line 6, Pos (14,7)
+#. ID 34, Page 1, Line 10, Pos (14,7)
+#. ID 34, Page 1, Line 14, Pos (14,7)
+#. ID 35, Page 1, Line 6, Pos (12,7)
+#. ID 35, Page 1, Line 10, Pos (12,7)
+#. ID 35, Page 1, Line 14, Pos (12,7)
+#. ID 36, Page 1, Line 6, Pos (10,7)
+#. ID 36, Page 1, Line 10, Pos (10,7)
+#. ID 36, Page 1, Line 14, Pos (10,7)
+#. ID 37, Page 1, Line 6, Pos (8,7)
+#. ID 37, Page 1, Line 10, Pos (8,7)
+#. ID 37, Page 1, Line 14, Pos (8,7)
+#. ID 38, Page 1, Line 6, Pos (4,7)
+#. ID 38, Page 1, Line 10, Pos (4,7)
+#. ID 38, Page 1, Line 14, Pos (4,7)
+#. ID 39, Page 1, Line 6, Pos (20,18)
+#. ID 39, Page 1, Line 10, Pos (20,18)
+#. ID 39, Page 1, Line 14, Pos (20,18)
+#. ID 40, Page 1, Line 6, Pos (18,18)
+#. ID 40, Page 1, Line 10, Pos (18,18)
+#. ID 40, Page 1, Line 14, Pos (18,18)
+#. ID 41, Page 1, Line 6, Pos (16,18)
+#. ID 41, Page 1, Line 10, Pos (16,18)
+#. ID 41, Page 1, Line 14, Pos (16,18)
+#. ID 42, Page 1, Line 6, Pos (12,18)
+#. ID 42, Page 1, Line 10, Pos (12,18)
+#. ID 42, Page 1, Line 14, Pos (12,18)
+#. ID 43, Page 1, Line 6, Pos (10,18)
+#. ID 43, Page 1, Line 10, Pos (10,18)
+#. ID 43, Page 1, Line 14, Pos (10,18)
+#. ID 44, Page 1, Line 6, Pos (8,18)
+#. ID 44, Page 1, Line 10, Pos (8,18)
+#. ID 44, Page 1, Line 14, Pos (8,18)
+#. ID 45, Page 1, Line 6, Pos (6,18)
+#. ID 45, Page 1, Line 10, Pos (6,18)
+#. ID 45, Page 1, Line 14, Pos (6,18)
+#. ID 46, Page 1, Line 6, Pos (4,18)
+#. ID 46, Page 1, Line 10, Pos (4,18)
+#. ID 46, Page 1, Line 14, Pos (4,18)
+msgid "……何も　起こらない………"
+msgstr "...Nothing happens..."
+
+#. ID 8, Page 3, Line 3, Pos (14,18)
+#. Choice (2 options, embedded in a message)
+#. ID 13, Page 3, Line 3, Pos (16,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"真ん中の絵を指さす\n"
+"一番下の絵を指さす"
+msgstr ""
+"Point at middle painting\n"
+"Point at bottom painting"
+
+#. ID 9, Page 3, Line 3, Pos (6,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"一番上の絵を指さす\n"
+"一番下の絵を指さす"
+msgstr ""
+"Point at top painting\n"
+"Point at bottom painting"
+
+#. ID 14, Page 1, Line 2, Pos (16,8)
+#. ID 15, Page 1, Line 2, Pos (6,8)
+#. ID 16, Page 1, Line 2, Pos (14,19)
+#. ID 17, Page 1, Line 2, Pos (13,19)
+#. ID 18, Page 1, Line 2, Pos (5,8)
+#. ID 19, Page 1, Line 2, Pos (15,8)
+#. ID 20, Page 1, Line 10, Pos (1,21)
+#. ID 20, Page 2, Line 2, Pos (1,21)
+#, fuzzy
+msgid "何かが　落ちている……"
+msgstr "There's something on the ground..."
+
+#. ID 14, Page 1, Line 4, Pos (16,8)
+#. ID 15, Page 1, Line 4, Pos (6,8)
+#. ID 16, Page 1, Line 4, Pos (14,19)
+#. ID 17, Page 1, Line 4, Pos (13,19)
+#. ID 18, Page 1, Line 4, Pos (5,8)
+#. ID 19, Page 1, Line 4, Pos (15,8)
+#. ID 20, Page 1, Line 14, Pos (1,21)
+#. ID 20, Page 2, Line 4, Pos (1,21)
+#, fuzzy
+msgid "絵画のピースを　手に入れた。"
+msgstr "Obtained a piece of a painting."
+
+#. ID 14, Page 1, Line 9, Pos (16,8)
+#. ID 15, Page 1, Line 9, Pos (6,8)
+#. ID 16, Page 1, Line 9, Pos (14,19)
+#. ID 17, Page 1, Line 9, Pos (13,19)
+#. ID 18, Page 1, Line 9, Pos (5,8)
+#. ID 19, Page 1, Line 9, Pos (15,8)
+#. ID 20, Page 1, Line 19, Pos (1,21)
+#. ID 20, Page 2, Line 9, Pos (1,21)
+#, fuzzy
+msgid "絵画のピースは　消えてしまった……"
+msgstr "The piece vanished..."
+
+#. ID 20, Page 1, Line 5, Pos (1,21)
+msgid ""
+"\n"
+"「なにかしらね　これ……絵？」"
+msgstr ""
+"\n"
+" What could this be...\n"
+" A painting?"
+
+#. ID 20, Page 1, Line 23, Pos (1,21)
+#, fuzzy
+msgid ""
+"\n"
+"「わっ　消えた……なんか\n"
+"　絵の具玉の時と　似てるわ」"
+msgstr ""
+"\n"
+" Whoa, it vanished...\n"
+" This reminds me of\n"
+" those balls of paint."
+
+#. ID 20, Page 1, Line 27, Pos (1,21)
+#, fuzzy
+msgid ""
+"\n"
+"「もしかすると　これ\n"
+"　集めると　良いのかも\n"
+"　もっと　探してみましょ　イヴ！」"
+msgstr ""
+"\n"
+" Maybe we ought to\n"
+" collect all of these.\n"
+" Let's keep looking, Ib!"
+

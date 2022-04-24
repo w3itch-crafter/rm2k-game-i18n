@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 1, Pos (30,20)
+#. ID 7, Page 1, Line 1, Pos (22,8)
+#. ID 8, Page 1, Line 1, Pos (23,8)
+#. ID 13, Page 1, Line 1, Pos (24,8)
+#. ID 14, Page 1, Line 1, Pos (21,8)
+#. ID 19, Page 2, Line 1, Pos (18,36)
+#. ID 36, Page 1, Line 1, Pos (11,12)
+#. ID 37, Page 1, Line 1, Pos (30,31)
+#. ID 38, Page 1, Line 1, Pos (11,18)
+#. ID 39, Page 1, Line 1, Pos (20,8)
+#. ID 41, Page 1, Line 1, Pos (21,23)
+#. ID 42, Page 1, Line 1, Pos (36,11)
+#. ID 45, Page 1, Line 1, Pos (37,35)
+#. ID 46, Page 1, Line 1, Pos (28,11)
+#. ID 47, Page 1, Line 1, Pos (5,15)
+#. ID 48, Page 1, Line 1, Pos (4,32)
+#. ID 49, Page 1, Line 1, Pos (28,39)
+#. ID 50, Page 1, Line 1, Pos (38,19)
+#. ID 51, Page 1, Line 1, Pos (12,18)
+#. ID 52, Page 1, Line 1, Pos (6,27)
+#. ID 53, Page 1, Line 1, Pos (34,26)
+#. ID 54, Page 1, Line 1, Pos (40,8)
+#. ID 55, Page 1, Line 1, Pos (34,15)
+#. ID 56, Page 1, Line 1, Pos (14,30)
+#. ID 57, Page 1, Line 1, Pos (2,22)
+#. ID 58, Page 1, Line 1, Pos (18,13)
+#. ID 59, Page 1, Line 1, Pos (34,32)
+#. ID 60, Page 1, Line 1, Pos (19,18)
+#. ID 61, Page 1, Line 1, Pos (41,14)
+#. ID 62, Page 1, Line 1, Pos (4,38)
+#. ID 63, Page 1, Line 1, Pos (42,37)
+msgid "A smiling blue doll..."
+msgstr ""
+
+#. ID 5, Page 1, Line 44, Pos (36,24)
+#. ID 5, Page 2, Line 42, Pos (36,24)
+#. ID 20, Page 1, Line 95, Pos (33,6)
+#. ID 20, Page 1, Line 164, Pos (33,6)
+#. Contains choice at line 3 (2 options)
+#. ID 20, Page 1, Line 234, Pos (33,6)
+msgid ""
+"\n"
+" .........."
+msgstr ""
+

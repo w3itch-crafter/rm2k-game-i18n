@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (19,12)
+#. ID 2, Page 1, Line 1, Pos (16,12)
+#. ID 9, Page 4, Line 1, Pos (9,12)
+#. ID 10, Page 1, Line 1, Pos (1,12)
+msgid "チューリップが　咲いている……"
+msgstr "綻放的鬱金香……"
+
+#. ID 3, Page 1, Line 5, Pos (23,1)
+msgid ""
+"\n"
+"「なんか……ずいぶんと\n"
+"　雰囲気が　変わったわね……」"
+msgstr ""
+"\n"
+"「怎麼覺得氣氛突然改變了許多呢……」"
+
+#. ID 3, Page 1, Line 9, Pos (23,1)
+#, fuzzy
+msgid ""
+"\n"
+"「まぁ　用心するに\n"
+"　越したことは　ないわ\n"
+"　行きましょ　イヴ」"
+msgstr ""
+"\n"
+"「算了，反正小心一點，\n"
+"　沒有跨不過去的難關。\n"
+"　我們走吧，Ib。」"
+
+#. ID 9, Page 1, Line 1, Pos (9,12)
+#. ID 9, Page 2, Line 2, Pos (9,12)
+#. Contains choice at line 2 (2 options)
+msgid "チューリップの　つぼみがある……"
+msgstr "鬱金香的花苞……"
+
+#. ID 9, Page 1, Line 4, Pos (9,12)
+msgid ""
+"\n"
+"「なんで　これだけ\n"
+"　咲いてないのかしら……」"
+msgstr ""
+"\n"
+"「為什麼只有這朵沒有開花呢……」"
+
+#. ID 9, Page 2, Line 3, Pos (9,12)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"水をあげてみる\n"
+"そのままにしておく"
+msgstr ""
+"拿水澆它\n"
+"就這樣放著不管它"
+
+#. ID 9, Page 2, Line 5, Pos (9,12)
+msgid "バケツで汲んだ水を　あげた……"
+msgstr "將取來的水澆上去……"
+
+#. ID 9, Page 2, Line 11, Pos (9,12)
+msgid "チューリップが咲いた……"
+msgstr "鬱金香開花了……"
+
+#. ID 9, Page 3, Line 1, Pos (9,12)
+msgid "チューリップの中に　何かがある……"
+msgstr "鬱金香裡面有東西……"
+
+#. ID 9, Page 3, Line 4, Pos (9,12)
+msgid "びじゅつかんのカギを　手に入れた。"
+msgstr "得到一把　美術館的鑰匙。"
+
+#. ID 14, Page 1, Line 1, Pos (14,13)
+msgid "道が　なくなっている……"
+msgstr "道路消失了……"
+

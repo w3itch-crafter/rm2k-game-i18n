@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (10,8)
+msgid "何かが　落ちている……"
+msgstr "有東西掉在地上……"
+
+#. ID 1, Page 1, Line 4, Pos (10,8)
+msgid "青のカギを　手に入れた。"
+msgstr "得到一把　藍色鑰匙。"
+
+#. ID 8, Page 1, Line 1, Pos (10,6)
+msgid "『そのバラ　？ちる時　あなたも？ち果てる』"
+msgstr "『這朵玫瑰？？之時　你也將？？而終』"
+
+#. ID 8, Page 1, Line 2, Pos (10,6)
+msgid "難しくて　読めない字がある……"
+msgstr "有些字太難了，看不懂……"
+
+#. ID 8, Page 2, Line 1, Pos (10,6)
+msgid "『そのバラ　朽ちる時　あなたも朽ち果てる』"
+msgstr "『這朵玫瑰凋零之時　你也將腐朽而終』"
+

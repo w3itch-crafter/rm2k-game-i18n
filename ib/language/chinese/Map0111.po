@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 1, Pos (11,6)
+msgid "『？？？』"
+msgstr "『？？？』"
+
+#. ID 4, Page 1, Line 2, Pos (11,6)
+msgid "難しくて　読めない字がある……"
+msgstr "有些字太難了，看不懂……"
+
+#. ID 4, Page 2, Line 1, Pos (11,6)
+msgid "『既視感』"
+msgstr "『既視感』"
+
+#. ID 5, Page 1, Line 1, Pos (4,6)
+msgid "『隠した秘密』"
+msgstr "『隱藏的秘密』"
+

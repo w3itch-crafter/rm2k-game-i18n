@@ -1,0 +1,355 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (11,5)
+#. ID 1, Page 2, Line 2, Pos (11,5)
+#. ID 1, Page 3, Line 2, Pos (11,5)
+#. ID 1, Page 4, Line 2, Pos (11,5)
+msgid "『ゲルテナ作品集　上』"
+msgstr "『Guertena作品集　上』"
+
+#. ID 1, Page 1, Line 3, Pos (11,5)
+#. ID 1, Page 2, Line 3, Pos (11,5)
+#. ID 1, Page 3, Line 3, Pos (11,5)
+#. ID 1, Page 4, Line 3, Pos (11,5)
+msgid ""
+"ゲルテナが　描いた絵が\n"
+"アルファベット順に　のっている……"
+msgstr ""
+"Guertena的畫作\n"
+"按照英文字母的順序刊載在上面……"
+
+#. ID 1, Page 1, Line 5, Pos (11,5)
+#. Contains choice at line 2 (3 options)
+#. ID 1, Page 3, Line 5, Pos (11,5)
+#. Contains choice at line 2 (3 options)
+msgid "どのページを　見ようか……"
+msgstr "要看哪一頁呢……"
+
+#. ID 1, Page 1, Line 6, Pos (11,5)
+#. Choice (3 options, embedded in a message)
+#. ID 1, Page 2, Line 8, Pos (11,5)
+#. Choice (3 options, embedded in a message)
+#. ID 1, Page 3, Line 6, Pos (11,5)
+#. Choice (3 options, embedded in a message)
+#. ID 1, Page 4, Line 8, Pos (11,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"Aのページ\n"
+"Kのページ\n"
+"Jのページ"
+msgstr ""
+"A 頁\n"
+"K 頁\n"
+"J 頁"
+
+#. ID 1, Page 1, Line 9, Pos (11,5)
+#. ID 1, Page 2, Line 15, Pos (11,5)
+#. ID 1, Page 3, Line 9, Pos (11,5)
+#. ID 1, Page 4, Line 15, Pos (11,5)
+msgid ""
+"『赤い服の女』　6210年\n"
+"当時はゲルテナの　愛人をモデルにしたとも\n"
+"言われていたが　本人の口から否定の言葉が出た。"
+msgstr ""
+"『紅衣的女子』　6210年\n"
+"當時盛傳這幅作品的模特兒是Guertena的情婦，\n"
+"但本人親口否定了這種說法。"
+
+#. ID 1, Page 1, Line 13, Pos (11,5)
+#. ID 1, Page 2, Line 19, Pos (11,5)
+#. ID 1, Page 4, Line 19, Pos (11,5)
+msgid ""
+"実際は　ゲルテナの遺産を　狙い\n"
+"言い寄ってきた　？く？？な　女性たちを\n"
+"イメージとして　残したものとのこと。"
+msgstr ""
+"事實上，這是以覬覦Guertena的遺產而接近他，\n"
+"那些既？？又？？的女性們為形象所留下的作品。"
+
+#. ID 1, Page 1, Line 16, Pos (11,5)
+#. ID 1, Page 1, Line 27, Pos (11,5)
+#. ID 1, Page 2, Line 22, Pos (11,5)
+#. ID 1, Page 2, Line 33, Pos (11,5)
+#, fuzzy
+msgid "難しくて　読めない字がある……"
+msgstr "有些字太難了，看不懂……"
+
+#. ID 1, Page 1, Line 21, Pos (11,5)
+#. ID 1, Page 2, Line 27, Pos (11,5)
+#. ID 1, Page 4, Line 31, Pos (11,5)
+#, fuzzy
+msgid ""
+"『？？？模様の魚』　6235年\n"
+"モノクロで描かれた　にも関わらず\n"
+"光の加減や角度により　色づいて見える不思議な作品。"
+msgstr ""
+"『？？？圖案的魚』　6235年\n"
+"僅以灰階描繪而成，卻會隨著光線強弱與角度變換，\n"
+"使之看起來像是上了色的奇妙作品。"
+
+#. ID 1, Page 1, Line 25, Pos (11,5)
+#. ID 1, Page 2, Line 31, Pos (11,5)
+#. ID 1, Page 4, Line 35, Pos (11,5)
+#, fuzzy
+msgid ""
+"非常に？？で　？？な？の描写は\n"
+"見る人に様々な感情を　呼び起こすであろう。"
+msgstr ""
+"非常？？且？？地描繪出的？？，\n"
+"或許能夠激發觀賞者的各種感情吧。"
+
+#. ID 1, Page 1, Line 32, Pos (11,5)
+#. ID 1, Page 2, Line 38, Pos (11,5)
+#. ID 1, Page 3, Line 35, Pos (11,5)
+#. ID 1, Page 4, Line 46, Pos (11,5)
+#, fuzzy
+msgid ""
+"『ジャグリング』　6223年\n"
+"孫と見に行った　サーカスで出演した\n"
+"ジャグラーをモデルに　描かれた作品。"
+msgstr ""
+"『雜耍』　6223年\n"
+"Guertena和孫子一起觀賞馬戲團表演時，\n"
+"以當時演出的雜耍者為模特兒所畫的作品。"
+
+#. ID 1, Page 1, Line 36, Pos (11,5)
+#. ID 1, Page 2, Line 42, Pos (11,5)
+#. ID 1, Page 3, Line 39, Pos (11,5)
+#. ID 1, Page 4, Line 50, Pos (11,5)
+#, fuzzy
+msgid ""
+"ゲルテナが　実在する人物を\n"
+"モデルに描くのは　大変珍しく\n"
+"現在でも　この作品は　高値で取引されている。"
+msgstr ""
+"由於Guertena鮮少以實際人物作為繪畫的模特兒，\n"
+"這幅作品在交易市場上至今仍價值高昂。"
+
+#. ID 1, Page 2, Line 7, Pos (11,5)
+#. Contains choice at line 2 (3 options)
+msgid "「ちょっと　見てみようか？」"
+msgstr "「稍微看看吧？」"
+
+#. ID 1, Page 3, Line 13, Pos (11,5)
+msgid ""
+"実際は　ゲルテナの遺産を　狙い\n"
+"言い寄ってきた　醜く傲慢な　女性たちを\n"
+"イメージとして　残したものとのこと。"
+msgstr ""
+"事實上，這是以覬覦Guertena的遺產而接近他，\n"
+"那些既醜陋又貪婪的女性們為形象所留下的作品。"
+
+#. ID 1, Page 3, Line 18, Pos (11,5)
+#, fuzzy
+msgid ""
+"\n"
+"「……この絵に　込められた想いが\n"
+"　正確に　反映されてるわね\n"
+"　あの　追っかけ女たちに……」"
+msgstr ""
+"\n"
+"「……投注於這幅畫的想法\n"
+"　非常確實地反映出來了呢。\n"
+"　反映在那些追著我們的女人身上……」"
+
+#. ID 1, Page 3, Line 26, Pos (11,5)
+#, fuzzy
+msgid ""
+"『幾何学模様の魚』　6235年\n"
+"モノクロで描かれた　にも関わらず\n"
+"光の加減や角度により　色づいて見える不思議な作品。"
+msgstr ""
+"『幾何學圖案的魚』　6235年\n"
+"僅以灰階描繪而成，卻會隨著光線強弱與角度變換，\n"
+"使之看起來像是上了色的奇妙作品。"
+
+#. ID 1, Page 3, Line 30, Pos (11,5)
+#, fuzzy
+msgid ""
+"非常に緻密で　繊細な鱗の描写は\n"
+"見る人に様々な感情を　呼び起こすであろう。"
+msgstr ""
+"非常縝密且細膩地描繪出的鱗片，\n"
+"或許能夠激發觀賞者的各種感情吧。"
+
+#. ID 1, Page 3, Line 44, Pos (11,5)
+#, fuzzy
+msgid ""
+"\n"
+"「あら　この絵……\n"
+"　下の階で　見たわよ」"
+msgstr ""
+"\n"
+"「哎呀，這幅畫……\n"
+"　人家在樓下有看到喔。」"
+
+#. ID 1, Page 4, Line 7, Pos (11,5)
+#. Contains choice at line 2 (3 options)
+msgid "「ちょっと　見てみようかな」"
+msgstr "「????　見??????」"
+
+#. ID 1, Page 4, Line 24, Pos (11,5)
+#, fuzzy
+msgid ""
+"\n"
+"「あ……お姉ちゃんだ」"
+msgstr ""
+"\n"
+"「啊……是姊姊。」"
+
+#. ID 1, Page 4, Line 39, Pos (11,5)
+#, fuzzy
+msgid ""
+"\n"
+"「ヘンな　サカナ！」"
+msgstr ""
+"\n"
+"「好奇怪的魚！」"
+
+#. ID 1, Page 4, Line 55, Pos (11,5)
+#, fuzzy
+msgid ""
+"\n"
+"「わー！　サーカスだー！\n"
+"　わたしも　見たいなぁ！」"
+msgstr ""
+"\n"
+"「哇──！是馬戲團耶──！\n"
+"　我也好想去看喔！」"
+
+#. ID 3, Page 1, Line 1, Pos (12,4)
+#. ID 3, Page 2, Line 2, Pos (12,4)
+#. ID 3, Page 3, Line 1, Pos (12,4)
+msgid "『１つの鍵穴』"
+msgstr "『一個鑰匙孔』"
+
+#. ID 3, Page 2, Line 3, Pos (12,4)
+#. Contains choice at line 2 (2 options)
+msgid "絵に　穴が開いている……"
+msgstr "畫上有一個小洞……"
+
+#. ID 3, Page 2, Line 4, Pos (12,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"指を入れてみる\n"
+"木のカギを使う"
+msgstr ""
+"把手指插進去看看\n"
+"插進木鑰匙"
+
+#. ID 3, Page 2, Line 7, Pos (12,4)
+msgid "小さくて　入らない……"
+msgstr "洞太小了，插不進去……"
+
+#. ID 3, Page 2, Line 11, Pos (12,4)
+msgid "木のカギを　使った。"
+msgstr "使用　木鑰匙。"
+
+#. ID 3, Page 2, Line 16, Pos (12,4)
+msgid ""
+"\n"
+"「……………？」"
+msgstr ""
+"\n"
+"「……………？」"
+
+#. ID 4, Page 1, Line 1, Pos (7,5)
+msgid "『ある少女の末路』"
+msgstr "『某位少女的末路』"
+
+#. ID 4, Page 1, Line 3, Pos (7,5)
+#. ID 4, Page 2, Line 3, Pos (7,5)
+msgid "『あるところに　小さな女の子がいました』"
+msgstr "『在某個地方　有個小女孩』"
+
+#. ID 4, Page 1, Line 5, Pos (7,5)
+msgid ""
+"『女の子は　両親といっしょに\n"
+"　美術館へ　行きました』"
+msgstr ""
+"『這個小女孩和她的父母\n"
+"　一起去參觀美術館』"
+
+#. ID 4, Page 1, Line 8, Pos (7,5)
+#. ID 4, Page 2, Line 8, Pos (7,5)
+msgid ""
+"『しかし　ふと気が付くと\n"
+"　女の子は　迷子になってしまい……』"
+msgstr ""
+"『但是　當女孩子回過神來的時候\n"
+"　自己已經迷了路……』"
+
+#. ID 4, Page 1, Line 11, Pos (7,5)
+msgid ""
+"『うす暗い　美術館の中を\n"
+"　探しましたが　両親も出口も　見つからず……』"
+msgstr ""
+"『在昏暗的美術館中\n"
+"　不管怎麼找　都找不到　父母與出口……』"
+
+#. ID 4, Page 1, Line 14, Pos (7,5)
+msgid ""
+"『怖くて　心細くて　さみしくて\n"
+"　お腹もへり　ノドが乾き\n"
+"　転んでケガをして　体力も限界になって……』"
+msgstr ""
+"『她既害怕　又無助　且寂寞\n"
+"　肚子餓了　口也渴了\n"
+"　跌倒受了傷　體力也到了極限……』"
+
+#. ID 4, Page 1, Line 18, Pos (7,5)
+#. ID 4, Page 2, Line 18, Pos (7,5)
+msgid ""
+"……最後のページに　小さな女の子が\n"
+"倒れている挿し絵で　終わっている……"
+msgstr "……最後一頁，以小女孩倒在地上的插圖作結……"
+
+#. ID 4, Page 2, Line 1, Pos (7,5)
+msgid "『ある■■の末路』"
+msgstr "『某■■■的末路』"
+
+#. ID 4, Page 2, Line 5, Pos (7,5)
+msgid ""
+"『女の子は　■■■■■■■■\n"
+"　美術館■　■■■■■』"
+msgstr ""
+"『這個小女孩■■■■■\n"
+"　■■■■■美術館』"
+
+#. ID 4, Page 2, Line 11, Pos (7,5)
+msgid ""
+"『うす暗い　美術館の中を\n"
+"　探しましたが　■■も出口も　見つからず……』"
+msgstr ""
+"『在昏暗的美術館中\n"
+"　不管怎麼找　都找不到　■■與出口……』"
+
+#. ID 4, Page 2, Line 14, Pos (7,5)
+msgid ""
+"『怖くて　心細くて　さみしくて\n"
+"　■■■■■　■■■■■\n"
+"　転んでケガをして　体力も限界になって……』"
+msgstr ""
+"『她既害怕　又無助　且寂寞\n"
+"　■■■■　■■■■\n"
+"　跌倒受了傷　體力也到了極限……』"
+
+#. ID 4, Page 2, Line 23, Pos (7,5)
+#, fuzzy
+msgid ""
+"\n"
+"「文字が　にじんでる……\n"
+"　これじゃあ　読めないよ」"
+msgstr ""
+"\n"
+"「文字都看不清楚……\n"
+"　這樣沒辦法讀啦。」"
+

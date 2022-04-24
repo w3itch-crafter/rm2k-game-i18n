@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 2, Line 1, Pos (1,1)
+msgid "「あら　これって……」"
+msgstr "「哎呀，這個是……」"
+
+#. ID 3, Page 2, Line 2, Pos (1,1)
+msgid ""
+"「イヴ　これ知ってる？\n"
+"　この端の玉を　こうやって\n"
+"　持ち上げて　落とすと……」"
+msgstr ""
+"「Ib，妳知道這個東西嗎？\n"
+"　像這樣子把最旁邊的珠子拿起來，\n"
+"　然後放開的話……」"
+
+#. ID 3, Page 2, Line 5, Pos (1,1)
+msgid "「ホラ　不思議でしょ？」"
+msgstr "「妳看，很不可思議吧。」"
+
+#. ID 3, Page 2, Line 6, Pos (1,1)
+msgid ""
+"「名前なんだっけ……\n"
+"　なんとかのゆりかご\n"
+"　なのよねー　たしか……」"
+msgstr ""
+"「這叫做什麼……\n"
+"　記得好像叫做……\n"
+"　什麼什麼擺的吧──」"
+
+#. ID 3, Page 2, Line 9, Pos (1,1)
+msgid "「…………………………」"
+msgstr "「…………………………」"
+
+#. ID 3, Page 2, Line 10, Pos (1,1)
+msgid ""
+"「……ね　ねぇ　イヴ\n"
+"　そろそろ行かない？」"
+msgstr ""
+"「……那、那個啊，Ib，\n"
+"　我們差不多該走了吧？」"
+
+#. ID 3, Page 2, Line 12, Pos (1,1)
+msgid ""
+"「ずっと　見てたい\n"
+"　気持ちも　わかるけど……」"
+msgstr ""
+"「雖然人家也了解那種\n"
+"　想要一直盯著看的心情啦……」"
+
+#. ID 5, Page 1, Line 1, Pos (6,4)
+msgid "『アンバランスな箱』"
+msgstr "『不平衡的箱子』"
+
+#. ID 7, Page 1, Line 1, Pos (11,4)
+msgid "『あずかりし真心』"
+msgstr "『託付的真心』"
+
+#. ID 7, Page 2, Line 1, Pos (11,4)
+msgid "『あずかりし心臓』"
+msgstr "『託付的心臟』"
+

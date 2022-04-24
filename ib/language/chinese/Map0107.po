@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 29, Page 1, Line 5, Pos (2,15)
+msgid ""
+"\n"
+"「みんな　集まったかな！」"
+msgstr ""
+"\n"
+"「大家都到齊了吧！」"
+
+#. ID 29, Page 1, Line 11, Pos (2,15)
+msgid ""
+"\n"
+"「紹介するよ！\n"
+"　わたしの　友達の……」"
+msgstr ""
+"\n"
+"「我來向你們介紹喔！\n"
+"　他們是我的朋友……」"
+
+#. ID 29, Page 1, Line 20, Pos (2,15)
+msgid ""
+"\n"
+"「イヴとギャリーでーす！\n"
+"　みんな　仲良くしてね！」"
+msgstr ""
+"\n"
+"「叫做Ib還有Garry！\n"
+"　大家要好好相處喔！」"
+
+#. ID 29, Page 1, Line 29, Pos (2,15)
+msgid ""
+"\n"
+"「あ　そういえば……」"
+msgstr ""
+"\n"
+"「啊，對了……」"
+
+#. ID 29, Page 1, Line 47, Pos (2,15)
+msgid ""
+"\n"
+"「……もー　ギャリーったら\n"
+"　やっぱり　こんなもの　持ってる……」"
+msgstr ""
+"\n"
+"「……唉──，Garry真是的，\n"
+"　你果然拿著這種東西……」"
+
+#. ID 29, Page 1, Line 51, Pos (2,15)
+msgid ""
+"\n"
+"「美術館には　危ない物は禁止だよ！\n"
+"　だからこれは　ぼ……」"
+msgstr ""
+"\n"
+"「美術館裡禁止攜帶危險物品喔！\n"
+"　所以這個啊，沒……」"
+
+#. ID 29, Page 1, Line 57, Pos (2,15)
+msgid ""
+"\n"
+"「ぼ……ぼ………」"
+msgstr ""
+"\n"
+"「沒……沒………」"
+
+#. ID 29, Page 1, Line 92, Pos (2,15)
+msgid ""
+"\n"
+"「そうそう　没収ー！」"
+msgstr ""
+"\n"
+"「對對，沒收──！」"
+
+#. ID 29, Page 1, Line 101, Pos (2,15)
+msgid ""
+"\n"
+"「これ　あげる」"
+msgstr ""
+"\n"
+"「這個給你。」"
+
+#. ID 29, Page 1, Line 122, Pos (2,15)
+msgid ""
+"\n"
+"「これで　よし……」"
+msgstr ""
+"\n"
+"「這樣就沒問題了……」"
+
+#. ID 29, Page 1, Line 131, Pos (2,15)
+msgid ""
+"\n"
+"「イヴ……ギャリー……\n"
+"　これから　いっぱい遊ぼうね……」"
+msgstr ""
+"\n"
+"「Ib……Garry……\n"
+"　從今以後，我們要盡情地玩喔……」"
+
+#. ID 29, Page 1, Line 139, Pos (2,15)
+msgid ""
+"\n"
+"「永遠に！」"
+msgstr ""
+"\n"
+"「永遠地！」"
+

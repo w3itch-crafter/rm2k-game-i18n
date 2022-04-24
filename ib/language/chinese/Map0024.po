@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 1, Pos (9,7)
+msgid "木のオブジェに　リンゴがなっている……"
+msgstr "樹的藝術品上結了一顆蘋果……"
+
+#. ID 3, Page 1, Line 4, Pos (9,7)
+msgid "木のリンゴを　手に入れた。"
+msgstr "得到一顆　木蘋果。"
+
+#. ID 4, Page 1, Line 1, Pos (9,5)
+msgid "『木に生ったリンゴ』"
+msgstr "『長在樹上的蘋果』"
+

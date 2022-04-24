@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 1, Pos (19,12)
+#. ID 5, Page 2, Line 1, Pos (19,12)
+#. ID 7, Page 1, Line 1, Pos (19,11)
+msgid "“かくれんぼ　する？”"
+msgstr "\"Play hide and seek?\""
+
+#. ID 9, Page 2, Line 2, Pos (19,19)
+#. Contains choice at line 2 (2 options)
+#. ID 16, Page 2, Line 1, Pos (9,12)
+#. Contains choice at line 2 (2 options)
+#. ID 16, Page 3, Line 1, Pos (9,12)
+#. Contains choice at line 2 (2 options)
+#. ID 17, Page 2, Line 2, Pos (14,12)
+#. Contains choice at line 2 (2 options)
+#. ID 18, Page 2, Line 2, Pos (4,19)
+#. Contains choice at line 2 (2 options)
+#. ID 19, Page 2, Line 2, Pos (9,19)
+#. Contains choice at line 2 (2 options)
+#. ID 19, Page 3, Line 1, Pos (9,19)
+#. Contains choice at line 2 (2 options)
+#. ID 20, Page 2, Line 2, Pos (14,19)
+#. Contains choice at line 2 (2 options)
+#. ID 21, Page 2, Line 2, Pos (4,12)
+#. Contains choice at line 2 (2 options)
+msgid "ボタンのような　ものがある……"
+msgstr "There's a button of some sort..."
+
+#. ID 9, Page 2, Line 3, Pos (19,19)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 2, Line 2, Pos (9,12)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 3, Line 2, Pos (9,12)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 2, Line 3, Pos (14,12)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 2, Line 3, Pos (4,19)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 2, Line 3, Pos (9,19)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 3, Line 2, Pos (9,19)
+#. Choice (2 options, embedded in a message)
+#. ID 20, Page 2, Line 3, Pos (14,19)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 2, Line 3, Pos (4,12)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"押す\n"
+"押さない"
+msgstr ""
+"Press\n"
+"Don't press"
+
+#. ID 9, Page 3, Line 1, Pos (19,19)
+msgid "この絵には　近づきたくない……"
+msgstr "You don't want to get near this painting..."
+
+#. ID 16, Page 3, Line 16, Pos (9,12)
+msgid ""
+"\n"
+"「いった！」"
+msgstr ""
+"\n"
+" Oww!"
+
+#. ID 17, Page 3, Line 1, Pos (14,12)
+msgid "月の絵が　飾ってある……"
+msgstr "A painting of the moon..."
+
+#. ID 18, Page 3, Line 1, Pos (4,19)
+msgid "音符の絵が　飾ってある……"
+msgstr "A painting of a music note..."
+
+#. ID 20, Page 3, Line 1, Pos (14,19)
+msgid "赤い手形の絵が　飾ってある……"
+msgstr "A painting of a red handprint..."
+
+#. ID 21, Page 2, Line 10, Pos (4,12)
+#. ID 21, Page 3, Line 1, Pos (4,12)
+msgid "……とても不吉な　絵を見てしまった……"
+msgstr "...You saw a very sinister painting..."
+
+#. ID 21, Page 3, Line 5, Pos (4,12)
+msgid ""
+"\n"
+"「……なんで　イヴの絵がここに？」"
+msgstr ""
+"\n"
+" ...Why is there a painting\n"
+" of you here, Ib?"
+
+#. ID 22, Page 1, Line 2, Pos (10,19)
+#. ID 22, Page 2, Line 2, Pos (10,19)
+msgid "“みつかった　けいひん　あげる”"
+msgstr "\"Found me, you get prize.\""
+
+#. ID 23, Page 1, Line 1, Pos (11,5)
+msgid "何かが　落ちている……"
+msgstr "There's something on the ground..."
+
+#. ID 23, Page 1, Line 4, Pos (11,5)
+msgid "木のさかな（頭）を手に入れた。"
+msgstr "Obtained the Wooden Fish (Head)."
+
+#. ID 23, Page 3, Line 2, Pos (11,5)
+msgid ""
+"木のさかな（頭）と木のさかな（尾）が\n"
+"くっついて　一つになった……"
+msgstr ""
+"You combined the wooden fish head\n"
+"with the wooden fish tail..."
+
+#. ID 23, Page 3, Line 6, Pos (11,5)
+msgid "さかなのカギを　手に入れた。"
+msgstr "Obtained the Fish Key."
+
+#. ID 26, Page 1, Line 1, Pos (11,4)
+msgid "『板前の腕』"
+msgstr "\"A Chef's Talent\""
+

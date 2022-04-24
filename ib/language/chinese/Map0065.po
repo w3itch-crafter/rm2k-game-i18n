@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 3, Pos (2,1)
+msgid ""
+"\n"
+"「なにここ……色がない！」"
+msgstr ""
+"\n"
+"「這裡怎麼會這樣……沒有顏色！」"
+
+#. ID 2, Page 3, Line 4, Pos (2,1)
+msgid ""
+"\n"
+"「あれ？\n"
+"　色が……色がついてる！」"
+msgstr ""
+"\n"
+"「咦？\n"
+"　顏色……有顏色了！」"
+
+#. ID 5, Page 1, Line 1, Pos (10,7)
+msgid "テーブルの上に　何かがある……"
+msgstr "桌子上面放著什麼東西……"
+
+#. ID 5, Page 1, Line 4, Pos (10,7)
+msgid "茶のカギを　手に入れた。"
+msgstr "得到一把　茶色鑰匙。"
+
+#. ID 11, Page 1, Line 2, Pos (8,13)
+#. ID 11, Page 1, Line 7, Pos (8,13)
+msgid "キャンバスに　虹の絵が　描かれている……"
+msgstr "畫布上畫著彩虹……"
+
+#. ID 12, Page 1, Line 1, Pos (7,14)
+#. ID 12, Page 2, Line 1, Pos (7,14)
+#. ID 12, Page 3, Line 1, Pos (7,14)
+msgid "パレットと筆が　浮いている……"
+msgstr "調色盤和畫筆浮在空中……"
+
+#. ID 12, Page 1, Line 4, Pos (7,14)
+msgid ""
+"\n"
+"「誰かいる　みたいだね……」"
+msgstr ""
+"\n"
+"「好像有人坐在這裡呢……」"
+
+#. ID 12, Page 4, Line 1, Pos (7,14)
+msgid "イスがとても　冷たくなっている……"
+msgstr "椅子變得非常冰冷……"
+
+#. ID 14, Page 1, Line 1, Pos (10,5)
+msgid "『幻』"
+msgstr "『幻』"
+

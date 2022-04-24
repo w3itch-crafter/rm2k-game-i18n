@@ -1,0 +1,249 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. ID 2, Page 1, Line 3, Pos (5,6)
+#. ID 6, Page 1, Line 1, Pos (3,6)
+msgid "大きな本棚がある……"
+msgstr "A large bookcase..."
+
+#. ID 2, Page 1, Line 6, Pos (5,6)
+#. Contains choice at line 2 (3 options)
+msgid "「あら　この本棚　動かせるみたいよ」"
+msgstr " Ah. I think this could be moved."
+
+#. ID 2, Page 1, Line 7, Pos (5,6)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"動かさない\n"
+"右に動かしてもらう\n"
+"左に動かしてもらう"
+msgstr ""
+"Don't move it\n"
+"Have it moved right\n"
+"Have it moved left"
+
+#. ID 2, Page 1, Line 11, Pos (5,6)
+msgid ""
+"\n"
+"「そう？\n"
+"　まぁ　むやみに\n"
+"　動かさない方が　いいかもね」"
+msgstr ""
+"\n"
+" Really?\n"
+" Well, perhaps it would be better\n"
+" not to move it indiscreetly."
+
+#. ID 2, Page 1, Line 21, Pos (5,6)
+msgid ""
+"\n"
+"「オーケー\n"
+"　じゃあ　ちょっと離れて」"
+msgstr ""
+"\n"
+" Okay!\n"
+" Step back a bit, Ib."
+
+#. ID 2, Page 1, Line 31, Pos (5,6)
+#. ID 2, Page 1, Line 63, Pos (5,6)
+msgid ""
+"\n"
+"「よいしょ………っと」"
+msgstr ""
+"\n"
+" Heave ho..... ho!"
+
+#. ID 2, Page 1, Line 42, Pos (5,6)
+msgid ""
+"\n"
+"「窓が　隠れちゃったわね\n"
+"　ま　いっか」"
+msgstr ""
+"\n"
+" It's covering the window...\n"
+" Oh well."
+
+#. ID 2, Page 1, Line 53, Pos (5,6)
+msgid ""
+"\n"
+"「了解\n"
+"　じゃあ　ちょっと離れて」"
+msgstr ""
+"\n"
+" Got it.\n"
+" Step back a bit, Ib."
+
+#. ID 2, Page 1, Line 74, Pos (5,6)
+msgid ""
+"\n"
+"「よし　これで　いいかしらね」"
+msgstr ""
+"\n"
+" Yes, I think that will do."
+
+#. ID 3, Page 1, Line 1, Pos (13,10)
+#. ID 24, Page 1, Line 1, Pos (6,9)
+msgid "床に固定されていて　動かせない……"
+msgstr "It's affixed to the floor..."
+
+#. ID 7, Page 1, Line 2, Pos (15,9)
+#. ID 7, Page 1, Line 8, Pos (15,9)
+msgid ""
+"“疲れたのなら　ゆっくりお休み？\n"
+"　もう苦しむことも　なくなるから”"
+msgstr ""
+"\"If you're tired, why not rest?\n"
+"You'll never be hurt again...\""
+
+#. ID 8, Page 2, Line 5, Pos (7,12)
+msgid "扉が　開かない……"
+msgstr "The door won't open..."
+
+#. ID 8, Page 2, Line 10, Pos (7,12)
+msgid ""
+"\n"
+"「え……ウソでしょ？\n"
+"　カギは　開けっ放しの\n"
+"　ハズだけど……」"
+msgstr ""
+"\n"
+" Wh... are you kidding me?\n"
+" The door was wide open..."
+
+#. ID 8, Page 2, Line 26, Pos (7,12)
+msgid ""
+"\n"
+"「な　なに　この音……外から？」"
+msgstr ""
+"\n"
+" T-That sound...\n"
+" is that coming from outside?"
+
+#. ID 8, Page 2, Line 38, Pos (7,12)
+msgid ""
+"\n"
+"「ドアの前に　誰かいるわ……\n"
+"　イヴ……注意して」"
+msgstr ""
+"\n"
+" Something's at the door...\n"
+" Be careful, Ib."
+
+#. ID 8, Page 3, Line 2, Pos (7,12)
+msgid "扉が 開かない……"
+msgstr "The door won't open..."
+
+#. ID 11, Page 1, Line 2, Pos (9,5)
+msgid "『ふたり』"
+msgstr "\"Couple\""
+
+#. ID 11, Page 1, Line 4, Pos (9,5)
+msgid "見覚えのある　男女が　描かれている……"
+msgstr "It depicts a familiar man and woman..."
+
+#. ID 11, Page 1, Line 5, Pos (9,5)
+msgid "この２人は…………！"
+msgstr "These two are.....!"
+
+#. ID 11, Page 1, Line 9, Pos (9,5)
+msgid ""
+"\n"
+"「どうしたの　イヴ？」"
+msgstr ""
+"\n"
+" What is it, Ib?"
+
+#. ID 11, Page 1, Line 12, Pos (9,5)
+msgid ""
+"\n"
+"「え？！　この絵の人\n"
+"　イヴの　パパとママなの？」"
+msgstr ""
+"\n"
+" Huh?! The people in this painting\n"
+" are your dad and mom?"
+
+#. ID 11, Page 1, Line 19, Pos (9,5)
+msgid ""
+"\n"
+"「へぇ………たしかに\n"
+"　イヴに　似てるかも……」"
+msgstr ""
+"\n"
+" Aha... They do resemble\n"
+" you a bit, Ib..."
+
+#. ID 11, Page 1, Line 23, Pos (9,5)
+msgid ""
+"\n"
+"「でもなんで　こんなところに\n"
+"　そんな絵が　あるのかしら？」"
+msgstr ""
+"\n"
+" But why would such a\n"
+" painting be down here?"
+
+#. ID 11, Page 1, Line 26, Pos (9,5)
+msgid ""
+"\n"
+"「え？　２人はどこかって？\n"
+"　うーん……それはちょっと\n"
+"　アタシにも　わからないわ」"
+msgstr ""
+"\n"
+" Ah? Where are they?\n"
+" Hmm... Well, I can't say\n"
+" that I know either."
+
+#. ID 11, Page 1, Line 31, Pos (9,5)
+msgid ""
+"\n"
+"「だ　大丈夫よ\n"
+"　きっと　どこかに　いるって！」"
+msgstr ""
+"\n"
+" D-Don't worry.\n"
+" They must be somewhere!"
+
+#. ID 11, Page 1, Line 35, Pos (9,5)
+msgid ""
+"\n"
+"「……………」"
+msgstr ""
+"\n"
+" .........."
+
+#. ID 11, Page 1, Line 38, Pos (9,5)
+msgid ""
+"\n"
+"（結構　気丈な子だと思ってたけど\n"
+"　さすがに　参ってきてるわね……）"
+msgstr ""
+"\n"
+" (I thought she was a tough kid,\n"
+" but this is even getting to her...)"
+
+#. ID 11, Page 2, Line 1, Pos (9,5)
+msgid "おとうさんと　おかあさんの絵だ……"
+msgstr "A painting of father and mother..."
+
+#. ID 27, Page 2, Line 3, Pos (9,9)
+msgid ""
+"\n"
+"「のんきに　座ってる\n"
+"　場合じゃ　ないでしょ！」"
+msgstr ""
+"\n"
+" This is NO time to be\n"
+" sitting around!"

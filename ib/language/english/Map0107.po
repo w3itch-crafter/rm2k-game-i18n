@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 29, Page 1, Line 5, Pos (2,15)
+msgid ""
+"\n"
+"「みんな　集まったかな！」"
+msgstr ""
+"\n"
+" Looks like everyone's here!"
+
+#. ID 29, Page 1, Line 11, Pos (2,15)
+msgid ""
+"\n"
+"「紹介するよ！\n"
+"　わたしの　友達の……」"
+msgstr ""
+"\n"
+" Introducing!\n"
+" My new friends..."
+
+#. ID 29, Page 1, Line 20, Pos (2,15)
+msgid ""
+"\n"
+"「イヴとギャリーでーす！\n"
+"　みんな　仲良くしてね！」"
+msgstr ""
+"\n"
+" Ib and Garryyy!\n"
+" Let's all get along, now!"
+
+#. ID 29, Page 1, Line 29, Pos (2,15)
+msgid ""
+"\n"
+"「あ　そういえば……」"
+msgstr ""
+"\n"
+" Oh, that's right..."
+
+#. ID 29, Page 1, Line 47, Pos (2,15)
+msgid ""
+"\n"
+"「……もー　ギャリーったら\n"
+"　やっぱり　こんなもの　持ってる……」"
+msgstr ""
+"\n"
+" ...Oh, Garry, you dunce!\n"
+" Having something so dangerous..."
+
+#. ID 29, Page 1, Line 51, Pos (2,15)
+msgid ""
+"\n"
+"「美術館には　危ない物は禁止だよ！\n"
+"　だからこれは　ぼ……」"
+msgstr ""
+"\n"
+" Dangerous things aren't\n"
+" allowed in the gallery!\n"
+" So this'll just go in the..."
+
+#. ID 29, Page 1, Line 57, Pos (2,15)
+#, fuzzy
+msgid ""
+"\n"
+"「ぼ……ぼ………」"
+msgstr ""
+"\n"
+" Tr... tr..."
+
+#. ID 29, Page 1, Line 92, Pos (2,15)
+#, fuzzy
+msgid ""
+"\n"
+"「そうそう　没収ー！」"
+msgstr ""
+"\n"
+" Yeah! To the TRASH!"
+
+#. ID 29, Page 1, Line 101, Pos (2,15)
+#, fuzzy
+msgid ""
+"\n"
+"「これ　あげる」"
+msgstr ""
+"\n"
+" Here you go!"
+
+#. ID 29, Page 1, Line 122, Pos (2,15)
+#, fuzzy
+msgid ""
+"\n"
+"「これで　よし……」"
+msgstr ""
+"\n"
+" There, that's that..."
+
+#. ID 29, Page 1, Line 131, Pos (2,15)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴ……ギャリー……\n"
+"　これから　いっぱい遊ぼうね……」"
+msgstr ""
+"\n"
+" Ib... Garry...\n"
+" Now we can play lots and lots..."
+
+#. ID 29, Page 1, Line 139, Pos (2,15)
+#, fuzzy
+msgid ""
+"\n"
+"「永遠に！」"
+msgstr ""
+"\n"
+" Foreveeer!"
+

@@ -1,0 +1,534 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 13, Page 1, Line 2, Pos (9,6)
+#. ID 13, Page 2, Line 3, Pos (9,6)
+#. ID 13, Page 3, Line 3, Pos (9,6)
+#. ID 51, Page 1, Line 2, Pos (10,6)
+#. ID 51, Page 2, Line 3, Pos (10,6)
+#. ID 51, Page 3, Line 3, Pos (10,6)
+msgid ""
+"『？？？の世界』\n"
+"　一度入ると　もう戻れない\n"
+"　ここでの時間も　全て失う\n"
+"　それでも　あなたは　飛び込むの？"
+msgstr ""
+"\"??? World\"\n"
+"Once you go in, there's no going back.\n"
+"All your time here will be lost.\n"
+"Will you still jump in?"
+
+#. ID 13, Page 1, Line 6, Pos (9,6)
+#. ID 13, Page 2, Line 7, Pos (9,6)
+#. ID 13, Page 3, Line 7, Pos (9,6)
+#. ID 51, Page 1, Line 6, Pos (10,6)
+#. ID 51, Page 2, Line 7, Pos (10,6)
+#. ID 51, Page 3, Line 7, Pos (10,6)
+msgid "難しくて　読めない字がある……"
+msgstr "You don't know one of the words..."
+
+#. ID 13, Page 1, Line 20, Pos (9,6)
+#. ID 51, Page 1, Line 20, Pos (10,6)
+msgid ""
+"\n"
+"「なに　この　大きな絵……\n"
+"　『絵空事の世界』？」"
+msgstr ""
+"\n"
+" What's this big mural...\n"
+" \"Fabricated World\"?"
+
+#. ID 13, Page 1, Line 24, Pos (9,6)
+#. ID 51, Page 1, Line 24, Pos (10,6)
+msgid ""
+"\n"
+"「ねぇ　この絵の場所……\n"
+"　元の美術館じゃない？」"
+msgstr ""
+"\n"
+" Hey, isn't that...\n"
+" The former gallery?"
+
+#. ID 13, Page 1, Line 27, Pos (9,6)
+#. ID 51, Page 1, Line 27, Pos (10,6)
+msgid ""
+"\n"
+"「もしかして……\n"
+"　この絵に　飛び込めば\n"
+"　元の場所に　戻れるの？！」"
+msgstr ""
+"\n"
+" Does that mean...\n"
+" If we jump into this,\n"
+" we'll go back there?!"
+
+#. ID 13, Page 1, Line 32, Pos (9,6)
+#. ID 51, Page 1, Line 32, Pos (10,6)
+msgid ""
+"\n"
+"「でも　絵に　飛び込むって\n"
+"　どういうことかしら……？」"
+msgstr ""
+"\n"
+" But how are we meant to\n"
+" jump into a painting...?"
+
+#. ID 13, Page 1, Line 44, Pos (9,6)
+#. ID 51, Page 1, Line 44, Pos (10,6)
+msgid ""
+"\n"
+"「わっ　何！？」"
+msgstr ""
+"\n"
+" Wh-What?!"
+
+#. ID 13, Page 1, Line 54, Pos (9,6)
+#. ID 51, Page 1, Line 54, Pos (10,6)
+msgid ""
+"\n"
+"「見て　イヴ　額縁が……！」"
+msgstr ""
+"\n"
+" Ib, look! The frame...!"
+
+#. ID 13, Page 1, Line 57, Pos (9,6)
+#. ID 51, Page 1, Line 57, Pos (10,6)
+msgid ""
+"\n"
+"「今なら　行けるかもっ………！」"
+msgstr ""
+"\n"
+" Now might be our chance...!"
+
+#. ID 13, Page 1, Line 75, Pos (9,6)
+#. ID 51, Page 1, Line 75, Pos (10,6)
+msgid ""
+"\n"
+"「やった！　本当に入れたわ！\n"
+"　ホラ　イヴも早く！」"
+msgstr ""
+"\n"
+" Yes! I'm really in!\n"
+" Hurry up, Ib!"
+
+#. ID 13, Page 1, Line 82, Pos (9,6)
+#. ID 13, Page 3, Line 25, Pos (9,6)
+#. ID 51, Page 1, Line 82, Pos (10,6)
+#. ID 51, Page 3, Line 25, Pos (10,6)
+msgid "「イヴ………」"
+msgstr "Ib....."
+
+#. ID 13, Page 1, Line 89, Pos (9,6)
+#. ID 51, Page 1, Line 89, Pos (10,6)
+msgid ""
+"\n"
+"「イヴ！　どうしたの？\n"
+"　ほら　来てごらん！」"
+msgstr ""
+"\n"
+" Ib! What's wrong?\n"
+" Come on!"
+
+#. ID 13, Page 1, Line 101, Pos (9,6)
+#. ID 51, Page 1, Line 101, Pos (10,6)
+msgid ""
+"\n"
+"「イヴ！\n"
+"　やっと　見つけた！」"
+msgstr ""
+"\n"
+" Ib!\n"
+" I finally found you!"
+
+#. ID 13, Page 1, Line 105, Pos (9,6)
+#. ID 51, Page 1, Line 105, Pos (10,6)
+msgid ""
+"\n"
+"「もう……探したのよ！\n"
+"　ダメじゃない　勝手に\n"
+"　こんなところまで　来たら！」"
+msgstr ""
+"\n"
+" Sheesh... I was looking everywhere!\n"
+" Don't just go running off\n"
+" places on your own!"
+
+#. ID 13, Page 1, Line 110, Pos (9,6)
+#. ID 51, Page 1, Line 110, Pos (10,6)
+msgid ""
+"\n"
+"「ホラ　お父さんも\n"
+"　向こうで　待ってるわよ\n"
+"　行きましょ？　イヴ」"
+msgstr ""
+"\n"
+" Your father's waiting\n"
+" for you too, see?\n"
+" Let's go, Ib!"
+
+#. ID 13, Page 1, Line 120, Pos (9,6)
+#. ID 51, Page 1, Line 120, Pos (10,6)
+msgid ""
+"\n"
+"「イヴ！　ねぇ　何してるの？\n"
+"　早く　来なさいよ！」"
+msgstr ""
+"\n"
+" Ib! Hey, what are you doing?!\n"
+" Hurry up and come over!"
+
+#. ID 13, Page 1, Line 131, Pos (9,6)
+#. ID 51, Page 1, Line 131, Pos (10,6)
+msgid ""
+"\n"
+"「イヴ！　知らない人に\n"
+"　ついて行ったら　ダメよ？\n"
+"　何回も　教えたよね？」"
+msgstr ""
+"\n"
+" Ib! How many times\n"
+" have I told you?\n"
+" Don't go following strangers!"
+
+#. ID 13, Page 1, Line 140, Pos (9,6)
+#. ID 51, Page 1, Line 140, Pos (10,6)
+msgid ""
+"\n"
+"「ほら　怖くないわよ？\n"
+"　大丈夫だから！」"
+msgstr ""
+"\n"
+" Hey, it's not scary, okay?\n"
+" You'll be fine!"
+
+#. ID 13, Page 1, Line 149, Pos (9,6)
+#. ID 51, Page 1, Line 149, Pos (10,6)
+msgid ""
+"\n"
+"「イヴ！\n"
+"　お母さんの言う事　聞けないの？\n"
+"　知らない人に　ついて行ったらダメ！」"
+msgstr ""
+"\n"
+" Ib!\n"
+" Listen to your mother!\n"
+" Don't go with some stranger!"
+
+#. ID 13, Page 1, Line 155, Pos (9,6)
+#. ID 51, Page 1, Line 155, Pos (10,6)
+msgid ""
+"\n"
+"「もう二度と\n"
+"　お母さんと　お父さんに\n"
+"　会えなくなっちゃうわよ？」"
+msgstr ""
+"\n"
+" Do you want to never see\n"
+" your mother and father again?"
+
+#. ID 13, Page 1, Line 162, Pos (9,6)
+#. ID 51, Page 1, Line 162, Pos (10,6)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴ！\n"
+"　ほら　ひっぱってあげるわ！」"
+msgstr ""
+"\n"
+" Ib!\n"
+" I'll pull you over!"
+
+#. ID 13, Page 1, Line 174, Pos (9,6)
+#. ID 51, Page 1, Line 174, Pos (10,6)
+#, fuzzy
+msgid ""
+"\n"
+"\\>「だから　おいで……」\n"
+"\\>「だから　手を出して……」"
+msgstr ""
+"\n"
+"\\> \"Come with me...\"\n"
+"\\> \"Grab my hand...\""
+
+#. ID 13, Page 1, Line 179, Pos (9,6)
+#. ID 51, Page 1, Line 179, Pos (10,6)
+#, fuzzy
+msgid ""
+"\n"
+"\n"
+"　　　「イヴ！！」"
+msgstr ""
+"\n"
+"\n"
+"            IB!!"
+
+#. ID 13, Page 1, Line 186, Pos (9,6)
+#. Contains choice at line 2 (2 options)
+#. ID 51, Page 1, Line 186, Pos (10,6)
+#. Contains choice at line 2 (2 options)
+#, fuzzy
+msgid "どうしよう…………………"
+msgstr "What will you do.....?"
+
+#. ID 13, Page 1, Line 187, Pos (9,6)
+#. Choice (2 options, embedded in a message)
+#. ID 51, Page 1, Line 187, Pos (10,6)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"おかあさんについて行く\n"
+"ギャリーの手をつかむ"
+msgstr ""
+"Go with mother\n"
+"Grab Garry's hand"
+
+#. ID 13, Page 1, Line 200, Pos (9,6)
+#. ID 51, Page 1, Line 200, Pos (10,6)
+#, fuzzy
+msgid ""
+"\n"
+"「………え？　ちょっと………」"
+msgstr ""
+"\n"
+" .....Huh? Wait..."
+
+#. ID 13, Page 1, Line 220, Pos (9,6)
+#. ID 51, Page 1, Line 220, Pos (10,6)
+#, fuzzy
+msgid ""
+"\n"
+"「どこ行くの！？　イヴ！」"
+msgstr ""
+"\n"
+" Where are you going?! Ib!"
+
+#. ID 13, Page 1, Line 232, Pos (9,6)
+#. ID 51, Page 1, Line 232, Pos (10,6)
+#, fuzzy
+msgid ""
+"\n"
+"「ねぇ　イヴったら！！」"
+msgstr ""
+"\n"
+" Hey! IB!!"
+
+#. ID 13, Page 1, Line 239, Pos (9,6)
+#. ID 51, Page 1, Line 239, Pos (10,6)
+#, fuzzy
+msgid "「イヴ…………！」"
+msgstr "Ib..........!"
+
+#. ID 13, Page 1, Line 264, Pos (9,6)
+#. ID 51, Page 1, Line 264, Pos (10,6)
+#, fuzzy
+msgid ""
+"\n"
+"「よし！」"
+msgstr ""
+"\n"
+" Alright!"
+
+#. ID 13, Page 2, Line 19, Pos (9,6)
+#. Contains choice at line 2 (2 options)
+#. ID 13, Page 3, Line 19, Pos (9,6)
+#. Contains choice at line 2 (2 options)
+#. ID 51, Page 2, Line 19, Pos (10,6)
+#. Contains choice at line 2 (2 options)
+#. ID 51, Page 3, Line 19, Pos (10,6)
+#. Contains choice at line 2 (2 options)
+msgid "絵の様子が　変わっている……！"
+msgstr "The painting changed...!"
+
+#. ID 13, Page 2, Line 20, Pos (9,6)
+#. Choice (2 options, embedded in a message)
+#. ID 13, Page 3, Line 20, Pos (9,6)
+#. Choice (2 options, embedded in a message)
+#. ID 51, Page 2, Line 20, Pos (10,6)
+#. Choice (2 options, embedded in a message)
+#. ID 51, Page 3, Line 20, Pos (10,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"絵にとびこんでみる\n"
+"怖いから離れる"
+msgstr ""
+"Leap into the painting\n"
+"Step away"
+
+#. ID 13, Page 3, Line 38, Pos (9,6)
+#. ID 51, Page 3, Line 38, Pos (10,6)
+msgid ""
+"\n"
+"「イヴ！！」"
+msgstr ""
+"\n"
+" Ib!!"
+
+#. ID 13, Page 3, Line 45, Pos (9,6)
+#. ID 51, Page 3, Line 45, Pos (10,6)
+msgid ""
+"\n"
+"「もう　捜したのよ……！\n"
+"　ひとりで勝手に　行っちゃって！」"
+msgstr ""
+"\n"
+" I was looking for you...!\n"
+" You went off on your own!"
+
+#. ID 13, Page 3, Line 49, Pos (9,6)
+#. ID 51, Page 3, Line 49, Pos (10,6)
+msgid ""
+"\n"
+"「あとで行くって　言ったでしょ？\n"
+"　ったく……心配したんだから！」"
+msgstr ""
+"\n"
+" I said I'd catch up, didn't I?\n"
+" Sheesh... I was worried!"
+
+#. ID 13, Page 3, Line 53, Pos (9,6)
+#. ID 51, Page 3, Line 53, Pos (10,6)
+msgid ""
+"\n"
+"「それはそうと　イヴ！\n"
+"　出口のような所　見つけたのよ」"
+msgstr ""
+"\n"
+" Anyway, Ib!\n"
+" I think I found an exit!"
+
+#. ID 13, Page 3, Line 61, Pos (9,6)
+#. ID 51, Page 3, Line 61, Pos (10,6)
+msgid ""
+"\n"
+"「こっちじゃなくて　向こうなの\n"
+"　一緒に　行ってみましょ？」"
+msgstr ""
+"\n"
+" It's not here, it's over there.\n"
+" Wanna go check it out?"
+
+#. ID 13, Page 3, Line 65, Pos (9,6)
+#. Contains choice at line 3 (2 options)
+#. ID 51, Page 3, Line 65, Pos (10,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「さぁ　イヴ……こっちにおいで！」"
+msgstr ""
+"\n"
+" Hey, Ib... this way!"
+
+#. ID 13, Page 3, Line 67, Pos (9,6)
+#. Choice (2 options, embedded in a message)
+#. ID 51, Page 3, Line 67, Pos (10,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いやだ\n"
+"ギャリーについて行く"
+msgstr ""
+"No\n"
+"Go with Garry"
+
+#. ID 13, Page 3, Line 70, Pos (9,6)
+#. ID 51, Page 3, Line 70, Pos (10,6)
+msgid ""
+"\n"
+"「どうしてよ？　せっかく\n"
+"　出られるかも　しれないのに！」"
+msgstr ""
+"\n"
+" And why not?\n"
+" We might be able to get out!"
+
+#. ID 13, Page 3, Line 74, Pos (9,6)
+#. ID 51, Page 3, Line 74, Pos (10,6)
+msgid ""
+"\n"
+"「この絵から　帰れるですって？\n"
+"　そんな保障　どこにもないのに？」"
+msgstr ""
+"\n"
+" This painting will take you out?\n"
+" How would you know for sure?"
+
+#. ID 13, Page 3, Line 77, Pos (9,6)
+#. ID 51, Page 3, Line 77, Pos (10,6)
+msgid ""
+"\n"
+"「ほら　行きましょ！　おいで！」"
+msgstr ""
+"\n"
+" Come on, let's go! Come with me!"
+
+#. ID 13, Page 3, Line 85, Pos (9,6)
+#. ID 51, Page 3, Line 85, Pos (10,6)
+msgid ""
+"\n"
+"「イヴッ！！」"
+msgstr ""
+"\n"
+" Ib...!!"
+
+#. ID 13, Page 3, Line 109, Pos (9,6)
+#. ID 51, Page 3, Line 109, Pos (10,6)
+msgid ""
+"\n"
+"「イヴはやっぱり　いい子ね\n"
+"　さぁ　じゃ　行きましょ………」"
+msgstr ""
+"\n"
+" I knew you were a good kid, Ib.\n"
+" All right, let's go....."
+
+#. ID 13, Page 4, Line 2, Pos (9,6)
+#. ID 51, Page 4, Line 2, Pos (10,6)
+msgid "『？？？の世界』"
+msgstr "\"??? World\""
+
+#. ID 13, Page 4, Line 6, Pos (9,6)
+#. ID 51, Page 4, Line 6, Pos (10,6)
+msgid ""
+"\n"
+"「着いた……この絵だ！」"
+msgstr ""
+"\n"
+" I'm here... This is the one!"
+
+#. ID 13, Page 4, Line 23, Pos (9,6)
+#. ID 51, Page 4, Line 23, Pos (10,6)
+msgid ""
+"\n"
+"「ここから　出れる……\n"
+"　やっと　外に行けるんだ！」"
+msgstr ""
+"\n"
+" I can get out from here...\n"
+" I can finally go outside!"
+
+#. ID 13, Page 4, Line 27, Pos (9,6)
+#. ID 51, Page 4, Line 27, Pos (10,6)
+msgid ""
+"\n"
+"「お菓子　いっぱい食べよう……\n"
+"　いろんなとこに　行こう……！」"
+msgstr ""
+"\n"
+" I'll eat lots of candy...\n"
+" And go lots of places...!"
+
+#. ID 13, Page 4, Line 31, Pos (9,6)
+#. ID 51, Page 4, Line 31, Pos (10,6)
+msgid ""
+"\n"
+"「友達もいっぱい　作ろっと！」"
+msgstr ""
+"\n"
+" And make lots of friends!"
+

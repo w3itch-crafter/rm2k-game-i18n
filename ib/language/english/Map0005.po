@@ -1,0 +1,499 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. ID 4, Page 1, Line 1, Pos (0,0)
+msgid "だれも　いない……"
+msgstr "No one's around..."
+
+#. ID 6, Page 1, Line 1, Pos (10,18)
+#. ID 7, Page 1, Line 1, Pos (9,18)
+msgid ""
+"『深海の？』\n"
+"　ヒトが立ち入ることは　許されない\n"
+"　その世界を　？？するため　私は\n"
+"　キャンバスの中に　その世界を？った"
+msgstr ""
+"\"??? of the Deep\"\n"
+"A world where man will never stand...\n"
+"To ??? that world, I decided that\n"
+"I would ??? it within the canvas."
+
+#. ID 6, Page 1, Line 5, Pos (10,18)
+#. ID 7, Page 1, Line 5, Pos (9,18)
+#. ID 26, Page 1, Line 2, Pos (10,6)
+#. ID 27, Page 1, Line 9, Pos (5,6)
+#. ID 34, Page 1, Line 2, Pos (9,6)
+msgid "難しくて　読めない字がある……"
+msgstr "You don't know some of the words..."
+
+#. ID 26, Page 1, Line 1, Pos (10,6)
+#. ID 34, Page 1, Line 1, Pos (9,6)
+msgid "『悪意なき？？』"
+msgstr "\"A Well-Meaning ???\""
+
+#. ID 26, Page 2, Line 1, Pos (10,6)
+#. ID 34, Page 2, Line 1, Pos (9,6)
+msgid "『暗い美術館の音色』"
+msgstr "\"Tones of the Dark Gallery\""
+
+#. ID 27, Page 1, Line 1, Pos (5,6)
+msgid ""
+"『ようこそ　ゲルテナの世界へ』\n"
+"　本日はご？？？き　誠にありがとうございます。\n"
+"　当館では現在【ワイズ・ゲルテナ展】を\n"
+"　？？しております。"
+msgstr ""
+"\"Welcome to the World of Guertena\"\n"
+"We truly thank you for ??? today.\n"
+"We're currently holding an ???\n"
+"for the great artist Weiss Guertena."
+
+#. ID 27, Page 1, Line 5, Pos (5,6)
+msgid ""
+"　ゲルテナ氏が生前描いた\n"
+"　怪しくも美しい絵画たちを\n"
+"　どうか心行くまで　お楽しみくださいませ。\n"
+"　　　　　　　　　　　　　　　　　　XX,XX,XX"
+msgstr ""
+"We hope you deeply enjoy the art of\n"
+"the late Guertena, whose creations\n"
+"carry such mystery and beauty both.\n"
+"                                    XX/XX/XX"
+
+#. ID 27, Page 2, Line 1, Pos (5,6)
+msgid ""
+"“もう　もどれない\n"
+"　どこにも　いけない”"
+msgstr ""
+"\"No going back\n"
+"No going anywhere\""
+
+#. ID 29, Page 1, Line 5, Pos (9,7)
+#. ID 29, Page 3, Line 5, Pos (9,7)
+#. ID 29, Page 6, Line 5, Pos (9,7)
+msgid ""
+"\n"
+"「どうしたの？\n"
+"　もう　疲れちゃった？」"
+msgstr ""
+"\n"
+" What's wrong?\n"
+" Are you feeling tired?"
+
+#. ID 29, Page 1, Line 15, Pos (9,7)
+#. ID 29, Page 3, Line 15, Pos (9,7)
+#. ID 29, Page 6, Line 15, Pos (9,7)
+msgid ""
+"\n"
+"「ゲルテナって　あまり\n"
+"　有名な人じゃ　ないけど……」"
+msgstr ""
+"\n"
+" Guertena isn't a particularly\n"
+" popular artist, but..."
+
+#. ID 29, Page 1, Line 19, Pos (9,7)
+#. ID 29, Page 3, Line 19, Pos (9,7)
+#. ID 29, Page 6, Line 19, Pos (9,7)
+msgid ""
+"\n"
+"「お母さん　この展覧会\n"
+"　ずっと　楽しみだったの」"
+msgstr ""
+"\n"
+" Your mother's been thoroughly\n"
+" anticipating this exhibition of his!"
+
+#. ID 29, Page 1, Line 23, Pos (9,7)
+#. ID 29, Page 3, Line 23, Pos (9,7)
+#. ID 29, Page 6, Line 23, Pos (9,7)
+msgid ""
+"\n"
+"「イヴも　好きに\n"
+"　なってくれると　うれしいな」"
+msgstr ""
+"\n"
+" I hope you come to\n"
+" appreciate his art too, Ib."
+
+#. ID 29, Page 1, Line 33, Pos (9,7)
+#. ID 29, Page 3, Line 33, Pos (9,7)
+#. ID 29, Page 6, Line 33, Pos (9,7)
+msgid ""
+"\n"
+"「イヴ　パンフレットによると\n"
+"　今回は　アクセサリーも\n"
+"　展示されてる　みたいよ」"
+msgstr ""
+"\n"
+" According to this pamphlet, Ib,\n"
+" they're even displaying some\n"
+" jewelry today."
+
+#. ID 29, Page 1, Line 37, Pos (9,7)
+#. ID 29, Page 3, Line 37, Pos (9,7)
+#. ID 29, Page 6, Line 37, Pos (9,7)
+msgid ""
+"\n"
+"「すごく小さな　宝石がついた\n"
+"　アクセサリーで　すごく\n"
+"　綺麗なんですって」"
+msgstr ""
+"\n"
+" Jewelry with tiny little gems...\n"
+" It sounds beautiful!"
+
+#. ID 29, Page 1, Line 42, Pos (9,7)
+#. ID 29, Page 3, Line 42, Pos (9,7)
+#. ID 29, Page 6, Line 42, Pos (9,7)
+#, fuzzy
+msgid ""
+"\n"
+"「あとで　一緒に\n"
+"　観に行ってみましょ？」"
+msgstr ""
+"\n"
+" Should we go see that\n"
+" together later?"
+
+#. ID 29, Page 1, Line 52, Pos (9,7)
+#. ID 29, Page 3, Line 52, Pos (9,7)
+#. ID 29, Page 6, Line 52, Pos (9,7)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴ　トイレは\n"
+"　ガマンしないで　行きなさいね？」"
+msgstr ""
+"\n"
+" Ib, if you have to use the toilet,\n"
+" you can just go, okay?"
+
+#. ID 29, Page 1, Line 62, Pos (9,7)
+#. ID 29, Page 3, Line 62, Pos (9,7)
+#. ID 29, Page 6, Line 62, Pos (9,7)
+#, fuzzy
+msgid ""
+"\n"
+"「わかってると　思うけど\n"
+"　作品に触っちゃ　ダメだからね？」"
+msgstr ""
+"\n"
+" I'm sure you know this,\n"
+" but you can't touch the displays."
+
+#. ID 29, Page 1, Line 66, Pos (9,7)
+#. ID 29, Page 3, Line 66, Pos (9,7)
+#. ID 29, Page 6, Line 66, Pos (9,7)
+#, fuzzy
+msgid ""
+"\n"
+"「壊しちゃったりしたら　大変だから」"
+msgstr ""
+"\n"
+" It would be serious trouble\n"
+" if you broke one!"
+
+#. ID 30, Page 1, Line 5, Pos (8,7)
+#. ID 30, Page 3, Line 5, Pos (8,7)
+#. ID 30, Page 6, Line 5, Pos (8,7)
+msgid ""
+"\n"
+"「ほら　イヴ\n"
+"　観てごらん　この絵」"
+msgstr ""
+"\n"
+" Hey, Ib.\n"
+" Take a look at this painting."
+
+#. ID 30, Page 1, Line 9, Pos (8,7)
+#. ID 30, Page 3, Line 9, Pos (8,7)
+#. ID 30, Page 6, Line 9, Pos (8,7)
+msgid ""
+"\n"
+"「すごいだろー\n"
+"　こんなに　大きな絵を観るのは\n"
+"　初めてじゃないか？」"
+msgstr ""
+"\n"
+" Astounding, isn't it?\n"
+" I bet this is your first time\n"
+" seeing such a huge painting!"
+
+#. ID 30, Page 1, Line 20, Pos (8,7)
+#. ID 30, Page 3, Line 20, Pos (8,7)
+#. ID 30, Page 6, Line 20, Pos (8,7)
+msgid ""
+"\n"
+"「イヴ……今　お客さん\n"
+"　少ないから　じっくり\n"
+"　作品を観られる　チャンスだぞ」"
+msgstr ""
+"\n"
+" There aren't many visitors right now.\n"
+" This is a perfect opportunity to\n"
+" get a good look at the exhibits!"
+
+#. ID 30, Page 1, Line 24, Pos (8,7)
+#. ID 30, Page 3, Line 24, Pos (8,7)
+#. ID 30, Page 6, Line 24, Pos (8,7)
+msgid ""
+"\n"
+"「混んでくると　なかなか\n"
+"　ゆっくり　観られないからね」"
+msgstr ""
+"\n"
+" Once it gets crowded, you won't\n"
+" be able to take your time as much."
+
+#. ID 30, Page 1, Line 34, Pos (8,7)
+#. Contains choice at line 3 (2 options)
+#. ID 30, Page 3, Line 34, Pos (8,7)
+#. Contains choice at line 3 (2 options)
+#. ID 30, Page 6, Line 34, Pos (8,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「イヴ　この絵の意味わかるかい？」"
+msgstr ""
+"\n"
+" Ib, do you understand this painting?"
+
+#. ID 30, Page 1, Line 36, Pos (8,7)
+#. Choice (2 options, embedded in a message)
+#. ID 30, Page 3, Line 36, Pos (8,7)
+#. Choice (2 options, embedded in a message)
+#. ID 30, Page 6, Line 36, Pos (8,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"わかる\n"
+"わかんない"
+msgstr ""
+"I do\n"
+"I don't"
+
+#. ID 30, Page 1, Line 39, Pos (8,7)
+#. ID 30, Page 3, Line 39, Pos (8,7)
+#. ID 30, Page 6, Line 39, Pos (8,7)
+msgid ""
+"\n"
+"「それは　すごい！\n"
+"　さすが　お父さんの　娘だ」"
+msgstr ""
+"\n"
+" Wonderful!\n"
+" That's my girl!"
+
+#. ID 30, Page 1, Line 43, Pos (8,7)
+#. ID 30, Page 3, Line 43, Pos (8,7)
+#. ID 30, Page 6, Line 43, Pos (8,7)
+msgid ""
+"\n"
+"「イヴも　芸術家を\n"
+"　目指してみたら　どうだ？」"
+msgstr ""
+"\n"
+" Maybe you could be an artist\n"
+" someday, Ib! How's that sound?"
+
+#. ID 30, Page 1, Line 49, Pos (8,7)
+#. ID 30, Page 3, Line 49, Pos (8,7)
+#. ID 30, Page 6, Line 49, Pos (8,7)
+msgid ""
+"\n"
+"「うん\n"
+"　お父さんも　よくわからないよ」"
+msgstr ""
+"\n"
+" Hm!\n"
+" Actually... I'm not sure what\n"
+" it's supposed to mean either."
+
+#. ID 30, Page 1, Line 53, Pos (8,7)
+#. ID 30, Page 3, Line 53, Pos (8,7)
+#. ID 30, Page 6, Line 53, Pos (8,7)
+#, fuzzy
+msgid ""
+"\n"
+"「でも　なんとなく\n"
+"　ピアノのレッスンで　叱られてる\n"
+"　子供の絵……に見えるかな」"
+msgstr ""
+"\n"
+" But it definitely looks like\n"
+" a child being scolded during\n"
+" a piano lesson... I guess?"
+
+#. ID 30, Page 1, Line 66, Pos (8,7)
+#. ID 30, Page 3, Line 66, Pos (8,7)
+#. ID 30, Page 6, Line 66, Pos (8,7)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴ\n"
+"　そこの魚の絵は　観たかい？」"
+msgstr ""
+"\n"
+" Ib!\n"
+" Did you look at that fish over there?"
+
+#. ID 30, Page 1, Line 69, Pos (8,7)
+#. ID 30, Page 3, Line 69, Pos (8,7)
+#. ID 30, Page 6, Line 69, Pos (8,7)
+#, fuzzy
+msgid ""
+"\n"
+"「海の底には　本当に\n"
+"　ああいう魚が　いるらしいよ」"
+msgstr ""
+"\n"
+" To think there's a fish like THAT\n"
+" in the depths of the sea!"
+
+#. ID 30, Page 1, Line 72, Pos (8,7)
+#. ID 30, Page 3, Line 72, Pos (8,7)
+#. ID 30, Page 6, Line 72, Pos (8,7)
+#, fuzzy
+msgid ""
+"\n"
+"「怖いって？\n"
+"　たしかに　見た目は　不気味だね」"
+msgstr ""
+"\n"
+" Scary, huh?\n"
+" It's got an eerie look for sure..."
+
+#. ID 30, Page 1, Line 76, Pos (8,7)
+#. ID 30, Page 3, Line 76, Pos (8,7)
+#. ID 30, Page 6, Line 76, Pos (8,7)
+#, fuzzy
+msgid ""
+"\n"
+"「でも　ちょっと\n"
+"　ワクワク　しないか？」"
+msgstr ""
+"\n"
+" But doesn't it make you\n"
+" a little excited, too?"
+
+#. ID 30, Page 1, Line 86, Pos (8,7)
+#. ID 30, Page 3, Line 86, Pos (8,7)
+#. ID 30, Page 6, Line 86, Pos (8,7)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴ　２階には\n"
+"　行ってみたかい？」"
+msgstr ""
+"\n"
+" Ib, have you checked out\n"
+" the second floor?"
+
+#. ID 30, Page 1, Line 89, Pos (8,7)
+#. ID 30, Page 3, Line 89, Pos (8,7)
+#. ID 30, Page 6, Line 89, Pos (8,7)
+#, fuzzy
+msgid ""
+"\n"
+"「２階は　絵以外の作品も\n"
+"　多いみたいだよ」"
+msgstr ""
+"\n"
+" They've got a lot of displays\n"
+" that aren't paintings up there."
+
+#. ID 30, Page 4, Line 3, Pos (8,7)
+#. ID 30, Page 5, Line 3, Pos (8,7)
+msgid ""
+"\n"
+"「あれ　イヴ\n"
+"　さっき　お母さんが\n"
+"　お前の事を　捜してたぞ」"
+msgstr ""
+"\n"
+" Oh, Ib!\n"
+" Your mother was looking for you."
+
+#. ID 30, Page 4, Line 7, Pos (8,7)
+#. ID 30, Page 5, Line 7, Pos (8,7)
+#, fuzzy
+msgid ""
+"\n"
+"「入れ違いに　なっちゃったかな？」"
+msgstr ""
+"\n"
+" Maybe you just passed each other?"
+
+#. ID 36, Page 1, Line 1, Pos (11,7)
+#. ID 36, Page 3, Line 1, Pos (11,7)
+msgid "「すごいなぁ……………」"
+msgstr "Breathtaking..."
+
+#. ID 37, Page 1, Line 1, Pos (8,10)
+#. ID 37, Page 3, Line 1, Pos (8,10)
+msgid "「………………」"
+msgstr ".........."
+
+#. ID 38, Page 1, Line 1, Pos (11,10)
+#. ID 38, Page 3, Line 1, Pos (11,10)
+msgid "「なんか　吸い込まれそうで　怖い……」"
+msgstr "Eek! I feel like it's sucking me in..."
+
+#. ID 39, Page 1, Line 1, Pos (14,13)
+#. ID 39, Page 3, Line 1, Pos (14,13)
+msgid "「ずいぶん大きな　作品だねぇ……」"
+msgstr "That's one big ol' display..."
+
+#. ID 40, Page 1, Line 1, Pos (5,14)
+#. ID 40, Page 3, Line 1, Pos (5,14)
+msgid "「この作品　生で観てみたかったの！」"
+msgstr ""
+"I wanted so badly to see\n"
+"this piece with my own eyes!"
+
+#. ID 40, Page 1, Line 2, Pos (5,14)
+#. ID 40, Page 3, Line 2, Pos (5,14)
+#, fuzzy
+msgid ""
+"「……やっぱり　本とかで見るのと\n"
+"　全然違うわ……雰囲気がもう……もう……ね！」"
+msgstr ""
+"It's completely different from seeing it\n"
+"in a book... The atmosphere is just so...\n"
+"just... like... you know?!"
+
+#. ID 41, Page 1, Line 1, Pos (5,13)
+#. ID 41, Page 3, Line 1, Pos (5,13)
+msgid ""
+"「へぇ……これがよく\n"
+"　雑誌とかに　載ってるやつなのか」"
+msgstr ""
+"Hmm... So this is the one they\n"
+"put in all the magazine ads..."
+
+#. ID 44, Page 1, Line 1, Pos (12,18)
+#. ID 44, Page 3, Line 1, Pos (12,18)
+msgid ""
+"「こんなの　実際にいたら\n"
+"　ちびっちゃいそうだ……」"
+msgstr ""
+"Man, if I saw this thing for real,\n"
+"I'd probably pee myself, no lie..."
+
+#. ID 45, Page 1, Line 1, Pos (9,19)
+#. ID 45, Page 3, Line 1, Pos (9,19)
+msgid "「地上から観られる　深海かぁ……」"
+msgstr ""
+"Hm... like peering down deep\n"
+"into the sea from the surface..."

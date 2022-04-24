@@ -1,0 +1,287 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (2,4)
+msgid "『色彩の暴力』"
+msgstr "\"Mayhem of Color\""
+
+#. ID 27, Page 1, Line 5, Pos (17,10)
+#. ID 68, Page 1, Line 5, Pos (9,5)
+#, fuzzy
+msgid ""
+"\n"
+"「なにかしらね　これ……絵？」"
+msgstr ""
+"\n"
+" Maybe we ought to\n"
+" collect all of these.\n"
+" Let's keep looking, Ib!"
+
+#. ID 27, Page 1, Line 10, Pos (17,10)
+#. ID 27, Page 2, Line 10, Pos (17,10)
+#. ID 27, Page 3, Line 8, Pos (17,10)
+#. ID 68, Page 1, Line 10, Pos (9,5)
+#. ID 68, Page 2, Line 10, Pos (9,5)
+#. ID 68, Page 3, Line 8, Pos (9,5)
+#, fuzzy
+msgid "何かが　落ちている……"
+msgstr "There's something on the ground..."
+
+#. ID 27, Page 1, Line 14, Pos (17,10)
+#. ID 27, Page 2, Line 14, Pos (17,10)
+#. ID 27, Page 3, Line 10, Pos (17,10)
+#. ID 68, Page 1, Line 14, Pos (9,5)
+#. ID 68, Page 2, Line 14, Pos (9,5)
+#. ID 68, Page 3, Line 10, Pos (9,5)
+#, fuzzy
+msgid "絵画のピースを　手に入れた。"
+msgstr "Obtained a piece of a painting."
+
+#. ID 27, Page 1, Line 19, Pos (17,10)
+#. ID 27, Page 2, Line 19, Pos (17,10)
+#. ID 27, Page 3, Line 15, Pos (17,10)
+#. ID 68, Page 1, Line 19, Pos (9,5)
+#. ID 68, Page 2, Line 19, Pos (9,5)
+#. ID 68, Page 3, Line 15, Pos (9,5)
+#, fuzzy
+msgid "絵画のピースは　消えてしまった……"
+msgstr "The piece vanished..."
+
+#. ID 27, Page 1, Line 23, Pos (17,10)
+#. ID 27, Page 2, Line 23, Pos (17,10)
+#. ID 68, Page 1, Line 23, Pos (9,5)
+#. ID 68, Page 2, Line 23, Pos (9,5)
+#, fuzzy
+msgid ""
+"\n"
+"「わっ　消えた……なんか\n"
+"　絵の具玉の時と　似てるわ」"
+msgstr ""
+"\n"
+" What could this be...\n"
+" A painting?"
+
+#. ID 27, Page 1, Line 27, Pos (17,10)
+#. ID 68, Page 1, Line 27, Pos (9,5)
+msgid ""
+"\n"
+"「もしかすると　これ\n"
+"　集めると　良いのかも\n"
+"　もっと　探してみましょ　イヴ！」"
+msgstr ""
+
+#. ID 27, Page 2, Line 5, Pos (17,10)
+#. ID 68, Page 2, Line 5, Pos (9,5)
+#, fuzzy
+msgid ""
+"\n"
+"「なにかしら　これ……絵？」"
+msgstr ""
+"\n"
+" Maybe we ought to\n"
+" collect all of these..."
+
+#. ID 27, Page 2, Line 27, Pos (17,10)
+#. ID 68, Page 2, Line 27, Pos (9,5)
+msgid ""
+"\n"
+"「もしかすると　これ\n"
+"　集めると　良いのかも……」"
+msgstr ""
+
+#. ID 64, Page 2, Line 1, Pos (5,4)
+msgid "イヴを置いては　いけない……"
+msgstr "You can't leave Ib behind..."
+
+#. ID 75, Page 1, Line 2, Pos (6,4)
+#. ID 75, Page 2, Line 2, Pos (6,4)
+#. ID 75, Page 3, Line 1, Pos (6,4)
+#. ID 75, Page 4, Line 1, Pos (6,4)
+#. ID 75, Page 5, Line 2, Pos (6,4)
+msgid ""
+"『サボテンの園』\n"
+"　小さく佇む　無数の植物\n"
+"　踏みつける者は　怒りを買うだろう"
+msgstr ""
+"\"Cactus Terrace\"\n"
+"A patch of countless little plants.\n"
+"Those who step on them\n"
+"will surely invite their rage."
+
+#. ID 75, Page 1, Line 7, Pos (6,4)
+#. ID 75, Page 5, Line 7, Pos (6,4)
+#, fuzzy
+msgid ""
+"『サボテンの？』\n"
+"　小さく？む　無数の植物\n"
+"　踏みつける者は　怒りを買うだろう"
+msgstr ""
+"\"Cactus ???\"\n"
+"A patch of countless little plants.\n"
+"Those who step on them\n"
+"will surely invite their rage."
+
+#. ID 75, Page 1, Line 10, Pos (6,4)
+#. ID 75, Page 5, Line 10, Pos (6,4)
+#, fuzzy
+msgid "難しくて　読めない字がある……"
+msgstr "You don't know this word..."
+
+#. ID 75, Page 2, Line 12, Pos (6,4)
+#, fuzzy
+msgid ""
+"\n"
+"「なによ　このサボテン迷路……」"
+msgstr ""
+"\n"
+" What? A maze of cacti...?"
+
+#. ID 75, Page 2, Line 21, Pos (6,4)
+#, fuzzy
+msgid ""
+"\n"
+"「向こうに物が　落ちてるけど……\n"
+"　なんだか　危なっかしいわね」"
+msgstr ""
+"\n"
+" There are things over there...\n"
+" But this is awfully dangerous."
+
+#. ID 75, Page 2, Line 32, Pos (6,4)
+#. Contains choice at line 3 (2 options)
+#, fuzzy
+msgid ""
+"「イヴ　ここで待ってる？\n"
+"　アタシ１人で　とってこようか？」"
+msgstr ""
+" Ib, wait here, okay?\n"
+" I'll get it myself."
+
+#. ID 75, Page 2, Line 34, Pos (6,4)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"一緒に行く\n"
+"ギャリーにまかせる"
+msgstr ""
+"We'll go together\n"
+"Go for it, Garry"
+
+#. ID 75, Page 2, Line 38, Pos (6,4)
+#, fuzzy
+msgid ""
+"\n"
+"「わかったわ　じゃあ\n"
+"　一緒に　行きましょうか」"
+msgstr ""
+"\n"
+" Alright...\n"
+" We'll go together, then."
+
+#. ID 75, Page 2, Line 42, Pos (6,4)
+#, fuzzy
+msgid ""
+"\n"
+"「くれぐれも　気を付けてね！」"
+msgstr ""
+"\n"
+" But be very careful!"
+
+#. ID 75, Page 2, Line 52, Pos (6,4)
+#, fuzzy
+msgid ""
+"\n"
+"「やっぱり……\n"
+"　その方が　良いわよね」"
+msgstr ""
+"\n"
+" Yes...\n"
+" I think that's a better idea."
+
+#. ID 75, Page 2, Line 56, Pos (6,4)
+#, fuzzy
+msgid ""
+"\n"
+"「オーケー　まかせて！\n"
+"　すぐ行って　すぐ戻るから！」"
+msgstr ""
+"\n"
+" Leave it to Garry!\n"
+" I'll be back in a flash!"
+
+#. ID 75, Page 2, Line 60, Pos (6,4)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴはここで　待っててね」"
+msgstr ""
+"\n"
+" Just wait here, Ib."
+
+#. ID 77, Page 1, Line 3, Pos (6,5)
+msgid "イヴは　赤い瞳でじっと見つめてくる……"
+msgstr "Ib's red eyes stare intently..."
+
+#. ID 77, Page 1, Line 9, Pos (6,5)
+msgid ""
+"\n"
+"「もし　なにかあったら\n"
+"　すぐに　逃げなさいね？」"
+msgstr ""
+"\n"
+" If anything happens,\n"
+" run away quick, okay?"
+
+#. ID 77, Page 1, Line 13, Pos (6,5)
+msgid "イヴは　頷いている……"
+msgstr "Ib nods..."
+
+#. ID 77, Page 1, Line 19, Pos (6,5)
+msgid ""
+"\n"
+"「え？　コートがトゲに\n"
+"　引っかからないかって？」"
+msgstr ""
+"\n"
+" Huh?\n"
+" Don't get thorns in my coat?"
+
+#. ID 77, Page 1, Line 23, Pos (6,5)
+msgid ""
+"\n"
+"「あはは　大丈夫よ\n"
+"　ちゃんとその辺も　気を付けるわ」"
+msgstr ""
+"\n"
+" Ahaha, okay!\n"
+" I'll watch out for that."
+
+#. ID 77, Page 2, Line 4, Pos (6,5)
+msgid ""
+"\n"
+"「おまたせ　イヴ\n"
+"　落ちてる物は　全部拾ったわ」"
+msgstr ""
+"\n"
+" Sorry for the wait, Ib.\n"
+" I got all the things over there."
+
+#. ID 77, Page 2, Line 8, Pos (6,5)
+msgid ""
+"\n"
+"「さ　次に行きましょ！」"
+msgstr ""
+"\n"
+" Now, let's move on!"
+
+#. ID 84, Page 2, Line 1, Pos (18,10)
+msgid "黒いバラが　散っている……"
+msgstr "Pieces of a black rose..."
+

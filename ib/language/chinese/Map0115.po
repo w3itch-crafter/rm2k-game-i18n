@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 1, Line 2, Pos (17,6)
+msgid "聴きたい曲の番号を　入力してください。"
+msgstr "請輸入想要聽的曲目編號。"
+
+#. ID 7, Page 1, Line 1, Pos (6,7)
+#. Contains choice at line 2 (3 options)
+msgid "パンフレットが置いてある……"
+msgstr "放著導覽手冊………"
+
+#. ID 7, Page 1, Line 2, Pos (6,7)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"真・ゲルテナ展とは？\n"
+"データの引き継ぎについて\n"
+"黒のカギは？"
+msgstr ""
+"真‧Guertena展是？\n"
+"關於存檔的繼承問題\n"
+"黑色鑰匙是？"
+
+#. ID 7, Page 1, Line 5, Pos (6,7)
+msgid ""
+"イヴが　今まで見てきた　美術品を\n"
+"明かりの下で　鑑賞することが　できます。"
+msgstr ""
+"可以在燈光下鑑賞\n"
+"Ib至今所看過的美術品。"
+
+#. ID 7, Page 1, Line 8, Pos (6,7)
+msgid ""
+"ただし「イヴ自身」が　美術品の「正式名称」を\n"
+"調べなければ　美術品は展示されません。\n"
+"（読めない　タイトルは\n"
+"ギャリーに読んでもらいましょう）"
+msgstr ""
+"但是，如果美術品的「正式名稱」\n"
+"沒有被「Ib本人」調查過，\n"
+"該美術品就不會展示出來。\n"
+"（不會唸的標題就請Garry唸吧。）"
+
+#. ID 7, Page 1, Line 13, Pos (6,7)
+msgid ""
+"また　エンディングを１つ　見るごとに\n"
+"真・ゲルテナ展のどこかに\n"
+"キャラクターが　１人出現します。\n"
+"最大で　４人まで増えます。"
+msgstr ""
+"此外，每開出一個ED，\n"
+"真‧Guertena展的某處就會出現一個角色。\n"
+"最多可以增加到4人。"
+
+#. ID 7, Page 1, Line 20, Pos (6,7)
+#, fuzzy
+msgid ""
+"各エンディングを　見たあとに\n"
+"そのデータのまま　新しくゲームをはじめると\n"
+"今までに見た　美術品やエンディングの記録を\n"
+"引きつぐことができます。"
+msgstr ""
+"如果使用各ED後的存檔來進行新一輪的遊戲，\n"
+"就可以繼承至今看過的美術品或是ED資料。"
+
+#. ID 7, Page 1, Line 25, Pos (6,7)
+#, fuzzy
+msgid ""
+"データを引きつぐと　以前調べた美術品や\n"
+"見たエンディング数が　リセットされずに\n"
+"再び　真・ゲルテナ展に来た時に\n"
+"展示されたままに　なります。"
+msgstr ""
+"只要用繼承存檔進行遊戲，\n"
+"開啟過的ED數就不會被重設，\n"
+"也會持續展示在真‧Guertena展。"
+
+#. ID 7, Page 1, Line 30, Pos (6,7)
+#, fuzzy
+msgid ""
+"ただし　引きつぎデータは１つだけなので\n"
+"他のセーブデータを　上書きしたり\n"
+"NEW GAMEからはじめると　消えてしまいます。"
+msgstr ""
+"但是，由於繼承檔只會有一個，\n"
+"如果用其他的存檔覆蓋掉，\n"
+"或是選「新遊戲」重新開始遊戲的話，檔案就會消失。"
+
+#. ID 7, Page 1, Line 36, Pos (6,7)
+#, fuzzy
+msgid ""
+"黒のカギは　一度使用すれば\n"
+"次からは　手に入れなくても\n"
+"真・ゲルテナ展に　入る事ができます。"
+msgstr ""
+"黑色鑰匙只要使用過一次，\n"
+"接下來就算沒有取得黑色鑰匙，\n"
+"也能進入真‧Guertena展。"
+
+#. ID 7, Page 1, Line 40, Pos (6,7)
+#, fuzzy
+msgid ""
+"ただし　真・ゲルテナ展は\n"
+"イヴが　美術館を脱出した後にしか\n"
+"入れないので　注意しましょう。"
+msgstr ""
+"但是請注意，\n"
+"只有Ib順利逃出美術館之後，\n"
+"才能進入真‧Guertena展。"
+
+#. ID 13, Page 1, Line 1, Pos (8,7)
+msgid "「真・ゲルテナ展へ　ようこそ」"
+msgstr "「歡迎來到真‧Guertena展。」"
+
+#. ID 13, Page 1, Line 2, Pos (8,7)
+msgid ""
+"「ここでは　イヴ様が\n"
+"　冒険の中で　見つけた\n"
+"　美術品を　ご覧になれます」"
+msgstr ""
+"「在這裡，可以鑑賞Ib小姐在冒險途中\n"
+"　所發現的美術品。」"
+
+#. ID 13, Page 1, Line 5, Pos (8,7)
+#, fuzzy
+msgid ""
+"「ちなみに……タイトルのついた美術品は\n"
+"　正式な作品名が　おわかりでなければ\n"
+"　展示されないので　ご注意ください」"
+msgstr ""
+"「順帶一提……有標題的美術品，\n"
+"　必須知道正式的作品名稱，\n"
+"　才會展示出來，請特別留意。」"
+
+#. ID 13, Page 1, Line 8, Pos (8,7)
+#, fuzzy
+msgid "「それでは　ごゆっくり　お楽しみくださいませ」"
+msgstr "「那麼，請盡情欣賞吧。」"
+
+#. ID 14, Page 1, Line 1, Pos (0,8)
+#. Contains choice at line 2 (2 options)
+msgid "真・ゲルテナ展を出ますか？"
+msgstr "要離開真‧Guertena展嗎？"
+
+#. ID 14, Page 1, Line 2, Pos (0,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"まだ出ない\n"
+"出る"
+msgstr ""
+"還不要離開\n"
+"離開"
+

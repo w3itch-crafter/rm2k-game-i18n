@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 1, Line 2, Pos (12,8)
+#. ID 5, Page 6, Line 2, Pos (12,8)
+#. ID 6, Page 1, Line 2, Pos (13,8)
+#. ID 6, Page 6, Line 2, Pos (13,8)
+msgid "カギが　かかっている……"
+msgstr "It's locked..."
+
+#. ID 5, Page 1, Line 4, Pos (12,8)
+#. ID 6, Page 1, Line 4, Pos (13,8)
+msgid "ドアに　ハートの記号が描かれている……"
+msgstr "There's a heart symbol on the door..."
+
+#. ID 5, Page 2, Line 2, Pos (12,8)
+#. ID 6, Page 2, Line 2, Pos (13,8)
+msgid "プラスチックのカギを　使った。"
+msgstr "Used the Plastic Key."
+

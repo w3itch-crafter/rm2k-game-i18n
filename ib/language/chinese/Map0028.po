@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 1, Pos (9,10)
+msgid "ドアの向こうに　気配を感じる……"
+msgstr "覺得門的另一邊好像有人在……"
+
+#. ID 4, Page 1, Line 2, Pos (6,8)
+#. ID 4, Page 2, Line 2, Pos (6,8)
+msgid "『キャンバスの中の女たち』"
+msgstr "『畫布中的女人們』"
+
+#. ID 4, Page 1, Line 4, Pos (6,8)
+msgid ""
+"『ここの女性は　すぐに人の物を欲しがる\n"
+"　目をつけられると　大変？？である』"
+msgstr ""
+"『這裡的女性　一看到別人的東西就會想要\n"
+"　如果被盯上了　那將是非常？？的事情』"
+
+#. ID 4, Page 1, Line 7, Pos (6,8)
+msgid ""
+"『なんせ彼女たちは　自分が満足するまで\n"
+"　？？に　追いかけてくるからである』"
+msgstr ""
+"『那是因為她們　在滿足自己的慾望前\n"
+"　會？？？？地追過來』"
+
+#. ID 4, Page 1, Line 10, Pos (6,8)
+#. ID 4, Page 2, Line 10, Pos (6,8)
+msgid "『どこまでも　どこまでも　どこまでも……』"
+msgstr "『無論到何處　無論到何處　無論到何處……』"
+
+#. ID 4, Page 1, Line 12, Pos (6,8)
+#. ID 4, Page 2, Line 12, Pos (6,8)
+msgid ""
+"『弱点があるとすれば　彼女たちは自分で\n"
+"　扉を開けることが　できないことだ』"
+msgstr ""
+"『要說她們有什麼弱點\n"
+"　那就是她們無法自己開門』"
+
+#. ID 4, Page 1, Line 14, Pos (6,8)
+msgid "難しくて　読めない字がある……"
+msgstr "有些字太難了，看不懂……"
+
+#. ID 4, Page 2, Line 4, Pos (6,8)
+msgid ""
+"『ここの女性は　すぐに人の物を欲しがる\n"
+"　目をつけられると　大変厄介である』"
+msgstr ""
+"『這裡的女性　一看到別人的東西就會想要\n"
+"　如果被盯上了　那將是非常麻煩的事情』"
+
+#. ID 4, Page 2, Line 7, Pos (6,8)
+msgid ""
+"『なんせ彼女たちは　自分が満足するまで\n"
+"　執拗に　追いかけてくるからである』"
+msgstr ""
+"『那是因為她們　在滿足自己的慾望前\n"
+"　會鍥而不捨地追過來』"
+
+#. ID 5, Page 1, Line 2, Pos (13,5)
+msgid "『世界の美術館』"
+msgstr "『世界的美術館』"
+
+#. ID 5, Page 1, Line 3, Pos (13,5)
+msgid "色々な美術館の　写真がのっている……"
+msgstr "刊載著各式各樣的美術館的照片……"
+
+#. ID 6, Page 1, Line 3, Pos (6,5)
+msgid ""
+"『うごくえほん　　作/絵　XXXX\n"
+"　“うっかりさんとガレッド・デ・ロワ”』"
+msgstr ""
+"『會動的繪本　文‧圖　XXXX\n"
+"　“迷糊蟲與Galette des Rois”』"
+
+#. ID 6, Page 1, Line 5, Pos (6,5)
+#. Contains choice at line 2 (2 options)
+msgid "……クレヨンで　描かれた絵本だ……"
+msgstr "……是用蠟筆畫的繪本……"
+
+#. ID 6, Page 1, Line 6, Pos (6,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"読む\n"
+"やめておく"
+msgstr ""
+"讀讀看\n"
+"算了"
+
+#. ID 6, Page 1, Line 9, Pos (6,5)
+msgid "本をめくった……"
+msgstr "將書本翻開……"
+
+#. ID 6, Page 1, Line 18, Pos (6,5)
+msgid "何かの音がした……"
+msgstr "不知名的聲音響起……"
+
+#. ID 6, Page 2, Line 2, Pos (6,5)
+msgid "先ほどの絵本が　見当たらない……"
+msgstr "剛才的繪本不見了……"
+
+#. ID 7, Page 1, Line 2, Pos (11,8)
+msgid "『ゲルテナ』"
+msgstr "『Guertena』"
+
+#. ID 7, Page 1, Line 3, Pos (11,8)
+msgid "ゲルテナが描いた　色々な絵がのっている……"
+msgstr "刊載著Guertena所畫的各種繪畫……"
+
+#. ID 8, Page 1, Line 2, Pos (14,8)
+msgid "本の間に　紙切れがはさまっている……"
+msgstr "兩本書之間，夾著一張小紙條……"
+
+#. ID 8, Page 1, Line 3, Pos (14,8)
+msgid "“た　の　し　い　？”"
+msgstr "“　好　玩　嗎　？”"
+
+#. ID 9, Page 1, Line 2, Pos (9,4)
+msgid "カギが　かかっている……"
+msgstr "門鎖住了……"
+

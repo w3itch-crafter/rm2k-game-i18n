@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 8, Page 1, Line 1, Pos (16,11)
+#. ID 9, Page 1, Line 1, Pos (6,11)
+#. ID 10, Page 1, Line 1, Pos (12,11)
+#. ID 11, Page 1, Line 1, Pos (2,11)
+#. ID 12, Page 1, Line 1, Pos (5,18)
+#. ID 13, Page 1, Line 1, Pos (14,11)
+#. ID 14, Page 1, Line 1, Pos (13,18)
+#. ID 33, Page 1, Line 1, Pos (14,5)
+#. ID 34, Page 1, Line 1, Pos (9,5)
+#. ID 39, Page 1, Line 1, Pos (4,11)
+msgid "真っ白な　プレートがある……"
+msgstr "全白的標示牌……"
+
+#. ID 8, Page 2, Line 1, Pos (16,11)
+msgid "『ピエロ』"
+msgstr "『小丑』"
+
+#. ID 9, Page 2, Line 1, Pos (6,11)
+msgid "『寡黙な視線』"
+msgstr "『寡言的視線』"
+
+#. ID 10, Page 2, Line 1, Pos (12,11)
+msgid "『皮と鱗』"
+msgstr "『皮與鱗』"
+
+#. ID 11, Page 2, Line 1, Pos (2,11)
+msgid "『天の糸』"
+msgstr "『天之絲』"
+
+#. ID 12, Page 2, Line 1, Pos (5,18)
+msgid "『カサを差す乙女』"
+msgstr "『撐著雨傘的少女』"
+
+#. ID 13, Page 2, Line 1, Pos (14,11)
+msgid "『告げ口』"
+msgstr "『告知之口』"
+
+#. ID 14, Page 2, Line 1, Pos (13,18)
+msgid "『釣り人』"
+msgstr "『垂釣者』"
+
+#. ID 33, Page 2, Line 1, Pos (14,5)
+msgid "『幻』"
+msgstr "『幻』"
+
+#. ID 34, Page 2, Line 1, Pos (9,5)
+msgid "『憧れ』"
+msgstr "『憧憬』"
+
+#. ID 37, Page 1, Line 1, Pos (9,18)
+msgid "『１つの鍵穴』"
+msgstr "『一個鑰匙孔』"
+
+#. ID 39, Page 2, Line 1, Pos (4,11)
+msgid "『落下した星』"
+msgstr "『墜落之星』"
+

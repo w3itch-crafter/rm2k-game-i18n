@@ -1,0 +1,298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 1, Line 1, Pos (7,5)
+#. ID 6, Page 2, Line 1, Pos (7,5)
+msgid "『月夜に散る儚き想い』"
+msgstr "\"Fleeting Thoughts on a Moonlit Night\""
+
+#. ID 6, Page 1, Line 5, Pos (7,5)
+msgid ""
+"\n"
+"「わぁー　きれい！\n"
+"　これ　なにかな？」"
+msgstr ""
+"\n"
+" Wooow, pretty!\n"
+" I wonder what this is?"
+
+#. ID 6, Page 1, Line 9, Pos (7,5)
+msgid ""
+"\n"
+"「桜か　梅じゃない？\n"
+"　どっちかわかんないけど……」"
+msgstr ""
+"\n"
+" A cherry blossom? Plum tree?\n"
+" I'm not too sure which..."
+
+#. ID 6, Page 1, Line 13, Pos (7,5)
+msgid ""
+"\n"
+"「ふーん……食べられるの？」"
+msgstr ""
+"\n"
+" Hmm... Can you eat it?"
+
+#. ID 6, Page 1, Line 16, Pos (7,5)
+msgid ""
+"\n"
+"「………いや　これ花だから」"
+msgstr ""
+"\n"
+" .....Er. It's a tree, dear."
+
+#. ID 6, Page 1, Line 19, Pos (7,5)
+msgid ""
+"\n"
+"「なーんだ！」"
+msgstr ""
+"\n"
+" Ooopsie!"
+
+#. ID 7, Page 1, Line 1, Pos (21,5)
+#. ID 7, Page 2, Line 1, Pos (21,5)
+msgid "『ミルクパズル』"
+msgstr "\"Milk Puzzle\""
+
+#. ID 7, Page 1, Line 4, Pos (21,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「イヴ　ミルクパズルって知ってる？」"
+msgstr ""
+"\n"
+" Ib, have you heard of milk puzzles?"
+
+#. ID 7, Page 1, Line 6, Pos (21,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"知ってる\n"
+"知らない"
+msgstr ""
+"I have\n"
+"I haven't"
+
+#. ID 7, Page 1, Line 8, Pos (21,5)
+msgid ""
+"\n"
+"「あら　ホント！\n"
+"　アタシあれ　苦手なのよねー」"
+msgstr ""
+"\n"
+" My, so you have!\n"
+" Well, I'm not very good at them."
+
+#. ID 7, Page 1, Line 12, Pos (21,5)
+msgid ""
+"\n"
+"「昔やったこと　あるんだけど\n"
+"　同じような　ピースばっかで\n"
+"　全然　進まなくてさー……」"
+msgstr ""
+"\n"
+" I tried one once, a long time ago,\n"
+" but I couldn't make any progress\n"
+" with all the pieces the same..."
+
+#. ID 7, Page 1, Line 17, Pos (21,5)
+msgid ""
+"\n"
+"「頭にきたから　テキトーに\n"
+"　はめ込んで　完成させちゃったわ」"
+msgstr ""
+"\n"
+" I got so fed up, I ended up just\n"
+" forcing all the pieces together."
+
+#. ID 7, Page 1, Line 21, Pos (21,5)
+msgid ""
+"\n"
+"「そのあと　パズルがはじけ飛んで\n"
+"　大変なことに　なったけどね！」"
+msgstr ""
+"\n"
+" Of course, it'd be a real problem\n"
+" if someone flipped the puzzle\n"
+" after doing that!"
+
+#. ID 7, Page 1, Line 27, Pos (21,5)
+#, fuzzy
+msgid ""
+"\n"
+"「まぁ　その名の通り\n"
+"　ミルクのように　真っ白な\n"
+"　パズルのことよ」"
+msgstr ""
+"\n"
+" Well, as the name implies,\n"
+" it's a puzzle where all the\n"
+" pieces are white like milk."
+
+#. ID 7, Page 1, Line 32, Pos (21,5)
+#, fuzzy
+msgid ""
+"\n"
+"「絵がついてないから\n"
+"　普通のパズルより　難しいんですって」"
+msgstr ""
+"\n"
+" Since there's no picture on them,\n"
+" they're much harder\n"
+" than regular puzzles."
+
+#. ID 7, Page 1, Line 35, Pos (21,5)
+#, fuzzy
+msgid ""
+"\n"
+"「頭が良い人は　すぐ\n"
+"　完成できる　らしいけど……」"
+msgstr ""
+"\n"
+" Very smart people can finish them\n"
+" in no time at all, but..."
+
+#. ID 7, Page 1, Line 39, Pos (21,5)
+#, fuzzy
+msgid ""
+"\n"
+"「正直　面白くないわよ\n"
+"　だって絵が　ついてないんだもん」"
+msgstr ""
+"\n"
+" To be honest, they're not exciting.\n"
+" Since they don't even make\n"
+" a picture in the end..."
+
+#. ID 7, Page 1, Line 43, Pos (21,5)
+#, fuzzy
+msgid ""
+"\n"
+"「好きな絵が　パズルになってこそ\n"
+"　やりがいが　あるってもんよね」"
+msgstr ""
+"\n"
+" It feels much more worth it to\n"
+" do a puzzle of a picture you like."
+
+#. ID 20, Page 1, Line 1, Pos (17,19)
+#. ID 20, Page 2, Line 1, Pos (17,19)
+msgid "『日誌』"
+msgstr "\"Diary\""
+
+#. ID 20, Page 1, Line 3, Pos (17,19)
+#. ID 20, Page 2, Line 3, Pos (17,19)
+msgid ""
+"『ヒトの想いが　こもった物には\n"
+"　魂が宿ると　言われている』"
+msgstr ""
+"\"It's said that spirits dwell in objects\n"
+"into which people put their feelings.\""
+
+#. ID 20, Page 1, Line 6, Pos (17,19)
+#. ID 20, Page 2, Line 6, Pos (17,19)
+msgid ""
+"『それならば　作品でも\n"
+"　同じことが　できるのでは　と\n"
+"　私は常に　考えている』"
+msgstr ""
+"\"I've always thought that, if that's true,\n"
+"then the same must be true of artwork.\""
+
+#. ID 20, Page 1, Line 10, Pos (17,19)
+#. ID 20, Page 2, Line 10, Pos (17,19)
+#, fuzzy
+msgid ""
+"『そして　今日も私は\n"
+"　自分の魂を　分けるつもりで\n"
+"　作品作りに　没頭している』"
+msgstr ""
+"\"So today, I shall immerse myself in work,\n"
+"so as to impart my own spirit into my creations.\""
+
+#. ID 20, Page 1, Line 15, Pos (17,19)
+#. ID 20, Page 2, Line 15, Pos (17,19)
+#, fuzzy
+msgid ""
+"\n"
+"「うそ　これだけ……？\n"
+"　出口の場所くらい\n"
+"　書いときなさいよね」"
+msgstr ""
+"\n"
+" Is that really all it says...?\n"
+" You could have said\n"
+" something about the exit!"
+
+#. ID 20, Page 1, Line 20, Pos (17,19)
+#. ID 20, Page 2, Line 20, Pos (17,19)
+#, fuzzy
+msgid ""
+"\n"
+"「さっさと　出ましょ！　イヴ！」"
+msgstr ""
+"\n"
+" Let's get out of here, Ib!"
+
+#. ID 22, Page 1, Line 10, Pos (5,20)
+msgid ""
+"\n"
+"「入口　閉まっちゃったわよ！？」"
+msgstr ""
+"\n"
+" T-The exit's blocked?!"
+
+#. ID 26, Page 1, Line 1, Pos (28,6)
+msgid "マネキンの　首がある……"
+msgstr "A mannequin head..."
+
+#. ID 29, Page 1, Line 2, Pos (6,14)
+#. ID 29, Page 2, Line 1, Pos (6,14)
+msgid "『赤いボタン』"
+msgstr "\"Red Button\""
+
+#. ID 29, Page 1, Line 4, Pos (6,14)
+#. Contains choice at line 2 (2 options)
+msgid "赤いボタンが　ある……"
+msgstr "There's a red button..."
+
+#. ID 29, Page 1, Line 5, Pos (6,14)
+#. Choice (2 options, embedded in a message)
+#. ID 30, Page 1, Line 5, Pos (12,14)
+#. Choice (2 options, embedded in a message)
+#. ID 34, Page 1, Line 5, Pos (18,14)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"押す\n"
+"押さない"
+msgstr ""
+"Press\n"
+"Don't press"
+
+#. ID 30, Page 1, Line 2, Pos (12,14)
+#. ID 30, Page 2, Line 1, Pos (12,14)
+msgid "『青いボタン』"
+msgstr "\"Blue Button\""
+
+#. ID 30, Page 1, Line 4, Pos (12,14)
+#. Contains choice at line 2 (2 options)
+msgid "青いボタンが　ある……"
+msgstr "There's a blue button..."
+
+#. ID 34, Page 1, Line 2, Pos (18,14)
+#. ID 34, Page 2, Line 1, Pos (18,14)
+msgid "『緑のボタン』"
+msgstr "\"Green Button\""
+
+#. ID 34, Page 1, Line 4, Pos (18,14)
+#. Contains choice at line 2 (2 options)
+msgid "緑のボタンが　ある……"
+msgstr "There's a green button..."
+

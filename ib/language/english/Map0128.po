@@ -1,0 +1,467 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (8,18)
+#. Contains choice at line 2 (3 options)
+#. ID 1, Page 2, Line 1, Pos (8,18)
+#. Contains choice at line 2 (2 options)
+#. ID 1, Page 3, Line 1, Pos (8,18)
+#. Contains choice at line 2 (2 options)
+msgid "ダイヤの形をした　真っ黒なベッドがある……"
+msgstr "A black diamond-shaped bed..."
+
+#. ID 1, Page 1, Line 3, Pos (8,18)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"触らないでおく\n"
+"寝てみる\n"
+"観察してみる"
+msgstr ""
+"Don't touch it\n"
+"Sleep on it\n"
+"Observe"
+
+#. ID 1, Page 1, Line 10, Pos (8,18)
+msgid ""
+"\n"
+"「待ちなさい　イヴ！」"
+msgstr ""
+"\n"
+" Wait, Ib!"
+
+#. ID 1, Page 1, Line 13, Pos (8,18)
+msgid ""
+"\n"
+"「この作品……なんか嫌な感じがする\n"
+"　あんまり　近づかない方が　良いわ」"
+msgstr ""
+"\n"
+" This piece... gives me a bad feeling.\n"
+" I think we should stay away."
+
+#. ID 1, Page 1, Line 31, Pos (8,18)
+msgid "「イヴ……」"
+msgstr "\"Ib...\""
+
+#. ID 1, Page 1, Line 33, Pos (8,18)
+#. Contains choice at line 2 (2 options)
+msgid "聞き覚えのある　声がする……"
+msgstr "You hear a familiar voice..."
+
+#. ID 1, Page 1, Line 34, Pos (8,18)
+#. Choice (2 options, embedded in a message)
+#. ID 1, Page 1, Line 58, Pos (8,18)
+#. Choice (2 options, embedded in a message)
+#. ID 1, Page 1, Line 82, Pos (8,18)
+#. Choice (2 options, embedded in a message)
+#. ID 1, Page 1, Line 120, Pos (8,18)
+#. Choice (2 options, embedded in a message)
+#. ID 1, Page 1, Line 145, Pos (8,18)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"目を閉じたままでいる\n"
+"目を開ける"
+msgstr ""
+"Keep eyes closed\n"
+"Open eyes"
+
+#. ID 1, Page 1, Line 41, Pos (8,18)
+msgid ""
+"\n"
+"「誕生日おめでとう　イヴ！\n"
+"　ふふ　今日はごちそうよ」"
+msgstr ""
+"\n"
+" Happy birthday, Ib!\n"
+" Hee... I'll treat you today!"
+
+#. ID 1, Page 1, Line 45, Pos (8,18)
+msgid ""
+"\n"
+"「ケーキも　ほら！\n"
+"　イヴの好きな　イチゴが乗ってるの\n"
+"　今日は　特別だからね」"
+msgstr ""
+"\n"
+" Here's a cake with\n"
+" your favorite strawberries!\n"
+" Special just for today!"
+
+#. ID 1, Page 1, Line 50, Pos (8,18)
+msgid ""
+"\n"
+"「おめでとう　イヴ\n"
+"　もう９歳か……大きくなったなぁ」"
+msgstr ""
+"\n"
+" Congrats, Ib!\n"
+" Nine already... You've grown!"
+
+#. ID 1, Page 1, Line 53, Pos (8,18)
+msgid ""
+"\n"
+"「この前まで\n"
+"　あんなに　小さかったのにね……」"
+msgstr ""
+"\n"
+" You used to be such\n"
+" a small girl..."
+
+#. ID 1, Page 1, Line 57, Pos (8,18)
+#. Contains choice at line 2 (2 options)
+msgid "これは　誕生日の時の記憶だ……"
+msgstr "Memories of your birthday..."
+
+#. ID 1, Page 1, Line 63, Pos (8,18)
+msgid ""
+"\n"
+"「まだまだ　これからよ\n"
+"　ね？　イヴ」"
+msgstr ""
+"\n"
+" There's still a lot more\n"
+" to go, huh, Ib?"
+
+#. ID 1, Page 1, Line 67, Pos (8,18)
+msgid ""
+"\n"
+"「そうか　楽しみにしてるよ\n"
+"　………ん？　あぁ　これか」"
+msgstr ""
+"\n"
+" Yeah, I look forward to it!\n"
+" ...Hm? Hey, you..."
+
+#. ID 1, Page 1, Line 71, Pos (8,18)
+msgid ""
+"\n"
+"「あはは　見つかっちゃったな\n"
+"　じゃあ　ちょっと早いけど……」"
+msgstr ""
+"\n"
+" Ahaha, you found it...\n"
+" Well, this is a little early..."
+
+#. ID 1, Page 1, Line 74, Pos (8,18)
+msgid ""
+"\n"
+"「ほら！\n"
+"　お父さんからの　誕生日プレゼントだ」"
+msgstr ""
+"\n"
+" But hey! A birthday present\n"
+" from your father!"
+
+#. ID 1, Page 1, Line 78, Pos (8,18)
+msgid ""
+"\n"
+"「いいよ　開けてごらん」"
+msgstr ""
+"\n"
+" Go on, open it!"
+
+#. ID 1, Page 1, Line 81, Pos (8,18)
+#. Contains choice at line 2 (2 options)
+msgid "おとうさんから　プレゼントをもらった……"
+msgstr "You got a present from father..."
+
+#. ID 1, Page 1, Line 88, Pos (8,18)
+msgid "大きなウサギの　ぬいぐるみが入っている……"
+msgstr "There's a big stuffed rabbit inside..."
+
+#. ID 1, Page 1, Line 91, Pos (8,18)
+msgid ""
+"\n"
+"「どうだい？　イヴ\n"
+"　こんなに大きい　ウサギは\n"
+"　なかなか　いないだろう！」"
+msgstr ""
+"\n"
+" Well, Ib?\n"
+" There aren't many bunnies\n"
+" that big out there!"
+
+#. ID 1, Page 1, Line 96, Pos (8,18)
+msgid ""
+"\n"
+"「ちょっと　あなた……\n"
+"　ぬいぐるみは　やめてって\n"
+"　言ったじゃないの」"
+msgstr ""
+"\n"
+" Now, honey...\n"
+" Didn't I tell you she was\n"
+" too old for stuffed animals?"
+
+#. ID 1, Page 1, Line 101, Pos (8,18)
+msgid ""
+"\n"
+"「え　そうだっけ？」"
+msgstr ""
+"\n"
+" Huh? Did you?"
+
+#. ID 1, Page 1, Line 104, Pos (8,18)
+msgid ""
+"\n"
+"「そうよ！　イヴの部屋は　もう\n"
+"　ウサギで　いっぱいじゃない\n"
+"　これ以上増やして　どうするの！」"
+msgstr ""
+"\n"
+" I did! Ib's room is already\n"
+" full of bunnies as it is!\n"
+" It hardly needs any more!"
+
+#. ID 1, Page 1, Line 109, Pos (8,18)
+msgid ""
+"\n"
+"「い　いやぁ　でも……\n"
+"　あ　ホラ！\n"
+"　イヴは　喜んでくれてるよ！」"
+msgstr ""
+"\n"
+" W-Well, but...\n"
+" L-Look!\n"
+" Ib loves it!"
+
+#. ID 1, Page 1, Line 114, Pos (8,18)
+msgid ""
+"\n"
+"「もう……仕方ないわね……\n"
+"　それじゃあ　イヴ\n"
+"　私からも　プレゼント」"
+msgstr ""
+"\n"
+" Ugh... Fine...\n"
+" Anyway, Ib,\n"
+" here's my own present!"
+
+#. ID 1, Page 1, Line 119, Pos (8,18)
+#. Contains choice at line 2 (2 options)
+msgid "頭が　ぼーっとする……"
+msgstr "You're spacing out..."
+
+#. ID 1, Page 1, Line 125, Pos (8,18)
+msgid ""
+"\n"
+"「アナタの　名前が入ったハンカチ\n"
+"　お店で　作ってもらったのよ」"
+msgstr ""
+"\n"
+" A handkerchief\n"
+" with your name on it!\n"
+" I had them make it at the store."
+
+#. ID 1, Page 1, Line 129, Pos (8,18)
+#, fuzzy
+msgid ""
+"\n"
+"「レースのハンカチかぁ……\n"
+"　イヴにはちょっと　早くないかい？」"
+msgstr ""
+"\n"
+" A lace handkerchief...\n"
+" Isn't that a little... soon for Ib?"
+
+#. ID 1, Page 1, Line 133, Pos (8,18)
+#, fuzzy
+msgid ""
+"\n"
+"「良いのよ　この子\n"
+"　物を　大事にしすぎて　なかなか\n"
+"　新しい物　買わせてくれないんだもの」"
+msgstr ""
+"\n"
+" She's fine! She's very careful\n"
+" with things. We don't need to\n"
+" buy her new ones very often!"
+
+#. ID 1, Page 1, Line 137, Pos (8,18)
+#, fuzzy
+msgid ""
+"\n"
+"「それなら　はじめから\n"
+"　良い物　持たせたいわ」"
+msgstr ""
+"\n"
+" So of course I want her to\n"
+" have good things early on."
+
+#. ID 1, Page 1, Line 141, Pos (8,18)
+#, fuzzy
+msgid ""
+"\n"
+"「なるほど……」"
+msgstr ""
+"\n"
+" I suppose..."
+
+#. ID 1, Page 1, Line 144, Pos (8,18)
+#. Contains choice at line 2 (2 options)
+#, fuzzy
+msgid "……………………"
+msgstr ".........."
+
+#. ID 1, Page 1, Line 149, Pos (8,18)
+#, fuzzy
+msgid ""
+"\n"
+"「……あら　イヴ　眠たいの？」"
+msgstr ""
+"\n"
+" ...Oh, Ib, are you sleepy?"
+
+#. ID 1, Page 1, Line 152, Pos (8,18)
+#, fuzzy
+msgid ""
+"\n"
+"「珍しく　はしゃいでたからなぁ\n"
+"　疲れたんじゃないか？」"
+msgstr ""
+"\n"
+" You were really having fun...\n"
+" You must be tired, right?"
+
+#. ID 1, Page 1, Line 156, Pos (8,18)
+#, fuzzy
+msgid ""
+"\n"
+"\\s[2]「うふふ　そうかもね\n"
+"　イヴ　ちょっとだけ　寝たらどう？」"
+msgstr ""
+"\n"
+" \\s[2]Heehee, maybe so...\n"
+" How about you rest, Ib?"
+
+#. ID 1, Page 1, Line 160, Pos (8,18)
+#, fuzzy
+msgid ""
+"\n"
+"\\s[2]「起きてから　パーティの\n"
+"　続きを　しましょうか」"
+msgstr ""
+"\n"
+" \\s[2]We can keep partying\n"
+" when you wake up, okay?"
+
+#. ID 1, Page 1, Line 164, Pos (8,18)
+#, fuzzy
+msgid ""
+"\n"
+"\\s[3]「そうだね　それが良いよ\n"
+"　ゆっくりおやすみ　イヴ」"
+msgstr ""
+"\n"
+" \\s[3]Yes, that would be nice.\n"
+" Sleep well, Ib..."
+
+#. ID 1, Page 1, Line 168, Pos (8,18)
+#, fuzzy
+msgid ""
+"\n"
+"\\s[4]「おやすみなさい…………」"
+msgstr ""
+"\n"
+" \\s[4]Good night..."
+
+#. ID 1, Page 1, Line 223, Pos (8,18)
+#, fuzzy
+msgid "……………！"
+msgstr "You lost some petals..."
+
+#. ID 1, Page 1, Line 224, Pos (8,18)
+msgid "バラの花びらが　減っている……"
+msgstr ".....!"
+
+#. ID 1, Page 1, Line 234, Pos (8,18)
+#. ID 1, Page 2, Line 6, Pos (8,18)
+#, fuzzy
+msgid "……なぜか　懐かしいにおいがする……"
+msgstr "...It has a strangely nostalgic smell..."
+
+#. ID 1, Page 2, Line 2, Pos (8,18)
+#. Choice (2 options, embedded in a message)
+#. ID 1, Page 3, Line 2, Pos (8,18)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"触らないでおく\n"
+"観察してみる"
+msgstr ""
+"Don't touch it\n"
+"Observe"
+
+#. ID 1, Page 3, Line 6, Pos (8,18)
+msgid "……かすかに　炭のような　においがする……"
+msgstr "...It smells faintly of ash..."
+
+#. ID 4, Page 1, Line 2, Pos (9,7)
+#. Contains choice at line 2 (2 options)
+msgid "箱が置いてある……"
+msgstr "A box..."
+
+#. ID 4, Page 1, Line 3, Pos (9,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"開ける\n"
+"開けない"
+msgstr ""
+"Open\n"
+"Don't open"
+
+#. ID 4, Page 1, Line 10, Pos (9,7)
+msgid ""
+"\n"
+"「何これ……なにも\n"
+"　入ってない　じゃない……ん？」"
+msgstr ""
+"\n"
+" What... there's nothing in here...!\n"
+" Hm?"
+
+#. ID 4, Page 1, Line 17, Pos (9,7)
+msgid "箱の底に　小さく何かが光っている……"
+msgstr "Something small shines deep in the box..."
+
+#. ID 4, Page 1, Line 19, Pos (9,7)
+msgid "黒のカギを　手に入れた。"
+msgstr "Obtained the Black Key."
+
+#. ID 4, Page 1, Line 24, Pos (9,7)
+msgid "大きな箱は　消えてしまった……"
+msgstr "The large box vanished..."
+
+#. ID 5, Page 1, Line 1, Pos (9,22)
+msgid "『最後の舞台』"
+msgstr "\"Final Stage\""
+
+#. ID 8, Page 1, Line 1, Pos (5,22)
+#. Contains choice at line 2 (2 options)
+msgid "水の入った花瓶がある……"
+msgstr "A vase full of water..."
+
+#. ID 8, Page 1, Line 2, Pos (5,22)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"バラを活ける\n"
+"活けない"
+msgstr ""
+"Place rose\n"
+"Don't place"
+
+#. ID 8, Page 1, Line 9, Pos (5,22)
+msgid "バラの花が　元気になった！"
+msgstr "The rose returned to health!"
+
+#. ID 8, Page 1, Line 12, Pos (5,22)
+msgid "花瓶の水が　なくなってしまった……"
+msgstr "The vase is out of water..."
+

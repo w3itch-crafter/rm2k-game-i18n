@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 1, Pos (9,10)
+msgid "ドアの向こうに　気配を感じる……"
+msgstr "You sense something on the other side..."
+
+#. ID 4, Page 1, Line 2, Pos (6,8)
+#. ID 4, Page 2, Line 2, Pos (6,8)
+msgid "『キャンバスの中の女たち』"
+msgstr "\"The Girls in the Canvas\""
+
+#. ID 4, Page 1, Line 4, Pos (6,8)
+msgid ""
+"『ここの女性は　すぐに人の物を欲しがる\n"
+"　目をつけられると　大変？？である』"
+msgstr ""
+"\"The women here quickly become fond of any\n"
+"humans they see. Once they set their sights,\n"
+"they become quite ???.\""
+
+#. ID 4, Page 1, Line 7, Pos (6,8)
+#, fuzzy
+msgid ""
+"『なんせ彼女たちは　自分が満足するまで\n"
+"　？？に　追いかけてくるからである』"
+msgstr ""
+"\"They'll continue to ??? chase you\n"
+"until they're satisfied, it seems...\""
+
+#. ID 4, Page 1, Line 10, Pos (6,8)
+#. ID 4, Page 2, Line 10, Pos (6,8)
+#, fuzzy
+msgid "『どこまでも　どこまでも　どこまでも……』"
+msgstr ""
+"\"Anywhere, everywhere,\n"
+"to the ends of the earth...\""
+
+#. ID 4, Page 1, Line 12, Pos (6,8)
+#. ID 4, Page 2, Line 12, Pos (6,8)
+#, fuzzy
+msgid ""
+"『弱点があるとすれば　彼女たちは自分で\n"
+"　扉を開けることが　できないことだ』"
+msgstr ""
+"\"But if they have one weakness,\n"
+"it's that they can't open doors on their own.\""
+
+#. ID 4, Page 1, Line 14, Pos (6,8)
+#, fuzzy
+msgid "難しくて　読めない字がある……"
+msgstr "You don't know some of the words..."
+
+#. ID 4, Page 2, Line 4, Pos (6,8)
+msgid ""
+"『ここの女性は　すぐに人の物を欲しがる\n"
+"　目をつけられると　大変厄介である』"
+msgstr ""
+"\"The women here quickly become fond of any\n"
+"humans they see. Once they set their sights,\n"
+"they become quite exasperating.\""
+
+#. ID 4, Page 2, Line 7, Pos (6,8)
+#, fuzzy
+msgid ""
+"『なんせ彼女たちは　自分が満足するまで\n"
+"　執拗に　追いかけてくるからである』"
+msgstr ""
+"\"They'll continue to stubbornly chase you\n"
+"until they're satisfied, it seems...\""
+
+#. ID 5, Page 1, Line 2, Pos (13,5)
+msgid "『世界の美術館』"
+msgstr "\"Art Galleries of the World\""
+
+#. ID 5, Page 1, Line 3, Pos (13,5)
+msgid "色々な美術館の　写真がのっている……"
+msgstr "It's filled with pictures of galleries..."
+
+#. ID 6, Page 1, Line 3, Pos (6,5)
+msgid ""
+"『うごくえほん　　作/絵　XXXX\n"
+"　“うっかりさんとガレッド・デ・ロワ”』"
+msgstr ""
+"\"Moving Storybook   Written/Drawn by XXXX\n"
+"-Carrie Careless and the Galette des Rois-\""
+
+#. ID 6, Page 1, Line 5, Pos (6,5)
+#. Contains choice at line 2 (2 options)
+msgid "……クレヨンで　描かれた絵本だ……"
+msgstr "...It's a storybook drawn in crayon..."
+
+#. ID 6, Page 1, Line 6, Pos (6,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"読む\n"
+"やめておく"
+msgstr ""
+"Read\n"
+"Never mind"
+
+#. ID 6, Page 1, Line 9, Pos (6,5)
+msgid "本をめくった……"
+msgstr "You turn the pages..."
+
+#. ID 6, Page 1, Line 18, Pos (6,5)
+#, fuzzy
+msgid "何かの音がした……"
+msgstr "You put it back on the shelf..."
+
+#. ID 6, Page 2, Line 2, Pos (6,5)
+msgid "先ほどの絵本が　見当たらない……"
+msgstr "The storybook is nowhere to be found..."
+
+#. ID 7, Page 1, Line 2, Pos (11,8)
+msgid "『ゲルテナ』"
+msgstr "\"Guertena\""
+
+#. ID 7, Page 1, Line 3, Pos (11,8)
+msgid "ゲルテナが描いた　色々な絵がのっている……"
+msgstr "It's filled with various drawings by Guertena..."
+
+#. ID 8, Page 1, Line 2, Pos (14,8)
+msgid "本の間に　紙切れがはさまっている……"
+msgstr "There's a scrap of paper between two books..."
+
+#. ID 8, Page 1, Line 3, Pos (14,8)
+msgid "“た　の　し　い　？”"
+msgstr "\"H A V I N G F U N ?\""
+
+#. ID 9, Page 1, Line 2, Pos (9,4)
+msgid "カギが　かかっている……"
+msgstr "It's locked..."
+

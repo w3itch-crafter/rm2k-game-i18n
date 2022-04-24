@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 4, Line 25, Pos (8,8)
+#. ID 6, Page 5, Line 25, Pos (8,8)
+msgid ""
+"\n"
+" Don't you think so, Ib...?"
+msgstr ""
+
+#. ID 6, Page 4, Line 29, Pos (8,8)
+#. ID 6, Page 5, Line 29, Pos (8,8)
+msgid ""
+"\n"
+" ..........Ib?"
+msgstr ""
+
+#. ID 6, Page 4, Line 68, Pos (8,8)
+#. ID 6, Page 5, Line 68, Pos (8,8)
+#. Contains choice at line 2 (2 options)
+#. ID 6, Page 5, Line 163, Pos (8,8)
+msgid ".........."
+msgstr ""
+
+#. ID 6, Page 5, Line 191, Pos (8,8)
+#. ID 6, Page 5, Line 235, Pos (8,8)
+msgid ""
+"\n"
+" ....."
+msgstr ""
+

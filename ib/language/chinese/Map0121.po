@@ -1,0 +1,428 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 1, Pos (6,23)
+msgid "『挑発』"
+msgstr "『挑釁』"
+
+#. ID 5, Page 1, Line 1, Pos (26,8)
+msgid "『？？？の血』"
+msgstr "『？？？之血』"
+
+#. ID 5, Page 1, Line 2, Pos (26,8)
+#. ID 31, Page 1, Line 2, Pos (15,8)
+msgid "難しくて　読めない字がある……"
+msgstr "有些字太難了，看不懂……"
+
+#. ID 5, Page 2, Line 1, Pos (26,8)
+msgid "『見世物の血』"
+msgstr "『觀賞物之血』"
+
+#. ID 6, Page 1, Line 1, Pos (23,10)
+msgid "「ぼく　シロアリ」"
+msgstr "「我是　白蟻」"
+
+#. ID 6, Page 1, Line 2, Pos (23,10)
+msgid "「床　抜けて　帰れない」"
+msgstr "「地板　破了洞　回不了家」"
+
+#. ID 6, Page 1, Line 3, Pos (23,10)
+msgid "「帰りたい」"
+msgstr "「我想回家」"
+
+#. ID 7, Page 1, Line 2, Pos (26,10)
+msgid "「おなかすいた　なにか　たべたい」"
+msgstr "「肚子餓了　想要　吃些什麼」"
+
+#. ID 7, Page 1, Line 3, Pos (26,10)
+msgid "「あまいもの　たべたい」"
+msgstr "「想要吃些　甜的東西」"
+
+#. ID 7, Page 2, Line 4, Pos (26,10)
+msgid "「おなかが　すいた　なにかないかな」"
+msgstr "「肚子餓了　有東西可以吃嗎」"
+
+#. ID 7, Page 2, Line 6, Pos (26,10)
+#. Contains choice at line 2 (2 options)
+#. ID 7, Page 2, Line 31, Pos (26,10)
+#. Contains choice at line 2 (2 options)
+msgid "「おまえ　なにか　持ってる？」"
+msgstr "「妳　拿著什麼？」"
+
+#. ID 7, Page 2, Line 7, Pos (26,10)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 2, Line 32, Pos (26,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"なにもないよ\n"
+"キャンディをあげる"
+msgstr ""
+"什麼都沒有喔\n"
+"給它糖果"
+
+#. ID 7, Page 2, Line 9, Pos (26,10)
+#. ID 7, Page 2, Line 34, Pos (26,10)
+msgid "「なんだ　気のせいか」"
+msgstr "「什麼嘛　是我的錯覺嗎」"
+
+#. ID 7, Page 2, Line 15, Pos (26,10)
+#. ID 7, Page 2, Line 40, Pos (26,10)
+msgid ""
+"\n"
+"「……イヴ……\n"
+"　あげるの？　それ……」"
+msgstr ""
+"\n"
+"「……Ib……\n"
+"　妳要把那個……給牠嗎？」"
+
+#. ID 7, Page 2, Line 19, Pos (26,10)
+#. ID 7, Page 2, Line 44, Pos (26,10)
+msgid ""
+"\n"
+"「…………別に　良いけどね」"
+msgstr ""
+"\n"
+"「…………是可以啦。」"
+
+#. ID 7, Page 2, Line 25, Pos (26,10)
+#. ID 7, Page 2, Line 49, Pos (26,10)
+msgid "「ぼく　たべたいの　これじゃない」"
+msgstr "「我想吃的　不是這個」"
+
+#. ID 7, Page 2, Line 57, Pos (26,10)
+msgid ""
+"「ぼくの　家\n"
+"　ときどき　星　おちてくる」"
+msgstr ""
+"「我的　家\n"
+"　有時候　會有星星　掉下來」"
+
+#. ID 7, Page 2, Line 59, Pos (26,10)
+msgid "「きっと　かみさまの　プレゼント」"
+msgstr "「那一定是　神送的　禮物」"
+
+#. ID 7, Page 2, Line 63, Pos (26,10)
+msgid ""
+"「ぼく　あまいもの　すき\n"
+"　からいもの　きらい」"
+msgstr ""
+"「我　喜歡　甜的東西\n"
+"　討厭　辣的東西」"
+
+#. ID 7, Page 2, Line 65, Pos (26,10)
+msgid "「からいもの　たべたこと　ないけど」"
+msgstr "「雖然我　沒有吃過　辣的東西」"
+
+#. ID 7, Page 2, Line 69, Pos (26,10)
+msgid "「おまえ　星　しってるか」"
+msgstr "「妳知道　星星嗎」"
+
+#. ID 7, Page 2, Line 70, Pos (26,10)
+msgid "「あまくて　おいしい　空にある　たべものだ」"
+msgstr "「甜甜的　很好吃　是在天上　的食物」"
+
+#. ID 7, Page 2, Line 74, Pos (26,10)
+msgid ""
+"\n"
+"「たべもの……？」"
+msgstr ""
+"\n"
+"「食物……？」"
+
+#. ID 7, Page 3, Line 2, Pos (26,10)
+msgid ""
+"「あー　それ　星\n"
+"　ぼくの　すきなやつ」"
+msgstr ""
+"「啊──　那是　星星\n"
+"　我喜歡的　東西」"
+
+#. ID 7, Page 3, Line 4, Pos (26,10)
+#. Contains choice at line 2 (2 options)
+msgid "「ほしい」"
+msgstr "「好想要」"
+
+#. ID 7, Page 3, Line 5, Pos (26,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"小さな星くずをあげる\n"
+"なにもあげない"
+msgstr ""
+"把星星的小小碎片送給牠\n"
+"什麼都不給"
+
+#. ID 7, Page 3, Line 7, Pos (26,10)
+msgid "小さな星くずを　アリにあげた……"
+msgstr "把星星的小小碎片送給白蟻……"
+
+#. ID 7, Page 3, Line 12, Pos (26,10)
+msgid ""
+"\n"
+"「……星というか　どうみても\n"
+"　コンペイトウよね　これ……」"
+msgstr ""
+"\n"
+"「……與其說是星星，\n"
+"　這怎麼看都是金平糖吧……」"
+
+#. ID 7, Page 3, Line 22, Pos (26,10)
+msgid "「………………………」"
+msgstr "「………………………」"
+
+#. ID 7, Page 4, Line 2, Pos (26,10)
+msgid "「わー　ありがとう」"
+msgstr "「哇──　謝謝妳」"
+
+#. ID 7, Page 4, Line 3, Pos (26,10)
+msgid "「ちょっと　待ってて」"
+msgstr "「等我　一下下」"
+
+#. ID 7, Page 4, Line 15, Pos (26,10)
+msgid "「これ　礼」"
+msgstr "「這是　回禮」"
+
+#. ID 7, Page 4, Line 17, Pos (26,10)
+msgid "橙のカギを　手に入れた。"
+msgstr "得到一把　橙色鑰匙。"
+
+#. ID 13, Page 1, Line 1, Pos (4,8)
+#. ID 13, Page 2, Line 2, Pos (4,8)
+#. ID 13, Page 3, Line 1, Pos (4,8)
+msgid "『キャンバスの中の光源』"
+msgstr "『畫布中的光源』"
+
+#. ID 13, Page 2, Line 3, Pos (4,8)
+msgid "………？"
+msgstr "………？"
+
+#. ID 13, Page 2, Line 4, Pos (4,8)
+#. Contains choice at line 2 (2 options)
+msgid "この絵は　壁から外れそうだ……"
+msgstr "這幅畫似乎可以從牆上拿下來……"
+
+#. ID 13, Page 2, Line 5, Pos (4,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"外す\n"
+"外さない"
+msgstr ""
+"拿下來\n"
+"不拿下來"
+
+#. ID 13, Page 2, Line 8, Pos (4,8)
+msgid "ロウソクの絵を　手に入れた。"
+msgstr "得到一幅　蠟燭的繪畫。"
+
+#. ID 15, Page 1, Line 1, Pos (20,8)
+msgid "『寝起きの悪い男』"
+msgstr "『有起床氣的男人』"
+
+#. ID 15, Page 2, Line 1, Pos (20,8)
+msgid "『夜更かしをする男』"
+msgstr "『熬夜的男人』"
+
+#. ID 16, Page 3, Line 1, Pos (15,7)
+#. ID 17, Page 3, Line 1, Pos (15,6)
+msgid "大きな花は　動かない……"
+msgstr "巨大的花朵不動了……"
+
+#. ID 18, Page 1, Line 2, Pos (15,4)
+msgid "カギが　かかっている……"
+msgstr "門鎖住了……"
+
+#. ID 18, Page 2, Line 2, Pos (15,4)
+msgid "橙のカギを　使った。"
+msgstr "使用　橙色鑰匙。"
+
+#. ID 21, Page 2, Line 1, Pos (24,23)
+#. ID 27, Page 1, Line 1, Pos (24,25)
+msgid "大きなヘビが　寝ている……"
+msgstr "巨大的蛇在睡覺……"
+
+#. ID 21, Page 2, Line 5, Pos (24,23)
+msgid ""
+"\n"
+"「このヘビ\n"
+"　いつまで　寝てんのよ……」"
+msgstr ""
+"\n"
+"「這條蛇要睡到什麼時候啦……」"
+
+#. ID 23, Page 1, Line 4, Pos (2,17)
+#. ID 24, Page 1, Line 4, Pos (18,9)
+#. ID 26, Page 1, Line 4, Pos (3,17)
+#. ID 29, Page 1, Line 4, Pos (1,17)
+#. ID 51, Page 1, Line 4, Pos (18,10)
+#. ID 52, Page 1, Line 4, Pos (18,11)
+msgid "…………！"
+msgstr "…………！"
+
+#. ID 23, Page 1, Line 8, Pos (2,17)
+#. ID 24, Page 1, Line 8, Pos (18,9)
+#. ID 26, Page 1, Line 8, Pos (3,17)
+#. ID 29, Page 1, Line 8, Pos (1,17)
+#. ID 51, Page 1, Line 8, Pos (18,10)
+#. ID 52, Page 1, Line 8, Pos (18,11)
+msgid "チョウチョが　飛んで行ってしまった……"
+msgstr "蝴蝶飛走了……"
+
+#. ID 27, Page 1, Line 5, Pos (24,25)
+msgid ""
+"\n"
+"「ヘ　ヘビだわ……なんて大きいの\n"
+"　起こさないように　しましょ」"
+msgstr ""
+"\n"
+"「是、是蛇耶……怎麼這麼大隻！\n"
+"　小心不要把牠吵醒喔。」"
+
+#. ID 31, Page 1, Line 1, Pos (15,8)
+msgid "『？？な双子』"
+msgstr "『？？的雙胞胎』"
+
+#. ID 31, Page 2, Line 1, Pos (15,8)
+msgid "『執拗な双子』"
+msgstr "『纏人的雙胞胎』"
+
+#. ID 32, Page 1, Line 1, Pos (23,11)
+msgid "「あ　それ　ぼくの家」"
+msgstr "「啊　那是　我的家」"
+
+#. ID 32, Page 1, Line 2, Pos (23,11)
+msgid "「したに　おいて」"
+msgstr "「把它　放下來」"
+
+#. ID 32, Page 5, Line 4, Pos (23,11)
+msgid "「これ　おいしい　しあわせ」"
+msgstr "「這個　好好吃　好幸福」"
+
+#. ID 32, Page 5, Line 8, Pos (23,11)
+msgid "「これ　大きくて　穴　入らない」"
+msgstr "「這個　太大了　搬不進　洞穴」"
+
+#. ID 32, Page 5, Line 9, Pos (23,11)
+msgid "「ここで　たべる」"
+msgstr "「所以　在這邊吃」"
+
+#. ID 32, Page 5, Line 13, Pos (23,11)
+msgid "「おまえも　ここに　住めばいい」"
+msgstr "「妳也　住在　這裡吧」"
+
+#. ID 32, Page 5, Line 14, Pos (23,11)
+msgid "「かみさまから　星　もらえる」"
+msgstr "「可以得到　神送的　星星」"
+
+#. ID 32, Page 5, Line 18, Pos (23,11)
+msgid "「いつか　空に行って　星をいっぱい　たべるの」"
+msgstr "「有一天　我要到天空　吃很多　星星」"
+
+#. ID 32, Page 5, Line 19, Pos (23,11)
+msgid "「ぼくの　夢」"
+msgstr "「這是　我的夢想」"
+
+#. ID 33, Page 1, Line 1, Pos (22,10)
+#. ID 33, Page 2, Line 2, Pos (22,10)
+#. Contains choice at line 2 (2 options)
+msgid "床が抜けていて　通れない……"
+msgstr "地板裂開了，無法通過……"
+
+#. ID 33, Page 2, Line 3, Pos (22,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"アリの巣の絵を　置いてみる\n"
+"そのままにしておく"
+msgstr ""
+"把蟻巢的畫放上去\n"
+"就這樣放著不管它"
+
+#. ID 33, Page 2, Line 6, Pos (22,10)
+msgid "アリの巣の絵を　穴の上に置いた。"
+msgstr "把蟻巢的畫放在大洞上。"
+
+#. ID 35, Page 1, Line 2, Pos (22,7)
+msgid "「あ　かえり道　もどった」"
+msgstr "「啊　回家的路　恢復原狀了」"
+
+#. ID 35, Page 1, Line 6, Pos (22,7)
+msgid "「これで　帰れる」"
+msgstr "「這樣就 可以回家了」"
+
+#. ID 36, Page 1, Line 1, Pos (15,23)
+msgid "真っ白な　プレートがある……"
+msgstr "全白的標示牌……"
+
+#. ID 36, Page 1, Line 5, Pos (15,23)
+msgid ""
+"\n"
+"「これ……時計かしら？\n"
+"　こんなに大きい時計　初めて見たわ」"
+msgstr ""
+"\n"
+"「這是……時鐘嗎？\n"
+"　人家還是第一次見到\n"
+"　這麼大的時鐘呢。」"
+
+#. ID 36, Page 1, Line 9, Pos (15,23)
+#, fuzzy
+msgid ""
+"\n"
+"「でも　動いてないみたいね\n"
+"　……あの真ん中の\n"
+"　黒いやつは　なにかしら？」"
+msgstr ""
+"\n"
+"「但是，它好像沒在動呢。\n"
+"　……正中間那個\n"
+"　黑色的東西是什麼啊？」"
+
+#. ID 36, Page 2, Line 3, Pos (15,23)
+#. ID 36, Page 3, Line 1, Pos (15,23)
+msgid "『さぼり癖のある秒針』"
+msgstr "『愛偷懶的秒針』"
+
+#. ID 36, Page 2, Line 4, Pos (15,23)
+msgid "時計の下に　数字をいれるパネルがある……"
+msgstr "在時鐘的下面，有個可以輸入數字的面板……"
+
+#. ID 36, Page 2, Line 26, Pos (15,23)
+msgid "時計が動いて　夜になった……"
+msgstr "時鐘開始轉動，變成夜晚了……"
+
+#. ID 36, Page 2, Line 30, Pos (15,23)
+msgid "ロウソクの絵の　ロウソクがなくなってしまった……"
+msgstr "蠟燭繪畫中的蠟燭熄滅了……"
+
+#. ID 36, Page 2, Line 36, Pos (15,23)
+msgid "何も　起こらない……"
+msgstr "什麼也沒發生……"
+
+#. ID 40, Page 1, Line 1, Pos (10,8)
+msgid "『手の届かぬ場所』"
+msgstr "『搆不著的地方』"
+
+#. ID 49, Page 1, Line 1, Pos (28,24)
+msgid "赤い首が　落ちている……"
+msgstr "紅色的首級掉下來了……"
+
+#. ID 49, Page 1, Line 5, Pos (28,24)
+msgid ""
+"\n"
+"「やだ……\n"
+"　イヴ　早く離れましょ……」"
+msgstr ""
+"\n"
+"「討厭……\n"
+"　Ib，我們快離開吧……」"
+
+#. ID 54, Page 1, Line 1, Pos (15,24)
+msgid "チョウチョが　飛んでいる……"
+msgstr "有蝴蝶在飛……"
+

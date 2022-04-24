@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (4,6)
+#. ID 1, Page 2, Line 1, Pos (4,6)
+#. ID 1, Page 3, Line 1, Pos (4,6)
+msgid "“心　許された者のみ　道は開く”"
+msgstr ""
+"\"The way will be shown\n"
+"to those pure of heart.\""
+
+#. ID 1, Page 1, Line 5, Pos (4,6)
+#, fuzzy
+msgid ""
+"\n"
+"「どういう事かしら……？」"
+msgstr ""
+"\n"
+" I wonder what this means...?"
+
+#. ID 1, Page 2, Line 5, Pos (4,6)
+#, fuzzy
+msgid ""
+"\n"
+"「さっきの　トリ……\n"
+"　なんか　妙な動き　してなかった？」"
+msgstr ""
+"\n"
+" That bird... Didn't it seem\n"
+" to be moving oddly?"
+
+#. ID 1, Page 2, Line 9, Pos (4,6)
+#, fuzzy
+msgid ""
+"\n"
+"「ちょっと　気になるわね」"
+msgstr ""
+"\n"
+" I'm a bit curious as to why..."
+
+#. ID 18, Page 1, Line 5, Pos (28,7)
+msgid ""
+"\n"
+"「なにかしらね　これ……絵？」"
+msgstr ""
+"\n"
+" What could this be...\n"
+" A painting?"
+
+#. ID 18, Page 1, Line 10, Pos (28,7)
+#. ID 18, Page 2, Line 2, Pos (28,7)
+#, fuzzy
+msgid "何かが　落ちている……"
+msgstr "There's something on the ground..."
+
+#. ID 18, Page 1, Line 14, Pos (28,7)
+#. ID 18, Page 2, Line 4, Pos (28,7)
+#, fuzzy
+msgid "絵画のピースを　手に入れた。"
+msgstr "Obtained a piece of a painting."
+
+#. ID 18, Page 1, Line 19, Pos (28,7)
+#. ID 18, Page 2, Line 9, Pos (28,7)
+#, fuzzy
+msgid "絵画のピースは　消えてしまった……"
+msgstr "The piece vanished..."
+
+#. ID 18, Page 1, Line 23, Pos (28,7)
+#, fuzzy
+msgid ""
+"\n"
+"「わっ　消えた……なんか\n"
+"　絵の具玉の時と　似てるわ」"
+msgstr ""
+"\n"
+" Whoa, it vanished...\n"
+" This reminds me of\n"
+" those balls of paint."
+
+#. ID 18, Page 1, Line 27, Pos (28,7)
+#, fuzzy
+msgid ""
+"\n"
+"「もしかすると　これ\n"
+"　集めると　良いのかも\n"
+"　もっと　探してみましょ　イヴ！」"
+msgstr ""
+"\n"
+" Maybe we ought to\n"
+" collect all of these.\n"
+" Let's keep looking, Ib!"
+
+#. ID 21, Page 1, Line 6, Pos (27,6)
+#. ID 21, Page 2, Line 1, Pos (27,6)
+msgid "『あたたかな居場所』"
+msgstr "\"Place of Warmth\""
+
+#. ID 21, Page 1, Line 12, Pos (27,6)
+msgid ""
+"\n"
+"「ここに　おうちが　あったのね……」"
+msgstr ""
+"\n"
+" So it had a home here..."
+

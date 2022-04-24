@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 3, Pos (6,11)
+#. ID 3, Page 1, Line 7, Pos (6,11)
+#. ID 11, Page 1, Line 3, Pos (5,7)
+#. ID 11, Page 1, Line 8, Pos (5,7)
+#. ID 11, Page 2, Line 1, Pos (5,7)
+#. ID 11, Page 3, Line 1, Pos (5,7)
+#. ID 14, Page 1, Line 3, Pos (14,11)
+#. ID 14, Page 1, Line 7, Pos (14,11)
+#. ID 14, Page 2, Line 1, Pos (14,11)
+#. ID 14, Page 3, Line 1, Pos (14,11)
+msgid "マネキンの　首がある……"
+msgstr "人體模型的頭……"
+
+#. ID 3, Page 1, Line 12, Pos (6,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「どこ　見てるんだろうね？」"
+msgstr ""
+"\n"
+"「它在看哪裡呢？」"
+
+#. ID 3, Page 1, Line 14, Pos (6,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"そのままにしておく\n"
+"机の上から落とす"
+msgstr ""
+"就這樣放著不管它\n"
+"把它從桌上推下去"
+
+#. ID 3, Page 1, Line 17, Pos (6,11)
+msgid ""
+"\n"
+"「これすごく　重たいね\n"
+"　落としたら　危ないよ」"
+msgstr ""
+"\n"
+"「這個很重耶，\n"
+"　掉下來的話，會很危險喔。」"
+
+#. ID 3, Page 1, Line 24, Pos (6,11)
+msgid ""
+"\n"
+"「えっ？　これ落とすの？\n"
+"　割れちゃうかもよ？」"
+msgstr ""
+"\n"
+"「咦？要把它推下去嗎？\n"
+"　它可能會破掉喔？」"
+
+#. ID 3, Page 1, Line 28, Pos (6,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「しかもなんか　重たいし……」"
+msgstr ""
+"\n"
+"「而且好像很重……」"
+
+#. ID 3, Page 1, Line 30, Pos (6,11)
+#. Choice (2 options, embedded in a message)
+#. ID 11, Page 1, Line 28, Pos (5,7)
+#. Choice (2 options, embedded in a message)
+#. ID 14, Page 1, Line 29, Pos (14,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"やっぱりやめる\n"
+"落とす"
+msgstr ""
+"還是算了\n"
+"推下去"
+
+#. ID 3, Page 1, Line 33, Pos (6,11)
+msgid ""
+"\n"
+"「そのほうが　良いと思うよ」"
+msgstr ""
+"\n"
+"「我覺得這樣比較好喔。」"
+
+#. ID 3, Page 1, Line 39, Pos (6,11)
+msgid ""
+"\n"
+"「そ　そう……\n"
+"　そこまで言うなら\n"
+"　止めないけど……」"
+msgstr ""
+"\n"
+"「是、是嗎……\n"
+"　既然妳這麼堅持，\n"
+"　我也不會阻止妳的啦……」"
+
+#. ID 4, Page 1, Line 1, Pos (11,5)
+#. ID 4, Page 2, Line 2, Pos (11,5)
+msgid "『カサをなくした乙女』"
+msgstr "『遺失雨傘的少女』"
+
+#. ID 4, Page 2, Line 5, Pos (11,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「イヴ！　カサって……！」"
+msgstr ""
+"\n"
+"「Ib！雨傘……！」"
+
+#. ID 4, Page 2, Line 7, Pos (11,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"カサを乙女に渡す\n"
+"渡さない"
+msgstr ""
+"把雨傘遞給少女\n"
+"不遞給她"
+
+#. ID 4, Page 2, Line 10, Pos (11,5)
+msgid "カサを　絵の前にかかげた……"
+msgstr "把雨傘高舉到畫前面……"
+
+#. ID 4, Page 2, Line 23, Pos (11,5)
+msgid ""
+"\n"
+"「え？　え！？\n"
+"　部屋の中なのに\n"
+"　雨が　降ってきた！」"
+msgstr ""
+"\n"
+"「咦？　咦！？\n"
+"　明明在房間裡，\n"
+"　卻下雨了！」"
+
+#. ID 4, Page 2, Line 33, Pos (11,5)
+msgid ""
+"\n"
+"「結構　イジワルね……」"
+msgstr ""
+"\n"
+"「Ib，妳好愛欺負人喔……」"
+
+#. ID 4, Page 3, Line 1, Pos (11,5)
+#. ID 4, Page 4, Line 1, Pos (11,5)
+#. ID 4, Page 5, Line 1, Pos (11,5)
+msgid "『カサを差す乙女』"
+msgstr "『撐著雨傘的少女』"
+
+#. ID 4, Page 4, Line 4, Pos (11,5)
+msgid ""
+"\n"
+"「……なんか　この傘\n"
+"　見覚えある　気がするわ……」"
+msgstr ""
+"\n"
+"「……總覺得，\n"
+"　好像在哪裡看過這把傘耶……」"
+
+#. ID 4, Page 5, Line 4, Pos (11,5)
+msgid ""
+"\n"
+"「カサあって　良かったね」"
+msgstr ""
+"\n"
+"「有雨傘真是太好了呢。」"
+
+#. ID 5, Page 1, Line 1, Pos (15,11)
+msgid "机の上に　何かがある……"
+msgstr "桌上放著什麼東西……"
+
+#. ID 5, Page 1, Line 4, Pos (15,11)
+msgid "木のカギを　手に入れた。"
+msgstr "得到一把　木鑰匙。"
+
+#. ID 6, Page 1, Line 3, Pos (7,11)
+#. ID 6, Page 2, Line 3, Pos (7,11)
+msgid ""
+"\n"
+"「あーあ　見てよイヴ\n"
+"　床にヒビ　入っちゃったわよ」"
+msgstr ""
+"\n"
+"「啊──啊，妳看啦Ib，\n"
+"　地板裂開了啦。」"
+
+#. ID 6, Page 1, Line 7, Pos (7,11)
+msgid ""
+"\n"
+"「しかも　なんか\n"
+"　ヘンなガス　みたいなの\n"
+"　出てるし……」"
+msgstr ""
+"\n"
+"「而且好像\n"
+"　還飄出像是瓦斯之類\n"
+"　奇怪的東西……」"
+
+#. ID 7, Page 1, Line 1, Pos (8,11)
+msgid "マネキンの首が　転がっている……"
+msgstr "人體模型的頭掉在地上……"
+
+#. ID 11, Page 1, Line 12, Pos (5,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「これって　体は　ないのかな？」"
+msgstr ""
+"\n"
+"「這個東西沒有身體嗎？」"
+
+#. ID 11, Page 1, Line 14, Pos (5,7)
+#. Choice (2 options, embedded in a message)
+#. ID 14, Page 1, Line 14, Pos (14,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"そのままにしておく\n"
+"机から落とす"
+msgstr ""
+"就這樣放著不管它\n"
+"把它從桌子上推下去"
+
+#. ID 11, Page 1, Line 17, Pos (5,7)
+msgid ""
+"\n"
+"「触らない方が　良いと思う……」"
+msgstr ""
+"\n"
+"「我覺得不要碰比較好……」"
+
+#. ID 11, Page 1, Line 22, Pos (5,7)
+#. ID 14, Page 1, Line 23, Pos (14,11)
+msgid ""
+"\n"
+"「これ　落とすの……？\n"
+"　大丈夫かなぁ………」"
+msgstr ""
+"\n"
+"「要把它推下去嗎……？\n"
+"　這樣沒問題嗎………」"
+
+#. ID 11, Page 1, Line 26, Pos (5,7)
+#. Contains choice at line 3 (2 options)
+#. ID 14, Page 1, Line 27, Pos (14,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「こわれちゃうよ？」"
+msgstr ""
+"\n"
+"「會摔壞喔？」"
+
+#. ID 11, Page 1, Line 31, Pos (5,7)
+#. ID 14, Page 1, Line 32, Pos (14,11)
+msgid ""
+"\n"
+"「うん！　それがいいよ！」"
+msgstr ""
+"\n"
+"「嗯！這樣比較好喔！」"
+
+#. ID 11, Page 1, Line 37, Pos (5,7)
+#. ID 14, Page 1, Line 38, Pos (14,11)
+msgid ""
+"\n"
+"「うぅ……大丈夫かな？」"
+msgstr ""
+"\n"
+"「嗚唔……不會有事吧？」"
+
+#. ID 11, Page 1, Line 52, Pos (5,7)
+#. ID 14, Page 1, Line 53, Pos (14,11)
+msgid "跳んできた　マネキンの破片が　刺さってしまった………"
+msgstr "被飛散的人體模型碎片刺傷了………"
+
+#. ID 12, Page 1, Line 1, Pos (6,8)
+#. ID 13, Page 1, Line 1, Pos (6,7)
+#. ID 15, Page 1, Line 1, Pos (13,10)
+#. ID 16, Page 1, Line 1, Pos (13,11)
+msgid "マネキンの首が　粉々になっている……"
+msgstr "人體模型的頭變成了碎片……"
+
+#. ID 14, Page 1, Line 12, Pos (14,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「なんで髪の毛　ないのかな？」"
+msgstr ""
+"\n"
+"「它為什麼沒有頭髮呢？」"
+
+#. ID 14, Page 1, Line 17, Pos (14,11)
+msgid ""
+"\n"
+"「なんかこれ　生きてるみたい……」"
+msgstr ""
+"\n"
+"「怎麼覺得它好像活著一樣……」"
+

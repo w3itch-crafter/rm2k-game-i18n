@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 2, Pos (16,19)
+msgid "赤い何かが　潰れている……"
+msgstr "Something red is splattered here..."
+
+#. ID 9, Page 1, Line 2, Pos (4,10)
+#. ID 9, Page 2, Line 2, Pos (4,10)
+#. ID 10, Page 1, Line 2, Pos (9,10)
+#. ID 10, Page 2, Line 2, Pos (9,10)
+msgid "窓がある……"
+msgstr "A window..."
+
+#. ID 14, Page 1, Line 1, Pos (16,3)
+msgid "『ピエロ』"
+msgstr "\"Clown\""
+
+#. ID 15, Page 1, Line 1, Pos (13,3)
+msgid ""
+"“イヴ　きみに\n"
+"　たのしんで　ほしいから”"
+msgstr "\"I want you to have fun, Ib\""
+
+#. ID 18, Page 1, Line 1, Pos (11,3)
+msgid ""
+"“おとなのいない\n"
+"　たのしいせかいへ”"
+msgstr "\"Come to a fun world without any adults\""
+
+#. ID 19, Page 1, Line 1, Pos (9,3)
+msgid "“いっしょに　いこうよ”"
+msgstr "\"We'll be together\""
+
+#. ID 20, Page 1, Line 1, Pos (7,3)
+msgid "“おともだちも　いっしょだよ”"
+msgstr "\"You, me, and our friends\""
+
+#. ID 29, Page 1, Line 1, Pos (13,17)
+msgid "『落下した星』"
+msgstr "\"Fallen Star\""
+

@@ -1,0 +1,394 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (10,6)
+#. ID 1, Page 2, Line 3, Pos (10,6)
+msgid "『うしろは　みえない　よこからはなせ』"
+msgstr "『妳在後面　我看不到　到我旁邊說』"
+
+#. ID 1, Page 1, Line 5, Pos (10,6)
+#. Contains choice at line 2 (2 options)
+msgid "『オレの　たから　ほしいか？』"
+msgstr "『妳想要　我的　寶物嗎？』"
+
+#. ID 1, Page 1, Line 6, Pos (10,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ほしい\n"
+"いらない"
+msgstr ""
+"想要\n"
+"不要"
+
+#. ID 1, Page 1, Line 8, Pos (10,6)
+msgid "『かべのナゾ　といたら　はなしかけろ』"
+msgstr "『解開　牆壁的謎題　再跟我說話』"
+
+#. ID 1, Page 1, Line 9, Pos (10,6)
+msgid "『まちがえたら　かむ』"
+msgstr "『要是答錯了　就咬妳』"
+
+#. ID 1, Page 1, Line 14, Pos (10,6)
+#. ID 1, Page 5, Line 11, Pos (10,6)
+msgid "『あっそ』"
+msgstr "『哼　是嗎』"
+
+#. ID 1, Page 2, Line 10, Pos (10,6)
+#. ID 1, Page 2, Line 24, Pos (10,6)
+#. ID 1, Page 2, Line 43, Pos (10,6)
+msgid "『…………………』"
+msgstr "『…………………』"
+
+#. ID 1, Page 2, Line 12, Pos (10,6)
+msgid "『よく　わかったな』"
+msgstr "『真虧妳　可以答對』"
+
+#. ID 1, Page 2, Line 13, Pos (10,6)
+msgid "『しかたない　オレのたから　やるよ』"
+msgstr "『沒辦法　那就給妳　我的寶物吧』"
+
+#. ID 1, Page 2, Line 34, Pos (10,6)
+#. ID 1, Page 2, Line 53, Pos (10,6)
+msgid "『かみごたえ　なし』"
+msgstr "『沒有　嚼勁』"
+
+#. ID 1, Page 3, Line 8, Pos (10,6)
+msgid ""
+"\n"
+"「なにかしらね　これ……絵？」"
+msgstr ""
+"\n"
+"「是什麼東西呢，這是……畫？」"
+
+#. ID 1, Page 3, Line 13, Pos (10,6)
+#. ID 1, Page 4, Line 5, Pos (10,6)
+msgid "宝石箱に　何かが入っている……"
+msgstr "寶石箱裡放著什麼東西……"
+
+#. ID 1, Page 3, Line 17, Pos (10,6)
+#. ID 1, Page 4, Line 7, Pos (10,6)
+msgid "絵画のピースを　手に入れた。"
+msgstr "得到一片　繪畫的拼圖。"
+
+#. ID 1, Page 3, Line 22, Pos (10,6)
+#. ID 1, Page 4, Line 12, Pos (10,6)
+msgid "絵画のピースは　消えてしまった……"
+msgstr "繪畫的拼圖消失了……"
+
+#. ID 1, Page 3, Line 28, Pos (10,6)
+msgid ""
+"\n"
+"「わっ　消えた……なんか\n"
+"　絵の具玉の時と　似てるわ」"
+msgstr ""
+"\n"
+"「哇！消失了……\n"
+"　跟蒐集顏料球的時候很像呢。」"
+
+#. ID 1, Page 3, Line 32, Pos (10,6)
+msgid ""
+"\n"
+"「もしかすると　これ\n"
+"　集めると　良いのかも\n"
+"　もっと　探してみましょ　イヴ！」"
+msgstr ""
+"\n"
+"「說不定，\n"
+"　就是要蒐集這些拼圖呢。\n"
+"　去找出其他拼圖吧，Ib！」"
+
+#. ID 1, Page 5, Line 7, Pos (10,6)
+msgid "『はらのなか　スースーする』"
+msgstr "『肚子裡面　空空的』"
+
+#. ID 1, Page 5, Line 8, Pos (10,6)
+#. Contains choice at line 2 (2 options)
+msgid "『なんかくれ』"
+msgstr "『給我什麼東西吧』"
+
+#. ID 1, Page 5, Line 9, Pos (10,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"何もない\n"
+"バラを渡す"
+msgstr ""
+"什麼都沒有\n"
+"將玫瑰交給它"
+
+#. ID 1, Page 5, Line 17, Pos (10,6)
+msgid ""
+"\n"
+"「イヴ！　駄目だってば！」"
+msgstr ""
+"\n"
+"「Ib！不可以啦！」"
+
+#. ID 1, Page 5, Line 20, Pos (10,6)
+msgid "『じょうだんだ　いらん』"
+msgstr "『開玩笑的　我才不要』"
+
+#. ID 1, Page 5, Line 23, Pos (10,6)
+msgid "『いらん』"
+msgstr "『我才不要』"
+
+#. ID 1, Page 5, Line 36, Pos (10,6)
+msgid "『ここは　たいくつ』"
+msgstr "『這裡　好無聊』"
+
+#. ID 1, Page 5, Line 37, Pos (10,6)
+msgid "『たまに　トリと　あそぶくらいだ』"
+msgstr "『頂多偶爾　跟小鳥玩　而已』"
+
+#. ID 1, Page 5, Line 41, Pos (10,6)
+msgid "『オレ　むかしは　もっといいものもってたぞ』"
+msgstr "『我以前　擁有　更好的東西喔』"
+
+#. ID 1, Page 5, Line 42, Pos (10,6)
+msgid "『きれいな　いしとか　ゆびわとか』"
+msgstr "『漂亮的　石頭啊　戒指等等』"
+
+#. ID 1, Page 5, Line 43, Pos (10,6)
+msgid "『もう　ないけどな』"
+msgstr "『雖然已經　都沒了』"
+
+#. ID 1, Page 5, Line 47, Pos (10,6)
+msgid "『しりとり　しようぜ』"
+msgstr "『來玩　接龍吧』"
+
+#. ID 1, Page 5, Line 48, Pos (10,6)
+#. Contains choice at line 2 (3 options)
+msgid "『ほうせき』"
+msgstr "『寶石』"
+
+#. ID 1, Page 5, Line 49, Pos (10,6)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"木の実\n"
+"黄色\n"
+"キリン"
+msgstr ""
+"石膏\n"
+"石頭\n"
+"食物"
+
+#. ID 1, Page 5, Line 51, Pos (10,6)
+msgid "『み……みかん』"
+msgstr "『膏……高麗菜』"
+
+#. ID 1, Page 5, Line 52, Pos (10,6)
+msgid "『あ　オレのまけ』"
+msgstr "『啊　字錯了　我輸了』"
+
+#. ID 1, Page 5, Line 55, Pos (10,6)
+msgid "『ろ……ロマン』"
+msgstr "『頭……白頭偕老』"
+
+#. ID 1, Page 5, Line 56, Pos (10,6)
+msgid "『なんか　はずかしい　しかもまけた』"
+msgstr "『總覺得　好害羞　而且還輸了』"
+
+#. ID 1, Page 5, Line 57, Pos (10,6)
+msgid "『ちくしょう』"
+msgstr "『可惡』"
+
+#. ID 1, Page 5, Line 61, Pos (10,6)
+msgid ""
+"\n"
+"「ロマンなんて言葉\n"
+"　知ってるのね……」"
+msgstr ""
+"\n"
+"「它還知道白頭偕老\n"
+"　這種成語呢……」"
+
+#. ID 1, Page 5, Line 69, Pos (10,6)
+msgid "『ん！　おれのかち』"
+msgstr "『食！　字錯了　是我贏了』"
+
+#. ID 1, Page 5, Line 70, Pos (10,6)
+msgid "『はじめて　かった』"
+msgstr "『第一次　贏了』"
+
+#. ID 1, Page 5, Line 76, Pos (10,6)
+msgid ""
+"『うえからよんでも　さかさ\n"
+"　したからよんでも　さかさ』"
+msgstr ""
+"『上海自來水來自海上\n"
+"　國外送雞肉雞送外國』"
+
+#. ID 1, Page 5, Line 78, Pos (10,6)
+msgid "『なんでだ　きになる』"
+msgstr "『為什麼呢　真是在意』"
+
+#. ID 3, Page 1, Line 2, Pos (10,10)
+msgid "こちらからカギを　開けられるみたいだ……"
+msgstr "似乎可以從這邊把鎖打開……"
+
+#. ID 3, Page 1, Line 6, Pos (10,10)
+msgid "カギを開けた……"
+msgstr "將鎖打開了……"
+
+#. ID 4, Page 1, Line 1, Pos (10,3)
+msgid "“存在しなかった天体は？”"
+msgstr "“不存在的星球是？”"
+
+#. ID 5, Page 1, Line 2, Pos (10,7)
+msgid "『誘う宝石箱の魔窟』"
+msgstr "『誘惑寶石箱的魔窟』"
+
+#. ID 5, Page 1, Line 6, Pos (10,7)
+msgid "『誘う宝石箱の？？』"
+msgstr "『誘惑寶石箱的？？』"
+
+#. ID 5, Page 1, Line 7, Pos (10,7)
+msgid "難しくて　読めない字がある……"
+msgstr "有些字太難了，看不懂……"
+
+#. ID 6, Page 1, Line 7, Pos (16,8)
+#. ID 6, Page 4, Line 12, Pos (16,8)
+msgid "……バラの花が　散ってしまった……"
+msgstr "……玫瑰花瓣散落了……"
+
+#. ID 6, Page 2, Line 4, Pos (16,8)
+msgid ""
+"\n"
+"「……イヴ！\n"
+"　イヴお願い　起きて！」"
+msgstr ""
+"\n"
+"「……Ib！\n"
+"　Ib拜託妳，快醒來！」"
+
+#. ID 6, Page 2, Line 14, Pos (16,8)
+msgid ""
+"\n"
+"「………イヴ！\n"
+"　良かった　生きてた……！」"
+msgstr ""
+"\n"
+"「………Ib！\n"
+"　太好了，妳還活著……！」"
+
+#. ID 6, Page 2, Line 24, Pos (16,8)
+msgid ""
+"\n"
+"「大丈夫？\n"
+"　どこか痛く……って\n"
+"　痛いに　決まってるわよね」"
+msgstr ""
+"\n"
+"「妳還好吧？\n"
+"　有沒有哪裡痛……哎呀，\n"
+"　一定很痛吧！」"
+
+#. ID 6, Page 2, Line 37, Pos (16,8)
+#. Contains choice at line 3 (2 options)
+#. ID 6, Page 2, Line 66, Pos (16,8)
+#. Contains choice at line 3 (2 options)
+#, fuzzy
+msgid ""
+"\n"
+"「でも　良かった……」"
+msgstr ""
+"\n"
+"「但是，太好了……」"
+
+#. ID 6, Page 2, Line 39, Pos (16,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"バラの花は？\n"
+"ギャリーは？"
+msgstr ""
+"玫瑰花呢？\n"
+"Garry呢？"
+
+#. ID 6, Page 2, Line 42, Pos (16,8)
+msgid ""
+"\n"
+"「奇跡的に……無事だったわ\n"
+"　さすがに　もうダメかと思ったけど」"
+msgstr ""
+"\n"
+"「奇蹟似的……平安無事呢。\n"
+"　人家還以為不行了呢。」"
+
+#. ID 6, Page 2, Line 46, Pos (16,8)
+msgid ""
+"\n"
+"「花瓶　どこかに\n"
+"　ないかしらね……」"
+msgstr ""
+"\n"
+"「不知道哪裡會有花瓶呢……」"
+
+#. ID 6, Page 2, Line 52, Pos (16,8)
+#. ID 6, Page 2, Line 82, Pos (16,8)
+#, fuzzy
+msgid ""
+"\n"
+"「ん　あちこち　痛むけど\n"
+"　一応は　歩けるから　大丈夫よ」"
+msgstr ""
+"\n"
+"「嗯，雖然身體到處都很痛，\n"
+"　但基本上還能走，沒問題喔。」"
+
+#. ID 6, Page 2, Line 56, Pos (16,8)
+#. ID 6, Page 2, Line 86, Pos (16,8)
+#, fuzzy
+msgid ""
+"\n"
+"「アタシたち……\n"
+"　背後には　もうちょっと\n"
+"　気をつけたほうが　良いわね」"
+msgstr ""
+"\n"
+"「我們以後呀……\n"
+"　要更加注意背後的情況\n"
+"　或許會比較好呢。」"
+
+#. ID 6, Page 2, Line 68, Pos (16,8)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"でもバラの花が……\n"
+"ギャリーは？"
+msgstr ""
+"但是玫瑰花……\n"
+"Garry呢？"
+
+#. ID 6, Page 2, Line 71, Pos (16,8)
+#, fuzzy
+msgid ""
+"\n"
+"「……仕方ないわよ\n"
+"　あんなに　高いところから\n"
+"　落ちたんだもの」"
+msgstr ""
+"\n"
+"「……這也是沒辦法的，\n"
+"　畢竟從那麼高的地方掉下來了嘛。」"
+
+#. ID 6, Page 2, Line 76, Pos (16,8)
+#, fuzzy
+msgid ""
+"\n"
+"「おもちゃばこでも　そうだったけど\n"
+"　もっと背後に　気をつけなきゃダメね」"
+msgstr ""
+"\n"
+"「在玩具箱裡的時候也是，\n"
+"　得要更加注意背後才行呢。」"
+
+#. ID 6, Page 4, Line 9, Pos (16,8)
+msgid "……全身が　痛い……"
+msgstr "……全身都好痛……"
+

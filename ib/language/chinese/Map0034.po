@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 2, Pos (6,9)
+#. ID 3, Page 1, Line 7, Pos (6,9)
+#. ID 3, Page 2, Line 3, Pos (6,9)
+#. ID 3, Page 2, Line 55, Pos (6,9)
+msgid "『悲しき花嫁の左手』"
+msgstr "『悲傷新娘的左手』"
+
+#. ID 3, Page 2, Line 5, Pos (6,9)
+#. Contains choice at line 2 (2 options)
+#. ID 3, Page 2, Line 56, Pos (6,9)
+#. Contains choice at line 2 (2 options)
+#. ID 4, Page 2, Line 4, Pos (14,9)
+#. Contains choice at line 2 (2 options)
+#. ID 4, Page 2, Line 54, Pos (14,9)
+#. Contains choice at line 2 (2 options)
+msgid "銀色の指輪を　はめてみますか？"
+msgstr "要把銀色戒指套上去嗎？"
+
+#. ID 3, Page 2, Line 6, Pos (6,9)
+#. Choice (2 options, embedded in a message)
+#. ID 3, Page 2, Line 57, Pos (6,9)
+#. Choice (2 options, embedded in a message)
+#. ID 4, Page 2, Line 5, Pos (14,9)
+#. Choice (2 options, embedded in a message)
+#. ID 4, Page 2, Line 55, Pos (14,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はめてみる\n"
+"やめておく"
+msgstr ""
+"套上去\n"
+"算了"
+
+#. ID 3, Page 2, Line 8, Pos (6,9)
+#. Choice (4 options)
+#. ID 3, Page 2, Line 59, Pos (6,9)
+#. Choice (4 options)
+#. ID 4, Page 2, Line 7, Pos (14,9)
+#. Choice (4 options)
+#. ID 4, Page 2, Line 57, Pos (14,9)
+#. Choice (4 options)
+msgid ""
+"人差し指\n"
+"中指\n"
+"薬指\n"
+"小指"
+msgstr ""
+"食指\n"
+"中指\n"
+"無名指\n"
+"小指"
+
+#. ID 3, Page 2, Line 15, Pos (6,9)
+#. ID 3, Page 2, Line 24, Pos (6,9)
+#. ID 3, Page 2, Line 43, Pos (6,9)
+#. ID 3, Page 2, Line 66, Pos (6,9)
+#. ID 3, Page 2, Line 75, Pos (6,9)
+#. ID 3, Page 2, Line 94, Pos (6,9)
+#. ID 4, Page 2, Line 14, Pos (14,9)
+#. ID 4, Page 2, Line 23, Pos (14,9)
+#. ID 4, Page 2, Line 32, Pos (14,9)
+#. ID 4, Page 2, Line 41, Pos (14,9)
+#. ID 4, Page 2, Line 64, Pos (14,9)
+#. ID 4, Page 2, Line 73, Pos (14,9)
+#. ID 4, Page 2, Line 82, Pos (14,9)
+#. ID 4, Page 2, Line 91, Pos (14,9)
+msgid "指輪が　はね返ってきた……"
+msgstr "戒指被彈了回來……"
+
+#. ID 3, Page 2, Line 33, Pos (6,9)
+#. ID 3, Page 2, Line 84, Pos (6,9)
+msgid "指輪を　薬指にはめた……"
+msgstr "將戒指套上無名指……"
+
+#. ID 3, Page 2, Line 109, Pos (6,9)
+msgid ""
+"\n"
+"「結婚指輪は　左手の指で\n"
+"　合ってたはず……」"
+msgstr ""
+"\n"
+"「結婚戒指應該是\n"
+"　戴在左手沒有錯……」"
+
+#. ID 3, Page 2, Line 113, Pos (6,9)
+msgid ""
+"\n"
+"「でも　どの指だったかは\n"
+"　忘れちゃったわ……ごめんね」"
+msgstr ""
+"\n"
+"「但是，是哪一隻手指\n"
+"　人家就忘記了……對不起唷」"
+
+#. ID 3, Page 3, Line 2, Pos (6,9)
+#. ID 3, Page 3, Line 7, Pos (6,9)
+msgid "『幸福な花嫁の左手』"
+msgstr "『幸福新娘的左手』"
+
+#. ID 4, Page 1, Line 2, Pos (14,9)
+#. ID 4, Page 1, Line 8, Pos (14,9)
+#. ID 4, Page 2, Line 3, Pos (14,9)
+#. ID 4, Page 2, Line 53, Pos (14,9)
+msgid "『悲しき花嫁の右手』"
+msgstr "『悲傷新娘的右手』"
+
+#. ID 4, Page 2, Line 106, Pos (14,9)
+msgid ""
+"\n"
+"「結婚指輪って\n"
+"　たしか　左手の指に\n"
+"　つけるんじゃなかったかしら……？」"
+msgstr ""
+"\n"
+"「人家記得\n"
+"　結婚戒指好像是要\n"
+"　戴在左手才對吧……？」"
+
+#. ID 4, Page 2, Line 111, Pos (14,9)
+msgid ""
+"\n"
+"「どの指だったかは　忘れたけど……」"
+msgstr ""
+"\n"
+"「至於是哪一隻手指就記不得了……」"
+
+#. ID 4, Page 3, Line 2, Pos (14,9)
+#. ID 4, Page 3, Line 7, Pos (14,9)
+msgid "『幸福な花嫁の右手』"
+msgstr "『幸福新娘的右手』"
+
+#. ID 7, Page 1, Line 1, Pos (5,8)
+msgid "綺麗な花束が　落ちている……"
+msgstr "美麗的捧花掉在地上……"
+
+#. ID 7, Page 1, Line 4, Pos (5,8)
+msgid "ブーケを　手に入れた。"
+msgstr "得到一束　捧花。"
+
+#. ID 8, Page 1, Line 1, Pos (6,6)
+msgid "『嘆きの花嫁』"
+msgstr "『嘆息的新娘』"
+
+#. ID 8, Page 2, Line 1, Pos (6,6)
+msgid "『幸福の花嫁』"
+msgstr "『幸福的新娘』"
+
+#. ID 10, Page 1, Line 1, Pos (14,6)
+msgid "『嘆きの花婿』"
+msgstr "『嘆息的新郎』"
+
+#. ID 10, Page 2, Line 1, Pos (14,6)
+msgid "『幸福の花婿』"
+msgstr "『幸福的新郎』"
+

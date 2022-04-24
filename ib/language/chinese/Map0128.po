@@ -1,0 +1,472 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (8,18)
+#. Contains choice at line 2 (3 options)
+#. ID 1, Page 2, Line 1, Pos (8,18)
+#. Contains choice at line 2 (2 options)
+#. ID 1, Page 3, Line 1, Pos (8,18)
+#. Contains choice at line 2 (2 options)
+msgid "ダイヤの形をした　真っ黒なベッドがある……"
+msgstr "有一張黑色菱形的床……"
+
+#. ID 1, Page 1, Line 3, Pos (8,18)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"触らないでおく\n"
+"寝てみる\n"
+"観察してみる"
+msgstr ""
+"不要碰\n"
+"躺上去看看\n"
+"觀察看看"
+
+#. ID 1, Page 1, Line 10, Pos (8,18)
+msgid ""
+"\n"
+"「待ちなさい　イヴ！」"
+msgstr ""
+"\n"
+"「慢著，Ib！」"
+
+#. ID 1, Page 1, Line 13, Pos (8,18)
+msgid ""
+"\n"
+"「この作品……なんか嫌な感じがする\n"
+"　あんまり　近づかない方が　良いわ」"
+msgstr ""
+"\n"
+"「這個作品……人家有種不好的預感，\n"
+"　不要太接近它比較好喔。」"
+
+#. ID 1, Page 1, Line 31, Pos (8,18)
+msgid "「イヴ……」"
+msgstr "「Ib……」"
+
+#. ID 1, Page 1, Line 33, Pos (8,18)
+#. Contains choice at line 2 (2 options)
+msgid "聞き覚えのある　声がする……"
+msgstr "好像在哪聽過的聲音……"
+
+#. ID 1, Page 1, Line 34, Pos (8,18)
+#. Choice (2 options, embedded in a message)
+#. ID 1, Page 1, Line 58, Pos (8,18)
+#. Choice (2 options, embedded in a message)
+#. ID 1, Page 1, Line 82, Pos (8,18)
+#. Choice (2 options, embedded in a message)
+#. ID 1, Page 1, Line 120, Pos (8,18)
+#. Choice (2 options, embedded in a message)
+#. ID 1, Page 1, Line 145, Pos (8,18)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"目を閉じたままでいる\n"
+"目を開ける"
+msgstr ""
+"繼續閉著眼睛\n"
+"睜開眼睛"
+
+#. ID 1, Page 1, Line 41, Pos (8,18)
+msgid ""
+"\n"
+"「誕生日おめでとう　イヴ！\n"
+"　ふふ　今日はごちそうよ」"
+msgstr ""
+"\n"
+"「生日快樂，Ib！\n"
+"　呵呵，今天有大餐吃喔！」"
+
+#. ID 1, Page 1, Line 45, Pos (8,18)
+msgid ""
+"\n"
+"「ケーキも　ほら！\n"
+"　イヴの好きな　イチゴが乗ってるの\n"
+"　今日は　特別だからね」"
+msgstr ""
+"\n"
+"「妳看，蛋糕也是，\n"
+"　有Ib最喜歡的草莓在上面喔。\n"
+"　因為今天是特別的日子喔。」"
+
+#. ID 1, Page 1, Line 50, Pos (8,18)
+msgid ""
+"\n"
+"「おめでとう　イヴ\n"
+"　もう９歳か……大きくなったなぁ」"
+msgstr ""
+"\n"
+"「生日快樂，Ib。\n"
+"　已經9歲啦……妳長大了呢。」"
+
+#. ID 1, Page 1, Line 53, Pos (8,18)
+msgid ""
+"\n"
+"「この前まで\n"
+"　あんなに　小さかったのにね……」"
+msgstr ""
+"\n"
+"「明明不久之前，\n"
+"　還這麼小呢……」"
+
+#. ID 1, Page 1, Line 57, Pos (8,18)
+#. Contains choice at line 2 (2 options)
+msgid "これは　誕生日の時の記憶だ……"
+msgstr "這是，生日時的記憶……"
+
+#. ID 1, Page 1, Line 63, Pos (8,18)
+msgid ""
+"\n"
+"「まだまだ　これからよ\n"
+"　ね？　イヴ」"
+msgstr ""
+"\n"
+"「以後還會繼續長大的，\n"
+"　對吧？Ib。」"
+
+#. ID 1, Page 1, Line 67, Pos (8,18)
+msgid ""
+"\n"
+"「そうか　楽しみにしてるよ\n"
+"　………ん？　あぁ　これか」"
+msgstr ""
+"\n"
+"「是嗎，我很期待喔。\n"
+"　………嗯？這個嗎？」"
+
+#. ID 1, Page 1, Line 71, Pos (8,18)
+msgid ""
+"\n"
+"「あはは　見つかっちゃったな\n"
+"　じゃあ　ちょっと早いけど……」"
+msgstr ""
+"\n"
+"「啊哈哈，被妳發現了呢，\n"
+"　那，雖然有點早……」"
+
+#. ID 1, Page 1, Line 74, Pos (8,18)
+msgid ""
+"\n"
+"「ほら！\n"
+"　お父さんからの　誕生日プレゼントだ」"
+msgstr ""
+"\n"
+"「妳看！\n"
+"　這是爸爸送妳的生日禮物喔。」"
+
+#. ID 1, Page 1, Line 78, Pos (8,18)
+msgid ""
+"\n"
+"「いいよ　開けてごらん」"
+msgstr ""
+"\n"
+"「可以喔，打開看看吧。」"
+
+#. ID 1, Page 1, Line 81, Pos (8,18)
+#. Contains choice at line 2 (2 options)
+msgid "おとうさんから　プレゼントをもらった……"
+msgstr "從爸爸那裡拿到了禮物……"
+
+#. ID 1, Page 1, Line 88, Pos (8,18)
+msgid "大きなウサギの　ぬいぐるみが入っている……"
+msgstr "裡面有一個很大的兔子玩偶……"
+
+#. ID 1, Page 1, Line 91, Pos (8,18)
+msgid ""
+"\n"
+"「どうだい？　イヴ\n"
+"　こんなに大きい　ウサギは\n"
+"　なかなか　いないだろう！」"
+msgstr ""
+"\n"
+"「怎麼樣啊，Ib？\n"
+"　像這麼大隻的兔子，\n"
+"　不常看到吧！」"
+
+#. ID 1, Page 1, Line 96, Pos (8,18)
+msgid ""
+"\n"
+"「ちょっと　あなた……\n"
+"　ぬいぐるみは　やめてって\n"
+"　言ったじゃないの」"
+msgstr ""
+"\n"
+"「等等，親愛的……\n"
+"　不是告訴你不要送玩偶了嗎。」"
+
+#. ID 1, Page 1, Line 101, Pos (8,18)
+#, fuzzy
+msgid ""
+"\n"
+"「え　そうだっけ？」"
+msgstr ""
+"\n"
+"「咦？是嗎？」"
+
+#. ID 1, Page 1, Line 104, Pos (8,18)
+#, fuzzy
+msgid ""
+"\n"
+"「そうよ！　イヴの部屋は　もう\n"
+"　ウサギで　いっぱいじゃない\n"
+"　これ以上増やして　どうするの！」"
+msgstr ""
+"\n"
+"「是啊！Ib的房間裡\n"
+"　已經都是兔子了不是嗎。\n"
+"　再這樣增加下去你打算怎麼辦啊！」"
+
+#. ID 1, Page 1, Line 109, Pos (8,18)
+#, fuzzy
+msgid ""
+"\n"
+"「い　いやぁ　でも……\n"
+"　あ　ホラ！\n"
+"　イヴは　喜んでくれてるよ！」"
+msgstr ""
+"\n"
+"「哎、哎呀，可是……\n"
+"　啊，妳看嘛！\n"
+"　Ib很開心啊！」"
+
+#. ID 1, Page 1, Line 114, Pos (8,18)
+#, fuzzy
+msgid ""
+"\n"
+"「もう……仕方ないわね……\n"
+"　それじゃあ　イヴ\n"
+"　私からも　プレゼント」"
+msgstr ""
+"\n"
+"「真是的……真是沒辦法……\n"
+"　那麼Ib，\n"
+"　我也有禮物要送妳。」"
+
+#. ID 1, Page 1, Line 119, Pos (8,18)
+#. Contains choice at line 2 (2 options)
+#, fuzzy
+msgid "頭が　ぼーっとする……"
+msgstr "腦袋昏昏沉沉的……"
+
+#. ID 1, Page 1, Line 125, Pos (8,18)
+#, fuzzy
+msgid ""
+"\n"
+"「アナタの　名前が入ったハンカチ\n"
+"　お店で　作ってもらったのよ」"
+msgstr ""
+"\n"
+"「這是繡了妳的名字的手帕，\n"
+"　我請店裡的人幫我做的喔。」"
+
+#. ID 1, Page 1, Line 129, Pos (8,18)
+#, fuzzy
+msgid ""
+"\n"
+"「レースのハンカチかぁ……\n"
+"　イヴにはちょっと　早くないかい？」"
+msgstr ""
+"\n"
+"「蕾絲的手帕啊……\n"
+"　對Ib來說不會太早了嗎？」"
+
+#. ID 1, Page 1, Line 133, Pos (8,18)
+#, fuzzy
+msgid ""
+"\n"
+"「良いのよ　この子\n"
+"　物を　大事にしすぎて　なかなか\n"
+"　新しい物　買わせてくれないんだもの」"
+msgstr ""
+"\n"
+"「沒關係啦，因為這孩子\n"
+"　總是非常珍惜物品，\n"
+"　幾乎沒辦法幫她買新的東西呢。」"
+
+#. ID 1, Page 1, Line 137, Pos (8,18)
+#, fuzzy
+msgid ""
+"\n"
+"「それなら　はじめから\n"
+"　良い物　持たせたいわ」"
+msgstr ""
+"\n"
+"「既然這樣，那不如一開始\n"
+"　就給她好一點的東西。」"
+
+#. ID 1, Page 1, Line 141, Pos (8,18)
+#, fuzzy
+msgid ""
+"\n"
+"「なるほど……」"
+msgstr ""
+"\n"
+"「原來如此……」"
+
+#. ID 1, Page 1, Line 144, Pos (8,18)
+#. Contains choice at line 2 (2 options)
+#, fuzzy
+msgid "……………………"
+msgstr "……………………"
+
+#. ID 1, Page 1, Line 149, Pos (8,18)
+#, fuzzy
+msgid ""
+"\n"
+"「……あら　イヴ　眠たいの？」"
+msgstr ""
+"\n"
+"「……哎呀，Ib，妳想睡覺了嗎？」"
+
+#. ID 1, Page 1, Line 152, Pos (8,18)
+#, fuzzy
+msgid ""
+"\n"
+"「珍しく　はしゃいでたからなぁ\n"
+"　疲れたんじゃないか？」"
+msgstr ""
+"\n"
+"「因為今天難得玩得很開心嘛，\n"
+"　是不是累了啊？」"
+
+#. ID 1, Page 1, Line 156, Pos (8,18)
+#, fuzzy
+msgid ""
+"\n"
+"\\s[2]「うふふ　そうかもね\n"
+"　イヴ　ちょっとだけ　寝たらどう？」"
+msgstr ""
+"\n"
+"\\s[2]「呵呵呵，說不定呢。\n"
+"　Ib，稍微睡一下吧？」"
+
+#. ID 1, Page 1, Line 160, Pos (8,18)
+#, fuzzy
+msgid ""
+"\n"
+"\\s[2]「起きてから　パーティの\n"
+"　続きを　しましょうか」"
+msgstr ""
+"\n"
+"\\s[2]「等妳醒過來之後，\n"
+"　再繼續舉辦生日派對吧。」"
+
+#. ID 1, Page 1, Line 164, Pos (8,18)
+#, fuzzy
+msgid ""
+"\n"
+"\\s[3]「そうだね　それが良いよ\n"
+"　ゆっくりおやすみ　イヴ」"
+msgstr ""
+"\n"
+"\\s[3]「對啊，這樣比較好。\n"
+"　好好休息吧，Ib。」"
+
+#. ID 1, Page 1, Line 168, Pos (8,18)
+#, fuzzy
+msgid ""
+"\n"
+"\\s[4]「おやすみなさい…………」"
+msgstr ""
+"\n"
+"\\s[4]「晚安…………」"
+
+#. ID 1, Page 1, Line 223, Pos (8,18)
+#, fuzzy
+msgid "……………！"
+msgstr "……………！"
+
+#. ID 1, Page 1, Line 224, Pos (8,18)
+#, fuzzy
+msgid "バラの花びらが　減っている……"
+msgstr "玫瑰的花瓣正在減少……"
+
+#. ID 1, Page 1, Line 234, Pos (8,18)
+#. ID 1, Page 2, Line 6, Pos (8,18)
+#, fuzzy
+msgid "……なぜか　懐かしいにおいがする……"
+msgstr "……不知為何有種很懷念的氣味……"
+
+#. ID 1, Page 2, Line 2, Pos (8,18)
+#. Choice (2 options, embedded in a message)
+#. ID 1, Page 3, Line 2, Pos (8,18)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"触らないでおく\n"
+"観察してみる"
+msgstr ""
+"不要碰\n"
+"觀察看看"
+
+#. ID 1, Page 3, Line 6, Pos (8,18)
+msgid "……かすかに　炭のような　においがする……"
+msgstr "……隱約有種像是黑炭的味道……"
+
+#. ID 4, Page 1, Line 2, Pos (9,7)
+#. Contains choice at line 2 (2 options)
+msgid "箱が置いてある……"
+msgstr "放著一個箱子……"
+
+#. ID 4, Page 1, Line 3, Pos (9,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"開ける\n"
+"開けない"
+msgstr ""
+"打開\n"
+"不打開"
+
+#. ID 4, Page 1, Line 10, Pos (9,7)
+msgid ""
+"\n"
+"「何これ……なにも\n"
+"　入ってない　じゃない……ん？」"
+msgstr ""
+"\n"
+"「這是什麼……\n"
+"　什麼都沒有嘛……嗯？」"
+
+#. ID 4, Page 1, Line 17, Pos (9,7)
+msgid "箱の底に　小さく何かが光っている……"
+msgstr "箱子的底部，有個小東西在發光……"
+
+#. ID 4, Page 1, Line 19, Pos (9,7)
+msgid "黒のカギを　手に入れた。"
+msgstr "得到一把　黑色鑰匙。"
+
+#. ID 4, Page 1, Line 24, Pos (9,7)
+msgid "大きな箱は　消えてしまった……"
+msgstr "大箱子消失了……"
+
+#. ID 5, Page 1, Line 1, Pos (9,22)
+msgid "『最後の舞台』"
+msgstr "『最後的舞台』"
+
+#. ID 8, Page 1, Line 1, Pos (5,22)
+#. Contains choice at line 2 (2 options)
+msgid "水の入った花瓶がある……"
+msgstr "有一個裝了水的花瓶……"
+
+#. ID 8, Page 1, Line 2, Pos (5,22)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"バラを活ける\n"
+"活けない"
+msgstr ""
+"把玫瑰插進花瓶裡\n"
+"不插進花瓶"
+
+#. ID 8, Page 1, Line 9, Pos (5,22)
+msgid "バラの花が　元気になった！"
+msgstr "玫瑰再度盛開了！"
+
+#. ID 8, Page 1, Line 12, Pos (5,22)
+msgid "花瓶の水が　なくなってしまった……"
+msgstr "花瓶裡的水用完了……"
+

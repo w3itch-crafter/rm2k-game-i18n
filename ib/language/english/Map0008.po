@@ -1,0 +1,281 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. ID 4, Page 1, Line 1, Pos (6,30)
+#. ID 4, Page 3, Line 1, Pos (6,30)
+msgid ""
+"「ネコだー！\n"
+"　ママぁー！　ネコの絵があるー！」"
+msgstr ""
+"It's a kitty!\n"
+"Mommy! There's a kitty picture!"
+
+#. ID 4, Page 1, Line 5, Pos (6,30)
+#. ID 4, Page 3, Line 5, Pos (6,30)
+msgid ""
+"「わかったから　静かにしなさい！\n"
+"　大きな声　出しちゃ　ダメッ！」"
+msgstr ""
+"Yes, yes, I get it! Be quiet!\n"
+"I told you not to shout!"
+
+#. ID 6, Page 2, Line 1, Pos (11,8)
+msgid "果物が　落ちている……"
+msgstr "The fruit fell off..."
+
+#. ID 23, Page 1, Line 3, Pos (2,37)
+msgid ""
+"\n"
+"「だれか　いないかな……\n"
+"　ここも　美術館なのかな？」"
+msgstr ""
+"\n"
+" Is there anyone here...?\n"
+" Is this part of the gallery too?"
+
+#. ID 24, Page 1, Line 3, Pos (15,8)
+#. ID 24, Page 3, Line 3, Pos (15,8)
+msgid ""
+"「はー………すごいわねぇ\n"
+"　この絵なんか　居間に飾ると\n"
+"　良さそうだわぁ………」"
+msgstr ""
+"Hah... Incredible, isn't it?\n"
+"This painting would be perfect\n"
+"hanging in our living room..."
+
+#. ID 24, Page 1, Line 10, Pos (15,8)
+#. ID 24, Page 3, Line 10, Pos (15,8)
+msgid "「うむ　素晴らしい」"
+msgstr "Hm, yes! Superb!"
+
+#. ID 24, Page 1, Line 11, Pos (15,8)
+#. ID 24, Page 3, Line 11, Pos (15,8)
+msgid ""
+"「ゲルテナ先生の　才能には\n"
+"　嫉妬してしまうな！　ははは」"
+msgstr ""
+"I'm truly jealous of Master\n"
+"Guertena's genius! Hahaha..."
+
+#. ID 24, Page 1, Line 17, Pos (15,8)
+#. ID 24, Page 3, Line 17, Pos (15,8)
+msgid "おじいさんとおばあさんが　絵を観ている……"
+msgstr ""
+"The old man and lady\n"
+"study the painting intently..."
+
+#. ID 28, Page 1, Line 1, Pos (3,7)
+msgid "『？？？なダイヤ』"
+msgstr "\"??? Diamond\""
+
+#. ID 28, Page 1, Line 2, Pos (3,7)
+#. ID 34, Page 1, Line 2, Pos (15,7)
+#. ID 45, Page 1, Line 2, Pos (13,16)
+#. ID 46, Page 1, Line 2, Pos (14,16)
+#. ID 51, Page 1, Line 2, Pos (13,32)
+#. ID 52, Page 1, Line 2, Pos (14,32)
+msgid "難しくて　読めない字がある……"
+msgstr "You don't know this word..."
+
+#. ID 33, Page 1, Line 1, Pos (7,7)
+#. ID 33, Page 2, Line 1, Pos (7,7)
+#. ID 33, Page 3, Line 1, Pos (7,7)
+msgid "『赤い服の女』"
+msgstr "\"The Lady in Red\""
+
+#. ID 33, Page 2, Line 4, Pos (7,7)
+msgid ""
+"\n"
+"「お姉ちゃん！」"
+msgstr ""
+"\n"
+" Big sis!"
+
+#. ID 33, Page 3, Line 4, Pos (7,7)
+msgid ""
+"\n"
+"「お姉ちゃん……」"
+msgstr ""
+"\n"
+" Big sis..."
+
+#. ID 34, Page 1, Line 1, Pos (15,7)
+msgid "『世紀末の？？』"
+msgstr "\"??? of Century's End\""
+
+#. ID 35, Page 1, Line 1, Pos (11,7)
+msgid "『苦味の果実』"
+msgstr "\"Bitter Fruit\""
+
+#. ID 36, Page 1, Line 1, Pos (2,29)
+msgid "『悟り』"
+msgstr "\"Enlightenment\""
+
+#. ID 37, Page 1, Line 1, Pos (6,29)
+msgid "『黒い姿の君』"
+msgstr "\"Your Dark Figure\""
+
+#. ID 41, Page 1, Line 1, Pos (5,30)
+#. ID 41, Page 3, Line 1, Pos (5,30)
+msgid ""
+"「うちの子\n"
+"　うるさかったら　ごめんなさいね？」"
+msgstr ""
+"I apologize if my daughter\n"
+"is bothering you..."
+
+#. ID 42, Page 1, Line 2, Pos (7,8)
+#. ID 42, Page 1, Line 6, Pos (7,8)
+#. ID 42, Page 3, Line 2, Pos (7,8)
+#. ID 42, Page 3, Line 6, Pos (7,8)
+msgid ""
+"「きれいな人だなぁ\n"
+"　でもこれ　実在の人物かな？」"
+msgstr ""
+"What a beautiful woman...\n"
+"But I wonder if she was someone real?"
+
+#. ID 42, Page 1, Line 10, Pos (7,8)
+#. ID 42, Page 3, Line 10, Pos (7,8)
+msgid ""
+"「ゲルテナは　実在する人は\n"
+"　ほとんど描いてない　らしいからね」"
+msgstr ""
+"They say Guertena didn't\n"
+"typically paint any real people."
+
+#. ID 42, Page 1, Line 12, Pos (7,8)
+#. ID 42, Page 3, Line 12, Pos (7,8)
+msgid ""
+"「でも本当に　いるみたいだよね？\n"
+"　この女の人とかさ……すごいなぁ」"
+msgstr ""
+"But there's always a chance, you know?\n"
+"This girl could be out there somewhere... Wow!"
+
+#. ID 43, Page 1, Line 1, Pos (14,17)
+#. ID 43, Page 3, Line 1, Pos (14,17)
+msgid ""
+"「なんか作品数　少なくない？\n"
+"　もっと　なかったっけ？」"
+msgstr ""
+"Seems like there's so few pieces...\n"
+"Aren't there more than this?"
+
+#. ID 43, Page 1, Line 5, Pos (14,17)
+#. ID 43, Page 3, Line 5, Pos (14,17)
+msgid ""
+"「ここに　入りきらなかったり\n"
+"　経費とかなんやらで\n"
+"　全部は　無理だったって　話だよ」"
+msgstr ""
+"I don't think it'd be possible for them\n"
+"to fit everything in here and still\n"
+"leave room to walk around!"
+
+#. ID 43, Page 1, Line 10, Pos (14,17)
+#. ID 43, Page 3, Line 10, Pos (14,17)
+msgid "「ふーん………」"
+msgstr "Hmph..."
+
+#. ID 44, Page 1, Line 1, Pos (13,17)
+#. ID 44, Page 3, Line 1, Pos (13,17)
+msgid ""
+"「ゲルテナって\n"
+"　結構マイナーな　芸術家だからなー」"
+msgstr ""
+"Guertena's kind of an\n"
+"obscure artist, you know?"
+
+#. ID 44, Page 1, Line 3, Pos (13,17)
+#. ID 44, Page 3, Line 3, Pos (13,17)
+msgid ""
+"「こんな小さい　美術館でしか\n"
+"　展覧会　できないのかな」"
+msgstr ""
+"Probably only tiny art galleries like this\n"
+"could get away with an exhibition of his works..."
+
+#. ID 44, Page 1, Line 5, Pos (13,17)
+#. ID 44, Page 3, Line 5, Pos (13,17)
+msgid ""
+"「もっと　みんな\n"
+"　知ってくれれば　いいのに……」"
+msgstr ""
+"It'd be nice if more people\n"
+"knew about him, really..."
+
+#. ID 45, Page 1, Line 1, Pos (13,16)
+#. ID 46, Page 1, Line 1, Pos (14,16)
+msgid "『？？？』"
+msgstr "\"???\""
+
+#. ID 51, Page 1, Line 1, Pos (13,32)
+#. ID 52, Page 1, Line 1, Pos (14,32)
+msgid "『？？』"
+msgstr "\"??\""
+
+#. ID 55, Page 1, Line 1, Pos (13,24)
+#. ID 56, Page 1, Line 1, Pos (14,24)
+msgid "「口直しの樹」"
+msgstr "\"Taste-Cleansing Tree\""
+
+#. ID 58, Page 1, Line 1, Pos (11,21)
+#. ID 58, Page 3, Line 1, Pos (11,21)
+msgid ""
+"「あのカラフルなやつ\n"
+"　ちょっと　おいしそう……」"
+msgstr "That rainbow stuff looks kinda tasty..."
+
+#. ID 58, Page 1, Line 3, Pos (11,21)
+#. ID 58, Page 3, Line 3, Pos (11,21)
+#, fuzzy
+msgid ""
+"「口直し　ってくらいだから\n"
+"　もしかすると　お菓子なのかも……うふふ」"
+msgstr ""
+"I mean, if it's \"Taste-Cleansing,\"\n"
+"then maybe it's candy... ohoho..."
+
+#. ID 59, Page 1, Line 1, Pos (13,27)
+#. ID 59, Page 3, Line 1, Pos (13,27)
+msgid ""
+"「ゲルテナ氏は　やはりすごい\n"
+"　尊敬し尽しても　足りないくらいだ……」"
+msgstr ""
+"Sir Guertena is indeed astounding!\n"
+"I cannot hold him in high enough regard..."
+
+#. ID 59, Page 1, Line 3, Pos (13,27)
+#. ID 59, Page 3, Line 3, Pos (13,27)
+msgid ""
+"「あぁ！　あなたが生きていれば\n"
+"　絶対に　弟子入りしていたのに」"
+msgstr ""
+"Alas! If only you were still alive,\n"
+"I would have gladly been your apprentice..."
+
+#. ID 65, Page 1, Line 1, Pos (5,7)
+msgid ""
+"“かわいそうな　メアリー\n"
+"　ずっとひとりで　さまようんだね”"
+msgstr ""
+"\"Poor little Mary...\n"
+"Always alone and lost...\""
+
+#. ID 66, Page 1, Line 1, Pos (8,29)
+#. ID 66, Page 2, Line 1, Pos (8,29)
+msgid "“くらやみのなかに”"
+msgstr "\"Deep in the darkness\""

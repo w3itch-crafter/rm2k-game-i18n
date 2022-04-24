@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 6, Page 1, Line 2, Pos (4,7)
+#. ID 6, Page 1, Line 16, Pos (4,7)
+msgid "『ワインソファ』"
+msgstr "\"Wine Sofa\""
+
+#. ID 6, Page 1, Line 3, Pos (4,7)
+#. ID 6, Page 1, Line 17, Pos (4,7)
+msgid ""
+"大きなワイングラスが　斜めにカットされて\n"
+"中に赤いクッションが　入っている……"
+msgstr ""
+"A giant wine glass cut diagonally,\n"
+"and with a red cushion inside..."
+
+#. ID 6, Page 1, Line 7, Pos (4,7)
+#. ID 6, Page 1, Line 21, Pos (4,7)
+msgid ""
+"\n"
+"「あんまり　座り心地\n"
+"　良くなさそうね……」"
+msgstr ""
+"\n"
+" That doesn't look like\n"
+" very comfortable sitting..."
+
+#. ID 7, Page 1, Line 2, Pos (11,8)
+#. ID 8, Page 1, Line 2, Pos (10,8)
+msgid "『憂鬱』"
+msgstr "\"Melancholy\""
+
+#. ID 7, Page 1, Line 3, Pos (11,8)
+#. ID 8, Page 1, Line 3, Pos (10,8)
+msgid "字が難しくて　読めない……"
+msgstr "You don't know this word..."
+
+#. ID 7, Page 1, Line 6, Pos (11,8)
+#. ID 8, Page 1, Line 6, Pos (10,8)
+msgid ""
+"\n"
+"「ゆううつ　ね\n"
+"　ま　こんなとこにいれば\n"
+"　憂鬱にも　なるわよねぇ」"
+msgstr ""
+"\n"
+" Melancholy, huh.\n"
+" Well really, who wouldn't be\n"
+" in this place?"
+
+#. ID 9, Page 1, Line 2, Pos (17,7)
+#. ID 10, Page 1, Line 2, Pos (18,7)
+msgid "『パズル』"
+msgstr "\"Puzzle\""
+
+#. ID 9, Page 1, Line 3, Pos (17,7)
+#. ID 10, Page 1, Line 3, Pos (18,7)
+msgid "色々な色で塗られた　ガイコツだ……"
+msgstr "A skeleton painted in all kinds of colors..."
+
+#. ID 9, Page 1, Line 6, Pos (17,7)
+#. ID 10, Page 1, Line 6, Pos (18,7)
+msgid ""
+"\n"
+"「これ　ニセモノよね？」"
+msgstr ""
+"\n"
+" These aren't real bones, okay Ib?"
+
+#. ID 11, Page 1, Line 2, Pos (23,8)
+#. ID 11, Page 1, Line 15, Pos (23,8)
+#, fuzzy
+msgid "『感情』"
+msgstr "\"Feeling\""
+
+#. ID 11, Page 1, Line 3, Pos (23,8)
+#. ID 11, Page 1, Line 16, Pos (23,8)
+#, fuzzy
+msgid "人の形にも見える　木のオブジェだ……"
+msgstr ""
+"A tree sculpture that vaguely\n"
+"resembles a person..."
+
+#. ID 11, Page 1, Line 6, Pos (23,8)
+#. ID 11, Page 1, Line 19, Pos (23,8)
+#, fuzzy
+msgid ""
+"\n"
+"「よく　こんなもの\n"
+"　考えつくわよね……」"
+msgstr ""
+"\n"
+" You gotta be pretty clever\n"
+" to come up with this stuff..."
+
+#. ID 12, Page 1, Line 2, Pos (24,7)
+msgid "葉っぱの中に　何かが光っている……"
+msgstr "Something gleams amid the leaves..."
+
+#. ID 12, Page 1, Line 5, Pos (24,7)
+msgid "銀色の指輪を　手に入れた。"
+msgstr "Obtained the Silver Ring."
+
+#. ID 12, Page 1, Line 8, Pos (24,7)
+msgid ""
+"\n"
+"「これ……結婚指輪じゃない？\n"
+"　どうして　こんなところに？」"
+msgstr ""
+"\n"
+" Isn't this... a wedding ring?\n"
+" Now what would this be doing here?"
+

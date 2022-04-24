@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 7, Pos (1,1)
+msgid ""
+"\n"
+"　　　　　　昼下がりの　灰色の空の下……"
+msgstr ""
+"\n"
+"　　　　　在一個被灰色天空所籠罩的午後……"
+
+#. ID 1, Page 1, Line 9, Pos (1,1)
+msgid ""
+"\n"
+"　　　　　　　　イヴとその両親は\n"
+"　　　　　　美術館に向かっておりました……"
+msgstr ""
+"\n"
+"　　　　 　　Ib\\c[11]（讀作伊布）\\c[0]和她的父母\n"
+"　　　　　　　　一起前往美術館……"
+
+#. ID 1, Page 1, Line 13, Pos (1,1)
+msgid ""
+"\n"
+"　　　　　「忘れ物　ないわよね？　イヴ」"
+msgstr ""
+"\n"
+"　　　　　「沒有忘記帶什麼東西吧？Ib。」"
+
+#. ID 1, Page 1, Line 15, Pos (1,1)
+msgid ""
+"\n"
+"　　　　　「そうだ　ハンカチは持ってきた？\n"
+"　　　　　 　ほら　誕生日に　あげたやつ」"
+msgstr ""
+"\n"
+"　　　　　　　「對了，有帶著手帕嗎？\n"
+"　　　　　　　就是在生日時送妳的那條。」"
+
+#. ID 1, Page 1, Line 18, Pos (1,1)
+msgid ""
+"\n"
+"　　　「ちゃんとポケットに　入れておくのよ？\n"
+"　　　　　　　　なくさないようにね」"
+msgstr ""
+"\n"
+"　　　　　　　「要好好放在口袋裡喔？\n"
+"　　　　　　　　　千萬別弄丟了。」"
+

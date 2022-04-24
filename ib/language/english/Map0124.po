@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (13,5)
+#. ID 10, Page 1, Line 2, Pos (13,6)
+msgid "紅茶の　かおりがする……"
+msgstr "It smells like tea..."
+
+#. ID 3, Page 1, Line 1, Pos (7,5)
+msgid "本の絵がある……"
+msgstr "A painting of a book..."
+
+#. ID 4, Page 1, Line 1, Pos (4,5)
+msgid "ボールのような絵がある……"
+msgstr "A painting of balls..."
+
+#. ID 5, Page 1, Line 1, Pos (10,5)
+msgid "サメの絵がある……"
+msgstr "A painting of a shark..."
+
+#. ID 7, Page 1, Line 1, Pos (4,6)
+msgid "赤い額縁に　ボールのような絵が　飾ってある……"
+msgstr "A painting of balls in a red frame..."
+
+#. ID 8, Page 1, Line 1, Pos (7,6)
+msgid "青い額縁に　本の絵が飾ってある……"
+msgstr "A painting of a book in a blue frame..."
+
+#. ID 8, Page 1, Line 3, Pos (7,6)
+msgid "“夜になると　皆眠りにつく”"
+msgstr "\"Everyone goes to sleep at night...\""
+
+#. ID 9, Page 1, Line 1, Pos (10,6)
+msgid "黄色の額縁に　サメの絵が飾ってある……"
+msgstr "A painting of a shark in a yellow frame..."
+
+#. ID 10, Page 1, Line 1, Pos (13,6)
+#. ID 10, Page 2, Line 1, Pos (13,6)
+msgid "紫の額縁に　紅茶の絵が飾ってある……"
+msgstr "A painting of tea in a violet frame..."
+
+#. ID 10, Page 1, Line 6, Pos (13,6)
+msgid ""
+"\n"
+"「すごく　良い香りだけど……」"
+msgstr ""
+"\n"
+" It smells wonderful... but..."
+
+#. ID 10, Page 1, Line 9, Pos (13,6)
+msgid ""
+"\n"
+"「これは　これで\n"
+"　すごい嫌がらせだと　思わない？」"
+msgstr ""
+"\n"
+" Don't you think\n"
+" this is such a tease?"
+
+#. ID 10, Page 1, Line 13, Pos (13,6)
+msgid ""
+"\n"
+"「あー……\n"
+"　この紅茶が　本物になればいいのに」"
+msgstr ""
+"\n"
+" Sigh...\n"
+" If only this were real tea..."
+
+#. ID 10, Page 2, Line 5, Pos (13,6)
+msgid ""
+"\n"
+"「……すっかり\n"
+"　冷めちゃった　みたいね」"
+msgstr ""
+"\n"
+" ...Looks like it cooled."
+
+#. ID 11, Page 1, Line 1, Pos (16,6)
+#. ID 11, Page 2, Line 2, Pos (16,6)
+msgid "緑の額縁に　穴が開いた地面の絵が　飾ってある……"
+msgstr ""
+"A painting of a hole in the ground\n"
+"in a green frame..."
+
+#. ID 11, Page 2, Line 3, Pos (16,6)
+#, fuzzy
+msgid "………？"
+msgstr ".....?"
+
+#. ID 11, Page 2, Line 4, Pos (16,6)
+#. Contains choice at line 2 (2 options)
+#, fuzzy
+msgid "この絵は　壁から外れそうだ……"
+msgstr "It looks like it can be taken off the wall..."
+
+#. ID 11, Page 2, Line 5, Pos (16,6)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"外す\n"
+"外さない"
+msgstr ""
+"Remove\n"
+"Leave it"
+
+#. ID 11, Page 2, Line 8, Pos (16,6)
+#, fuzzy
+msgid "アリの巣の絵を　手に入れた。"
+msgstr "Obtained the Anthill Painting."
+

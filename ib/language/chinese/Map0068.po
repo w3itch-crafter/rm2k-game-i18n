@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 3, Pos (18,1)
+msgid ""
+"\n"
+"「うっ……\n"
+"　なんなの　この部屋……！」"
+msgstr ""
+"\n"
+"「嗚呃……\n"
+"　這個房間怎麼這樣啊……！」"
+
+#. ID 2, Page 1, Line 7, Pos (18,1)
+msgid ""
+"\n"
+"「長居は　良くなさそうね……」"
+msgstr ""
+"\n"
+"「看來不能在這裡面待太久呢……」"
+
+#. ID 8, Page 1, Line 1, Pos (11,6)
+#. Contains choice at line 2 (2 options)
+msgid "傘が　置いてある……"
+msgstr "放著一把雨傘……"
+
+#. ID 8, Page 1, Line 2, Pos (11,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"持っていく\n"
+"そのままにしておく"
+msgstr ""
+"拿走\n"
+"就這樣放著不管它"
+
+#. ID 8, Page 1, Line 6, Pos (11,6)
+msgid "赤い傘を　手に入れた。"
+msgstr "得到一把　紅色雨傘。"
+
+#. ID 13, Page 1, Line 1, Pos (7,11)
+msgid "花瓶に水が　入っていない……"
+msgstr "花瓶裡面沒有水……"
+
+#. ID 13, Page 2, Line 1, Pos (7,11)
+#. Contains choice at line 2 (2 options)
+#. ID 13, Page 3, Line 1, Pos (7,11)
+#. Contains choice at line 2 (2 options)
+msgid "水の入った花瓶がある……"
+msgstr "有一個裝了水的花瓶……"
+
+#. ID 13, Page 2, Line 2, Pos (7,11)
+#. Choice (2 options, embedded in a message)
+#. ID 13, Page 3, Line 2, Pos (7,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"活ける\n"
+"活けない"
+msgstr ""
+"把玫瑰插進花瓶裡\n"
+"不插進花瓶"
+
+#. ID 13, Page 2, Line 7, Pos (7,11)
+#. ID 13, Page 3, Line 7, Pos (7,11)
+msgid "薔薇の花が　元気になった！"
+msgstr "玫瑰再度盛開了！"
+
+#. ID 13, Page 4, Line 1, Pos (7,11)
+msgid "花瓶がある……"
+msgstr "有一個花瓶……"
+
+#. ID 14, Page 1, Line 2, Pos (15,10)
+#. Contains choice at line 2 (2 options)
+#. ID 14, Page 2, Line 1, Pos (15,10)
+msgid "天井から　ヒモが下がっている……"
+msgstr "有條繩子從天花板上垂了下來……"
+
+#. ID 14, Page 1, Line 3, Pos (15,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ひっぱる\n"
+"やめておく"
+msgstr ""
+"拉下\n"
+"算了"
+
+#. ID 14, Page 1, Line 12, Pos (15,10)
+msgid ""
+"\n"
+"「あら……\n"
+"　ガスみたいなの　止まったわ」"
+msgstr ""
+"\n"
+"「哎呀……\n"
+"　像瓦斯一樣的東西停下來了呢。」"
+
+#. ID 21, Page 2, Line 3, Pos (5,8)
+msgid ""
+"\n"
+"「なにかしら　これ……\n"
+"　柔らかいけど　握ったら割れそう」"
+msgstr ""
+"\n"
+"「這是什麼東西啊……\n"
+"　軟軟的，好像一捏就會破掉。」"
+
+#. ID 21, Page 2, Line 6, Pos (5,8)
+msgid ""
+"\n"
+"「もしかしてこれが　絵の具玉？」"
+msgstr ""
+"\n"
+"「難道這就是顏料球？」"
+
+#. ID 21, Page 2, Line 10, Pos (5,8)
+#. ID 21, Page 3, Line 3, Pos (5,8)
+msgid "絵の具玉（紫）を　手に入れた。"
+msgstr "得到一顆　顏料球（紫）。"
+
+#. ID 21, Page 2, Line 17, Pos (5,8)
+msgid ""
+"\n"
+"「あら………消えちゃったわ」"
+msgstr ""
+"\n"
+"「哎呀………消失了呢。」"
+
+#. ID 21, Page 3, Line 1, Pos (5,8)
+msgid "何かが　落ちている……"
+msgstr "有東西掉在地上……"
+
+#. ID 21, Page 3, Line 8, Pos (5,8)
+msgid "絵の具玉は　消えてしまった……"
+msgstr "顏料球消失了……"
+

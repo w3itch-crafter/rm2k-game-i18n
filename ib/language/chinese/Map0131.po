@@ -1,0 +1,435 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (9,17)
+msgid "パレットに　黒ずんだパンと木炭がある……"
+msgstr "調色盤上放著乾麵包與木炭……"
+
+#. ID 2, Page 1, Line 1, Pos (28,16)
+#. ID 2, Page 2, Line 8, Pos (28,16)
+#. Contains choice at line 2 (2 options)
+msgid "『クロッキーブック』がある……"
+msgstr "有本『速寫簿』……"
+
+#. ID 2, Page 1, Line 5, Pos (28,16)
+msgid ""
+"\n"
+"「クロッキーブック……\n"
+"　ゲルテナの　物かしら」"
+msgstr ""
+"\n"
+"「速寫簿……\n"
+"　是Guertena的東西嗎？」"
+
+#. ID 2, Page 1, Line 14, Pos (28,16)
+msgid ""
+"\n"
+"「さっきから\n"
+"　ウロついてる　変なやつって\n"
+"　これから　出てきたんじゃない？」"
+msgstr ""
+"\n"
+"「從剛才就一直在這房間裡面\n"
+"　跑來跑去的奇怪小人，\n"
+"　該不會就是從這裡跑出來的吧？」"
+
+#. ID 2, Page 1, Line 19, Pos (28,16)
+msgid ""
+"\n"
+"「全部　捕まえたら\n"
+"　この中に　戻しちゃいましょ！」"
+msgstr ""
+"\n"
+"「把它們全部抓起來，\n"
+"　放回這裡面吧！」"
+
+#. ID 2, Page 1, Line 24, Pos (28,16)
+msgid ""
+"\n"
+"「……手が　炭臭くて　かなわないわ」"
+msgstr ""
+"\n"
+"「……手上都是木炭的臭味，\n"
+"　好討厭喔。」"
+
+#. ID 2, Page 1, Line 31, Pos (28,16)
+#, fuzzy
+msgid "中には何も　描かれていない……"
+msgstr "裡面什麼都沒有畫……"
+
+#. ID 2, Page 2, Line 9, Pos (28,16)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"何もしない\n"
+"黒い人たちを　いれてみる"
+msgstr ""
+"什麼都不做\n"
+"把小黑人放進去看看"
+
+#. ID 2, Page 2, Line 13, Pos (28,16)
+msgid "捕まえた黒い人たちを　本の上で離した……"
+msgstr "把抓到的小黑人放到簿子上……"
+
+#. ID 2, Page 2, Line 58, Pos (28,16)
+msgid "『クロッキーブック』は閉じてしまった……"
+msgstr "『速寫簿』闔上了……"
+
+#. ID 2, Page 3, Line 1, Pos (28,16)
+#. ID 2, Page 4, Line 1, Pos (28,16)
+msgid "閉じた『クロッキーブック』がある……"
+msgstr "闔上的『速寫簿』……"
+
+#. ID 2, Page 3, Line 5, Pos (28,16)
+msgid ""
+"\n"
+"「あー……\n"
+"　なんか無駄に　疲れたわね」"
+msgstr ""
+"\n"
+"「啊──……\n"
+"　總覺得莫名的疲勞呢。」"
+
+#. ID 2, Page 3, Line 9, Pos (28,16)
+msgid ""
+"\n"
+"「どこかで　休憩できたら\n"
+"　ちょっと休みましょうか？」"
+msgstr ""
+"\n"
+"「找個可以休息的地方\n"
+"　稍微休息一下吧？」"
+
+#. ID 2, Page 4, Line 5, Pos (28,16)
+msgid ""
+"\n"
+"「なんか\n"
+"　どっと疲れた　気がするわ……」"
+msgstr ""
+"\n"
+"「怎麼覺得好累啊……」"
+
+#. ID 6, Page 1, Line 1, Pos (14,4)
+msgid "『不眠症の？』"
+msgstr "『失眠的？？』"
+
+#. ID 6, Page 1, Line 2, Pos (14,4)
+msgid "難しくて　読めない字がある……"
+msgstr "有些字太難了，看不懂……"
+
+#. ID 6, Page 2, Line 1, Pos (14,4)
+msgid "『不眠症の棺』"
+msgstr "『失眠的棺木』"
+
+#. ID 7, Page 2, Line 1, Pos (28,4)
+msgid "イヴを置いては　いけない……"
+msgstr "不能丟下Ib……"
+
+#. ID 9, Page 1, Line 1, Pos (21,4)
+msgid "『色の無い花々』"
+msgstr "『無色的花朵』"
+
+#. ID 20, Page 1, Line 1, Pos (30,4)
+#. ID 20, Page 2, Line 1, Pos (30,4)
+#. ID 20, Page 3, Line 1, Pos (30,4)
+#. ID 20, Page 4, Line 2, Pos (30,4)
+#. ID 20, Page 5, Line 1, Pos (30,4)
+#. ID 20, Page 6, Line 1, Pos (30,4)
+msgid "『赤に触れずに　黒を追え』"
+msgstr "『不要碰紅色　去追黑色』"
+
+#. ID 20, Page 2, Line 5, Pos (30,4)
+msgid ""
+"\n"
+"「この調子で　どんどん捕まえましょ！」"
+msgstr ""
+"\n"
+"「就照這個樣子把它們都抓住吧！」"
+
+#. ID 20, Page 3, Line 5, Pos (30,4)
+msgid ""
+"\n"
+"「結構　捕まえたわね\n"
+"　あと何匹くらいかしら？」"
+msgstr ""
+"\n"
+"「抓到蠻多隻了呢，\n"
+"　還剩下幾隻呀？」"
+
+#. ID 20, Page 4, Line 6, Pos (30,4)
+msgid ""
+"\n"
+"「はぁっ……なかなか　大変ね\n"
+"　……イヴ　アンタ　大丈夫？」"
+msgstr ""
+"\n"
+"「呼……這還蠻辛苦的呢，\n"
+"　……Ib，妳還可以嗎？」"
+
+#. ID 20, Page 4, Line 10, Pos (30,4)
+msgid ""
+"\n"
+"「ちょっと　休んでてもいいわよ？\n"
+"　その間に　アタシが\n"
+"　アイツら　捕まえてきてあげる」"
+msgstr ""
+"\n"
+"「稍微休息一下也沒關係喔？\n"
+"　妳休息的時候，\n"
+"　人家可以幫妳抓那些傢伙的。」"
+
+#. ID 20, Page 4, Line 15, Pos (30,4)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「…………どうする？」"
+msgstr ""
+"\n"
+"「…………怎麼樣呢？」"
+
+#. ID 20, Page 4, Line 17, Pos (30,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"もうちょっと　がんばる\n"
+"ギャリーにまかせる"
+msgstr ""
+"再自己加油一下\n"
+"交給Garry"
+
+#. ID 20, Page 4, Line 20, Pos (30,4)
+msgid ""
+"\n"
+"「……そっか\n"
+"　イヴ　がんばるのね」"
+msgstr ""
+"\n"
+"「……好吧，\n"
+"　Ib很努力呢。」"
+
+#. ID 20, Page 4, Line 24, Pos (30,4)
+msgid ""
+"\n"
+"「でも　無理は禁物よ？」"
+msgstr ""
+"\n"
+"「但是不可以逞強喔？」"
+
+#. ID 20, Page 4, Line 30, Pos (30,4)
+msgid ""
+"\n"
+"「了解！\n"
+"　じゃ　イヴはここで待ってて」"
+msgstr ""
+"\n"
+"「了解！\n"
+"　那，Ib在這裡等一下喔。」"
+
+#. ID 27, Page 1, Line 2, Pos (9,16)
+msgid "線で人が　描かれている……"
+msgstr "用線條畫的人……"
+
+#. ID 27, Page 1, Line 6, Pos (9,16)
+msgid ""
+"\n"
+"「それにしても　部屋中\n"
+"　すごい　イタズラ描きね……」"
+msgstr ""
+"\n"
+"「話說回來，\n"
+"　這房間的塗鴉還真壯觀呢……」"
+
+#. ID 27, Page 1, Line 10, Pos (9,16)
+msgid ""
+"\n"
+"「これ全部　あの\n"
+"　黒いのが　描いたのかしら」"
+msgstr ""
+"\n"
+"「這些全部都是\n"
+"　那些黑色的傢伙畫的嗎。」"
+
+#. ID 29, Page 1, Line 5, Pos (14,5)
+#. ID 32, Page 1, Line 5, Pos (3,10)
+msgid ""
+"\n"
+"「なにかしらね　これ……絵？」"
+msgstr ""
+"\n"
+"「是什麼東西呢，這是……畫？」"
+
+#. ID 29, Page 1, Line 10, Pos (14,5)
+#. ID 29, Page 2, Line 10, Pos (14,5)
+#. ID 29, Page 3, Line 8, Pos (14,5)
+#. ID 32, Page 1, Line 10, Pos (3,10)
+#. ID 32, Page 2, Line 10, Pos (3,10)
+#. ID 32, Page 3, Line 8, Pos (3,10)
+msgid "何かが　落ちている……"
+msgstr "有東西掉在地上……"
+
+#. ID 29, Page 1, Line 14, Pos (14,5)
+#. ID 29, Page 2, Line 14, Pos (14,5)
+#. ID 29, Page 3, Line 10, Pos (14,5)
+#. ID 32, Page 1, Line 14, Pos (3,10)
+#. ID 32, Page 2, Line 14, Pos (3,10)
+#. ID 32, Page 3, Line 10, Pos (3,10)
+msgid "絵画のピースを　手に入れた。"
+msgstr "得到一片　繪畫的拼圖。"
+
+#. ID 29, Page 1, Line 19, Pos (14,5)
+#. ID 29, Page 2, Line 19, Pos (14,5)
+#. ID 29, Page 3, Line 15, Pos (14,5)
+#. ID 32, Page 1, Line 19, Pos (3,10)
+#. ID 32, Page 2, Line 19, Pos (3,10)
+#. ID 32, Page 3, Line 15, Pos (3,10)
+msgid "絵画のピースは　消えてしまった……"
+msgstr "繪畫的拼圖消失了……"
+
+#. ID 29, Page 1, Line 23, Pos (14,5)
+#. ID 29, Page 2, Line 23, Pos (14,5)
+#. ID 32, Page 1, Line 23, Pos (3,10)
+#. ID 32, Page 2, Line 23, Pos (3,10)
+msgid ""
+"\n"
+"「わっ　消えた……なんか\n"
+"　絵の具玉の時と　似てるわ」"
+msgstr ""
+"\n"
+"「哇！消失了……\n"
+"　跟蒐集顏料球的時候很像呢。」"
+
+#. ID 29, Page 1, Line 27, Pos (14,5)
+#. ID 32, Page 1, Line 27, Pos (3,10)
+msgid ""
+"\n"
+"「もしかすると　これ\n"
+"　集めると　良いのかも\n"
+"　もっと　探してみましょ　イヴ！」"
+msgstr ""
+"\n"
+"「說不定，\n"
+"　就是要蒐集這些拼圖呢。\n"
+"　去找出其他拼圖吧，Ib！」"
+
+#. ID 29, Page 2, Line 5, Pos (14,5)
+#. ID 32, Page 2, Line 5, Pos (3,10)
+msgid ""
+"\n"
+"「なにかしら　これ……絵？」"
+msgstr ""
+"\n"
+"「這是什麼東西啊……畫？」"
+
+#. ID 29, Page 2, Line 27, Pos (14,5)
+#. ID 32, Page 2, Line 27, Pos (3,10)
+msgid ""
+"\n"
+"「もしかすると　これ\n"
+"　集めると　良いのかも……」"
+msgstr ""
+"\n"
+"「說不定，\n"
+"　就是要蒐集這些拼圖呢……」"
+
+#. ID 34, Page 1, Line 1, Pos (8,17)
+msgid "イスの上は　冷たい……"
+msgstr "椅子非常冰冷……"
+
+#. ID 35, Page 2, Line 1, Pos (15,15)
+msgid "小鳥が　ぐったりしている……"
+msgstr "小鳥很虛弱……"
+
+#. ID 38, Page 1, Line 1, Pos (8,6)
+msgid "『未完成の少年』"
+msgstr "『未完成的少年』"
+
+#. ID 38, Page 1, Line 9, Pos (8,6)
+msgid ""
+"\n"
+"「プレートも\n"
+"　剥がされちゃって……\n"
+"　ホント　やりたい放題ね」"
+msgstr ""
+"\n"
+"「連標示牌都被剝下來了……\n"
+"　真的是為所欲為呢。」"
+
+#. ID 40, Page 1, Line 3, Pos (30,5)
+msgid "イヴは　息を整えている……"
+msgstr "Ib正在調整呼吸……"
+
+#. ID 40, Page 1, Line 9, Pos (30,5)
+msgid ""
+"\n"
+"「アタシ　本気で走ったら\n"
+"　結構　速いのよ！」"
+msgstr ""
+"\n"
+"「人家要是認真跑起來，\n"
+"　速度可是很快的喔！」"
+
+#. ID 40, Page 1, Line 13, Pos (30,5)
+msgid ""
+"\n"
+"「……滅多に本気に　ならないけどね」"
+msgstr ""
+"\n"
+"「……雖然很少會想要認真啦。」"
+
+#. ID 40, Page 1, Line 21, Pos (30,5)
+msgid ""
+"\n"
+"「イヴ　あの赤いヤツが来たら\n"
+"　ちゃんと　逃げなさいね！」"
+msgstr ""
+"\n"
+"「Ib，要是那個紅色的傢伙靠近的話，\n"
+"　就要快點逃走喔！」"
+
+#. ID 40, Page 1, Line 25, Pos (30,5)
+msgid "イヴは　不安そうにしている……"
+msgstr "Ib看起來很不安……"
+
+#. ID 40, Page 2, Line 5, Pos (30,5)
+msgid ""
+"\n"
+"「イヴ　見て！　全部捕まえたわよ！」"
+msgstr ""
+"\n"
+"「Ib，妳看！全部都抓到了喔！」"
+
+#. ID 40, Page 2, Line 8, Pos (30,5)
+msgid ""
+"\n"
+"「これで　黒いヤツは全部のはず！」"
+msgstr ""
+"\n"
+"「這些應該就是全部了！」"
+
+#. ID 40, Page 2, Line 14, Pos (30,5)
+msgid ""
+"\n"
+"「イヴ！　全部捕まえたわよ！\n"
+"　クロッキーブックに　戻しておいたわ」"
+msgstr ""
+"\n"
+"「Ib！全部都抓到了喔！\n"
+"　已經放回速寫簿裡面囉！」"
+
+#. ID 40, Page 2, Line 18, Pos (30,5)
+msgid ""
+"\n"
+"「でも　赤いヤツがまだ\n"
+"　うろついてる　みたいだから\n"
+"　気を付けて　ちょうだいね！」"
+msgstr ""
+"\n"
+"「但是那些紅色的傢伙\n"
+"　好像還是在外面晃來晃去的樣子，\n"
+"　要小心它們喔！」"
+

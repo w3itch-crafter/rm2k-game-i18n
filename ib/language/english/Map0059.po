@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 2, Pos (10,8)
+#. ID 5, Page 1, Line 1, Pos (9,7)
+#. ID 12, Page 1, Line 2, Pos (8,8)
+#. ID 15, Page 1, Line 2, Pos (10,6)
+#. ID 16, Page 1, Line 2, Pos (8,6)
+msgid "床が抜けていて　進めない……"
+msgstr "There's no floor here..."
+
+#. ID 3, Page 1, Line 1, Pos (6,6)
+msgid "中で何かが　動いている……"
+msgstr "Something's moving inside..."
+
+#. ID 3, Page 1, Line 4, Pos (6,6)
+msgid ""
+"\n"
+"「イヴ……この箱\n"
+"　開けるの　やめとこ……」"
+msgstr ""
+"\n"
+" Ib... Let's not open that box..."
+
+#. ID 5, Page 2, Line 4, Pos (9,7)
+msgid ""
+"\n"
+"「イヴ　見て！\n"
+"　通れるように　なってる！」"
+msgstr ""
+"\n"
+" Ib, look!\n"
+" Now we can cross!"
+
+#. ID 5, Page 2, Line 8, Pos (9,7)
+#. Contains choice at line 2 (2 options)
+#. ID 5, Page 3, Line 2, Pos (9,7)
+#. Contains choice at line 2 (2 options)
+msgid "………………"
+msgstr ""
+
+#. ID 5, Page 2, Line 9, Pos (9,7)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 3, Line 3, Pos (9,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"通っていい？\n"
+"じっと見つめ返す"
+msgstr ""
+"Is it okay to cross?\n"
+"Stare intently"
+
+#. ID 5, Page 2, Line 19, Pos (9,7)
+#. ID 5, Page 3, Line 13, Pos (9,7)
+msgid ""
+"\n"
+"「いいって！」"
+msgstr ""
+"\n"
+" Guess so!"
+
+#. ID 5, Page 2, Line 28, Pos (9,7)
+#. ID 5, Page 3, Line 22, Pos (9,7)
+msgid "………………………"
+msgstr ""
+
+#. ID 5, Page 2, Line 31, Pos (9,7)
+msgid ""
+"\n"
+"「なにしてるの？　イヴ\n"
+"　早く　向こうに渡ろうよ」"
+msgstr ""
+"\n"
+" What are you doing, Ib?\n"
+" Come on, let's cross!"
+
+#. ID 5, Page 3, Line 25, Pos (9,7)
+msgid ""
+"\n"
+"「おーい　イヴー\n"
+"　いつまで　見つめあってるのー」"
+msgstr ""
+"\n"
+" Heeey, Ib...\n"
+" How long are you gonna stare?"
+
+#. ID 7, Page 1, Line 4, Pos (17,7)
+msgid ""
+"\n"
+"「ギャリーは　どうしてるかな\n"
+"　置いて　きちゃったけど……」"
+msgstr ""
+"\n"
+" I wonder what Garry's doing?\n"
+" We kind of left him behind..."
+

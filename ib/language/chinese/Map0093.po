@@ -1,0 +1,644 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 2, Line 2, Pos (12,11)
+msgid "クレヨンで文字が　書かれている……"
+msgstr "上面有用蠟筆寫的文字……"
+
+#. ID 3, Page 2, Line 4, Pos (12,11)
+msgid ""
+"“みんなは　おきゃくさまを\n"
+"　よんで　いっしょに\n"
+"　くらすのが　すきだけど”"
+msgstr ""
+"“雖然也很喜歡\n"
+"　跟大家一起把客人\n"
+"　叫來這裡生活”"
+
+#. ID 3, Page 2, Line 8, Pos (12,11)
+msgid ""
+"“わたしは　じぶんが\n"
+"　でかけていって　そのまま\n"
+"　そとで　くらしたい”"
+msgstr ""
+"“但是\n"
+"　我還是想要到外面去\n"
+"　然後在那裡生活”"
+
+#. ID 3, Page 2, Line 12, Pos (12,11)
+msgid ""
+"“でも　わたしが　ぬけるには\n"
+"　そとの　だれかと\n"
+"　いれかわらなきゃ　だめみたい”"
+msgstr ""
+"“可是　如果我要出去\n"
+"　就得找一個外面的人\n"
+"　來和我交換才行”"
+
+#. ID 3, Page 2, Line 16, Pos (12,11)
+msgid ""
+"“はやく　だれか　こないかなぁ\n"
+"　はやく　だれか　こないかなぁ……”"
+msgstr ""
+"“快點　有沒有人能進來呢\n"
+"　快點　有沒有人能進來呢……”"
+
+#. ID 3, Page 2, Line 22, Pos (12,11)
+msgid ""
+"\n"
+"「……これって…………」"
+msgstr ""
+"\n"
+"「……這是…………」"
+
+#. ID 4, Page 3, Line 1, Pos (8,31)
+msgid ""
+"紙の燃えカスの　ようなものと\n"
+"パレットナイフが　落ちている……"
+msgstr ""
+"似乎是紙的灰燼，\n"
+"還有調色刀掉在地上……"
+
+#. ID 4, Page 3, Line 6, Pos (8,31)
+msgid ""
+"\n"
+"「ホントに……\n"
+"　人間じゃなかったのね　この子」"
+msgstr ""
+"\n"
+"「那孩子……\n"
+"　真的不是人類呢。」"
+
+#. ID 7, Page 1, Line 4, Pos (2,20)
+msgid ""
+"\n"
+"「なに？　この部屋……\n"
+"　おもちゃばこ……じゃないわよね？」"
+msgstr ""
+"\n"
+"「這房間是……？\n"
+"　應該……不是玩具箱吧？」"
+
+#. ID 7, Page 1, Line 8, Pos (2,20)
+msgid ""
+"\n"
+"「それより……イヴ　見える？\n"
+"　向こうの壁に　かかってる絵……」"
+msgstr ""
+"\n"
+"「比起這個……Ib，妳看得到嗎？\n"
+"　掛在裡面的那幅畫……」"
+
+#. ID 7, Page 1, Line 12, Pos (2,20)
+msgid ""
+"\n"
+"「あの絵……なんか　見覚えあるわ\n"
+"　ちょっと　行ってみましょ」"
+msgstr ""
+"\n"
+"「那幅畫……好像在哪看過呢。\n"
+"　我們過去看看吧。」"
+
+#. ID 8, Page 1, Line 4, Pos (9,7)
+#. Contains choice at line 2 (3 options)
+#. ID 8, Page 2, Line 4, Pos (9,7)
+#. Contains choice at line 2 (3 options)
+#. ID 8, Page 3, Line 4, Pos (9,7)
+#. Contains choice at line 2 (3 options)
+#. ID 15, Page 1, Line 4, Pos (10,7)
+#. Contains choice at line 2 (3 options)
+#. ID 15, Page 2, Line 4, Pos (10,7)
+#. Contains choice at line 2 (3 options)
+#. ID 15, Page 3, Line 4, Pos (10,7)
+#. Contains choice at line 2 (3 options)
+msgid "どうしよう………！？"
+msgstr "怎麼辦………！？"
+
+#. ID 8, Page 1, Line 5, Pos (9,7)
+#. Choice (3 options, embedded in a message)
+#. ID 8, Page 2, Line 5, Pos (9,7)
+#. Choice (3 options, embedded in a message)
+#. ID 8, Page 3, Line 5, Pos (9,7)
+#. Choice (3 options, embedded in a message)
+#. ID 15, Page 1, Line 5, Pos (10,7)
+#. Choice (3 options, embedded in a message)
+#. ID 15, Page 2, Line 5, Pos (10,7)
+#. Choice (3 options, embedded in a message)
+#. ID 15, Page 3, Line 5, Pos (10,7)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"絵を外す\n"
+"絵を破る\n"
+"絵を燃やす"
+msgstr ""
+"把畫拿下來\n"
+"把畫撕破\n"
+"把畫燒掉"
+
+#. ID 8, Page 1, Line 11, Pos (9,7)
+#. ID 8, Page 2, Line 11, Pos (9,7)
+#. ID 8, Page 3, Line 11, Pos (9,7)
+#. ID 15, Page 1, Line 11, Pos (10,7)
+#. ID 15, Page 2, Line 11, Pos (10,7)
+#. ID 15, Page 3, Line 11, Pos (10,7)
+msgid "固くて外せない！"
+msgstr "畫被牢牢地釘在牆上，拿不下來！"
+
+#. ID 8, Page 1, Line 14, Pos (9,7)
+#. ID 8, Page 2, Line 14, Pos (9,7)
+#. ID 8, Page 3, Line 14, Pos (9,7)
+#. ID 15, Page 1, Line 14, Pos (10,7)
+#. ID 15, Page 2, Line 14, Pos (10,7)
+#. ID 15, Page 3, Line 14, Pos (10,7)
+msgid "しっかりと　額にはまっていて　破けない！"
+msgstr "畫布緊緊地框在畫框裡，沒辦法撕破！"
+
+#. ID 8, Page 1, Line 21, Pos (9,7)
+#. ID 15, Page 1, Line 21, Pos (10,7)
+msgid ""
+"\n"
+"「イヴっ！\n"
+"　おねがい！　やめてぇ！」"
+msgstr ""
+"\n"
+"「Ib！\n"
+"　拜託妳！不要！」"
+
+#. ID 8, Page 1, Line 39, Pos (9,7)
+#. ID 8, Page 2, Line 48, Pos (9,7)
+#. ID 8, Page 3, Line 48, Pos (9,7)
+#. ID 15, Page 1, Line 39, Pos (10,7)
+#. ID 15, Page 2, Line 48, Pos (10,7)
+#. ID 15, Page 3, Line 48, Pos (10,7)
+msgid ""
+"\n"
+"「あ………！　やだ………！！」"
+msgstr ""
+"\n"
+"「啊………！不要………！！」"
+
+#. ID 8, Page 2, Line 19, Pos (9,7)
+#. ID 8, Page 3, Line 19, Pos (9,7)
+#. ID 15, Page 2, Line 19, Pos (10,7)
+#. ID 15, Page 3, Line 19, Pos (10,7)
+msgid ""
+"\n"
+"「もう　これしかない！」"
+msgstr ""
+"\n"
+"「只剩這個辦法了！」"
+
+#. ID 8, Page 2, Line 26, Pos (9,7)
+#. ID 8, Page 3, Line 26, Pos (9,7)
+#. ID 15, Page 2, Line 26, Pos (10,7)
+#. ID 15, Page 3, Line 26, Pos (10,7)
+msgid ""
+"\n"
+"「おねがいっ！　やめてぇ！」"
+msgstr ""
+"\n"
+"「求求你！住手！」"
+
+#. ID 8, Page 2, Line 40, Pos (9,7)
+#. ID 8, Page 3, Line 40, Pos (9,7)
+#. ID 15, Page 2, Line 40, Pos (10,7)
+#. ID 15, Page 3, Line 40, Pos (10,7)
+msgid ""
+"\n"
+"「うわっ！」"
+msgstr ""
+"\n"
+"「嗚哇！」"
+
+#. ID 8, Page 2, Line 76, Pos (9,7)
+#. ID 8, Page 3, Line 76, Pos (9,7)
+#. ID 15, Page 2, Line 78, Pos (10,7)
+#. ID 15, Page 3, Line 78, Pos (10,7)
+msgid ""
+"\n"
+"「…………………」"
+msgstr ""
+"\n"
+"「…………………」"
+
+#. ID 8, Page 2, Line 87, Pos (9,7)
+#. ID 8, Page 3, Line 87, Pos (9,7)
+#. ID 15, Page 2, Line 89, Pos (10,7)
+#. ID 15, Page 3, Line 89, Pos (10,7)
+msgid ""
+"\n"
+"「………はぁ…………！\n"
+"　なんというか…………」"
+msgstr ""
+"\n"
+"「………呼…………！\n"
+"　該怎麼說啊…………」"
+
+#. ID 8, Page 2, Line 96, Pos (9,7)
+#. ID 8, Page 3, Line 96, Pos (9,7)
+#. ID 15, Page 2, Line 98, Pos (10,7)
+#. ID 15, Page 3, Line 98, Pos (10,7)
+msgid ""
+"\n"
+"「女って　コワイわね………」"
+msgstr ""
+"\n"
+"「女人還真是恐怖啊………」"
+
+#. ID 8, Page 2, Line 105, Pos (9,7)
+#. ID 8, Page 3, Line 106, Pos (9,7)
+#. ID 15, Page 2, Line 107, Pos (10,7)
+#. ID 15, Page 3, Line 108, Pos (10,7)
+msgid ""
+"\n"
+"「まぁ　それはともかく……\n"
+"　なんか　思った以上に\n"
+"　激しく　燃えちゃったわね」"
+msgstr ""
+"\n"
+"「唉，先不管這個……\n"
+"　剛才這畫燃燒得比想像中還旺盛呢。」"
+
+#. ID 8, Page 2, Line 110, Pos (9,7)
+#. ID 8, Page 3, Line 111, Pos (9,7)
+#. ID 15, Page 2, Line 112, Pos (10,7)
+#. ID 15, Page 3, Line 113, Pos (10,7)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴ　大丈夫だった？\n"
+"　ガラス　浴びたでしょ」"
+msgstr ""
+"\n"
+"「Ib，沒受傷吧？\n"
+"　剛才破掉的玻璃有噴到妳身上吧？」"
+
+#. ID 8, Page 2, Line 117, Pos (9,7)
+#. ID 15, Page 2, Line 119, Pos (10,7)
+#, fuzzy
+msgid ""
+"\n"
+"「……ん　平気ならいいわ\n"
+"　お互い無事で　良かった」"
+msgstr ""
+"\n"
+"「……嗯，沒事就好。\n"
+"　彼此都沒受傷，真是太好了。」"
+
+#. ID 8, Page 2, Line 121, Pos (9,7)
+#. ID 8, Page 3, Line 183, Pos (9,7)
+#. ID 15, Page 2, Line 123, Pos (10,7)
+#. ID 15, Page 3, Line 187, Pos (10,7)
+#, fuzzy
+msgid ""
+"\n"
+"「さて……それじゃ　行きましょうか！」"
+msgstr ""
+"\n"
+"「那麼……我們走吧！」"
+
+#. ID 8, Page 3, Line 119, Pos (9,7)
+#. ID 15, Page 3, Line 121, Pos (10,7)
+#, fuzzy
+msgid ""
+"\n"
+"「………え？　アタシの手？\n"
+"　あれ　本当だわ　切れてる……」"
+msgstr ""
+"\n"
+"「………咦？人家的手？\n"
+"　哎呀，真的耶，被割傷了……」"
+
+#. ID 8, Page 3, Line 123, Pos (9,7)
+#. ID 15, Page 3, Line 125, Pos (10,7)
+#, fuzzy
+msgid ""
+"\n"
+"「気づかなかったわ\n"
+"　さっきので　切ったみたい」"
+msgstr ""
+"\n"
+"「人家都沒發現呢，\n"
+"　應該是剛剛被割傷的吧。」"
+
+#. ID 8, Page 3, Line 127, Pos (9,7)
+#. Contains choice at line 3 (2 options)
+#. ID 15, Page 3, Line 129, Pos (10,7)
+#. Contains choice at line 3 (2 options)
+#, fuzzy
+msgid ""
+"\n"
+"「……まぁ　これくらい　大丈夫よ」"
+msgstr ""
+"\n"
+"「……算啦，這點小傷沒事的啦。」"
+
+#. ID 8, Page 3, Line 129, Pos (9,7)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 3, Line 131, Pos (10,7)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"本当に大丈夫？\n"
+"ハンカチを渡す"
+msgstr ""
+"真的沒事嗎？\n"
+"把手帕遞給他"
+
+#. ID 8, Page 3, Line 132, Pos (9,7)
+#. ID 15, Page 3, Line 134, Pos (10,7)
+#, fuzzy
+msgid ""
+"\n"
+"「ん　なんともないわよ\n"
+"　舐めとけば　治るって！」"
+msgstr ""
+"\n"
+"「嗯，這沒什麼了不起的啦，\n"
+"　舔一舔就能治好囉！」"
+
+#. ID 8, Page 3, Line 148, Pos (9,7)
+#. ID 15, Page 3, Line 152, Pos (10,7)
+#, fuzzy
+msgid ""
+"\n"
+"「あら　ハンカチ……使っていいの？」"
+msgstr ""
+"\n"
+"「哎呀，手帕……真的可以用嗎？」"
+
+#. ID 8, Page 3, Line 154, Pos (9,7)
+#. ID 15, Page 3, Line 158, Pos (10,7)
+#, fuzzy
+msgid ""
+"\n"
+"「……………」"
+msgstr ""
+"\n"
+"「……………」"
+
+#. ID 8, Page 3, Line 157, Pos (9,7)
+#. ID 15, Page 3, Line 161, Pos (10,7)
+#, fuzzy
+msgid ""
+"\n"
+"「……これ　本物のレースじゃない\n"
+"　なんか　汚しちゃうの　忍びないわ」"
+msgstr ""
+"\n"
+"「……這不是真的蕾絲嗎？\n"
+"　真不忍心把它弄髒耶。」"
+
+#. ID 8, Page 3, Line 161, Pos (9,7)
+#. ID 15, Page 3, Line 165, Pos (10,7)
+#, fuzzy
+msgid ""
+"\n"
+"「もう　手遅れだけど……」"
+msgstr ""
+"\n"
+"「雖然已經太遲了……」"
+
+#. ID 8, Page 3, Line 170, Pos (9,7)
+#. ID 15, Page 3, Line 174, Pos (10,7)
+msgid ""
+"\n"
+"「ま　いいや\n"
+"　せっかくだから　借りとくわね\n"
+"　ありがとう　イヴ」"
+msgstr ""
+
+#. ID 8, Page 4, Line 1, Pos (9,7)
+#. ID 15, Page 4, Line 1, Pos (10,7)
+msgid "『メアリー』"
+msgstr "『M ary』"
+
+#. ID 8, Page 4, Line 5, Pos (9,7)
+#. ID 15, Page 4, Line 5, Pos (10,7)
+msgid ""
+"\n"
+"「今更だけどさ……ゲルテナの絵を\n"
+"　燃やしちゃって　大丈夫かしらね？」"
+msgstr ""
+"\n"
+"「雖然現在才說也太遲了……\n"
+"　我們就這樣把Guertena的畫燒掉，\n"
+"　沒問題吧？」"
+
+#. ID 8, Page 4, Line 8, Pos (9,7)
+#. ID 15, Page 4, Line 8, Pos (10,7)
+#, fuzzy
+msgid ""
+"\n"
+"「これ　本物だったら\n"
+"　すごい価値なワケじゃない？」"
+msgstr ""
+"\n"
+"「如果這是真品，\n"
+"　肯定有很驚人的價值吧？」"
+
+#. ID 8, Page 4, Line 12, Pos (9,7)
+#. ID 15, Page 4, Line 12, Pos (10,7)
+#, fuzzy
+msgid ""
+"\n"
+"「請求とかされたら　どーしましょ……」"
+msgstr ""
+"\n"
+"「要是被要求賠償的話該怎麼辦哪……」"
+
+#. ID 14, Page 1, Line 29, Pos (9,19)
+msgid ""
+"\n"
+"「イヴっ！！　なにしてるの！？」"
+msgstr ""
+"\n"
+"「Ib！！妳在做什麼啊！？」"
+
+#. ID 14, Page 1, Line 33, Pos (9,19)
+msgid ""
+"\n"
+"「なんで……どうやって\n"
+"　この部屋に　入ったの……？」"
+msgstr ""
+"\n"
+"「為什麼……\n"
+"　妳是怎麼進到這個房間裡的……？」"
+
+#. ID 14, Page 1, Line 37, Pos (9,19)
+msgid ""
+"\n"
+"「ここはダメ……ダメよ………！\n"
+"　お願い　早く　出てって……」"
+msgstr ""
+"\n"
+"「這裡不行……不可以………！\n"
+"　拜託，趕快出去……」"
+
+#. ID 14, Page 1, Line 41, Pos (9,19)
+msgid ""
+"\n"
+"「はやく…………！」"
+msgstr ""
+"\n"
+"「快點…………！」"
+
+#. ID 14, Page 1, Line 49, Pos (9,19)
+#. ID 14, Page 2, Line 63, Pos (9,19)
+#, fuzzy
+msgid ""
+"\n"
+"「はやく！　ハヤク！！　早く！！！」"
+msgstr ""
+"\n"
+"「快點！　快點！！　快點！！！」"
+
+#. ID 14, Page 1, Line 65, Pos (9,19)
+#. ID 14, Page 2, Line 79, Pos (9,19)
+#, fuzzy
+msgid ""
+"\n"
+"\\>「出ていけえぇぇええぇぇええ！！」"
+msgstr ""
+"\n"
+"\\>「給我滾出去────────！！」"
+
+#. ID 14, Page 2, Line 29, Pos (9,19)
+msgid ""
+"\n"
+"「だれかいるのっ！？」"
+msgstr ""
+"\n"
+"「誰在那裡！？」"
+
+#. ID 14, Page 2, Line 32, Pos (9,19)
+msgid ""
+"\n"
+"「………！」"
+msgstr ""
+"\n"
+"「………！」"
+
+#. ID 14, Page 2, Line 36, Pos (9,19)
+msgid ""
+"\n"
+"「………イヴに　ギャリー……\n"
+"　ふたりとも　無事だったんだ」"
+msgstr ""
+"\n"
+"「………Ib，還有Garry……\n"
+"　原來你們沒事啊。」"
+
+#. ID 14, Page 2, Line 40, Pos (9,19)
+msgid ""
+"\n"
+"「……どうやって\n"
+"　この部屋　入ったの？」"
+msgstr ""
+"\n"
+"「……你們是怎麼進來這個房間的？」"
+
+#. ID 14, Page 2, Line 43, Pos (9,19)
+#, fuzzy
+msgid ""
+"\n"
+"「出てってよ………」"
+msgstr ""
+"\n"
+"「出去啦………」"
+
+#. ID 14, Page 2, Line 46, Pos (9,19)
+#, fuzzy
+msgid ""
+"\n"
+"「メアリー………アンタは」"
+msgstr ""
+"\n"
+"「M ary………妳……」"
+
+#. ID 14, Page 2, Line 49, Pos (9,19)
+#, fuzzy
+msgid ""
+"\n"
+"「この部屋に　近づかないでよっ！」"
+msgstr ""
+"\n"
+"「不要靠近這個房間啦！」"
+
+#. ID 14, Page 2, Line 52, Pos (9,19)
+#, fuzzy
+msgid ""
+"\n"
+"「な………！？」"
+msgstr ""
+"\n"
+"「什………！？」"
+
+#. ID 14, Page 2, Line 55, Pos (9,19)
+#, fuzzy
+msgid ""
+"\n"
+"「はやくここから　出てって！」"
+msgstr ""
+"\n"
+"「趕快出去啦！」"
+
+#. ID 28, Page 2, Line 1, Pos (13,11)
+#. ID 29, Page 2, Line 1, Pos (14,11)
+#. ID 30, Page 2, Line 1, Pos (13,10)
+msgid "クレヨンで描かれた　絵がある……"
+msgstr "用蠟筆畫的圖……"
+
+#. ID 31, Page 2, Line 1, Pos (13,8)
+#. ID 32, Page 2, Line 1, Pos (12,9)
+msgid "青い人形が　笑っている……"
+msgstr "藍色人偶在笑……"
+
+#. ID 31, Page 2, Line 5, Pos (13,8)
+#. ID 32, Page 2, Line 5, Pos (12,9)
+msgid ""
+"\n"
+"「……もうヤダ　コイツ……\n"
+"　イヴ　触らないでおきましょ」"
+msgstr ""
+"\n"
+"「……啊啊討厭，人家已經受夠了啦……\n"
+"　Ib，我們不要碰它啦。」"
+
+#. ID 33, Page 2, Line 1, Pos (5,11)
+msgid "どこかの景色の写真が　載っている……"
+msgstr "刊載著某處的風景照片……"
+
+#. ID 34, Page 2, Line 1, Pos (6,10)
+msgid "キャンバスに　マネキンが　描かれている……"
+msgstr "畫布上畫著人體模型……"
+
+#. ID 35, Page 2, Line 1, Pos (7,8)
+msgid "色々な本が　重なっている……"
+msgstr "各種書籍疊在一起……"
+
+#. ID 35, Page 2, Line 5, Pos (7,8)
+msgid ""
+"\n"
+"「これは……お菓子の本？\n"
+"　こっちは……絵本だわ」"
+msgstr ""
+"\n"
+"「這是……點心的書？\n"
+"　這本……是繪本呢。」"
+
+#. ID 35, Page 2, Line 9, Pos (7,8)
+msgid ""
+"\n"
+"「『ともだちのつくりかた』……」"
+msgstr ""
+"\n"
+"「『交朋友的方法』……」"
+

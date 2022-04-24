@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (13,5)
+#. ID 10, Page 1, Line 2, Pos (13,6)
+msgid "紅茶の　かおりがする……"
+msgstr "有紅茶的香味……"
+
+#. ID 3, Page 1, Line 1, Pos (7,5)
+msgid "本の絵がある……"
+msgstr "有一幅書本的畫……"
+
+#. ID 4, Page 1, Line 1, Pos (4,5)
+msgid "ボールのような絵がある……"
+msgstr "有一幅像是球的畫……"
+
+#. ID 5, Page 1, Line 1, Pos (10,5)
+msgid "サメの絵がある……"
+msgstr "有一幅鯊魚的畫……"
+
+#. ID 7, Page 1, Line 1, Pos (4,6)
+msgid "赤い額縁に　ボールのような絵が　飾ってある……"
+msgstr "紅色畫框裡，有一幅像是球的畫……"
+
+#. ID 8, Page 1, Line 1, Pos (7,6)
+msgid "青い額縁に　本の絵が飾ってある……"
+msgstr "藍色畫框裡，有一幅書本的畫……"
+
+#. ID 8, Page 1, Line 3, Pos (7,6)
+msgid "“夜になると　皆眠りにつく”"
+msgstr "“到了夜晚　大家都會沉睡”"
+
+#. ID 9, Page 1, Line 1, Pos (10,6)
+msgid "黄色の額縁に　サメの絵が飾ってある……"
+msgstr "黃色畫框裡，有一幅鯊魚的畫……"
+
+#. ID 10, Page 1, Line 1, Pos (13,6)
+#. ID 10, Page 2, Line 1, Pos (13,6)
+msgid "紫の額縁に　紅茶の絵が飾ってある……"
+msgstr "紫色畫框裡，有一幅紅茶的畫……"
+
+#. ID 10, Page 1, Line 6, Pos (13,6)
+msgid ""
+"\n"
+"「すごく　良い香りだけど……」"
+msgstr ""
+"\n"
+"「雖然很香……」"
+
+#. ID 10, Page 1, Line 9, Pos (13,6)
+msgid ""
+"\n"
+"「これは　これで\n"
+"　すごい嫌がらせだと　思わない？」"
+msgstr ""
+"\n"
+"「可是妳不覺得\n"
+"　這根本就是惹人厭的作法嗎？」"
+
+#. ID 10, Page 1, Line 13, Pos (13,6)
+msgid ""
+"\n"
+"「あー……\n"
+"　この紅茶が　本物になればいいのに」"
+msgstr ""
+"\n"
+"「啊──……\n"
+"　如果這杯紅茶是真的就好了。」"
+
+#. ID 10, Page 2, Line 5, Pos (13,6)
+msgid ""
+"\n"
+"「……すっかり\n"
+"　冷めちゃった　みたいね」"
+msgstr ""
+"\n"
+"「……好像完全冷掉了呢。」"
+
+#. ID 11, Page 1, Line 1, Pos (16,6)
+#. ID 11, Page 2, Line 2, Pos (16,6)
+msgid "緑の額縁に　穴が開いた地面の絵が　飾ってある……"
+msgstr "綠色畫框裡，有一幅地上有洞的畫……"
+
+#. ID 11, Page 2, Line 3, Pos (16,6)
+msgid "………？"
+msgstr "………？"
+
+#. ID 11, Page 2, Line 4, Pos (16,6)
+#. Contains choice at line 2 (2 options)
+msgid "この絵は　壁から外れそうだ……"
+msgstr "這幅畫似乎可以從牆上拿下來……"
+
+#. ID 11, Page 2, Line 5, Pos (16,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"外す\n"
+"外さない"
+msgstr ""
+"拿下來\n"
+"不拿下來"
+
+#. ID 11, Page 2, Line 8, Pos (16,6)
+msgid "アリの巣の絵を　手に入れた。"
+msgstr "得到一幅　蟻巢的繪畫。"
+

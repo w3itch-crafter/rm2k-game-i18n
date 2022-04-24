@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 2, Line 5, Pos (9,12)
+#. ID 5, Page 3, Line 3, Pos (9,12)
+msgid "扉が　開かない……"
+msgstr "門打不開……"
+
+#. ID 5, Page 2, Line 8, Pos (9,12)
+msgid ""
+"\n"
+"「え……？」"
+msgstr ""
+"\n"
+"「咦……？」"
+
+#. ID 5, Page 2, Line 16, Pos (9,12)
+msgid ""
+"\n"
+"「うそ……なんで！？」"
+msgstr ""
+"\n"
+"「騙人…為什麼！？」"
+
+#. ID 5, Page 2, Line 25, Pos (9,12)
+msgid ""
+"\n"
+"「………！？」"
+msgstr ""
+"\n"
+"「………！？」"
+
+#. ID 5, Page 2, Line 30, Pos (9,12)
+msgid "扉に文字が　出てきた……"
+msgstr "門上出現了文字……"
+
+#. ID 5, Page 2, Line 31, Pos (9,12)
+msgid ""
+"“また　たからさがし　しようよ\n"
+"　だれがカギを　もってるかな？”"
+msgstr ""
+"“再繼續玩　尋寶遊戲嘛\n"
+"　究竟是誰　拿著鑰匙呢？”"
+
+#. ID 5, Page 2, Line 36, Pos (9,12)
+msgid ""
+"\n"
+"「なんですって……」"
+msgstr ""
+"\n"
+"「什麼……」"
+
+#. ID 5, Page 2, Line 49, Pos (9,12)
+msgid ""
+"\n"
+"「な　なに！？\n"
+"　今度は　なんなの！」"
+msgstr ""
+"\n"
+"「什、什麼！？\n"
+"　現在又是怎樣啦！」"
+
+#. ID 5, Page 2, Line 61, Pos (9,12)
+msgid ""
+"\n"
+"「なんか　ヤバそう……\n"
+"　カギ……カギはどこ！？」"
+msgstr ""
+"\n"
+"「好像不太妙……\n"
+"　鑰匙……鑰匙在哪裡啊！？」"
+
+#. ID 9, Page 1, Line 1, Pos (4,6)
+#. ID 9, Page 3, Line 1, Pos (4,6)
+#. ID 32, Page 3, Line 1, Pos (8,7)
+msgid "お腹が破けた　人形がある……"
+msgstr "肚子被撕破的人偶……"
+
+#. ID 9, Page 2, Line 1, Pos (4,6)
+#. ID 9, Page 4, Line 1, Pos (4,6)
+msgid "人形の首が　転がっている……"
+msgstr "人偶的頭掉在地上……"
+
+#. ID 10, Page 1, Line 1, Pos (11,6)
+#. ID 13, Page 1, Line 1, Pos (7,6)
+#. ID 16, Page 1, Line 1, Pos (10,10)
+#. ID 18, Page 1, Line 1, Pos (10,7)
+#. ID 19, Page 1, Line 1, Pos (8,11)
+#. ID 21, Page 1, Line 1, Pos (7,9)
+#. ID 22, Page 1, Line 1, Pos (5,7)
+#. ID 24, Page 1, Line 1, Pos (4,10)
+#. ID 26, Page 1, Line 1, Pos (11,11)
+#. ID 28, Page 1, Line 1, Pos (12,9)
+#. ID 32, Page 1, Line 1, Pos (8,7)
+#. ID 36, Page 1, Line 1, Pos (12,11)
+#. ID 38, Page 1, Line 1, Pos (15,8)
+#. ID 39, Page 1, Line 1, Pos (6,8)
+#. ID 41, Page 1, Line 1, Pos (12,8)
+#. ID 43, Page 1, Line 1, Pos (11,8)
+#. ID 44, Page 1, Line 1, Pos (8,9)
+#. ID 45, Page 1, Line 1, Pos (8,6)
+#. ID 47, Page 1, Line 1, Pos (6,10)
+msgid "気味の悪い　人形がある……"
+msgstr "令人感到噁心的人偶……"
+
+#. ID 13, Page 2, Line 1, Pos (7,6)
+#. Contains choice at line 2 (2 options)
+#. ID 26, Page 2, Line 1, Pos (11,11)
+#. Contains choice at line 2 (2 options)
+#. ID 32, Page 2, Line 1, Pos (8,7)
+#. Contains choice at line 2 (2 options)
+#. ID 41, Page 2, Line 1, Pos (12,8)
+#. Contains choice at line 2 (2 options)
+#. ID 47, Page 2, Line 1, Pos (6,10)
+#. Contains choice at line 2 (2 options)
+msgid "妙にお腹が　膨らんだ人形がある……"
+msgstr "人偶的肚子看起來鼓鼓的……"
+
+#. ID 13, Page 2, Line 2, Pos (7,6)
+#. Choice (2 options, embedded in a message)
+#. ID 26, Page 2, Line 2, Pos (11,11)
+#. Choice (2 options, embedded in a message)
+#. ID 32, Page 2, Line 2, Pos (8,7)
+#. Choice (2 options, embedded in a message)
+#. ID 41, Page 2, Line 2, Pos (12,8)
+#. Choice (2 options, embedded in a message)
+#. ID 47, Page 2, Line 2, Pos (6,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"お腹を裂いてみる\n"
+"そのままにしておく"
+msgstr ""
+"把肚子撕開看看\n"
+"就這樣放著不管它"
+
+#. ID 13, Page 2, Line 7, Pos (7,6)
+msgid "石ころが　入っていた……"
+msgstr "裡面塞著石頭……"
+
+#. ID 13, Page 2, Line 10, Pos (7,6)
+msgid ""
+"\n"
+"「なによ　これっ！」"
+msgstr ""
+"\n"
+"「這什麼東西啦！」"
+
+#. ID 13, Page 3, Line 1, Pos (7,6)
+msgid "破けたお腹に　石が詰まっている……"
+msgstr "被撕破的肚子裡塞滿了石頭……"
+
+#. ID 25, Page 1, Line 1, Pos (5,5)
+msgid "“わたしたちの　おうちに　ようこそ”"
+msgstr "“歡迎來到　我們的家”"
+
+#. ID 26, Page 2, Line 7, Pos (11,11)
+msgid "大量の髪の毛が　詰まっている……"
+msgstr "裡面塞著大量的毛髮……"
+
+#. ID 26, Page 2, Line 10, Pos (11,11)
+msgid ""
+"\n"
+"「いやー！　気持ち悪い！！」"
+msgstr ""
+"\n"
+"「討厭──！好噁心喔！！」"
+
+#. ID 26, Page 3, Line 1, Pos (11,11)
+msgid "破けたお腹から　髪の毛がはみ出している……"
+msgstr "被撕破的肚子裡露出大量毛髮……"
+
+#. ID 32, Page 2, Line 9, Pos (8,7)
+msgid ""
+"\n"
+"「あった！　カギ！」"
+msgstr ""
+"\n"
+"「找到了！鑰匙！」"
+
+#. ID 32, Page 2, Line 12, Pos (8,7)
+msgid "小さなカギを　手に入れた。"
+msgstr "得到一把　小鑰匙。"
+
+#. ID 41, Page 2, Line 7, Pos (12,8)
+msgid "青い絵の具が　中から垂れてきた……"
+msgstr "從裡面流出了藍色的顏料……"
+
+#. ID 41, Page 2, Line 10, Pos (12,8)
+msgid ""
+"\n"
+"「うぅ………」"
+msgstr ""
+"\n"
+"「嗚噁………」"
+
+#. ID 41, Page 3, Line 1, Pos (12,8)
+msgid "破けたお腹から　青い絵の具が流れている……"
+msgstr "被撕破的肚子裡流出了藍色的顏料……"
+
+#. ID 47, Page 2, Line 7, Pos (6,10)
+msgid "虫が　うごめいている……"
+msgstr "裡面的蟲子在蠕動……"
+
+#. ID 47, Page 2, Line 10, Pos (6,10)
+msgid ""
+"\n"
+"「気持ち悪いっ！」"
+msgstr ""
+"\n"
+"「好噁心！」"
+
+#. ID 47, Page 3, Line 1, Pos (6,10)
+msgid "破けたお腹から　虫が出入りしている……"
+msgstr "被撕破的肚子裡爬滿了蟲子……"
+
+#. ID 52, Page 1, Line 1, Pos (9,6)
+msgid "何かが　落ちている……"
+msgstr "有東西掉在地上……"
+
+#. ID 52, Page 1, Line 3, Pos (9,6)
+msgid "絵の具玉（白）を　手に入れた。"
+msgstr "得到一顆　顏料球（白）。"
+
+#. ID 52, Page 1, Line 8, Pos (9,6)
+msgid "絵の具玉は　消えてしまった……"
+msgstr "顏料球消失了……"
+
+#. ID 52, Page 1, Line 12, Pos (9,6)
+msgid ""
+"\n"
+"「これで７つ　揃ったわ……！」"
+msgstr ""
+"\n"
+"「這樣就蒐集到7顆了……！」"
+

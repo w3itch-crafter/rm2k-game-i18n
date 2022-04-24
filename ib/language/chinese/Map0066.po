@@ -1,0 +1,638 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 3, Pos (11,12)
+#. ID 6, Page 1, Line 3, Pos (15,12)
+msgid ""
+"\n"
+"「うーん……\n"
+"　動かせそうだけど　動かせないわ」"
+msgstr ""
+"\n"
+"「嗯──……\n"
+"　看起來好像可以移動，但動不了呢。」"
+
+#. ID 8, Page 1, Line 2, Pos (3,6)
+#. ID 8, Page 2, Line 1, Pos (3,6)
+#. ID 8, Page 3, Line 1, Pos (3,6)
+#. ID 8, Page 4, Line 1, Pos (3,6)
+#. ID 8, Page 5, Line 1, Pos (3,6)
+msgid "『恐怖』"
+msgstr "『恐怖』"
+
+#. ID 8, Page 1, Line 4, Pos (3,6)
+#. ID 8, Page 2, Line 3, Pos (3,6)
+#. ID 8, Page 3, Line 3, Pos (3,6)
+#. ID 8, Page 4, Line 3, Pos (3,6)
+#. ID 8, Page 5, Line 3, Pos (3,6)
+msgid ""
+"『一人でいると　恐ろしい\n"
+"　二人でいると　安心できる\n"
+"　三人でいると　……』"
+msgstr ""
+"『只有一個人的話　會非常害怕\n"
+"　兩個人一起的話　就能夠安心\n"
+"　三個人一起的話　……』"
+
+#. ID 8, Page 1, Line 7, Pos (3,6)
+#. ID 8, Page 2, Line 6, Pos (3,6)
+#. ID 8, Page 3, Line 6, Pos (3,6)
+#. ID 8, Page 4, Line 6, Pos (3,6)
+#. ID 8, Page 5, Line 6, Pos (3,6)
+msgid "先が破れていて　読めない……"
+msgstr "後面被撕破了，無法閱讀……"
+
+#. ID 8, Page 1, Line 11, Pos (3,6)
+msgid ""
+"\n"
+"「……イヴたち　大丈夫かしら」"
+msgstr ""
+"\n"
+"「……Ib她們不會有事吧？」"
+
+#. ID 8, Page 1, Line 14, Pos (3,6)
+msgid ""
+"\n"
+"「まぁ　２人でいるから\n"
+"　まだ良かったわ………」"
+msgstr ""
+"\n"
+"「不過，至少她們有兩個人，\n"
+"　還算比較好………」"
+
+#. ID 8, Page 5, Line 9, Pos (3,6)
+msgid ""
+"\n"
+"「誰が　破ったんだろう？」"
+msgstr ""
+"\n"
+"「是誰把它撕破的呢？」"
+
+#. ID 9, Page 1, Line 1, Pos (7,6)
+#. ID 9, Page 2, Line 2, Pos (7,6)
+#. ID 9, Page 3, Line 1, Pos (7,6)
+#. ID 9, Page 5, Line 1, Pos (7,6)
+msgid "『色彩の極意』"
+msgstr "『色彩的奧秘』"
+
+#. ID 9, Page 1, Line 2, Pos (7,6)
+#. ID 9, Page 2, Line 3, Pos (7,6)
+#. ID 9, Page 3, Line 2, Pos (7,6)
+#. ID 9, Page 5, Line 2, Pos (7,6)
+msgid "色彩の極意が　書かれている……"
+msgstr "上面寫著色彩的奧秘……"
+
+#. ID 9, Page 2, Line 7, Pos (7,6)
+msgid ""
+"\n"
+"「ん？」"
+msgstr ""
+"\n"
+"「嗯？」"
+
+#. ID 9, Page 4, Line 1, Pos (7,6)
+#. ID 9, Page 6, Line 1, Pos (7,6)
+msgid "『色彩の？？』"
+msgstr "『色彩的？？』"
+
+#. ID 9, Page 4, Line 2, Pos (7,6)
+#. ID 20, Page 3, Line 16, Pos (14,6)
+#. ID 20, Page 3, Line 30, Pos (14,6)
+#. ID 20, Page 3, Line 37, Pos (14,6)
+msgid "難しくて　読めない字がある……"
+msgstr "有些字太難了，看不懂……"
+
+#. ID 9, Page 6, Line 4, Pos (7,6)
+msgid ""
+"\n"
+"「わぁ……\n"
+"　この本　カラフルで綺麗！」"
+msgstr ""
+"\n"
+"「哇啊……\n"
+"　這本書，彩色的好漂亮！」"
+
+#. ID 10, Page 1, Line 3, Pos (6,7)
+#. ID 12, Page 1, Line 3, Pos (12,8)
+msgid ""
+"\n"
+"「なにかしら　これ……\n"
+"　柔らかいけど　握ったら割れそう」"
+msgstr ""
+"\n"
+"「這是什麼東西啊……\n"
+"　軟軟的，好像一捏就會破掉似的。」"
+
+#. ID 10, Page 1, Line 6, Pos (6,7)
+#. ID 12, Page 1, Line 6, Pos (12,8)
+msgid ""
+"\n"
+"「もしかしてこれが　絵の具玉？」"
+msgstr ""
+"\n"
+"「難道這就是顏料球？」"
+
+#. ID 10, Page 1, Line 10, Pos (6,7)
+#. ID 10, Page 2, Line 3, Pos (6,7)
+msgid "絵の具玉（緑）を　手に入れた。"
+msgstr "得到一顆　顏料球（綠）。"
+
+#. ID 10, Page 1, Line 17, Pos (6,7)
+#. ID 12, Page 1, Line 17, Pos (12,8)
+msgid ""
+"\n"
+"「あら………消えちゃったわ」"
+msgstr ""
+"\n"
+"「哎呀………消失了呢。」"
+
+#. ID 10, Page 2, Line 1, Pos (6,7)
+#. ID 12, Page 2, Line 1, Pos (12,8)
+msgid "何かが　落ちている……"
+msgstr "有東西掉在地上……"
+
+#. ID 10, Page 2, Line 8, Pos (6,7)
+#. ID 12, Page 2, Line 8, Pos (12,8)
+msgid "絵の具玉は　消えてしまった……"
+msgstr "顏料球消失了……"
+
+#. ID 11, Page 1, Line 1, Pos (9,12)
+msgid "『書物の持ち出し　禁止』"
+msgstr "『禁止　將書籍帶出房間』"
+
+#. ID 12, Page 1, Line 10, Pos (12,8)
+#. ID 12, Page 2, Line 3, Pos (12,8)
+msgid "絵の具玉（桃）を　手に入れた。"
+msgstr "得到一顆　顏料球（粉紅）。"
+
+#. ID 18, Page 1, Line 1, Pos (5,5)
+msgid "『悟り』"
+msgstr "『頓悟』"
+
+#. ID 19, Page 1, Line 2, Pos (4,12)
+#. ID 19, Page 2, Line 2, Pos (4,12)
+msgid "『未知に勝る恐怖はなし』"
+msgstr "『沒有比未知更恐怖的東西』"
+
+#. ID 19, Page 2, Line 7, Pos (4,12)
+msgid ""
+"\n"
+"「意味が　わかんないや……」"
+msgstr ""
+"\n"
+"「看不懂啦……」"
+
+#. ID 20, Page 1, Line 3, Pos (14,6)
+#. ID 20, Page 2, Line 3, Pos (14,6)
+#. ID 20, Page 3, Line 2, Pos (14,6)
+#. ID 20, Page 4, Line 3, Pos (14,6)
+#. ID 20, Page 5, Line 2, Pos (14,6)
+#. ID 20, Page 6, Line 2, Pos (14,6)
+msgid "『ゲルテナ作品集　下』"
+msgstr "『Guertena作品集　下』"
+
+#. ID 20, Page 1, Line 4, Pos (14,6)
+#. ID 20, Page 2, Line 4, Pos (14,6)
+msgid ""
+"ゲルテナが　描いた絵が\n"
+"アルファベット順に　載っている……"
+msgstr ""
+
+#. ID 20, Page 1, Line 8, Pos (14,6)
+#. Contains choice at line 2 (3 options)
+msgid "「良い情報　載ってないかしら」"
+msgstr "「上面有沒有什麼有用的情報呢？」"
+
+#. ID 20, Page 1, Line 9, Pos (14,6)
+#. Choice (3 options, embedded in a message)
+#. ID 20, Page 2, Line 9, Pos (14,6)
+#. Choice (3 options, embedded in a message)
+#. ID 20, Page 3, Line 6, Pos (14,6)
+#. Choice (3 options, embedded in a message)
+#. ID 20, Page 4, Line 7, Pos (14,6)
+#. Choice (3 options, embedded in a message)
+#. ID 20, Page 5, Line 6, Pos (14,6)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"Dのページ\n"
+"Tのページ\n"
+"Mのページ"
+msgstr ""
+"D 頁\n"
+"T 頁\n"
+"M 頁"
+
+#. ID 20, Page 1, Line 13, Pos (14,6)
+#. ID 20, Page 2, Line 13, Pos (14,6)
+#. ID 20, Page 4, Line 10, Pos (14,6)
+#. ID 20, Page 5, Line 9, Pos (14,6)
+msgid ""
+"『蛇蠍の精神』　6248年\n"
+"この絵を境に　ゲルテナは抽象画を中心に\n"
+"描いていく事が　多くなっていった。"
+msgstr ""
+"『蛇蠍的精神』　6248年\n"
+"Guertena的創作風格以這幅畫為分野，\n"
+"自此轉為以抽象畫為中心。"
+
+#. ID 20, Page 1, Line 17, Pos (14,6)
+#. ID 20, Page 2, Line 17, Pos (14,6)
+#. ID 20, Page 4, Line 14, Pos (14,6)
+#. ID 20, Page 5, Line 13, Pos (14,6)
+msgid ""
+"だがこの頃世間では　キュビズムが\n"
+"流行しており　ゲルテナが描いた\n"
+"様々な抽象画は　ほとんど注目されることはなかった。"
+msgstr ""
+"但當時的主流是立體主義，\n"
+"因此Guertena所創作的眾多抽象畫\n"
+"幾乎沒有受到任何關注。"
+
+#. ID 20, Page 1, Line 25, Pos (14,6)
+#. ID 20, Page 2, Line 24, Pos (14,6)
+#. ID 20, Page 4, Line 20, Pos (14,6)
+#. ID 20, Page 5, Line 19, Pos (14,6)
+msgid ""
+"『吊るされた男』　6219年\n"
+"一時期ゲルテナは　雑誌の装丁の仕事をしており\n"
+"ページの埋め合わせに　この絵を載せたとされている。"
+msgstr ""
+"『被倒吊的男人』　6219年\n"
+"Guertena曾經從事過雜誌裝訂的工作，\n"
+"為了填補不足的頁數而刊登了這幅畫。"
+
+#. ID 20, Page 1, Line 29, Pos (14,6)
+#. ID 20, Page 2, Line 28, Pos (14,6)
+#. ID 20, Page 4, Line 24, Pos (14,6)
+#. ID 20, Page 5, Line 23, Pos (14,6)
+msgid ""
+"毎回挿し絵を載せていった所　これが好評で\n"
+"後にこの雑誌で使用した絵を　タロットカードにして\n"
+"期間限定で　販売したこともあった。"
+msgstr ""
+"每次刊登的插畫都獲得相當正面的評價，\n"
+"其後便將曾刊登在本雜誌中的繪畫\n"
+"製作成期間限定販售的塔羅牌。"
+
+#. ID 20, Page 1, Line 33, Pos (14,6)
+#. ID 20, Page 2, Line 32, Pos (14,6)
+#. ID 20, Page 3, Line 28, Pos (14,6)
+#. ID 20, Page 4, Line 28, Pos (14,6)
+#. ID 20, Page 5, Line 27, Pos (14,6)
+#. ID 20, Page 6, Line 32, Pos (14,6)
+#, fuzzy
+msgid ""
+"現在　このタロットカードを入手する事は\n"
+"ほぼ不可能となっている。"
+msgstr ""
+"Guertena的畫作\n"
+"按照英文字母的順序刊載在上面……"
+
+#. ID 20, Page 1, Line 39, Pos (14,6)
+#. ID 20, Page 2, Line 38, Pos (14,6)
+msgid ""
+"『メアリー』　----年\n"
+"ゲルテナが手掛けた　生涯最後の作品。"
+msgstr ""
+"『M ary』　----年\n"
+"Guertena創作生涯中的最後一件作品。"
+
+#. ID 20, Page 1, Line 43, Pos (14,6)
+#. ID 20, Page 2, Line 41, Pos (14,6)
+msgid ""
+"まるでそこに　存在するかのように佇む少女だが\n"
+"もちろんのこと彼女も　実在しない人物である。"
+msgstr ""
+"雖然其中佇立的少女宛如確實存在似的，\n"
+"但這位少女其實並非實際存在的人物。"
+
+#. ID 20, Page 1, Line 47, Pos (14,6)
+msgid ""
+"\n"
+"「……………！！」"
+msgstr ""
+"\n"
+"「……………！！」"
+
+#. ID 20, Page 1, Line 61, Pos (14,6)
+msgid ""
+"紹介文の　反対側のページに\n"
+"見覚えのある少女の絵が　載っている……"
+msgstr ""
+"介紹文的下一頁，\n"
+"刊載著似曾相識的少女畫像……"
+
+#. ID 20, Page 1, Line 65, Pos (14,6)
+msgid ""
+"\n"
+"「な　なんで……え？\n"
+"　うそでしょ………これ……」"
+msgstr ""
+"\n"
+"「什、為什麼……咦？\n"
+"　騙人的吧………這是……」"
+
+#. ID 20, Page 1, Line 68, Pos (14,6)
+msgid ""
+"\n"
+"「メアリー………？！」"
+msgstr ""
+"\n"
+"「M ary………？！」"
+
+#. ID 20, Page 1, Line 84, Pos (14,6)
+msgid ""
+"\n"
+"「実在しない………！？\n"
+"　どういうことなの………じゃあ」"
+msgstr ""
+"\n"
+"「不是實際存在的人物……！？\n"
+"　這是怎麼回事………那麼……」"
+
+#. ID 20, Page 1, Line 88, Pos (14,6)
+msgid ""
+"\n"
+"「それじゃあ　今\n"
+"　イヴといるのは……まさか……」"
+msgstr ""
+"\n"
+"「那麼現在\n"
+"　和Ib在一起的……難道是……」"
+
+#. ID 20, Page 2, Line 8, Pos (14,6)
+#. Contains choice at line 2 (3 options)
+msgid "「他になにか　あるかしら……」"
+msgstr "「還有其他東西嗎……」"
+
+#. ID 20, Page 2, Line 45, Pos (14,6)
+msgid ""
+"\n"
+"「……………」"
+msgstr ""
+"\n"
+"「……………」"
+
+#. ID 20, Page 3, Line 3, Pos (14,6)
+#. ID 20, Page 4, Line 4, Pos (14,6)
+#. ID 20, Page 5, Line 3, Pos (14,6)
+#. ID 20, Page 6, Line 3, Pos (14,6)
+msgid ""
+"ゲルテナが　描いた絵が\n"
+"アルファベット順に　のっている……"
+msgstr ""
+
+#. ID 20, Page 3, Line 5, Pos (14,6)
+#. Contains choice at line 2 (3 options)
+#. ID 20, Page 4, Line 6, Pos (14,6)
+#. Contains choice at line 2 (3 options)
+#. ID 20, Page 5, Line 5, Pos (14,6)
+#. Contains choice at line 2 (3 options)
+#. ID 20, Page 6, Line 5, Pos (14,6)
+#. Contains choice at line 2 (3 options)
+msgid "どのページを　見ようか……"
+msgstr "要看哪一頁呢……"
+
+#. ID 20, Page 3, Line 9, Pos (14,6)
+#. ID 20, Page 6, Line 9, Pos (14,6)
+msgid ""
+"『？？の精神』　6248年\n"
+"この絵を境に　ゲルテナは？？画を中心に\n"
+"描いていく事が　多くなっていった。"
+msgstr ""
+"『？？的精神』　6248年\n"
+"Guertena的創作風格以這幅畫為分野，\n"
+"自此轉為以？？畫為中心。"
+
+#. ID 20, Page 3, Line 13, Pos (14,6)
+#. ID 20, Page 6, Line 13, Pos (14,6)
+msgid ""
+"だがこの頃世間では　キュビズムが\n"
+"？？しており　ゲルテナが描いた\n"
+"様々な？？画は　ほとんど注目されることはなかった。"
+msgstr ""
+"但當時的？？是立體主義，\n"
+"因此Guertena所創作的眾多？？畫\n"
+"幾乎沒有受到任何關注。"
+
+#. ID 20, Page 3, Line 20, Pos (14,6)
+#. ID 20, Page 6, Line 24, Pos (14,6)
+msgid ""
+"『吊るされた男』　6219年\n"
+"一時期ゲルテナは　雑誌の？？の仕事をしており\n"
+"ページの埋め合わせに　この絵を？せたとされている。"
+msgstr ""
+"『被倒吊的男人』　6219年\n"
+"Guertena曾經從事過雜誌？？的工作，\n"
+"為了填補不足的頁數而？登了這幅畫。"
+
+#. ID 20, Page 3, Line 24, Pos (14,6)
+#. ID 20, Page 6, Line 28, Pos (14,6)
+msgid ""
+"毎回挿し絵を？せていった所　これが好評で\n"
+"後にこの雑誌で使用した絵を　タロットカードにして\n"
+"期間限定で　販売したこともあった。"
+msgstr ""
+"每次？登的插畫都獲得相當正面的評價，\n"
+"其後便將曾？登在本雜誌中的繪畫\n"
+"製作成期間限定販售的塔羅牌。"
+
+#. ID 20, Page 3, Line 34, Pos (14,6)
+msgid ""
+"『ミドリのよる』　6198年\n"
+"この作品が描かれる　１年前に？？出現した\n"
+"？？？なオーロラを　描いた作品。"
+msgstr ""
+"『綠色的夜晚』　6198年\n"
+"這幅畫描繪的，是以一年前？？出現的\n"
+"？？？極光現象為主題的繪畫作品。"
+
+#. ID 20, Page 3, Line 40, Pos (14,6)
+msgid ""
+"\n"
+"「この絵　この部屋の隣に\n"
+"　飾ってあった　やつだね……」"
+msgstr ""
+"\n"
+"「這幅畫，\n"
+"　掛在這個房間外面的牆上對吧……」"
+
+#. ID 20, Page 4, Line 33, Pos (14,6)
+#. ID 20, Page 5, Line 32, Pos (14,6)
+msgid ""
+"『ミドリのよる』　6198年\n"
+"この作品が描かれる　１年前に突如出現した\n"
+"大規模なオーロラを　描いた作品。"
+msgstr ""
+"『綠色的夜晚』　6198年\n"
+"這幅畫描繪的，是以一年前突然出現的\n"
+"大規模極光現象為主題的繪畫作品。"
+
+#. ID 20, Page 4, Line 38, Pos (14,6)
+msgid ""
+"\n"
+"「……………？」"
+msgstr ""
+"\n"
+"「……………？」"
+
+#. ID 20, Page 4, Line 41, Pos (14,6)
+msgid ""
+"\n"
+"「どうしたの？　ギャリー……」"
+msgstr ""
+"\n"
+"「你怎麼了？Garry……」"
+
+#. ID 20, Page 4, Line 44, Pos (14,6)
+msgid ""
+"\n"
+"「いや………なんでもないわ」"
+msgstr ""
+"\n"
+"「不………沒什麼啦。」"
+
+#. ID 20, Page 6, Line 6, Pos (14,6)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"Dのページ\n"
+"Tのページ\n"
+"■のページ"
+msgstr ""
+"D 頁\n"
+"T 頁\n"
+"■ 頁"
+
+#. ID 20, Page 6, Line 18, Pos (14,6)
+msgid ""
+"\n"
+"「お父さんの絵　上手なのに……」"
+msgstr ""
+"\n"
+"「爸爸明明就畫得很好……」"
+
+#. ID 20, Page 6, Line 36, Pos (14,6)
+msgid ""
+"\n"
+"「あははは　ヘンな絵！」"
+msgstr ""
+"\n"
+"「啊哈哈哈，奇怪的畫！」"
+
+#. ID 20, Page 6, Line 42, Pos (14,6)
+msgid ""
+"『■■■■』　■■■■■\n"
+"■■■■■■■■■　■■■■■■■■"
+msgstr ""
+"『■■■■』　■■■■■\n"
+"■■■■■■■■■■■■■■。"
+
+#. ID 20, Page 6, Line 45, Pos (14,6)
+msgid ""
+"■■■■■■　■■■■■■■■■■■■■■■\n"
+"■■■■■■■■■■　■■■■■■■■■■■"
+msgstr ""
+"■■■■■■■■■■■■■■■，\n"
+"■■■■■■■■■，■■■■■■■■■■■。"
+
+#. ID 20, Page 6, Line 47, Pos (14,6)
+msgid "文字がにじんで　読めない……"
+msgstr "文字變得模糊，無法閱讀……"
+
+#. ID 20, Page 6, Line 50, Pos (14,6)
+msgid ""
+"\n"
+"「あれ……\n"
+"　こんなページ　あったっけ？」"
+msgstr ""
+"\n"
+"「咦……\n"
+"　之前有這一頁嗎？」"
+
+#. ID 41, Page 1, Line 1, Pos (13,5)
+#. ID 41, Page 2, Line 1, Pos (13,5)
+msgid "『聞き耳』"
+msgstr "『聽聞之耳』"
+
+#. ID 41, Page 2, Line 4, Pos (13,5)
+msgid ""
+"\n"
+"「聞き耳ー　聞いて！」"
+msgstr ""
+"\n"
+"「聽聞之耳──，聽我說喔！」"
+
+#. ID 41, Page 2, Line 7, Pos (13,5)
+msgid ""
+"\n"
+"「わたし　これから\n"
+"　外に　行くんだよ！」"
+msgstr ""
+"\n"
+"「我接下來，\n"
+"　要到外面去喔！」"
+
+#. ID 41, Page 2, Line 11, Pos (13,5)
+msgid ""
+"\n"
+"「みんなも\n"
+"　来たくなったら　おいでよ！\n"
+"　きっと　楽しいよ！」"
+msgstr ""
+"\n"
+"「如果大家也想跟來的話，就過來吧！\n"
+"　一定會很好玩的！」"
+
+#. ID 42, Page 1, Line 2, Pos (13,12)
+#. ID 42, Page 3, Line 2, Pos (13,12)
+msgid "“この世の定理”"
+msgstr "“這個世界的定理”"
+
+#. ID 42, Page 1, Line 4, Pos (13,12)
+#. ID 42, Page 3, Line 4, Pos (13,12)
+msgid ""
+"“存在を　交換することにより\n"
+"　空想が現実に　成り得る”"
+msgstr ""
+"“將存在互相交換的話\n"
+"　幻想便會成為現實”"
+
+#. ID 42, Page 1, Line 8, Pos (13,12)
+msgid ""
+"\n"
+"「意味　わかんないわ……」"
+msgstr ""
+"\n"
+"「這是什麼意思啦……」"
+
+#. ID 42, Page 2, Line 2, Pos (13,12)
+#. ID 42, Page 4, Line 2, Pos (13,12)
+msgid "“この？の？？”"
+msgstr "“這個？？的？？”"
+
+#. ID 42, Page 2, Line 4, Pos (13,12)
+#. ID 42, Page 4, Line 4, Pos (13,12)
+msgid ""
+"“存在を　交換することにより\n"
+"　？？が現実に　成り得る”"
+msgstr ""
+"“將存在互相交換的話\n"
+"　？？便會成為現實”"
+
+#. ID 42, Page 2, Line 8, Pos (13,12)
+#. ID 42, Page 3, Line 8, Pos (13,12)
+#. ID 42, Page 4, Line 8, Pos (13,12)
+msgid ""
+"\n"
+"「……………………」"
+msgstr ""
+"\n"
+"「……………………」"
+

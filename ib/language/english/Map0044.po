@@ -1,0 +1,451 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 2, Pos (25,12)
+#. Contains choice at line 2 (2 options)
+msgid "水の入った花瓶がある……"
+msgstr "A vase full of water..."
+
+#. ID 1, Page 1, Line 3, Pos (25,12)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"活ける\n"
+"活けない"
+msgstr ""
+"Place rose\n"
+"Don't place"
+
+#. ID 1, Page 1, Line 8, Pos (25,12)
+msgid "バラの花が　元気になった！"
+msgstr "The rose returned to health!"
+
+#. ID 1, Page 1, Line 10, Pos (25,12)
+msgid "花瓶の水が　なくなってしまった……"
+msgstr "The vase is out of water..."
+
+#. ID 1, Page 1, Line 14, Pos (25,12)
+msgid ""
+"\n"
+"「そういえば……アタシとイヴにも\n"
+"　薔薇が　あったってことは……」"
+msgstr ""
+"\n"
+" Say... Seeing as Ib and I\n"
+" both have roses..."
+
+#. ID 1, Page 1, Line 17, Pos (25,12)
+msgid ""
+"\n"
+"「もしかして　メアリーの薔薇も\n"
+"　あるんじゃないかしら？」"
+msgstr ""
+"\n"
+" Mary, do you perhaps\n"
+" have a rose as well?"
+
+#. ID 1, Page 1, Line 21, Pos (25,12)
+msgid ""
+"\n"
+"「……うん　持ってるよ！\n"
+"　黄色いバラ！」"
+msgstr ""
+"\n"
+" ...Yeah, I do!\n"
+" A yellow rose!"
+
+#. ID 1, Page 1, Line 25, Pos (25,12)
+msgid ""
+"\n"
+"「あら　ホントね\n"
+"　２人とも　しっかり　持ってるのよ」"
+msgstr ""
+"\n"
+" Ah, so you do!\n"
+" You two keep those safe."
+
+#. ID 1, Page 1, Line 29, Pos (25,12)
+msgid ""
+"\n"
+"「なくしたりしたら　ダメよ\n"
+"　誰かに渡すのも　危ないからね\n"
+"　それから………」"
+msgstr ""
+"\n"
+" Don't you dare lose it.\n"
+" And don't give it to anyone.\n"
+" And..."
+
+#. ID 1, Page 1, Line 34, Pos (25,12)
+msgid ""
+"\n"
+"「わー　イヴのバラは　赤なんだね\n"
+"　わたしのバラは　黄色だよー」"
+msgstr ""
+"\n"
+" Wooow, Ib's rose is reeed!\n"
+" My rose is yellooow!"
+
+#. ID 1, Page 1, Line 38, Pos (25,12)
+msgid ""
+"\n"
+"「黄色　好きなんだけど\n"
+"　ピンクも好きなんだ　あと青も！」"
+msgstr ""
+"\n"
+" I like yellow, but I also\n"
+" like pink! Oh, and blue!"
+
+#. ID 1, Page 1, Line 42, Pos (25,12)
+msgid ""
+"\n"
+"「……人の話は　聞きなさいよ」"
+msgstr ""
+"\n"
+" ...Learn to listen, would you?"
+
+#. ID 1, Page 2, Line 1, Pos (25,12)
+msgid "花瓶に　水が入っていない……"
+msgstr "There's no water in the vase..."
+
+#. ID 2, Page 1, Line 3, Pos (23,9)
+#. ID 3, Page 1, Line 3, Pos (24,9)
+#. ID 4, Page 1, Line 3, Pos (25,9)
+msgid ""
+"\n"
+"「イヴ　すぐそこに　花瓶があるわ\n"
+"　せっかくだし　寄って行きましょ」"
+msgstr ""
+"\n"
+" Ib, there's a vase right there.\n"
+" We may as well use it."
+
+#. ID 6, Page 1, Line 7, Pos (13,11)
+#. ID 6, Page 2, Line 7, Pos (13,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「わっ！？」"
+msgstr ""
+"\n"
+" Ahh?!"
+
+#. ID 6, Page 1, Line 18, Pos (13,11)
+#. ID 6, Page 2, Line 20, Pos (13,11)
+msgid ""
+"\n"
+"「ちょっと　大丈夫！？」"
+msgstr ""
+"\n"
+" Whoa, are you okay?!"
+
+#. ID 6, Page 1, Line 27, Pos (13,11)
+#. ID 6, Page 2, Line 29, Pos (13,11)
+#. ID 6, Page 2, Line 46, Pos (13,11)
+msgid ""
+"\n"
+"「………！」"
+msgstr ""
+"\n"
+" .....!"
+
+#. ID 6, Page 1, Line 35, Pos (13,11)
+#. ID 6, Page 2, Line 37, Pos (13,11)
+#. ID 6, Page 2, Line 54, Pos (13,11)
+msgid ""
+"\n"
+"「あ！　待って！」"
+msgstr ""
+"\n"
+" Ah! Wait!"
+
+#. ID 6, Page 1, Line 38, Pos (13,11)
+#. ID 6, Page 2, Line 65, Pos (13,11)
+msgid ""
+"\n"
+"「ねぇ　アナタ………\n"
+"　もしかして　美術館に\n"
+"　いた人じゃないの！？」"
+msgstr ""
+"\n"
+" Hey, are you...\n"
+" Could you be one of the\n"
+" visitors to the gallery?!"
+
+#. ID 6, Page 1, Line 43, Pos (13,11)
+#. ID 6, Page 2, Line 70, Pos (13,11)
+msgid ""
+"\n"
+"「あ……！」"
+msgstr ""
+"\n"
+" Ah...!"
+
+#. ID 6, Page 1, Line 46, Pos (13,11)
+#. ID 6, Page 2, Line 73, Pos (13,11)
+msgid ""
+"\n"
+"「やっぱり………」"
+msgstr ""
+"\n"
+" As I thought..."
+
+#. ID 6, Page 1, Line 58, Pos (13,11)
+#. ID 6, Page 2, Line 85, Pos (13,11)
+msgid ""
+"\n"
+"「アタシは　ギャリー\n"
+"　……で　こっちの子は\n"
+"　イヴ　っていうの」"
+msgstr ""
+"\n"
+" I am Garry.\n"
+" ...And this girl is Ib."
+
+#. ID 6, Page 1, Line 63, Pos (13,11)
+#. ID 6, Page 2, Line 90, Pos (13,11)
+#, fuzzy
+msgid ""
+"\n"
+"「……………」"
+msgstr ""
+"\n"
+" .........."
+
+#. ID 6, Page 1, Line 66, Pos (13,11)
+#. ID 6, Page 2, Line 93, Pos (13,11)
+#, fuzzy
+msgid ""
+"\n"
+"「アタシたちも　美術館にいたのに\n"
+"　気づいたらこの　ワケわかんない\n"
+"　場所に　迷い込んじゃってて……」"
+msgstr ""
+"\n"
+" We were in the art gallery,\n"
+" but soon enough found ourselves\n"
+" lost in this odd place..."
+
+#. ID 6, Page 1, Line 71, Pos (13,11)
+#. ID 6, Page 2, Line 98, Pos (13,11)
+#, fuzzy
+msgid ""
+"\n"
+"「今　なんとか２人で\n"
+"　出口を探してる　ワケなんだけど」"
+msgstr ""
+"\n"
+" So now we're both trying\n"
+" to find a way out."
+
+#. ID 6, Page 1, Line 75, Pos (13,11)
+#. ID 6, Page 2, Line 102, Pos (13,11)
+#, fuzzy
+msgid ""
+"\n"
+"「もしかして\n"
+"　アナタも　そうじゃない？」"
+msgstr ""
+"\n"
+" Presumably, you're\n"
+" doing the same?"
+
+#. ID 6, Page 1, Line 82, Pos (13,11)
+#. ID 6, Page 2, Line 109, Pos (13,11)
+#, fuzzy
+msgid ""
+"\n"
+"「わ……わたしも\n"
+"　誰かいないか　捜してたの………」"
+msgstr ""
+"\n"
+" I... I was looking to see\n"
+" if there was anyone else too..."
+
+#. ID 6, Page 1, Line 85, Pos (13,11)
+#. ID 6, Page 2, Line 112, Pos (13,11)
+#, fuzzy
+msgid ""
+"\n"
+"「外に　出たくて………\n"
+"　それで………」"
+msgstr ""
+"\n"
+" I wanted to get out...\n"
+" So I..."
+
+#. ID 6, Page 1, Line 92, Pos (13,11)
+#. ID 6, Page 2, Line 119, Pos (13,11)
+#, fuzzy
+msgid ""
+"\n"
+"「あぁ　やっぱり！\n"
+"　ねぇ　良かったら一緒に　行かない？」"
+msgstr ""
+"\n"
+" Ah, I knew it!\n"
+" Well, would you like to come with us?"
+
+#. ID 6, Page 1, Line 96, Pos (13,11)
+#. ID 6, Page 2, Line 123, Pos (13,11)
+#, fuzzy
+msgid ""
+"\n"
+"「え……………」"
+msgstr ""
+"\n"
+" Huh..........?"
+
+#. ID 6, Page 1, Line 99, Pos (13,11)
+#. ID 6, Page 2, Line 126, Pos (13,11)
+#, fuzzy
+msgid ""
+"\n"
+"「女の子１人じゃ　危ないわ\n"
+"　ここ　変な生き物とか\n"
+"　結構　いるみたいなのよ」"
+msgstr ""
+"\n"
+" It's dangerous to be alone here.\n"
+" There are lots of strange\n"
+" creatures around."
+
+#. ID 6, Page 1, Line 104, Pos (13,11)
+#. ID 6, Page 2, Line 131, Pos (13,11)
+#, fuzzy
+msgid ""
+"\n"
+"「だから　一緒に行きましょ？\n"
+"　みんなでいた方が　心強いし」"
+msgstr ""
+"\n"
+" So will you come with us?\n"
+" I think it would be best\n"
+" if we all stay together."
+
+#. ID 6, Page 1, Line 111, Pos (13,11)
+#. ID 6, Page 2, Line 138, Pos (13,11)
+msgid ""
+"\n"
+"「うん　行く………！」"
+msgstr ""
+"\n"
+" Yeah! I'll come.....!"
+
+#. ID 6, Page 1, Line 114, Pos (13,11)
+#. ID 6, Page 2, Line 141, Pos (13,11)
+msgid ""
+"\n"
+"「んじゃ　決まりね！\n"
+"　あ　名前はなんていうの？」"
+msgstr ""
+"\n"
+" Then it's decided!\n"
+" Oh, what's your name?"
+
+#. ID 6, Page 1, Line 118, Pos (13,11)
+#. ID 6, Page 2, Line 145, Pos (13,11)
+msgid ""
+"\n"
+"「メアリー………」"
+msgstr ""
+"\n"
+" Mary....."
+
+#. ID 6, Page 1, Line 121, Pos (13,11)
+#. ID 6, Page 2, Line 148, Pos (13,11)
+msgid ""
+"\n"
+"「メアリーね！\n"
+"　よろしく　メアリー」"
+msgstr ""
+"\n"
+" Mary, then!\n"
+" Nice to meet you!"
+
+#. ID 6, Page 1, Line 125, Pos (13,11)
+#. ID 6, Page 2, Line 152, Pos (13,11)
+msgid ""
+"\n"
+"「……うん！」"
+msgstr ""
+
+#. ID 6, Page 1, Line 134, Pos (13,11)
+#. Contains choice at line 3 (2 options)
+#. ID 6, Page 2, Line 161, Pos (13,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「えと……イヴ　よろしく……」"
+msgstr ""
+"\n"
+" Um... Nice to meet you, Ib..."
+
+#. ID 6, Page 1, Line 136, Pos (13,11)
+#. Choice (2 options, embedded in a message)
+#. ID 6, Page 2, Line 163, Pos (13,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"よろしくね\n"
+"こちらこそ"
+msgstr ""
+"Sure\n"
+"Nice to meet you too"
+
+#. ID 6, Page 1, Line 139, Pos (13,11)
+#. ID 6, Page 2, Line 166, Pos (13,11)
+msgid ""
+"\n"
+"「………うん！」"
+msgstr ""
+
+#. ID 6, Page 1, Line 144, Pos (13,11)
+#. ID 6, Page 2, Line 171, Pos (13,11)
+msgid ""
+"\n"
+"「えへへ……よろしくね」"
+msgstr ""
+"\n"
+" Teehee... Thanks!"
+
+#. ID 6, Page 1, Line 155, Pos (13,11)
+#. ID 6, Page 2, Line 182, Pos (13,11)
+msgid ""
+"\n"
+"「よーし　それじゃあ\n"
+"　仲間も　増えたことだし\n"
+"　はりきって　行くわよ！」"
+msgstr ""
+"\n"
+" All right! Now that we have\n"
+" more company, we can proceed\n"
+" with our spirits high!"
+
+#. ID 6, Page 1, Line 160, Pos (13,11)
+#. ID 6, Page 2, Line 187, Pos (13,11)
+msgid ""
+"\n"
+"「おー！」"
+msgstr ""
+"\n"
+" Yay!"
+
+#. ID 6, Page 2, Line 16, Pos (13,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"………！\n"
+"だいじょうぶ？"
+msgstr ""
+"...\n"
+"Are you okay?"
+
+#. ID 10, Page 1, Line 1, Pos (16,9)
+msgid "『争いの矛先』"
+msgstr "\"The Force of Quarrel\""
+

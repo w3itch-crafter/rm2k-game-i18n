@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 3, Pos (36,28)
+#. ID 2, Page 1, Line 3, Pos (35,28)
+msgid ""
+"\n"
+"「ここに入るのは　もうやめましょ」"
+msgstr ""
+"\n"
+"「別再進去那個房間了吧。」"
+
+#. ID 1, Page 2, Line 1, Pos (36,28)
+#. ID 2, Page 2, Line 1, Pos (35,28)
+msgid "こっちの部屋は　行きたくない……"
+msgstr "不想再進到那個房間了……"
+
+#. ID 5, Page 1, Line 2, Pos (36,22)
+#. ID 6, Page 1, Line 2, Pos (35,22)
+#. ID 10, Page 1, Line 2, Pos (20,15)
+#. ID 12, Page 1, Line 2, Pos (20,16)
+#. ID 13, Page 1, Line 2, Pos (20,14)
+msgid "すき…………………"
+msgstr "喜歡…………………"
+
+#. ID 7, Page 1, Line 2, Pos (31,15)
+#. ID 8, Page 1, Line 2, Pos (31,16)
+#. ID 9, Page 1, Line 2, Pos (31,14)
+msgid "きらい………………"
+msgstr "不喜歡………………"
+
+#. ID 7, Page 1, Line 5, Pos (31,15)
+#. ID 8, Page 1, Line 5, Pos (31,16)
+#. ID 9, Page 1, Line 5, Pos (31,14)
+msgid ""
+"\n"
+"「…………」"
+msgstr ""
+"\n"
+"「…………」"
+
+#. ID 11, Page 2, Line 8, Pos (20,19)
+msgid ""
+"\n"
+"「……イヴ………あのさ……」"
+msgstr ""
+"\n"
+"「……Ib………那個啊……」"
+
+#. ID 11, Page 2, Line 10, Pos (20,19)
+msgid ""
+"\n"
+"「悪いんだけど……\n"
+"　先に　行っててくれない？」"
+msgstr ""
+"\n"
+"「不好意思……\n"
+"　妳可以先走嗎？」"
+
+#. ID 11, Page 2, Line 14, Pos (20,19)
+msgid ""
+"\n"
+"「アタシちょっと………ゴメン\n"
+"　なんと言ったら　いいのか………」"
+msgstr ""
+"\n"
+"「人家有點………抱歉，\n"
+"　該怎麼說呢………」"
+
+#. ID 11, Page 2, Line 21, Pos (20,19)
+msgid ""
+"\n"
+"「………ウソなんて\n"
+"　つきたくないけど……」"
+msgstr ""
+"\n"
+"「………雖然人家不想說謊……」"
+
+#. ID 11, Page 2, Line 25, Pos (20,19)
+#, fuzzy
+msgid ""
+"\n"
+"「本当のことも　言いたくない………」"
+msgstr ""
+"\n"
+"「但也不想說實話………」"
+
+#. ID 11, Page 2, Line 29, Pos (20,19)
+#, fuzzy
+msgid ""
+"\n"
+"「……動けるようになったら\n"
+"　……追いかけるから………」"
+msgstr ""
+"\n"
+"「……等人家走得動之後，\n"
+"　……就會追上妳的………」"
+
+#. ID 11, Page 2, Line 32, Pos (20,19)
+#. ID 11, Page 3, Line 3, Pos (20,19)
+#, fuzzy
+msgid ""
+"\n"
+"「さきに　行ってて…………」"
+msgstr ""
+"\n"
+"「妳先走吧…………」"
+
+#. ID 11, Page 4, Line 3, Pos (20,19)
+msgid ""
+"\n"
+"「…………………」"
+msgstr ""
+"\n"
+"「…………………」"
+
+#. ID 14, Page 1, Line 3, Pos (15,16)
+#. ID 15, Page 1, Line 3, Pos (15,15)
+#. ID 16, Page 1, Line 3, Pos (15,14)
+#. ID 17, Page 1, Line 3, Pos (24,15)
+#. ID 18, Page 1, Line 3, Pos (24,14)
+#. ID 19, Page 1, Line 3, Pos (24,16)
+msgid ""
+"\n"
+"「イヴ　ちょっと…………」"
+msgstr ""
+"\n"
+"「Ib，等一下…………」"
+
+#. ID 21, Page 1, Line 1, Pos (21,14)
+#. ID 21, Page 2, Line 1, Pos (21,14)
+msgid "ギャリーは　眠っている……"
+msgstr "Garry沉睡著……"
+
+#. ID 21, Page 1, Line 2, Pos (21,14)
+#. Contains choice at line 2 (2 options)
+msgid "……ギャリーの手に　ライターが握られている……"
+msgstr "……Garry的手裡握著打火機……"
+
+#. ID 21, Page 1, Line 3, Pos (21,14)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ライターをとる\n"
+"とらない"
+msgstr ""
+"拿打火機\n"
+"不拿"
+
+#. ID 21, Page 1, Line 6, Pos (21,14)
+#. Contains choice at line 2 (2 options)
+msgid "持ち物が多くて　持ちきれない……"
+msgstr "身上東西太多，沒辦法拿了……"
+
+#. ID 21, Page 1, Line 7, Pos (21,14)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"キャンディを食べる\n"
+"あきらめる"
+msgstr ""
+"吃掉糖果\n"
+"放棄"
+
+#. ID 21, Page 1, Line 10, Pos (21,14)
+msgid "ギャリーからもらった　キャンディを食べて……"
+msgstr "吃掉Garry給的糖果……"
+
+#. ID 21, Page 1, Line 17, Pos (21,14)
+msgid "ライターを借りた。"
+msgstr "借到一個　打火機。"
+
+#. ID 22, Page 1, Line 1, Pos (5,15)
+#. ID 23, Page 1, Line 1, Pos (33,16)
+msgid "青い花びらが　落ちている……"
+msgstr "地上散落著藍色的花瓣……"
+
+#. ID 24, Page 1, Line 2, Pos (4,11)
+#. ID 25, Page 1, Line 2, Pos (3,11)
+msgid "きらい…………………"
+msgstr "不喜歡…………………"
+

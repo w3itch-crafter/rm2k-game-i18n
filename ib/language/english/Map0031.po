@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 8, Page 1, Line 1, Pos (3,7)
+msgid "花びらが少ない　バラがある……"
+msgstr "A rose with hardly any petals..."
+
+#. ID 8, Page 1, Line 4, Pos (3,7)
+msgid "青いバラを　手に入れた。"
+msgstr "Obtained the Blue Rose."
+
+#. ID 10, Page 1, Line 1, Pos (5,10)
+#. ID 11, Page 1, Line 1, Pos (3,10)
+msgid "イスがある……"
+msgstr "A stool..."
+
+#. ID 12, Page 1, Line 1, Pos (16,9)
+msgid "『布の下の？？』"
+msgstr "\"??? Under Cloth\""
+
+#. ID 12, Page 1, Line 2, Pos (16,9)
+msgid "難しくて　読めない字がある……"
+msgstr "You don't know some of the words..."
+
+#. ID 12, Page 2, Line 1, Pos (16,9)
+msgid "『布の下の廃村』"
+msgstr "\"Forsaken Shelter Under Cloth\""
+

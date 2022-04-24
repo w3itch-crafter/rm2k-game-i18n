@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (13,4)
+msgid ""
+"『作品にはお手を触れぬよう　お願いいたします\n"
+"　万が一　備品や作品に何らかの損害を　与えた場合は\n"
+"　あなた　　をも　　　賠　させ　　ます』"
+msgstr ""
+"『請不要觸摸作品\n"
+"　萬一使作品或備用品受到損傷\n"
+"　將　您　起　　來賠　』"
+
+#. ID 1, Page 1, Line 4, Pos (13,4)
+msgid "所々の文字が　抜けている……"
+msgstr "某些文字有所闕漏……"
+
+#. ID 1, Page 2, Line 1, Pos (13,4)
+msgid ""
+"『先ほど　お客様の中に\n"
+"　備品を破損された方が　いらっしゃいます\n"
+"　見かけた方は　ただちに　ご連絡ください』"
+msgstr ""
+"『剛剛　有某位來賓\n"
+"　破壞了備用品\n"
+"　請目擊者　立刻與我們連絡』"
+
+#. ID 1, Page 2, Line 4, Pos (13,4)
+#. Contains choice at line 2 (2 options)
+msgid "……張り紙が　剥がれかかっている……"
+msgstr "……佈告紙有點剝落了……"
+
+#. ID 1, Page 2, Line 5, Pos (13,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はがしてみる\n"
+"そのままにしておく"
+msgstr ""
+"撕下它\n"
+"不管它"
+
+#. ID 1, Page 2, Line 9, Pos (13,4)
+msgid "壁に文字が　書かれている……"
+msgstr "牆壁上寫著文字……"
+
+#. ID 1, Page 2, Line 10, Pos (13,4)
+#. ID 1, Page 3, Line 1, Pos (13,4)
+msgid "“ギャリーは　首を吊って　死ぬ”"
+msgstr "“Garry會　上吊　而死”"
+
+#. ID 1, Page 2, Line 13, Pos (13,4)
+msgid ""
+"\n"
+"「………………」"
+msgstr ""
+"\n"
+"「………………」"
+
+#. ID 2, Page 1, Line 5, Pos (3,3)
+msgid "どこかで　音がした……"
+msgstr "從某處傳來聲音……"
+
+#. ID 3, Page 1, Line 2, Pos (17,5)
+msgid "『楽しい毎日』"
+msgstr "『愉快的每一天』"
+
+#. ID 3, Page 1, Line 4, Pos (17,5)
+msgid ""
+"『美術館は　ちょっと不気味な遊園地\n"
+"　おかしなものが　たくさんあるのよ』"
+msgstr ""
+"『美術館　是有些奇特的遊樂場\n"
+"　有很多很多　奇怪的東西唷』"
+
+#. ID 3, Page 1, Line 7, Pos (17,5)
+msgid ""
+"『ここで遊んでいると\n"
+"　あっという間に　１日が　終わってしまうの』"
+msgstr ""
+"『在這裡遊玩時\n"
+"　不知不覺間　一天就過去了』"
+
+#. ID 3, Page 1, Line 10, Pos (17,5)
+msgid ""
+"『とっても　素敵でしょう？\n"
+"　だからあなたも　ここにいれば？』"
+msgstr ""
+"『很棒　對吧？\n"
+"　所以你也　留在這兒吧？』"
+
+#. ID 3, Page 1, Line 13, Pos (17,5)
+msgid "『大丈夫　みんなが　いるから』"
+msgstr "『不要緊　大家　都在這裡』"
+
+#. ID 4, Page 1, Line 1, Pos (6,8)
+msgid "誰もいないのに　人の気配がする……"
+msgstr "明明一個人都沒有，卻有人的氣息……"
+
+#. ID 5, Page 1, Line 2, Pos (5,8)
+msgid "花瓶と台が　描かれている……"
+msgstr "畫著花瓶和茶几……"
+
+#. ID 6, Page 2, Line 1, Pos (3,6)
+#. ID 17, Page 2, Line 1, Pos (14,7)
+msgid "花瓶に　水が入っていない……"
+msgstr "花瓶裡沒有裝水……"
+
+#. ID 11, Page 1, Line 5, Pos (19,0)
+msgid ""
+"\n"
+"「うわ………」"
+msgstr ""
+"\n"
+"「嗚哇………」"
+
+#. ID 11, Page 1, Line 14, Pos (19,0)
+msgid ""
+"\n"
+"「……………」"
+msgstr ""
+"\n"
+"「……………」"
+
+#. ID 11, Page 1, Line 18, Pos (19,0)
+msgid ""
+"\n"
+"「イヴ」"
+msgstr ""
+"\n"
+"「Ib。」"
+
+#. ID 11, Page 1, Line 25, Pos (19,0)
+msgid ""
+"\n"
+"「ここは　何もなさそうだわ\n"
+"　さっさと　出ましょう」"
+msgstr ""
+"\n"
+"「這裡看來沒有什麼東西啦，\n"
+"　我們趕快出去吧。」"
+
+#. ID 17, Page 1, Line 1, Pos (14,7)
+#. Contains choice at line 2 (2 options)
+msgid "水の入った花瓶がある……"
+msgstr "有一個裝了水的花瓶……"
+
+#. ID 17, Page 1, Line 2, Pos (14,7)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 3, Line 7, Pos (14,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"バラを活ける\n"
+"活けない"
+msgstr ""
+"把玫瑰插進花瓶裡\n"
+"不插進花瓶"
+
+#. ID 17, Page 1, Line 8, Pos (14,7)
+msgid "バラの花が　元気になった！"
+msgstr "玫瑰再度盛開了！"
+
+#. ID 17, Page 1, Line 10, Pos (14,7)
+msgid "花瓶の水が　なくなってしまった……"
+msgstr "花瓶裡的水用完了……"
+
+#. ID 17, Page 3, Line 3, Pos (14,7)
+msgid ""
+"\n"
+"「……これ……絵の具？」"
+msgstr ""
+"\n"
+"「……這是……顏料？」"
+
+#. ID 17, Page 3, Line 6, Pos (14,7)
+#. Contains choice at line 2 (2 options)
+msgid "真っ赤になった　花瓶がある……"
+msgstr "有一個被染成血紅色的花瓶……"
+
+#. ID 17, Page 3, Line 15, Pos (14,7)
+msgid "バラの花が　しおれてしまった……"
+msgstr "玫瑰枯萎了……"
+

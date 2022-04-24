@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 1, Pos (9,21)
+msgid "『ラビリンス』"
+msgstr "『迷宮』"
+
+#. ID 4, Page 1, Line 2, Pos (17,5)
+msgid "“赤い絵の具から　まっすぐ南へ”"
+msgstr "“從紅色顏料處　一直向南走”"
+
+#. ID 6, Page 1, Line 2, Pos (2,7)
+#. ID 6, Page 2, Line 2, Pos (2,7)
+msgid ""
+"『迷路を抜け出す　コツ……\n"
+"　壁に片手を　つきながら　進んでいけば\n"
+"　いつかは　ゴールに　たどり着ける』"
+msgstr ""
+"『走出迷宮的　訣竅……\n"
+"　扶著牆壁　前進的話\n"
+"　總有一天　會抵達終點』"
+
+#. ID 6, Page 1, Line 7, Pos (2,7)
+msgid ""
+"\n"
+"「コツは　いいんだけど……\n"
+"　天井低くて　参っちゃうわ」"
+msgstr ""
+"\n"
+"「有訣竅是不錯啦……\n"
+"　但是天花板這麼低，好累人呀。」"
+
+#. ID 6, Page 1, Line 11, Pos (2,7)
+msgid ""
+"\n"
+"「おまけに　変なのウロついてるし……」"
+msgstr ""
+"\n"
+"「再加上還有奇怪的東西在走動……」"
+
+#. ID 6, Page 1, Line 13, Pos (2,7)
+msgid ""
+"\n"
+"「ハサミうちに　ならないよう\n"
+"　気を付けなさいよ？　イヴ」"
+msgstr ""
+"\n"
+"「小心不要被包圍了喔，Ib。」"
+
+#. ID 7, Page 1, Line 1, Pos (13,15)
+#. Contains choice at line 2 (2 options)
+msgid "水の入った花瓶がある……"
+msgstr "有一個裝了水的花瓶……"
+
+#. ID 7, Page 1, Line 2, Pos (13,15)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"バラを活ける\n"
+"活けない"
+msgstr ""
+"把玫瑰插進花瓶裡\n"
+"不插進花瓶"
+
+#. ID 7, Page 1, Line 8, Pos (13,15)
+msgid "バラの花が　元気になった！"
+msgstr "玫瑰再度盛開了！"
+
+#. ID 7, Page 1, Line 10, Pos (13,15)
+msgid "花瓶の水が　なくなってしまった……"
+msgstr "花瓶裡的水用完了……"
+
+#. ID 7, Page 2, Line 1, Pos (13,15)
+msgid "花瓶に　水が入っていない……"
+msgstr "花瓶裡沒有裝水……"
+
+#. ID 13, Page 1, Line 2, Pos (5,13)
+msgid "壁にスイッチのような物がある……"
+msgstr "牆上有個像開關的東西……"
+
+#. ID 13, Page 1, Line 3, Pos (5,13)
+#. Contains choice at line 2 (2 options)
+msgid "押してみますか？"
+msgstr "要按按看嗎？"
+
+#. ID 13, Page 1, Line 4, Pos (5,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"押す\n"
+"押さない"
+msgstr ""
+"按\n"
+"不按"
+
+#. ID 13, Page 1, Line 10, Pos (5,13)
+msgid "部屋の外で　音がした……"
+msgstr "房間外傳來聲響……"
+
+#. ID 16, Page 1, Line 1, Pos (2,10)
+msgid "“迷路は　好きですか？”"
+msgstr "“你喜歡　迷宮嗎？”"
+

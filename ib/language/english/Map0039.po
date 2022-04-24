@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 18, Page 1, Line 1, Pos (9,6)
+msgid "イスの上に　何かがある……"
+msgstr "There's something on the chair..."
+
+#. ID 18, Page 1, Line 4, Pos (9,6)
+msgid "目薬を　手に入れた。"
+msgstr "Obtained the Eyedrops."
+
+#. ID 28, Page 1, Line 1, Pos (9,4)
+msgid "目薬の絵が　飾ってある……"
+msgstr "A painting of eyedrops..."
+

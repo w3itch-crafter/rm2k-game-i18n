@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 13, Page 1, Line 5, Pos (10,14)
+msgid ""
+"\n"
+"「イヴー！」"
+msgstr ""
+"\n"
+" Ib!"
+
+#. ID 13, Page 1, Line 8, Pos (10,14)
+msgid ""
+"\n"
+"「ここ　いっぱい\n"
+"　ドアがあって　面白いね！」"
+msgstr ""
+"\n"
+" Look at these doors!\n"
+" They're all doors!\n"
+" They're so pretty..."
+
+#. ID 13, Page 1, Line 17, Pos (10,14)
+#, fuzzy
+msgid ""
+"\n"
+"「わたしね　クレヨンしか\n"
+"　持ってないけど　いつか\n"
+"　あぶらえっていうのを　描きたいの」"
+msgstr ""
+"\n"
+" All I have are crayons, but\n"
+" I wanna try oil painting someday!"
+
+#. ID 13, Page 1, Line 22, Pos (10,14)
+msgid ""
+"\n"
+"「お父さん　みたいに！」"
+msgstr ""
+"\n"
+" Like my dad!"
+
+#. ID 13, Page 1, Line 30, Pos (10,14)
+msgid ""
+"\n"
+"「イヴは　大人になったら\n"
+"　何になりたいの？」"
+msgstr ""
+"\n"
+" What do you wanna be\n"
+" when you grow up, Ib?"
+
+#. ID 13, Page 1, Line 34, Pos (10,14)
+msgid ""
+"\n"
+"「わたしはねー　おひめさまか\n"
+"　絵を描く人か　お菓子屋さんか\n"
+"　宝石屋さん……かな！」"
+msgstr ""
+"\n"
+" Me? I'd be a princess!\n"
+" Or a painter! Or a confectionist!\n"
+" Or a jewel shop owner, maybe!"
+
+#. ID 13, Page 1, Line 39, Pos (10,14)
+msgid ""
+"\n"
+"「もっと　いっぱい\n"
+"　あったんだけど　忘れちゃった……」"
+msgstr ""
+"\n"
+" There were a lot more,\n"
+" but I forgot..."
+
+#. ID 13, Page 1, Line 48, Pos (10,14)
+msgid ""
+"\n"
+"「お父さん\n"
+"　どこに　いるんだろう……」"
+msgstr ""
+"\n"
+" I wonder where dad is..."
+
+#. ID 13, Page 1, Line 57, Pos (10,14)
+#, fuzzy
+msgid ""
+"\n"
+"「イヴの髪の毛　サラサラだね\n"
+"　どうして　わたしと違うの？」"
+msgstr ""
+"\n"
+" Ib, your hair's so silky.\n"
+" Why isn't mine like that?"
+
+#. ID 13, Page 1, Line 61, Pos (10,14)
+#, fuzzy
+msgid ""
+"\n"
+"「ギャリーは\n"
+"　グニャグニャだったし\n"
+"　みんな　違うのかな？」"
+msgstr ""
+"\n"
+" And Garry's is all soft...\n"
+" Is everybody's different?"
+
+#. ID 13, Page 1, Line 66, Pos (10,14)
+#, fuzzy
+msgid ""
+"\n"
+"「そういえば　前に\n"
+"　髪の毛　ない子がいたから\n"
+"　クレヨンで描いて　あげたっけ……」"
+msgstr ""
+"\n"
+" Oh yeah, I met somebody\n"
+" who didn't have hair once,\n"
+" so I drew them some with crayon..."
+
+#. ID 13, Page 1, Line 71, Pos (10,14)
+#, fuzzy
+msgid ""
+"\n"
+"「嬉しそうに　してたよ\n"
+"　イヴにも　見せてあげたいな」"
+msgstr ""
+"\n"
+" That was fun!\n"
+" I should show you sometime, Ib!"
+
+#. ID 13, Page 1, Line 80, Pos (10,14)
+#, fuzzy
+msgid ""
+"\n"
+"「無個性って　どうして\n"
+"　頭が　ないんだろう……\n"
+"　どこかに　置いてきたのかな？」"
+msgstr ""
+"\n"
+" Why don't those No-Personality\n"
+" statues have heads...?\n"
+" Did they leave them somewhere?"
+
+#. ID 13, Page 1, Line 85, Pos (10,14)
+#, fuzzy
+msgid ""
+"\n"
+"「頭を　描いてあげたかったけど\n"
+"　描くところが　ないんだよね」"
+msgstr ""
+"\n"
+" I wanna draw them heads,\n"
+" but there's nowhere to draw..."
+
+#. ID 13, Page 1, Line 94, Pos (10,14)
+#, fuzzy
+msgid ""
+"\n"
+"「美術館って\n"
+"　大人ばっかり　来るから\n"
+"　すごく　つまんない……」"
+msgstr ""
+"\n"
+" It's so boring how only adults\n"
+" come to art galleries..."
+
+#. ID 13, Page 1, Line 99, Pos (10,14)
+#, fuzzy
+msgid ""
+"\n"
+"「どうして子どもは　こないの？\n"
+"　こんなに　面白い物が\n"
+"　いっぱい　あるのに」"
+msgstr ""
+"\n"
+" Why don't kids?\n"
+" There's so much fun stuff here..."
+
+#. ID 13, Page 1, Line 104, Pos (10,14)
+#, fuzzy
+msgid ""
+"\n"
+"「ねぇ？」"
+msgstr ""
+"\n"
+" Right?"
+

@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. ID 1, Page 1, Line 1, Pos (4,4)
+msgid "『青い服の女』"
+msgstr "\"The Lady in Blue\""
+
+#. ID 6, Page 1, Line 2, Pos (9,8)
+msgid "窓がある……"
+msgstr "A window..."
+
+#. ID 6, Page 2, Line 2, Pos (9,8)
+msgid "窓が割れている……"
+msgstr "The window is smashed..."
+
+#. ID 8, Page 1, Line 2, Pos (13,7)
+msgid "カギが　かかっている……"
+msgstr "It's locked..."
+
+#. ID 8, Page 2, Line 2, Pos (13,7)
+msgid "小さなカギを　使った。"
+msgstr "Used the Small Key."
+
+#. ID 11, Page 1, Line 1, Pos (21,5)
+msgid "花瓶に　水が入っていない……"
+msgstr "There's no water in the vase..."
+
+#. ID 12, Page 1, Line 1, Pos (24,4)
+msgid "『そのバラ　？ちる時　あなたも？ち果てる』"
+msgstr "\"When the rose ???s, so too will you ???.\""
+
+#. ID 12, Page 1, Line 2, Pos (24,4)
+#. ID 13, Page 1, Line 3, Pos (18,4)
+msgid "難しくて　読めない字がある……"
+msgstr "You don't know some of the words..."
+
+#. ID 12, Page 2, Line 1, Pos (24,4)
+msgid "『そのバラ　朽ちる時　あなたも朽ち果てる』"
+msgstr "\"When the rose wilts, so too will you wither.\""
+
+#. ID 13, Page 1, Line 1, Pos (18,4)
+msgid ""
+"『バラとあなたは　？？？？\n"
+"　命の重さ　知るがいい』"
+msgstr ""
+"\"You and the rose are ???\n"
+"You must know the weight life carries.\""
+
+#. ID 13, Page 2, Line 1, Pos (18,4)
+msgid ""
+"『バラとあなたは　一心同体\n"
+"　命の重さ　知るがいい』"
+msgstr ""
+"\"You and the rose are intertwined.\n"
+"You must know the weight life carries.\""
+
+#. ID 14, Page 1, Line 1, Pos (5,6)
+#. ID 15, Page 1, Line 1, Pos (6,9)
+#. ID 16, Page 1, Line 1, Pos (12,8)
+msgid "青い花びらが　落ちている……"
+msgstr "There are blue petals on the ground..."
+
+#. ID 17, Page 1, Line 1, Pos (4,7)
+msgid "床に　血がついている……"
+msgstr "There's blood on the floor..."

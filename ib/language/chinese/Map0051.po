@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 2, Pos (9,6)
+msgid "『決別』"
+msgstr "『訣別』"
+
+#. ID 2, Page 1, Line 9, Pos (9,6)
+msgid ""
+"\n"
+"「なんか　嫌な絵ね……」"
+msgstr ""
+"\n"
+"「真是讓人不舒服的畫呢……」"
+
+#. ID 2, Page 1, Line 21, Pos (9,6)
+msgid ""
+"\n"
+"「わっ　なに！？　停電！？」"
+msgstr ""
+"\n"
+"「哇！怎麼了！？停電嗎！？」"
+
+#. ID 2, Page 1, Line 28, Pos (9,6)
+msgid ""
+"\n"
+"「ちょ　暗くて何も\n"
+"　見えないじゃない……！」"
+msgstr ""
+"\n"
+"「等一下，這麼暗，\n"
+"　什麼都看不到啊……！」"
+
+#. ID 2, Page 1, Line 33, Pos (9,6)
+#. Contains choice at line 2 (3 options)
+msgid "「イ　イヴ！　いる！？」"
+msgstr "「I、Ib！妳在嗎！？」"
+
+#. ID 2, Page 1, Line 34, Pos (9,6)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"いる\n"
+"いない\n"
+"……………"
+msgstr ""
+"在\n"
+"不在\n"
+"……………"
+
+#. ID 2, Page 1, Line 39, Pos (9,6)
+msgid ""
+"\n"
+"「そう　なら良いわ……\n"
+"　ちゃんと　そこに　いてよ？」"
+msgstr ""
+"\n"
+"「是嗎？那就好……\n"
+"　要乖乖待在那裡唷？」"
+
+#. ID 2, Page 1, Line 47, Pos (9,6)
+msgid ""
+"\n"
+"「なに　言ってんのよ\n"
+"　いるじゃないのっ！」"
+msgstr ""
+"\n"
+"「妳在說什麼啦，\n"
+"　這不是在嗎！」"
+
+#. ID 2, Page 1, Line 54, Pos (9,6)
+msgid ""
+"\n"
+"「え　イヴ……？　いないの！？\n"
+"　やだ　どうしよ………！」"
+msgstr ""
+"\n"
+"「咦、Ib……？不在嗎！？\n"
+"　討厭，該怎麼辦啊………！」"
+
+#. ID 2, Page 1, Line 57, Pos (9,6)
+#. ID 2, Page 1, Line 118, Pos (9,6)
+#, fuzzy
+msgid ""
+"\n"
+"「………………」"
+msgstr ""
+"\n"
+"「………………」"
+
+#. ID 2, Page 1, Line 60, Pos (9,6)
+msgid ""
+"\n"
+"「って　ここに　いるじゃない……\n"
+"　返事くらいしてよ　焦ったでしょ」"
+msgstr ""
+"\n"
+"「耶？妳不是在這嗎……\n"
+"　至少也回個話嘛，\n"
+"　害人家緊張死了。」"
+
+#. ID 2, Page 1, Line 69, Pos (9,6)
+#, fuzzy
+msgid ""
+"\n"
+"「しかし\n"
+"　困ったわね……あ　そうだわ」"
+msgstr ""
+"\n"
+"「但是這還真讓人傷腦筋……\n"
+"　啊，對了。」"
+
+#. ID 2, Page 1, Line 73, Pos (9,6)
+#, fuzzy
+msgid ""
+"\n"
+"「ライターがあったの　忘れてた」"
+msgstr ""
+"\n"
+"「都忘了人家有打火機呢。」"
+
+#. ID 2, Page 1, Line 100, Pos (9,6)
+#, fuzzy
+msgid ""
+"\n"
+"「…………え？」"
+msgstr ""
+"\n"
+"「…………咦？」"
+
+#. ID 2, Page 1, Line 110, Pos (9,6)
+#, fuzzy
+msgid ""
+"\n"
+"「な……なによコレ………！」"
+msgstr ""
+"\n"
+"「這……這是什麼啊……！」"
+
+#. ID 2, Page 1, Line 126, Pos (9,6)
+#, fuzzy
+msgid ""
+"\n"
+"「ホント　キッツイわ……精神的に」"
+msgstr ""
+"\n"
+"「精神上來說，\n"
+"　這真是太折磨人了啦……」"
+
+#. ID 2, Page 2, Line 1, Pos (9,6)
+msgid "『や　め　ろ』"
+msgstr "『不　要　啊』"
+
+#. ID 3, Page 1, Line 1, Pos (5,7)
+#. ID 3, Page 2, Line 1, Pos (5,7)
+msgid "マネキンの　首がある……"
+msgstr "人體模型的頭……"
+
+#. ID 4, Page 1, Line 1, Pos (15,7)
+msgid "『ここの　女性たちは……』"
+msgstr "『這裡的女性……』"
+
+#. ID 4, Page 1, Line 3, Pos (15,7)
+msgid "『皆　花占いが好き』"
+msgstr "『大家　都很喜歡花占卜』"
+
+#. ID 5, Page 1, Line 2, Pos (2,7)
+#. ID 5, Page 2, Line 2, Pos (2,7)
+msgid "『？？？』"
+msgstr "『？？？』"
+
+#. ID 5, Page 1, Line 4, Pos (2,7)
+#. ID 5, Page 2, Line 4, Pos (2,7)
+msgid ""
+"『私はその　？めかしく\n"
+"　美しい？？に　指を？らせ……』"
+msgstr ""
+"『我緩緩的？？　用手指\n"
+"　？在那美麗又？？的？……』"
+
+#. ID 5, Page 1, Line 7, Pos (2,7)
+#. ID 5, Page 2, Line 7, Pos (2,7)
+msgid "『？？を？えさせる彼女を　そのまま……』"
+msgstr "『？？著？？的她　就這樣……』"
+
+#. ID 5, Page 1, Line 10, Pos (2,7)
+msgid "ギャリーに　本を閉じられた……"
+msgstr "Garry把書闔上了……"
+
+#. ID 5, Page 1, Line 14, Pos (2,7)
+msgid ""
+"\n"
+"「……こういうのは\n"
+"　大人になってから　読みなさいね」"
+msgstr ""
+"\n"
+"「……這種東西，\n"
+"　等妳長大之後再看吧。」"
+
+#. ID 5, Page 2, Line 10, Pos (2,7)
+msgid ""
+"\n"
+"「なんて　書いてあるのかな？\n"
+"　読んでよ　ギャリー……」"
+msgstr ""
+"\n"
+"「上面寫了什麼啊？\n"
+"　唸給我們聽嘛，Garry……」"
+
+#. ID 5, Page 2, Line 14, Pos (2,7)
+msgid ""
+"\n"
+"「…………ヤダ」"
+msgstr ""
+"\n"
+"「…………才不要。」"
+
+#. ID 5, Page 2, Line 17, Pos (2,7)
+msgid ""
+"\n"
+"「えー　なんで？　気になるー！」"
+msgstr ""
+"\n"
+"「咦──？為什麼？\n"
+"　好想知道喔──！」"
+
+#. ID 5, Page 2, Line 20, Pos (2,7)
+#, fuzzy
+msgid ""
+"\n"
+"「……アンタたちには　早いのよ」"
+msgstr ""
+"\n"
+"「……這對妳們來說還太早了啦。」"
+

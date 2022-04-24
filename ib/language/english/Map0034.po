@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 2, Pos (6,9)
+#. ID 3, Page 1, Line 7, Pos (6,9)
+#. ID 3, Page 2, Line 3, Pos (6,9)
+#. ID 3, Page 2, Line 55, Pos (6,9)
+msgid "『悲しき花嫁の左手』"
+msgstr "\"Grieving Bride's Left Hand\""
+
+#. ID 3, Page 2, Line 5, Pos (6,9)
+#. Contains choice at line 2 (2 options)
+#. ID 3, Page 2, Line 56, Pos (6,9)
+#. Contains choice at line 2 (2 options)
+#. ID 4, Page 2, Line 4, Pos (14,9)
+#. Contains choice at line 2 (2 options)
+#. ID 4, Page 2, Line 54, Pos (14,9)
+#. Contains choice at line 2 (2 options)
+msgid "銀色の指輪を　はめてみますか？"
+msgstr "Put on the Silver Ring?"
+
+#. ID 3, Page 2, Line 6, Pos (6,9)
+#. Choice (2 options, embedded in a message)
+#. ID 3, Page 2, Line 57, Pos (6,9)
+#. Choice (2 options, embedded in a message)
+#. ID 4, Page 2, Line 5, Pos (14,9)
+#. Choice (2 options, embedded in a message)
+#. ID 4, Page 2, Line 55, Pos (14,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はめてみる\n"
+"やめておく"
+msgstr ""
+"Put on\n"
+"Never mind"
+
+#. ID 3, Page 2, Line 8, Pos (6,9)
+#. Choice (4 options)
+#. ID 3, Page 2, Line 59, Pos (6,9)
+#. Choice (4 options)
+#. ID 4, Page 2, Line 7, Pos (14,9)
+#. Choice (4 options)
+#. ID 4, Page 2, Line 57, Pos (14,9)
+#. Choice (4 options)
+msgid ""
+"人差し指\n"
+"中指\n"
+"薬指\n"
+"小指"
+msgstr ""
+"Index finger\n"
+"Middle finger\n"
+"Ring finger\n"
+"Pinky"
+
+#. ID 3, Page 2, Line 15, Pos (6,9)
+#. ID 3, Page 2, Line 24, Pos (6,9)
+#. ID 3, Page 2, Line 43, Pos (6,9)
+#. ID 3, Page 2, Line 66, Pos (6,9)
+#. ID 3, Page 2, Line 75, Pos (6,9)
+#. ID 3, Page 2, Line 94, Pos (6,9)
+#. ID 4, Page 2, Line 14, Pos (14,9)
+#. ID 4, Page 2, Line 23, Pos (14,9)
+#. ID 4, Page 2, Line 32, Pos (14,9)
+#. ID 4, Page 2, Line 41, Pos (14,9)
+#. ID 4, Page 2, Line 64, Pos (14,9)
+#. ID 4, Page 2, Line 73, Pos (14,9)
+#. ID 4, Page 2, Line 82, Pos (14,9)
+#. ID 4, Page 2, Line 91, Pos (14,9)
+msgid "指輪が　はね返ってきた……"
+msgstr "The ring flew back off..."
+
+#. ID 3, Page 2, Line 33, Pos (6,9)
+#. ID 3, Page 2, Line 84, Pos (6,9)
+msgid "指輪を　薬指にはめた……"
+msgstr "Put the ring on the ring finger..."
+
+#. ID 3, Page 2, Line 109, Pos (6,9)
+msgid ""
+"\n"
+"「結婚指輪は　左手の指で\n"
+"　合ってたはず……」"
+msgstr ""
+"\n"
+" I do believe wedding rings\n"
+" go on the left hand, yes..."
+
+#. ID 3, Page 2, Line 113, Pos (6,9)
+msgid ""
+"\n"
+"「でも　どの指だったかは\n"
+"　忘れちゃったわ……ごめんね」"
+msgstr ""
+"\n"
+" But... ah... come now, Ib.\n"
+" Figure out which finger\n"
+" it goes on for me."
+
+#. ID 3, Page 3, Line 2, Pos (6,9)
+#. ID 3, Page 3, Line 7, Pos (6,9)
+msgid "『幸福な花嫁の左手』"
+msgstr "\"Blessed Bride's Left Hand\""
+
+#. ID 4, Page 1, Line 2, Pos (14,9)
+#. ID 4, Page 1, Line 8, Pos (14,9)
+#. ID 4, Page 2, Line 3, Pos (14,9)
+#. ID 4, Page 2, Line 53, Pos (14,9)
+msgid "『悲しき花嫁の右手』"
+msgstr "\"Grieving Bride's Right Hand\""
+
+#. ID 4, Page 2, Line 106, Pos (14,9)
+msgid ""
+"\n"
+"「結婚指輪って\n"
+"　たしか　左手の指に\n"
+"　つけるんじゃなかったかしら……？」"
+msgstr ""
+"\n"
+" If I recall, don't wedding rings\n"
+" go on one's left hand...?"
+
+#. ID 4, Page 2, Line 111, Pos (14,9)
+#, fuzzy
+msgid ""
+"\n"
+"「どの指だったかは　忘れたけど……」"
+msgstr ""
+"\n"
+" ...But which finger?\n"
+" Well, er... I mean..."
+
+#. ID 4, Page 3, Line 2, Pos (14,9)
+#. ID 4, Page 3, Line 7, Pos (14,9)
+msgid "『幸福な花嫁の右手』"
+msgstr "\"Blessed Bride's Right Hand\""
+
+#. ID 7, Page 1, Line 1, Pos (5,8)
+msgid "綺麗な花束が　落ちている……"
+msgstr "There's a beautiful bouquet on the ground..."
+
+#. ID 7, Page 1, Line 4, Pos (5,8)
+msgid "ブーケを　手に入れた。"
+msgstr "Obtained the Bouquet."
+
+#. ID 8, Page 1, Line 1, Pos (6,6)
+msgid "『嘆きの花嫁』"
+msgstr "\"Grieving Bride\""
+
+#. ID 8, Page 2, Line 1, Pos (6,6)
+msgid "『幸福の花嫁』"
+msgstr "\"Blessed Bride\""
+
+#. ID 10, Page 1, Line 1, Pos (14,6)
+msgid "『嘆きの花婿』"
+msgstr "\"Grieving Groom\""
+
+#. ID 10, Page 2, Line 1, Pos (14,6)
+msgid "『幸福の花婿』"
+msgstr "\"Blessed Groom\""
+

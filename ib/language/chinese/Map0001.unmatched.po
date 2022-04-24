@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 7, Page 4, Line 12, Pos (0,8)
+msgid ""
+"\n"
+"「怎麼辦……\n"
+"　好想趕快到外面去的說。」"
+msgstr ""
+
+#. ID 44, Page 4, Line 12, Pos (0,9)
+#. ID 45, Page 4, Line 12, Pos (0,10)
+#. ID 46, Page 4, Line 12, Pos (0,11)
+msgid ""
+"\n"
+"「怎麼辦……\n"
+"　好想趕快到外面去的說……」"
+msgstr ""
+

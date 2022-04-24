@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 1, Pos (13,6)
+msgid "『？？？模様の魚』"
+msgstr "『？？？圖案的魚』"
+
+#. ID 2, Page 1, Line 2, Pos (13,6)
+msgid "難しくて　読めない字がある……"
+msgstr "有些字太難了，看不懂……"
+
+#. ID 2, Page 2, Line 1, Pos (13,6)
+msgid "『幾何学模様の魚』"
+msgstr "『幾何學圖案的魚』"
+
+#. ID 4, Page 1, Line 2, Pos (7,6)
+msgid "カギが　かかっている……"
+msgstr "門鎖住了……"
+
+#. ID 4, Page 2, Line 2, Pos (7,6)
+msgid "青のカギを　使った。"
+msgstr "使用　藍色鑰匙。"
+

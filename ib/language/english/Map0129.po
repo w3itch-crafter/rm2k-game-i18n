@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 9, Page 1, Line 2, Pos (15,11)
+msgid "『？？の女』"
+msgstr "\"??? Woman\""
+
+#. ID 9, Page 1, Line 3, Pos (15,11)
+msgid "難しくて　読めない字がある……"
+msgstr "You don't know this word..."
+
+#. ID 9, Page 2, Line 2, Pos (15,11)
+msgid "『環状の女』"
+msgstr "\"Annulated Woman\""
+
+#. ID 11, Page 1, Line 1, Pos (22,11)
+msgid ""
+"“深海を歩く　君へ\n"
+"　愛しい作品たちを　どうか忘れないで”"
+msgstr ""
+"\"As you walk into the abyss,\n"
+"do not forget the works you hold dear...\""
+
+#. ID 11, Page 2, Line 1, Pos (22,11)
+msgid "“深海に　溺れてしまえ”"
+msgstr "\"Drown in the abyss...\""
+

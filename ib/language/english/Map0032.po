@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 1, Pos (10,7)
+#. ID 4, Page 2, Line 2, Pos (10,7)
+#. ID 7, Page 1, Line 1, Pos (11,7)
+msgid "頭がない　像がある……　"
+msgstr "A headless statue..."
+
+#. ID 4, Page 2, Line 12, Pos (10,7)
+msgid ""
+"\n"
+"「なにこれ　邪魔ね………\n"
+"　イヴ　ちょっと　離れててくれる？」"
+msgstr ""
+"\n"
+" What a lousy place for this thing...\n"
+" Step back a tad, would you, Ib?"
+
+#. ID 4, Page 2, Line 22, Pos (10,7)
+msgid ""
+"\n"
+"「よっ………っと」"
+msgstr ""
+"\n"
+" And... heave!"
+
+#. ID 4, Page 2, Line 32, Pos (10,7)
+msgid ""
+"\n"
+"「よし　これで通れるようになったわ」"
+msgstr ""
+"\n"
+" Ta-dah! Now we can proceed."
+
+#. ID 4, Page 2, Line 37, Pos (10,7)
+msgid ""
+"\n"
+"「それじゃ　行きましょ！」"
+msgstr ""
+"\n"
+" All right, let's go!"
+

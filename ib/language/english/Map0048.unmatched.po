@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 13, Page 1, Line 17, Pos (4,5)
+#. ID 13, Page 1, Line 54, Pos (4,5)
+msgid "There was a sound..."
+msgstr ""
+
+#. ID 13, Page 1, Line 22, Pos (4,5)
+#. ID 13, Page 1, Line 38, Pos (4,5)
+msgid "Nothing happens..."
+msgstr ""
+
+#. ID 13, Page 1, Line 29, Pos (4,5)
+#. ID 13, Page 1, Line 43, Pos (4,5)
+msgid ""
+"\n"
+" ...Ah! This must be what\n"
+" that password was for!"
+msgstr ""
+
+#. ID 13, Page 1, Line 59, Pos (4,5)
+msgid ""
+"\n"
+" ...I'm not getting any ideas.\n"
+" Let's look around some more."
+msgstr ""
+

@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 1, Pos (9,18)
+#. ID 5, Page 1, Line 1, Pos (10,18)
+msgid ""
+"『深海の？』\n"
+"　ヒトが立ち入ることは　許されない\n"
+"　その世界を　？？するため　私は\n"
+"　キャンバスの中に　その世界を？った"
+msgstr ""
+"\"??? of the Deep\"\n"
+"A world where man will never stand...\n"
+"To ??? that world, I decided that\n"
+"I would ??? it within the canvas."
+
+#. ID 4, Page 1, Line 5, Pos (9,18)
+#. ID 5, Page 1, Line 5, Pos (10,18)
+#. ID 6, Page 1, Line 9, Pos (5,6)
+#. ID 7, Page 1, Line 2, Pos (10,6)
+#. ID 9, Page 1, Line 2, Pos (9,6)
+msgid "難しくて　読めない字がある……"
+msgstr ""
+
+#. ID 4, Page 2, Line 1, Pos (9,18)
+#. ID 5, Page 2, Line 1, Pos (10,18)
+msgid ""
+"『深海の世』\n"
+"　ヒトが立ち入ることは　許されない\n"
+"　その世界を　堪能するため　私は\n"
+"　キャンバスの中に　その世界を創った"
+msgstr ""
+"\"Abyss of the Deep\"\n"
+"A world where man will never stand...\n"
+"To realize that world, I decided that\n"
+"I would engrave it within the canvas."
+
+#. ID 6, Page 1, Line 1, Pos (5,6)
+msgid ""
+"『ようこそ　ゲルテナの世界へ』\n"
+"　本日はご？？？き　誠にありがとうございます。\n"
+"　当館では現在【ワイズ・ゲルテナ展】を\n"
+"　？？しております。"
+msgstr ""
+"\"Welcome to the World of Guertena\"\n"
+"We truly thank you for ??? today.\n"
+"We're currently holding an ???\n"
+"for the great artist Weiss Guertena."
+
+#. ID 6, Page 1, Line 5, Pos (5,6)
+#. ID 6, Page 2, Line 5, Pos (5,6)
+msgid ""
+"　ゲルテナ氏が生前描いた\n"
+"　怪しくも美しい絵画たちを\n"
+"　どうか心行くまで　お楽しみくださいませ。\n"
+"　　　　　　　　　　　　　　　　　　XX,XX,XX"
+msgstr ""
+"We hope you deeply enjoy the art of\n"
+"the late Guertena, whose creations\n"
+"carry such mystery and beauty both.\n"
+"                                    XX/XX/XX"
+
+#. ID 6, Page 2, Line 1, Pos (5,6)
+msgid ""
+"『ようこそ　ゲルテナの世界へ』\n"
+"　本日はご来場頂き　誠にありがとうございます。\n"
+"　当館では現在【ワイズ・ゲルテナ展】を\n"
+"　開催しております。"
+msgstr ""
+"\"Welcome to the World of Guertena\"\n"
+"We truly thank you for attending today.\n"
+"We're currently holding an exhibition\n"
+"for the great artist Weiss Guertena."
+
+#. ID 7, Page 1, Line 1, Pos (10,6)
+#. ID 9, Page 1, Line 1, Pos (9,6)
+msgid "『悪意なき？？』"
+msgstr "\"A Well-Meaning ???\""
+
+#. ID 7, Page 2, Line 1, Pos (10,6)
+#. ID 9, Page 2, Line 1, Pos (9,6)
+msgid "『悪意なき地獄』"
+msgstr "\"A Well-Meaning Hell\""
+

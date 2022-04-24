@@ -1,0 +1,531 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2
+msgid "美術館_出入口"
+msgstr "_"
+
+#. ID 3
+msgid "黒背景"
+msgstr "�"
+
+#. ID 4
+#. ID 102
+msgid "2F_出入り口上"
+msgstr "2F_"
+
+#. ID 5
+#. ID 99
+msgid "1F_大広間"
+msgstr "1F_"
+
+#. ID 6
+#. ID 100
+msgid "1F_通路1"
+msgstr "1F_1"
+
+#. ID 7
+msgid "1F_通路バラの間"
+msgstr "1F_�"
+
+#. ID 8
+#. ID 103
+msgid "2F_通路1"
+msgstr "2F_1"
+
+#. ID 9
+#. ID 104
+msgid "巨大絵の部屋"
+msgstr "��"
+
+#. ID 10
+msgid "■青の間"
+msgstr ""
+
+#. ID 11
+msgid "次への部屋"
+msgstr "��"
+
+#. ID 12
+#. ID 15
+#. ID 21
+#. ID 27
+#. ID 33
+#. ID 41
+#. ID 50
+#. ID 62
+#. ID 63
+msgid "通路"
+msgstr ""
+
+#. ID 13
+msgid "鍵の部屋"
+msgstr "�"
+
+#. ID 14
+msgid "■緑の間"
+msgstr ""
+
+#. ID 16
+#. ID 28
+#. ID 109
+msgid "小部屋"
+msgstr "�"
+
+#. ID 17
+msgid "←左の部屋B"
+msgstr "�B"
+
+#. ID 18
+msgid "■黄の間"
+msgstr ""
+
+#. ID 19
+#. ID 29
+msgid "←左の部屋"
+msgstr "�"
+
+#. ID 20
+#. ID 30
+msgid "→右の部屋"
+msgstr "�"
+
+#. ID 22
+msgid "ウソつき部屋"
+msgstr "�"
+
+#. ID 23
+msgid "暗号②部屋"
+msgstr "��"
+
+#. ID 24
+msgid "食べ物部屋"
+msgstr "�"
+
+#. ID 25
+msgid "赤の間へ"
+msgstr ""
+
+#. ID 26
+msgid "■赤の間"
+msgstr ""
+
+#. ID 31
+msgid "青バラ部屋"
+msgstr "��"
+
+#. ID 32
+msgid "灰の間へ"
+msgstr ""
+
+#. ID 34
+msgid "■灰の間"
+msgstr ""
+
+#. ID 35
+msgid "迷路の部屋"
+msgstr "�"
+
+#. ID 36
+msgid "　灰の間２"
+msgstr ""
+
+#. ID 37
+msgid "隠し通路"
+msgstr ""
+
+#. ID 38
+msgid "オブジェ部屋"
+msgstr "�"
+
+#. ID 39
+msgid "目薬部屋"
+msgstr "�"
+
+#. ID 40
+msgid "マネキンロード"
+msgstr "��"
+
+#. ID 42
+msgid "二つ部屋"
+msgstr "�"
+
+#. ID 43
+msgid "鏡の部屋"
+msgstr "�"
+
+#. ID 44
+msgid "メアリと会う部屋"
+msgstr "���"
+
+#. ID 45
+msgid "灰のカギ部屋"
+msgstr "�"
+
+#. ID 46
+msgid "紫の間へ"
+msgstr ""
+
+#. ID 47
+msgid "安全部屋"
+msgstr "�"
+
+#. ID 48
+msgid "■紫の間"
+msgstr ""
+
+#. ID 49
+msgid "小通路"
+msgstr ""
+
+#. ID 51
+msgid "停電部屋"
+msgstr "�"
+
+#. ID 52
+msgid "←左の部屋C"
+msgstr "�C"
+
+#. ID 53
+msgid "1F_うさぎ部屋"
+msgstr "1F_�"
+
+#. ID 54
+msgid "　茶の間へ"
+msgstr "�"
+
+#. ID 55
+msgid "■茶の間"
+msgstr ""
+
+#. ID 56
+msgid "ed用"
+msgstr "ed"
+
+#. ID 57
+#. ID 97
+#. ID 135
+msgid "階段"
+msgstr ""
+
+#. ID 58
+msgid "人形部屋2"
+msgstr "�2"
+
+#. ID 59
+msgid "橋"
+msgstr ""
+
+#. ID 60
+msgid "ヒモ部屋"
+msgstr "��"
+
+#. ID 61
+msgid "人形ロード"
+msgstr "�"
+
+#. ID 64
+msgid "雨部屋"
+msgstr "�"
+
+#. ID 65
+msgid "白黒部屋"
+msgstr "���"
+
+#. ID 66
+msgid "図書室"
+msgstr "�"
+
+#. ID 67
+msgid "人形部屋"
+msgstr "�"
+
+#. ID 68
+msgid "毒部屋"
+msgstr "�"
+
+#. ID 69
+msgid "画家部屋"
+msgstr "�"
+
+#. ID 70
+msgid "小さい部屋"
+msgstr "�"
+
+#. ID 71
+msgid "奈落の一本道"
+msgstr "�"
+
+#. ID 72
+msgid "一本階段へ"
+msgstr ""
+
+#. ID 73
+msgid "１階へ"
+msgstr ""
+
+#. ID 74
+msgid "人形部屋（合流地点）"
+msgstr "��"
+
+#. ID 75
+msgid "２階へ"
+msgstr ""
+
+#. ID 76
+msgid "一本階段"
+msgstr ""
+
+#. ID 77
+msgid "スケッチブック"
+msgstr ""
+
+#. ID 78
+msgid "右下"
+msgstr ""
+
+#. ID 79
+msgid "イヴ悪夢"
+msgstr "�"
+
+#. ID 80
+msgid "民家"
+msgstr ""
+
+#. ID 81
+msgid "右上"
+msgstr ""
+
+#. ID 82
+msgid "右中央"
+msgstr "��"
+
+#. ID 83
+msgid "中上"
+msgstr "�"
+
+#. ID 84
+msgid "左上"
+msgstr ""
+
+#. ID 85
+msgid "左中央"
+msgstr "��"
+
+#. ID 86
+msgid "左下"
+msgstr ""
+
+#. ID 87
+msgid "中下"
+msgstr "�"
+
+#. ID 88
+msgid "中中央"
+msgstr "���"
+
+#. ID 89
+msgid "バケツの家"
+msgstr ""
+
+#. ID 90
+msgid "びじゅつかん"
+msgstr ""
+
+#. ID 91
+msgid "パンドラの間"
+msgstr "��"
+
+#. ID 92
+msgid "メアリーの家"
+msgstr "��"
+
+#. ID 93
+msgid "2F"
+msgstr "2F"
+
+#. ID 94
+msgid "おもちゃばこ"
+msgstr ""
+
+#. ID 95
+msgid "一本通路"
+msgstr ""
+
+#. ID 96
+msgid "黒の間へ"
+msgstr ""
+
+#. ID 98
+msgid "■黒の間"
+msgstr ""
+
+#. ID 101
+msgid "1F_通路2"
+msgstr "1F_2"
+
+#. ID 105
+msgid "人形部屋3"
+msgstr "�3"
+
+#. ID 106
+msgid "人形部屋4"
+msgstr "�4"
+
+#. ID 107
+msgid "人形部屋（ED）"
+msgstr "�ED"
+
+#. ID 108
+msgid "美術館の深層"
+msgstr ""
+
+#. ID 110
+msgid "■橙の間"
+msgstr ""
+
+#. ID 111
+msgid "入口"
+msgstr ""
+
+#. ID 112
+msgid "メアリ用階段"
+msgstr "��"
+
+#. ID 113
+msgid "真・ゲルテナ展入口"
+msgstr "�"
+
+#. ID 114
+msgid "1Fメイン広間"
+msgstr "1F��"
+
+#. ID 115
+msgid "1F造形物"
+msgstr "1F"
+
+#. ID 116
+msgid "青"
+msgstr ""
+
+#. ID 117
+msgid "1の部屋"
+msgstr "1�"
+
+#. ID 118
+msgid "真っ暗闇の部屋"
+msgstr "�"
+
+#. ID 119
+msgid "チョウチョ部屋"
+msgstr "���"
+
+#. ID 120
+msgid "→の部屋"
+msgstr "�"
+
+#. ID 121
+msgid "踊り場1"
+msgstr "1"
+
+#. ID 122
+msgid "同じ絵の部屋"
+msgstr "�"
+
+#. ID 123
+msgid "アトリエ"
+msgstr "�"
+
+#. ID 124
+msgid "■深海の間"
+msgstr ""
+
+#. ID 125
+msgid "永遠の通路"
+msgstr "�"
+
+#. ID 126
+msgid "ドローイングの部屋"
+msgstr "���"
+
+#. ID 127
+#. ID 147
+msgid "コペルニクス的転回の展開"
+msgstr "�"
+
+#. ID 128
+msgid "休憩部屋・資料"
+msgstr "��"
+
+#. ID 129
+msgid "深海庭園"
+msgstr "�"
+
+#. ID 130
+msgid "落下口"
+msgstr "�"
+
+#. ID 131
+msgid "トゲ迷路"
+msgstr ""
+
+#. ID 132
+msgid "あの世への階段"
+msgstr "�"
+
+#. ID 133
+msgid "宝石箱の家"
+msgstr "�"
+
+#. ID 134
+#. ID 144
+msgid "秘密の部屋"
+msgstr "�"
+
+#. ID 136
+msgid "緑"
+msgstr ""
+
+#. ID 137
+msgid "黄"
+msgstr ""
+
+#. ID 138
+msgid "赤"
+msgstr ""
+
+#. ID 139
+msgid "灰"
+msgstr ""
+
+#. ID 140
+msgid "紫"
+msgstr ""
+
+#. ID 141
+msgid "茶"
+msgstr ""
+
+#. ID 142
+msgid "橙"
+msgstr ""
+
+#. ID 143
+msgid "深海"
+msgstr ""
+
+#. ID 145
+msgid "黒"
+msgstr ""
+
+#. ID 146
+msgid "コペルニクス"
+msgstr "�"
+

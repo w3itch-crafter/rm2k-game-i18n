@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 1, Pos (13,27)
+msgid "舌が動いている……"
+msgstr "舌頭在動……"
+
+#. ID 11, Page 1, Line 1, Pos (21,20)
+#. ID 55, Page 1, Line 1, Pos (5,20)
+msgid "真っ白な　プレートがある……"
+msgstr "全白的標示牌……"
+
+#. ID 11, Page 2, Line 1, Pos (21,20)
+msgid "『板前の腕』"
+msgstr "『廚師的手藝』"
+
+#. ID 27, Page 1, Line 1, Pos (13,34)
+msgid "「はら　へった　くいもの　よこせ」"
+msgstr "「肚子　餓了　給我拿　食物來」"
+
+#. ID 35, Page 1, Line 1, Pos (5,12)
+msgid ""
+"“石像の正面に立って\n"
+"　西に３歩　次に南へ１歩　そこが正解”"
+msgstr ""
+"“面對石像\n"
+"　向西3步　再向南1步　那裡就是解答”"
+
+#. ID 36, Page 1, Line 1, Pos (8,12)
+msgid ""
+"“石像の正面に立って\n"
+"　東に４歩　次に北へ２歩　そこが正解”"
+msgstr ""
+"“面對石像\n"
+"　向東4步　再向北2步　那裡就是解答”"
+
+#. ID 37, Page 1, Line 1, Pos (11,12)
+msgid "“白い服が言ってることは　本当だよ”"
+msgstr "“白色衣服的人說的話是真的喔”"
+
+#. ID 38, Page 1, Line 1, Pos (15,12)
+msgid "“本当のこと言ってるのは　緑の服だけだよ”"
+msgstr "“只有綠色衣服的人說的話才是真的喔”"
+
+#. ID 39, Page 1, Line 1, Pos (18,12)
+msgid ""
+"“石像の正面に立って\n"
+"　東に２歩　次に南へ２歩　そこが正解”"
+msgstr ""
+"“面對石像\n"
+"　向東2步　再向南2步　那裡就是解答”"
+
+#. ID 40, Page 1, Line 1, Pos (21,12)
+msgid "“黄の服に　同意！”"
+msgstr "“我同意黃色衣服說的！”"
+
+#. ID 51, Page 1, Line 1, Pos (25,4)
+msgid "縄につながれた　人形がぶら下がっている……"
+msgstr "用繩子垂吊著的人偶……"
+
+#. ID 52, Page 1, Line 1, Pos (13,5)
+msgid "『処刑の過程』"
+msgstr "『處刑的過程』"
+
+#. ID 53, Page 1, Line 1, Pos (21,34)
+msgid "サカナのカギ（頭）が　落ちている……"
+msgstr "魚的鑰匙（頭）……"
+
+#. ID 54, Page 1, Line 1, Pos (23,34)
+msgid "サカナのカギ（尾）が　落ちている……"
+msgstr "魚的鑰匙（尾）……"
+
+#. ID 55, Page 2, Line 1, Pos (5,20)
+msgid "『木に生ったリンゴ』"
+msgstr "『長在樹上的蘋果』"
+

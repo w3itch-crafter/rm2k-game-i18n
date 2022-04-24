@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 8, Page 1, Line 1, Pos (16,11)
+#. ID 9, Page 1, Line 1, Pos (6,11)
+#. ID 10, Page 1, Line 1, Pos (12,11)
+#. ID 11, Page 1, Line 1, Pos (2,11)
+#. ID 12, Page 1, Line 1, Pos (5,18)
+#. ID 13, Page 1, Line 1, Pos (14,11)
+#. ID 14, Page 1, Line 1, Pos (13,18)
+#. ID 33, Page 1, Line 1, Pos (14,5)
+#. ID 34, Page 1, Line 1, Pos (9,5)
+#. ID 39, Page 1, Line 1, Pos (4,11)
+msgid "真っ白な　プレートがある……"
+msgstr "A blank plate..."
+
+#. ID 8, Page 2, Line 1, Pos (16,11)
+msgid "『ピエロ』"
+msgstr "\"Clown\""
+
+#. ID 9, Page 2, Line 1, Pos (6,11)
+msgid "『寡黙な視線』"
+msgstr "\"Bashful Glance\""
+
+#. ID 10, Page 2, Line 1, Pos (12,11)
+msgid "『皮と鱗』"
+msgstr "\"Skin and Squama\""
+
+#. ID 11, Page 2, Line 1, Pos (2,11)
+msgid "『天の糸』"
+msgstr "\"Heavenly Thread\""
+
+#. ID 12, Page 2, Line 1, Pos (5,18)
+msgid "『カサを差す乙女』"
+msgstr "\"Lady With Her Umbrella\""
+
+#. ID 13, Page 2, Line 1, Pos (14,11)
+msgid "『告げ口』"
+msgstr "\"Tattletale\""
+
+#. ID 14, Page 2, Line 1, Pos (13,18)
+msgid "『釣り人』"
+msgstr "\"Fisherman\""
+
+#. ID 33, Page 2, Line 1, Pos (14,5)
+msgid "『幻』"
+msgstr "\"Illusion\""
+
+#. ID 34, Page 2, Line 1, Pos (9,5)
+msgid "『憧れ』"
+msgstr "\"Aspiration\""
+
+#. ID 37, Page 1, Line 1, Pos (9,18)
+msgid "『１つの鍵穴』"
+msgstr "\"A Lone Keyhole\""
+
+#. ID 39, Page 2, Line 1, Pos (4,11)
+msgid "『落下した星』"
+msgstr "\"Fallen Star\""
+

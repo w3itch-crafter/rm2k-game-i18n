@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Page 1, Line 2, Pos (13,9)
+#. Contains choice at line 2 (3 options)
+#. ID 4, Page 2, Line 2, Pos (13,9)
+#. Contains choice at line 2 (3 options)
+#. ID 4, Page 3, Line 2, Pos (13,9)
+#. Contains choice at line 2 (3 options)
+#. ID 4, Page 4, Line 2, Pos (13,9)
+#. Contains choice at line 2 (3 options)
+#. ID 4, Page 5, Line 2, Pos (13,9)
+#. Contains choice at line 2 (3 options)
+#. ID 5, Page 1, Line 2, Pos (14,10)
+#. Contains choice at line 2 (3 options)
+#. ID 5, Page 2, Line 2, Pos (14,10)
+#. Contains choice at line 2 (3 options)
+#. ID 5, Page 3, Line 2, Pos (14,10)
+#. Contains choice at line 2 (3 options)
+#. ID 5, Page 4, Line 2, Pos (14,10)
+#. Contains choice at line 2 (3 options)
+#. ID 5, Page 5, Line 2, Pos (14,10)
+#. Contains choice at line 2 (3 options)
+msgid "池がある……"
+msgstr "A pond..."
+
+#. ID 4, Page 1, Line 3, Pos (13,9)
+#. Choice (3 options, embedded in a message)
+#. ID 4, Page 3, Line 3, Pos (13,9)
+#. Choice (3 options, embedded in a message)
+#. ID 4, Page 4, Line 3, Pos (13,9)
+#. Choice (3 options, embedded in a message)
+#. ID 4, Page 5, Line 3, Pos (13,9)
+#. Choice (3 options, embedded in a message)
+#. ID 5, Page 1, Line 3, Pos (14,10)
+#. Choice (3 options, embedded in a message)
+#. ID 5, Page 3, Line 3, Pos (14,10)
+#. Choice (3 options, embedded in a message)
+#. ID 5, Page 4, Line 3, Pos (14,10)
+#. Choice (3 options, embedded in a message)
+#. ID 5, Page 5, Line 3, Pos (14,10)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"水を触ってみる\n"
+"水面をじっと見つめる\n"
+"バラのくきを水に浸してみる"
+msgstr ""
+"Feel the water\n"
+"Stare into the water\n"
+"Dip rose in"
+
+#. ID 4, Page 1, Line 5, Pos (13,9)
+#. ID 4, Page 2, Line 5, Pos (13,9)
+#. ID 4, Page 3, Line 5, Pos (13,9)
+#. ID 4, Page 4, Line 5, Pos (13,9)
+#. ID 4, Page 5, Line 5, Pos (13,9)
+#. ID 5, Page 1, Line 5, Pos (14,10)
+#. ID 5, Page 2, Line 5, Pos (14,10)
+#. ID 5, Page 3, Line 5, Pos (14,10)
+#. ID 5, Page 4, Line 5, Pos (14,10)
+#. ID 5, Page 5, Line 5, Pos (14,10)
+msgid "………水が　生暖かく感じる………"
+msgstr "...The water's lukewarm....."
+
+#. ID 4, Page 1, Line 8, Pos (13,9)
+#. ID 4, Page 2, Line 8, Pos (13,9)
+#. ID 4, Page 3, Line 8, Pos (13,9)
+#. ID 4, Page 4, Line 8, Pos (13,9)
+#. ID 5, Page 1, Line 8, Pos (14,10)
+#. ID 5, Page 2, Line 8, Pos (14,10)
+#. ID 5, Page 3, Line 8, Pos (14,10)
+#. ID 5, Page 4, Line 8, Pos (14,10)
+msgid "…………………"
+msgstr ".........."
+
+#. ID 4, Page 1, Line 11, Pos (13,9)
+#. ID 4, Page 2, Line 11, Pos (13,9)
+#. ID 4, Page 3, Line 11, Pos (13,9)
+#. ID 5, Page 1, Line 11, Pos (14,10)
+#. ID 5, Page 2, Line 11, Pos (14,10)
+#. ID 5, Page 3, Line 11, Pos (14,10)
+msgid ""
+"\n"
+"「…………イヴ　ぼーっとして\n"
+"　そのまま池に　落ちないようにね」"
+msgstr ""
+"\n"
+" .....Ib, make sure you don't\n"
+" fall in while you're spacing out."
+
+#. ID 4, Page 1, Line 17, Pos (13,9)
+#. ID 4, Page 3, Line 17, Pos (13,9)
+#. ID 4, Page 4, Line 25, Pos (13,9)
+#. ID 4, Page 5, Line 11, Pos (13,9)
+#. ID 5, Page 1, Line 17, Pos (14,10)
+#. ID 5, Page 3, Line 17, Pos (14,10)
+#. ID 5, Page 4, Line 25, Pos (14,10)
+#. ID 5, Page 5, Line 11, Pos (14,10)
+msgid "バラを水に　浸してみた……"
+msgstr "Soaked the rose in the water..."
+
+#. ID 4, Page 1, Line 22, Pos (13,9)
+#. ID 4, Page 3, Line 22, Pos (13,9)
+#. ID 4, Page 4, Line 30, Pos (13,9)
+#. ID 4, Page 5, Line 16, Pos (13,9)
+#. ID 5, Page 1, Line 22, Pos (14,10)
+#. ID 5, Page 3, Line 22, Pos (14,10)
+#. ID 5, Page 4, Line 30, Pos (14,10)
+#. ID 5, Page 5, Line 16, Pos (14,10)
+msgid "バラが少し　しおれてしまった………"
+msgstr "The rose wilted slightly..."
+
+#. ID 4, Page 2, Line 3, Pos (13,9)
+#. Choice (3 options, embedded in a message)
+#. ID 5, Page 2, Line 3, Pos (14,10)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"水を触ってみる\n"
+"水面をじっと見つめる\n"
+"バケツで水をくむ"
+msgstr ""
+"Feel the water\n"
+"Stare into the water\n"
+"Fill bucket"
+
+#. ID 4, Page 2, Line 18, Pos (13,9)
+#. ID 5, Page 2, Line 18, Pos (14,10)
+msgid "バケツで　水を汲んだ……"
+msgstr "Filled the bucket with water..."
+
+#. ID 4, Page 4, Line 12, Pos (13,9)
+#. ID 5, Page 4, Line 12, Pos (14,10)
+msgid ""
+"\n"
+"「…………？」"
+msgstr ""
+"\n"
+" .....?"
+
+#. ID 4, Page 4, Line 21, Pos (13,9)
+#. ID 5, Page 4, Line 21, Pos (14,10)
+msgid "水面にうっすらと　三日月が映っている……"
+msgstr "A crescent moon is on the water..."
+
+#. ID 4, Page 5, Line 8, Pos (13,9)
+#. ID 5, Page 5, Line 8, Pos (14,10)
+msgid "水面に三日月が　浮かんでいる……"
+msgstr "There's a crescent moon in the reflection..."
+

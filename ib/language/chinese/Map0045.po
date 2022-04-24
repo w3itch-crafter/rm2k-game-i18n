@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 3, Pos (5,6)
+#. ID 6, Page 1, Line 1, Pos (3,6)
+msgid "大きな本棚がある……"
+msgstr "有一個很大的書櫃……"
+
+#. ID 2, Page 1, Line 6, Pos (5,6)
+#. Contains choice at line 2 (3 options)
+msgid "「あら　この本棚　動かせるみたいよ」"
+msgstr "「哎呀，這書櫃似乎可以移動呢。」"
+
+#. ID 2, Page 1, Line 7, Pos (5,6)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"動かさない\n"
+"右に動かしてもらう\n"
+"左に動かしてもらう"
+msgstr ""
+"不要移動\n"
+"請Garry搬到右邊\n"
+"請Garry搬到左邊"
+
+#. ID 2, Page 1, Line 11, Pos (5,6)
+msgid ""
+"\n"
+"「そう？\n"
+"　まぁ　むやみに\n"
+"　動かさない方が　いいかもね」"
+msgstr ""
+"\n"
+"「是嗎？\n"
+"　也對啦，不要亂動或許比較好呢。」"
+
+#. ID 2, Page 1, Line 21, Pos (5,6)
+#, fuzzy
+msgid ""
+"\n"
+"「オーケー\n"
+"　じゃあ　ちょっと離れて」"
+msgstr ""
+"\n"
+"「OK\n"
+"　那，妳先稍微離遠點。」"
+
+#. ID 2, Page 1, Line 31, Pos (5,6)
+#. ID 2, Page 1, Line 63, Pos (5,6)
+#, fuzzy
+msgid ""
+"\n"
+"「よいしょ………っと」"
+msgstr ""
+"\n"
+"「嘿喲………咻！」"
+
+#. ID 2, Page 1, Line 42, Pos (5,6)
+#, fuzzy
+msgid ""
+"\n"
+"「窓が　隠れちゃったわね\n"
+"　ま　いっか」"
+msgstr ""
+"\n"
+"「把窗戶擋住了呢。\n"
+"　算了，應該沒關係吧。」"
+
+#. ID 2, Page 1, Line 53, Pos (5,6)
+#, fuzzy
+msgid ""
+"\n"
+"「了解\n"
+"　じゃあ　ちょっと離れて」"
+msgstr ""
+"\n"
+"「了解，\n"
+"　那，妳先稍微離遠點。」"
+
+#. ID 2, Page 1, Line 74, Pos (5,6)
+#, fuzzy
+msgid ""
+"\n"
+"「よし　これで　いいかしらね」"
+msgstr ""
+"\n"
+"「好，這樣就可以了吧。」"
+
+#. ID 3, Page 1, Line 1, Pos (13,10)
+#. ID 24, Page 1, Line 1, Pos (6,9)
+msgid "床に固定されていて　動かせない……"
+msgstr "椅子被固定在地板上，無法移動……"
+
+#. ID 7, Page 1, Line 2, Pos (15,9)
+#. ID 7, Page 1, Line 8, Pos (15,9)
+msgid ""
+"“疲れたのなら　ゆっくりお休み？\n"
+"　もう苦しむことも　なくなるから”"
+msgstr ""
+"“累了的話　就好好休息一下吧？\n"
+"　因為再也不會有　痛苦的事了”"
+
+#. ID 8, Page 2, Line 5, Pos (7,12)
+#, fuzzy
+msgid "扉が　開かない……"
+msgstr ""
+"\n"
+"「什、什麼？這聲音……是從外面？」"
+
+#. ID 8, Page 2, Line 10, Pos (7,12)
+msgid ""
+"\n"
+"「え……ウソでしょ？\n"
+"　カギは　開けっ放しの\n"
+"　ハズだけど……」"
+msgstr ""
+"\n"
+"「咦……騙人的吧？\n"
+"　人家剛剛明明沒有上鎖的呀……」"
+
+#. ID 8, Page 2, Line 26, Pos (7,12)
+#, fuzzy
+msgid ""
+"\n"
+"「な　なに　この音……外から？」"
+msgstr ""
+"\n"
+"「門前似乎有什麼人在，\n"
+"　Ib，要小心喔……」"
+
+#. ID 8, Page 2, Line 38, Pos (7,12)
+msgid ""
+"\n"
+"「ドアの前に　誰かいるわ……\n"
+"　イヴ……注意して」"
+msgstr ""
+
+#. ID 8, Page 3, Line 2, Pos (7,12)
+msgid "扉が 開かない……"
+msgstr ""
+
+#. ID 11, Page 1, Line 2, Pos (9,5)
+msgid "『ふたり』"
+msgstr "『兩人』"
+
+#. ID 11, Page 1, Line 4, Pos (9,5)
+msgid "見覚えのある　男女が　描かれている……"
+msgstr "上面畫著一對似曾相識的男女……"
+
+#. ID 11, Page 1, Line 5, Pos (9,5)
+msgid "この２人は…………！"
+msgstr "這兩個人是…………！"
+
+#. ID 11, Page 1, Line 9, Pos (9,5)
+msgid ""
+"\n"
+"「どうしたの　イヴ？」"
+msgstr ""
+"\n"
+"「妳怎麼了，Ib？」"
+
+#. ID 11, Page 1, Line 12, Pos (9,5)
+msgid ""
+"\n"
+"「え？！　この絵の人\n"
+"　イヴの　パパとママなの？」"
+msgstr ""
+"\n"
+"「欸！？這張畫裡的人，\n"
+"　是Ib的爸爸跟媽媽嗎？」"
+
+#. ID 11, Page 1, Line 19, Pos (9,5)
+msgid ""
+"\n"
+"「へぇ………たしかに\n"
+"　イヴに　似てるかも……」"
+msgstr ""
+"\n"
+"「嘿………的確，\n"
+"　和Ib長得有點像呢……」"
+
+#. ID 11, Page 1, Line 23, Pos (9,5)
+msgid ""
+"\n"
+"「でもなんで　こんなところに\n"
+"　そんな絵が　あるのかしら？」"
+msgstr ""
+"\n"
+"「不過，為什麼這裡會有這樣的畫呢？」"
+
+#. ID 11, Page 1, Line 26, Pos (9,5)
+#, fuzzy
+msgid ""
+"\n"
+"「え？　２人はどこかって？\n"
+"　うーん……それはちょっと\n"
+"　アタシにも　わからないわ」"
+msgstr ""
+"\n"
+"「咦？他們兩人現在在哪？\n"
+"　嗯──……這個嘛，\n"
+"　人家也不知道呢。」"
+
+#. ID 11, Page 1, Line 31, Pos (9,5)
+#, fuzzy
+msgid ""
+"\n"
+"「だ　大丈夫よ\n"
+"　きっと　どこかに　いるって！」"
+msgstr ""
+"\n"
+"「不、不用擔心啦！\n"
+"　一定會在某個地方的啦！」"
+
+#. ID 11, Page 1, Line 35, Pos (9,5)
+#, fuzzy
+msgid ""
+"\n"
+"「……………」"
+msgstr ""
+"\n"
+"「……………」"
+
+#. ID 11, Page 1, Line 38, Pos (9,5)
+#, fuzzy
+msgid ""
+"\n"
+"（結構　気丈な子だと思ってたけど\n"
+"　さすがに　参ってきてるわね……）"
+msgstr ""
+"\n"
+"（原本覺得她是個挺堅強的孩子，\n"
+"　看到這副情景果然還是承受不住呢。）"
+
+#. ID 11, Page 2, Line 1, Pos (9,5)
+msgid "おとうさんと　おかあさんの絵だ……"
+msgstr "是爸爸和媽媽的畫……"
+
+#. ID 27, Page 2, Line 3, Pos (9,9)
+msgid ""
+"\n"
+"「のんきに　座ってる\n"
+"　場合じゃ　ないでしょ！」"
+msgstr ""
+"\n"
+"「現在不是悠閒坐著的時候啦！」"
+

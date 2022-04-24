@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 1, Pos (18,6)
+msgid "マネキンの　首がある……"
+msgstr "A mannequin head..."
+
+#. ID 3, Page 2, Line 1, Pos (18,6)
+msgid "傷だらけの　マネキンがある……"
+msgstr "A mannequin covered in wounds..."
+
+#. ID 4, Page 1, Line 3, Pos (17,6)
+msgid ""
+"\n"
+"「邪魔だなぁ　邪魔だなぁ\n"
+"　邪魔だなぁ　邪魔だなぁ……」"
+msgstr ""
+"\n"
+" In my way... In my way...\n"
+" In my way... In my WAY..."
+
+#. ID 4, Page 2, Line 1, Pos (17,6)
+msgid "パレットナイフを　振り下ろしている……"
+msgstr "She's swinging a palette knife..."
+
+#. ID 7, Page 1, Line 4, Pos (22,14)
+msgid ""
+"\n"
+"「ねぇ　イヴ………\n"
+"　ちょっと　聞いていい？」"
+msgstr ""
+"\n"
+" Hey, Ib...\n"
+" Can I ask you something?"
+
+#. ID 7, Page 1, Line 7, Pos (22,14)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「ギャリーって……イヴの　お父さん？」"
+msgstr ""
+"\n"
+" Is Garry... your dad?"
+
+#. ID 7, Page 1, Line 9, Pos (22,14)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ちがうよ\n"
+"知らない人"
+msgstr ""
+"Nope\n"
+"He's a stranger"
+
+#. ID 7, Page 1, Line 11, Pos (22,14)
+msgid ""
+"\n"
+"「ふーん……じゃあ\n"
+"　お父さんは　別にいるのね」"
+msgstr ""
+"\n"
+" Hmm... So your dad\n"
+" is somebody else..."
+
+#. ID 7, Page 1, Line 17, Pos (22,14)
+msgid ""
+"\n"
+"「あ　そうなの\n"
+"　ふーん……ここで　知り合ったの？」"
+msgstr ""
+"\n"
+" Oh, really?\n"
+" Hmm... So you met here?"
+
+#. ID 7, Page 1, Line 23, Pos (22,14)
+msgid ""
+"\n"
+"「そっかぁ………」"
+msgstr ""
+"\n"
+" I see..."
+
+#. ID 7, Page 1, Line 25, Pos (22,14)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「イヴのお母さん　やさしい？」"
+msgstr ""
+"\n"
+" Is your mom nice, Ib?"
+
+#. ID 7, Page 1, Line 27, Pos (22,14)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"うん\n"
+"怒ったらこわい"
+msgstr ""
+"Yes\n"
+"Not when she's mad"
+
+#. ID 7, Page 1, Line 30, Pos (22,14)
+msgid ""
+"\n"
+"「へぇ……いいなぁ」"
+msgstr ""
+"\n"
+" Ah... That's good..."
+
+#. ID 7, Page 1, Line 35, Pos (22,14)
+msgid ""
+"\n"
+"「あははは　イヴでも\n"
+"　怒られるんだ！」"
+msgstr ""
+"\n"
+" Ahahaha! She gets\n"
+" mad at you, Ib?!"
+
+#. ID 7, Page 1, Line 41, Pos (22,14)
+msgid ""
+"\n"
+"「早く両親に　会いたいよね？\n"
+"　わたしも　早く\n"
+"　ここから　出たいよ……」"
+msgstr ""
+"\n"
+" You want to see your\n"
+" parents again soon, right?\n"
+" I want to get out soon, too..."
+
+#. ID 7, Page 1, Line 50, Pos (22,14)
+msgid ""
+"\n"
+"「ね………イヴ　あのさ………」"
+msgstr ""
+"\n"
+" Hey..... Ib, uh....."
+
+#. ID 7, Page 1, Line 53, Pos (22,14)
+msgid ""
+"\n"
+"「もし　ここから出られるのが\n"
+"　２人だけだったら……どうする？」"
+msgstr ""
+"\n"
+" If only two of us could\n"
+" get out of here... then what?"
+
+#. ID 7, Page 1, Line 57, Pos (22,14)
+#. Contains choice at line 2 (3 options)
+msgid "出られるのが　２人だけだったら……"
+msgstr "If it could only be two..."
+
+#. ID 7, Page 1, Line 58, Pos (22,14)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"ギャリーと出る\n"
+"メアリーと出る\n"
+"自分以外にゆずる"
+msgstr ""
+"I'd leave with Garry\n"
+"I'd leave with Mary\n"
+"I'd surrender myself"
+
+#. ID 7, Page 1, Line 63, Pos (22,14)
+msgid ""
+"\n"
+"「…………………」"
+msgstr ""
+"\n"
+" .........."
+
+#. ID 7, Page 1, Line 66, Pos (22,14)
+msgid ""
+"\n"
+"「……そう……ギャリーと\n"
+"　一緒の方が　いいんだ………」"
+msgstr ""
+"\n"
+" ...I see... You would want\n"
+" to stay with Garry....."
+
+#. ID 7, Page 1, Line 70, Pos (22,14)
+msgid ""
+"\n"
+"「ま　今のは　たとえ話だから\n"
+"　いいけど………」"
+msgstr ""
+"\n"
+" Well, you know, I was just\n"
+" being all \"what if\"..."
+
+#. ID 7, Page 1, Line 73, Pos (22,14)
+msgid ""
+"\n"
+"「出るときは　一緒に出ようね？\n"
+"　約束だよ！」"
+msgstr ""
+"\n"
+" We'll get out together, right?\n"
+" Promise!"
+
+#. ID 7, Page 1, Line 82, Pos (22,14)
+msgid ""
+"\n"
+"「ほんとっ？　うれしい！」"
+msgstr ""
+"\n"
+" Really? Oh, I'm so glad!"
+
+#. ID 7, Page 1, Line 85, Pos (22,14)
+msgid ""
+"\n"
+"「わたしも　イヴと一緒に出たいよ！\n"
+"　……それで　ここ出てからー」"
+msgstr ""
+"\n"
+" I want to leave with you too, Ib!\n"
+" ...And once we get out..."
+
+#. ID 7, Page 1, Line 88, Pos (22,14)
+msgid ""
+"\n"
+"「色んな事して　遊ぼ！\n"
+"　あと　色んなお菓子食べたり\n"
+"　あちこち　出かけたり……」"
+msgstr ""
+"\n"
+" We'll play all sorts of games!\n"
+" And eat lots of candy,\n"
+" and go all these places..."
+
+#. ID 7, Page 1, Line 93, Pos (22,14)
+msgid ""
+"\n"
+"「うふふふ　楽しみー！」"
+msgstr ""
+"\n"
+" Teeheehee... I can't wait!"
+
+#. ID 7, Page 1, Line 96, Pos (22,14)
+#. ID 7, Page 1, Line 119, Pos (22,14)
+#, fuzzy
+msgid ""
+"\n"
+"「………がんばって　絶対\n"
+"　一緒に出ようね？　約束だよ！」"
+msgstr ""
+"\n"
+" ...Let's make sure we leave\n"
+" together, okay? Promise!"
+
+#. ID 7, Page 1, Line 103, Pos (22,14)
+msgid ""
+"\n"
+"「え！　いいのイヴ？\n"
+"　そしたら　お母さんに\n"
+"　会えなくなっちゃうんだよ？」"
+msgstr ""
+"\n"
+" Wha! Really, Ib?\n"
+" But then you'd never\n"
+" meet your mom again!"
+
+#. ID 7, Page 1, Line 108, Pos (22,14)
+msgid ""
+"\n"
+"「……きっと　すごくさみしいよ？」"
+msgstr ""
+"\n"
+" ...It would be really lonely...\n"
+" you know?"
+
+#. ID 7, Page 1, Line 111, Pos (22,14)
+#, fuzzy
+msgid ""
+"\n"
+"「そんなこと　言わないで\n"
+"　一緒に　出よ？　約束だよ！」"
+msgstr ""
+"\n"
+" Don't say things like that...\n"
+" We'll leave together! Promise!"
+

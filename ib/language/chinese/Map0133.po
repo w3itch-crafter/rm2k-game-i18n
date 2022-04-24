@@ -1,0 +1,830 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 2, Line 1, Pos (13,12)
+#. ID 1, Page 4, Line 1, Pos (13,12)
+msgid "１人で出てはいけない。"
+msgstr "不可以自己一個人出去。"
+
+#. ID 1, Page 3, Line 5, Pos (13,12)
+msgid "ドアが　開かない……"
+msgstr "門打不開……"
+
+#. ID 2, Page 1, Line 1, Pos (14,4)
+msgid "布が　かぶせてある……"
+msgstr "布蓋在上面……"
+
+#. ID 4, Page 1, Line 2, Pos (15,11)
+#. ID 4, Page 6, Line 2, Pos (15,11)
+msgid "真っ白な　キャンバスがある……"
+msgstr "純白的畫布……"
+
+#. ID 4, Page 4, Line 2, Pos (15,11)
+msgid "キャンバスに文字が　描かれている……"
+msgstr "畫布上寫了文字……"
+
+#. ID 4, Page 4, Line 3, Pos (15,11)
+msgid ""
+"“目をつむって　３秒数えてごらん\n"
+"　これで準備は　整うはず”"
+msgstr ""
+"“閉上眼睛數3秒\n"
+"　這樣應該就會準備好了”"
+
+#. ID 4, Page 4, Line 5, Pos (15,11)
+#. Contains choice at line 2 (2 options)
+msgid "………どうしよう？"
+msgstr "………怎麼辦？"
+
+#. ID 4, Page 4, Line 6, Pos (15,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"３秒間目をつむる\n"
+"やめておく"
+msgstr ""
+"閉上眼睛3秒\n"
+"算了"
+
+#. ID 4, Page 5, Line 2, Pos (15,11)
+msgid "“あとは　ひくだけ”"
+msgstr "“接著只要往下拉就行了”"
+
+#. ID 7, Page 1, Line 2, Pos (5,5)
+#. ID 7, Page 2, Line 1, Pos (5,5)
+#. ID 7, Page 4, Line 1, Pos (5,5)
+#. ID 29, Page 2, Line 1, Pos (3,2)
+#. ID 29, Page 4, Line 1, Pos (3,2)
+msgid "『動物の骨格・標本』"
+msgstr "『動物的骨骼‧標本』"
+
+#. ID 7, Page 1, Line 3, Pos (5,5)
+#. ID 7, Page 2, Line 2, Pos (5,5)
+#. ID 7, Page 4, Line 2, Pos (5,5)
+#. ID 29, Page 2, Line 2, Pos (3,2)
+#. ID 29, Page 4, Line 2, Pos (3,2)
+msgid "色々な動物が　骨になった絵がのっている……"
+msgstr "刊載著許多動物骨骼的圖……"
+
+#. ID 7, Page 1, Line 6, Pos (5,5)
+#. ID 7, Page 4, Line 6, Pos (5,5)
+#. ID 29, Page 2, Line 6, Pos (3,2)
+#. ID 29, Page 4, Line 6, Pos (3,2)
+msgid ""
+"\n"
+"「へぇ……動物の骨って\n"
+"　こんな風に　なってるのね……」"
+msgstr ""
+"\n"
+"「嘿……動物的骨頭\n"
+"　是長這個樣子的啊……」"
+
+#. ID 7, Page 1, Line 12, Pos (5,5)
+#. ID 7, Page 3, Line 1, Pos (5,5)
+#. ID 29, Page 1, Line 1, Pos (3,2)
+#. ID 29, Page 3, Line 1, Pos (3,2)
+msgid "ふしぎな香りのする　本がある……"
+msgstr "散發著奇妙香氣的書……"
+
+#. ID 7, Page 1, Line 14, Pos (5,5)
+#. Contains choice at line 2 (3 options)
+#. ID 7, Page 3, Line 3, Pos (5,5)
+#. Contains choice at line 2 (3 options)
+#. ID 29, Page 1, Line 3, Pos (3,2)
+#. Contains choice at line 2 (3 options)
+#. ID 29, Page 3, Line 3, Pos (3,2)
+#. Contains choice at line 2 (3 options)
+msgid "『秘密の部屋の入り方』"
+msgstr "『進入秘密的房間的方法』"
+
+#. ID 7, Page 1, Line 15, Pos (5,5)
+#. Choice (3 options, embedded in a message)
+#. ID 7, Page 3, Line 4, Pos (5,5)
+#. Choice (3 options, embedded in a message)
+#. ID 29, Page 1, Line 5, Pos (3,2)
+#. Choice (3 options, embedded in a message)
+#. ID 29, Page 3, Line 5, Pos (3,2)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"入り方を読む\n"
+"それ以外のページを読む\n"
+"本を閉じる"
+msgstr ""
+"閱讀進入的方法\n"
+"閱讀其他頁數\n"
+"把書闔上"
+
+#. ID 7, Page 1, Line 18, Pos (5,5)
+#. ID 7, Page 3, Line 7, Pos (5,5)
+#. ID 29, Page 1, Line 8, Pos (3,2)
+#. ID 29, Page 3, Line 8, Pos (3,2)
+msgid "『秘密の部屋へ　入るには……』"
+msgstr "『要進入秘密的房間……』"
+
+#. ID 7, Page 1, Line 20, Pos (5,5)
+#. ID 7, Page 3, Line 9, Pos (5,5)
+msgid "『どこかの本棚の　裏の文字を読んでごらん』"
+msgstr "『就去看看某個書架後面寫的文字吧』"
+
+#. ID 7, Page 1, Line 25, Pos (5,5)
+#. ID 7, Page 3, Line 14, Pos (5,5)
+#. ID 29, Page 1, Line 16, Pos (3,2)
+#. ID 29, Page 3, Line 16, Pos (3,2)
+msgid "『秘密の部屋から　戻ってくるには……』"
+msgstr "『要從秘密的房間回來……』"
+
+#. ID 7, Page 1, Line 27, Pos (5,5)
+#. ID 7, Page 3, Line 16, Pos (5,5)
+msgid ""
+"『その部屋に　隠されている物を\n"
+"　手にしてから　右下の壁を　調べてごらん』"
+msgstr ""
+"『取得那個房間中所隱藏的物品\n"
+"　然後調查右下的牆壁吧』"
+
+#. ID 7, Page 1, Line 30, Pos (5,5)
+#. ID 7, Page 3, Line 19, Pos (5,5)
+msgid ""
+"『戻り方を？ると\n"
+"　二度と部屋から　出られなくなるので注意して』"
+msgstr ""
+"『要是弄？回來的方法\n"
+"　就會再也走不出房間\n"
+"　所以要小心』"
+
+#. ID 7, Page 1, Line 32, Pos (5,5)
+#. ID 7, Page 3, Line 21, Pos (5,5)
+#. ID 13, Page 1, Line 12, Pos (9,5)
+#. ID 18, Page 1, Line 14, Pos (14,5)
+#, fuzzy
+msgid "難しくて　読めない字がある……"
+msgstr "有些字太難了，看不懂……"
+
+#. ID 8, Page 1, Line 2, Pos (15,9)
+#. ID 8, Page 2, Line 2, Pos (15,9)
+msgid "中のページがほとんど　破り取られた日記がある……"
+msgstr "一本內頁幾乎都破損了的日記……"
+
+#. ID 8, Page 1, Line 4, Pos (15,9)
+#. ID 8, Page 2, Line 4, Pos (15,9)
+msgid "“■品は　完■した■点■　その■■を失って■まう”"
+msgstr "“■品在完■的■間　就■喪失它的■■”"
+
+#. ID 8, Page 1, Line 5, Pos (15,9)
+#. ID 8, Page 2, Line 5, Pos (15,9)
+msgid "所々の文字が　にじんで読めない……"
+msgstr "許多文字都模糊不清，無法閱讀……"
+
+#. ID 8, Page 1, Line 9, Pos (15,9)
+msgid ""
+"\n"
+"「これ……直筆だわ\n"
+"　ゲルテナが　書いたのかしら」"
+msgstr ""
+"\n"
+"「這……是親筆寫的字呢。\n"
+"　是Guertena寫的嗎？」"
+
+#. ID 8, Page 1, Line 13, Pos (15,9)
+msgid ""
+"\n"
+"「残りの日記も\n"
+"　気になるけど……なんとなく\n"
+"　見つからない　気がするわね」"
+msgstr ""
+"\n"
+"「雖然也想看看其他的日記……\n"
+"　但總覺得應該找不到吧。」"
+
+#. ID 8, Page 4, Line 2, Pos (15,9)
+msgid "古い新聞記事が　本に挟まっている……"
+msgstr "書裡夾著一則古舊的新聞剪報……"
+
+#. ID 8, Page 4, Line 3, Pos (15,9)
+msgid ""
+"『時代に逆らう　奇抜な作品群\n"
+"　ワイズ・ゲルテナとは　どんな人物か……』"
+msgstr ""
+"『違逆時代　奇特的作品群\n"
+"　W eiss‧Guertena究竟是怎樣的人物……』"
+
+#. ID 8, Page 4, Line 6, Pos (15,9)
+msgid "古い日記が　見当たらない……"
+msgstr "找不到古舊的日記……"
+
+#. ID 8, Page 4, Line 10, Pos (15,9)
+msgid ""
+"\n"
+"「さっきの日記……\n"
+"　どこに　いっちゃったのかしら」"
+msgstr ""
+"\n"
+"「剛才的日記……\n"
+"　跑到哪裡去了呢？」"
+
+#. ID 9, Page 1, Line 2, Pos (6,9)
+#. ID 9, Page 2, Line 2, Pos (6,9)
+#. ID 9, Page 4, Line 2, Pos (6,9)
+#. ID 9, Page 5, Line 2, Pos (6,9)
+msgid "『キュビズム』"
+msgstr "『立體主義』"
+
+#. ID 9, Page 1, Line 3, Pos (6,9)
+#. ID 9, Page 4, Line 3, Pos (6,9)
+msgid "本の中に　何かが挟まっている……"
+msgstr "書裡頭夾著什麼東西……"
+
+#. ID 9, Page 2, Line 7, Pos (6,9)
+#. ID 9, Page 5, Line 7, Pos (6,9)
+msgid ""
+"\n"
+"「キュビズムか……\n"
+"　ゲルテナの作品では　見ないわね」"
+msgstr ""
+"\n"
+"「立體主義嗎……\n"
+"　Guertena沒有這種風格的作品呢。」"
+
+#. ID 11, Page 1, Line 5, Pos (3,12)
+msgid ""
+"\n"
+"「ねぇ　イヴ………」"
+msgstr ""
+"\n"
+"「欸，Ib………」"
+
+#. ID 11, Page 1, Line 8, Pos (3,12)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"「少しだけ　休憩しない？」"
+msgstr ""
+"\n"
+"「要不要稍微休息一下？」"
+
+#. ID 11, Page 1, Line 10, Pos (3,12)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"する\n"
+"大丈夫"
+msgstr ""
+"要\n"
+"沒關係"
+
+#. ID 11, Page 1, Line 13, Pos (3,12)
+msgid ""
+"\n"
+"「さっき　走り回ったせいで\n"
+"　足がちょっと　ね……」"
+msgstr ""
+"\n"
+"「因為剛才一直跑，\n"
+"　人家的腳有點啊……」"
+
+#. ID 11, Page 1, Line 17, Pos (3,12)
+msgid ""
+"\n"
+"「あーヤダ　情けないったらホント……」"
+msgstr ""
+"\n"
+"「啊──討厭，人家真的超沒用的……」"
+
+#. ID 11, Page 1, Line 23, Pos (3,12)
+msgid ""
+"\n"
+"「あ　いや　ゴメン\n"
+"　アタシが　休みたいの……」"
+msgstr ""
+"\n"
+"「啊，不，抱歉，\n"
+"　其實是人家想休息啦……」"
+
+#. ID 11, Page 1, Line 27, Pos (3,12)
+msgid ""
+"\n"
+"「前の休憩から　大分歩いたでしょ？\n"
+"　さすがに　疲れちゃって……」"
+msgstr ""
+"\n"
+"「上次休息過之後，我們又走了很久吧？\n"
+"　實在是有點累了……」"
+
+#. ID 12, Page 1, Line 5, Pos (5,10)
+msgid ""
+"\n"
+"「なにかしらね　これ……絵？」"
+msgstr ""
+"\n"
+"「是什麼東西呢，這是……畫？」"
+
+#. ID 12, Page 1, Line 10, Pos (5,10)
+#. ID 12, Page 2, Line 2, Pos (5,10)
+msgid "何かが　落ちている……"
+msgstr "有東西掉在地上……"
+
+#. ID 12, Page 1, Line 14, Pos (5,10)
+#. ID 12, Page 2, Line 4, Pos (5,10)
+msgid "絵画のピースを　手に入れた。"
+msgstr "得到一片　繪畫的拼圖。"
+
+#. ID 12, Page 1, Line 19, Pos (5,10)
+#. ID 12, Page 2, Line 9, Pos (5,10)
+msgid "絵画のピースは　消えてしまった……"
+msgstr "繪畫的拼圖消失了……"
+
+#. ID 12, Page 1, Line 23, Pos (5,10)
+msgid ""
+"\n"
+"「わっ　消えた……なんか\n"
+"　絵の具玉の時と　似てるわ」"
+msgstr ""
+"\n"
+"「哇！消失了……\n"
+"　跟蒐集顏料球的時候很像呢。」"
+
+#. ID 12, Page 1, Line 27, Pos (5,10)
+msgid ""
+"\n"
+"「もしかすると　これ\n"
+"　集めると　良いのかも\n"
+"　もっと　探してみましょ　イヴ！」"
+msgstr ""
+"\n"
+"「說不定，\n"
+"　就是要蒐集這些拼圖呢。\n"
+"　去找出其他拼圖吧，Ib！」"
+
+#. ID 13, Page 1, Line 1, Pos (9,5)
+#. ID 13, Page 2, Line 1, Pos (9,5)
+msgid "『ゲルテナ作品集　目』"
+msgstr "『Guertena作品集　目』"
+
+#. ID 13, Page 1, Line 2, Pos (9,5)
+#. Contains choice at line 2 (3 options)
+#. ID 13, Page 2, Line 2, Pos (9,5)
+#. Contains choice at line 2 (3 options)
+msgid "ゲルテナが描いた　目の作品が載っている……"
+msgstr "刊載著Guertena所描繪，關於眼睛的作品……"
+
+#. ID 13, Page 1, Line 3, Pos (9,5)
+#. Choice (3 options, embedded in a message)
+#. ID 13, Page 2, Line 3, Pos (9,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"最初の方を読む\n"
+"真ん中の方を読む\n"
+"最後の方を読む"
+msgstr ""
+"讀最前面的部分\n"
+"讀中間的部分\n"
+"讀最後面的部份"
+
+#. ID 13, Page 1, Line 6, Pos (9,5)
+#. ID 13, Page 2, Line 6, Pos (9,5)
+msgid ""
+"『悟り』　6185年\n"
+"ヒトの目を　真横から描いた絵。\n"
+"ゲルテナの没後に　自宅から発見された。"
+msgstr ""
+"『頓悟』　6185年\n"
+"從正側面描繪人眼的一幅畫。\n"
+"Guertena逝世後，在他的故居發現的作品。"
+
+#. ID 13, Page 1, Line 10, Pos (9,5)
+msgid ""
+"キャンバス全体に　木炭を擦りつけているのが特徴で\n"
+"残念ながら絵に　若干の？？が見られる。"
+msgstr ""
+"用木炭在整張畫布上擦拭繪製而成是其特徵，\n"
+"這幅畫上看得到一些？？，十分可惜。"
+
+#. ID 13, Page 1, Line 17, Pos (9,5)
+msgid ""
+"『？？な視線』　6182年\n"
+"緑一色の中に　２つの目だけが存在する絵。\n"
+"ゲルテナが学生の頃に　制作したもの。"
+msgstr ""
+"『？？的視線』　6182年\n"
+"一片綠色中，只有兩隻眼睛的畫作。\n"
+"是Guertena學生時期所繪製的作品。"
+
+#. ID 13, Page 1, Line 21, Pos (9,5)
+msgid ""
+"この作品は後に　彼の在学していた学校へ？？されたが\n"
+"その数年後に　行方がわからなくなってしまった。"
+msgstr ""
+"這幅作品在之後？？給他就讀的學校，\n"
+"但在數年後就下落不明了。"
+
+#. ID 13, Page 1, Line 24, Pos (9,5)
+msgid ""
+"噂では　学校関係者が持ち去ったとの情報が\n"
+"流れているが　？？は？かではない。"
+msgstr ""
+"根據傳聞，是被學校相關人士拿走了，\n"
+"但不能？定是否？？。"
+
+#. ID 13, Page 1, Line 26, Pos (9,5)
+#. ID 13, Page 2, Line 25, Pos (9,5)
+msgid "この作品は　絵の写真が載っていない……"
+msgstr "上面只缺了這幅作品的照片……"
+
+#. ID 13, Page 1, Line 30, Pos (9,5)
+msgid ""
+"『？？の微笑み』　6212年\n"
+"一つ目の女性が描かれた　不気味な絵。\n"
+"当初は　両目が描かれていたと言われている。"
+msgstr ""
+"『？？的微笑』　6212年\n"
+"畫著只有一隻眼睛的女性，令人感到不舒服的畫作。\n"
+"據說最初是畫了兩隻眼睛。"
+
+#. ID 13, Page 1, Line 34, Pos (9,5)
+#. ID 13, Page 2, Line 34, Pos (9,5)
+msgid ""
+"この作品は一度　何者かの手により\n"
+"展示していた博物館から　盗まれたことがあったが\n"
+"翌日戻ってきたという話は　比較的有名であろう。"
+msgstr ""
+"有關這幅作品較著名的事件，\n"
+"應該是它曾經被某人從展示中的博物館裡偷走，\n"
+"但隔天就被物歸原位的故事。"
+
+#. ID 13, Page 1, Line 41, Pos (9,5)
+#. ID 13, Page 1, Line 48, Pos (9,5)
+#. ID 13, Page 1, Line 55, Pos (9,5)
+#. ID 13, Page 2, Line 42, Pos (9,5)
+#. ID 13, Page 2, Line 49, Pos (9,5)
+#. ID 13, Page 2, Line 56, Pos (9,5)
+msgid "こんなふうに。"
+msgstr "就像這樣。"
+
+#. ID 13, Page 2, Line 10, Pos (9,5)
+msgid ""
+"キャンバス全体に　木炭を擦りつけているのが特徴で\n"
+"残念ながら絵に　若干の損傷が見られる。"
+msgstr ""
+"用木炭在整張畫布上擦拭繪製而成是其特徵，\n"
+"非常可惜，這張畫上看得到一些損傷。"
+
+#. ID 13, Page 2, Line 16, Pos (9,5)
+msgid ""
+"『寡黙な視線』　6182年\n"
+"緑一色の中に　２つの目だけが存在する絵。\n"
+"ゲルテナが学生の頃に　制作したもの。"
+msgstr ""
+"『寡言的視線』　6182年\n"
+"一片綠色中，只有兩隻眼睛的畫作。\n"
+"是Guertena學生時期所繪製的作品。"
+
+#. ID 13, Page 2, Line 20, Pos (9,5)
+msgid ""
+"この作品は後に　彼の在学していた学校へ寄贈されたが\n"
+"その数年後に　行方がわからなくなってしまった。"
+msgstr ""
+"這幅作品在之後寄贈給他就讀的學校，\n"
+"但在數年後就下落不明了。"
+
+#. ID 13, Page 2, Line 23, Pos (9,5)
+msgid ""
+"噂では　学校関係者が持ち去ったとの情報が\n"
+"流れているが　真偽は定かではない。"
+msgstr ""
+"根據傳聞，是被學校相關人士拿走了，\n"
+"但不能確定是否屬實。"
+
+#. ID 13, Page 2, Line 30, Pos (9,5)
+msgid ""
+"『単眼の微笑み』　6212年\n"
+"一つ目の女性が描かれた　不気味な絵。\n"
+"当初は　両目が描かれていたと言われている。"
+msgstr ""
+"『單眼的微笑』　6212年\n"
+"畫著只有一隻眼睛的女性，令人感到不舒服的畫作。\n"
+"據說最初是畫了兩隻眼睛。"
+
+#. ID 14, Page 1, Line 1, Pos (9,11)
+#. ID 15, Page 1, Line 1, Pos (9,10)
+msgid "一つ目の女の人の　絵がある……"
+msgstr "一幅只有一隻眼睛的女性繪畫……"
+
+#. ID 14, Page 1, Line 5, Pos (9,11)
+#. ID 15, Page 1, Line 5, Pos (9,10)
+msgid ""
+"\n"
+"「なんで　ここにあるの………」"
+msgstr ""
+"\n"
+"「為什麼會出現在這裡啊………」"
+
+#. ID 17, Page 1, Line 3, Pos (14,9)
+#. ID 17, Page 3, Line 3, Pos (14,9)
+msgid "本棚の裏に　小さく文字が書かれている……"
+msgstr "書架的後面，寫著細小的文字……"
+
+#. ID 17, Page 1, Line 4, Pos (14,9)
+#. ID 17, Page 3, Line 4, Pos (14,9)
+msgid ""
+"“次は　大きな本棚の\n"
+"　後ろの隙間を　のぞいてごらん”"
+msgstr ""
+"“接下來去瞧瞧\n"
+"　大書架後面的縫隙吧”"
+
+#. ID 17, Page 1, Line 12, Pos (14,9)
+#. ID 17, Page 3, Line 12, Pos (14,9)
+#. ID 17, Page 4, Line 2, Pos (14,9)
+msgid "『前衛芸術とその歴史』"
+msgstr "『前衛藝術與其歷史』"
+
+#. ID 18, Page 1, Line 2, Pos (14,5)
+msgid "絵の右下に　小さくタイトルがある……"
+msgstr "畫的右下角寫著小小的標題……"
+
+#. ID 18, Page 1, Line 4, Pos (14,5)
+msgid "『覗い』"
+msgstr "『偷窺』"
+
+#. ID 18, Page 1, Line 7, Pos (14,5)
+msgid ""
+"\n"
+"「これは多分……『うかがい』ね」"
+msgstr ""
+"\n"
+"「這個應該唸做……『偷窺』吧。」"
+
+#. ID 18, Page 1, Line 13, Pos (14,5)
+msgid "『？い』"
+msgstr "『偷？』"
+
+#. ID 19, Page 1, Line 2, Pos (10,5)
+msgid "本棚の隙間に　小さな紙が落ちている……"
+msgstr "書架的縫隙裡有張小紙片……"
+
+#. ID 19, Page 1, Line 3, Pos (10,5)
+msgid "“今度は　キャンバスをよく見てごらん”"
+msgstr "“現在去仔細看看畫布吧”"
+
+#. ID 21, Page 1, Line 3, Pos (12,5)
+msgid ""
+"\n"
+"「あー……疲れた…………\n"
+"　足が地面と　一体化してるみたい」"
+msgstr ""
+"\n"
+"「啊──……好累啊…………\n"
+"　腳重到好像跟地面合而為一了。」"
+
+#. ID 21, Page 1, Line 7, Pos (12,5)
+msgid ""
+"\n"
+"「アンタも……\n"
+"　今のうちに　休んでおきなさいね」"
+msgstr ""
+"\n"
+"「妳也……\n"
+"　趁現在休息一下喔。」"
+
+#. ID 21, Page 2, Line 3, Pos (12,5)
+msgid ""
+"\n"
+"「ヤバ……座ってると\n"
+"　ホントに　寝ちゃいそう……」"
+msgstr ""
+"\n"
+"「糟糕……一坐下來，\n"
+"　好像真的會睡著……」"
+
+#. ID 21, Page 2, Line 7, Pos (12,5)
+msgid ""
+"\n"
+"「イヴ……勝手に\n"
+"　部屋を　出ないようにね………」"
+msgstr ""
+"\n"
+"「Ib……\n"
+"　不要隨便離開房間喔………」"
+
+#. ID 21, Page 3, Line 3, Pos (12,5)
+#. ID 21, Page 4, Line 3, Pos (12,5)
+#. Contains choice at line 3 (2 options)
+#. ID 21, Page 5, Line 3, Pos (12,5)
+msgid ""
+"\n"
+"「……………」"
+msgstr ""
+"\n"
+"「……………」"
+
+#. ID 21, Page 4, Line 5, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ギャリー！\n"
+"起きて……！"
+msgstr ""
+"Garry！\n"
+"快起來……！"
+
+#. ID 21, Page 4, Line 8, Pos (12,5)
+msgid "ギャリーが　起きない……"
+msgstr "叫不醒Garry……"
+
+#. ID 21, Page 4, Line 12, Pos (12,5)
+msgid "ギャリーは　起きない……"
+msgstr "Garry沒有醒來……"
+
+#. ID 27, Page 1, Line 8, Pos (11,10)
+msgid ""
+"\n"
+"「…………！　イヴ！！」"
+msgstr ""
+"\n"
+"「…………！　Ib！！」"
+
+#. ID 27, Page 1, Line 18, Pos (11,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"「アンタ　どこにいたのよ！？\n"
+"　心配したじゃないの！」"
+msgstr ""
+"「妳跑到哪裡去了啊！？\n"
+"　讓人家擔心死了啦！」"
+
+#. ID 27, Page 1, Line 20, Pos (11,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ごめんなさい………\n"
+"秘密の部屋に行ってた"
+msgstr ""
+"對不起………\n"
+"我到秘密的房間去了"
+
+#. ID 27, Page 1, Line 26, Pos (11,10)
+msgid ""
+"\n"
+"「……………………」"
+msgstr ""
+"\n"
+"「……………………」"
+
+#. ID 27, Page 1, Line 30, Pos (11,10)
+msgid ""
+"\n"
+"「ううん　こっちこそ……\n"
+"　怒鳴って　ごめんね」"
+msgstr ""
+"\n"
+"「不，人家才是……\n"
+"　這樣對妳大吼，對不起喔。」"
+
+#. ID 27, Page 1, Line 34, Pos (11,10)
+msgid ""
+"\n"
+"「イヴがいなくて　焦ってたのよ\n"
+"　……寝てた自分も　不甲斐ないし」"
+msgstr ""
+"\n"
+"「發現妳不見了，人家緊張死了，\n"
+"　……然後也覺得睡著的自己很沒用。」"
+
+#. ID 27, Page 1, Line 45, Pos (11,10)
+msgid ""
+"\n"
+"「………ごめんね　イヴ\n"
+"　それと　ケガとかしてない？」"
+msgstr ""
+"\n"
+"「………對不起喔，Ib。\n"
+"　妳有沒有受傷？」"
+
+#. ID 27, Page 1, Line 55, Pos (11,10)
+msgid ""
+"\n"
+"「良かった」"
+msgstr ""
+"\n"
+"「那就好。」"
+
+#. ID 27, Page 1, Line 60, Pos (11,10)
+msgid ""
+"\n"
+"「じゃ……\n"
+"　出発すると　しましょうか！」"
+msgstr ""
+"\n"
+"「那……\n"
+"　我們出發吧！」"
+
+#. ID 27, Page 1, Line 67, Pos (11,10)
+msgid ""
+"\n"
+"「……秘密の部屋？\n"
+"　この部屋から　行けたって？」"
+msgstr ""
+"\n"
+"「……秘密的房間？\n"
+"　可以從這裡過去嗎？」"
+
+#. ID 27, Page 1, Line 71, Pos (11,10)
+msgid ""
+"\n"
+"「結構　あちこち\n"
+"　調べたつもり　なんだけど……\n"
+"　そんなもの　なかったわよ」"
+msgstr ""
+"\n"
+"「人家也在這裡調查了很久……\n"
+"　沒有那種東西啊。」"
+
+#. ID 27, Page 1, Line 76, Pos (11,10)
+#, fuzzy
+msgid ""
+"\n"
+"「……ま　ともかく\n"
+"　無事で　安心したわ……」"
+msgstr ""
+"\n"
+"「……算了，總之，\n"
+"　妳沒事，人家就放心了……」"
+
+#. ID 27, Page 1, Line 80, Pos (11,10)
+#, fuzzy
+msgid ""
+"\n"
+"「寝てたアタシも　悪かったけど！\n"
+"　次からは　勝手に１人で\n"
+"　どこかに行ったら　ダメよ」"
+msgstr ""
+"\n"
+"「雖然睡著的我也不對啦！\n"
+"　但是下次不可以再自己一個人\n"
+"　隨便跑到別的地方去了喔！」"
+
+#. ID 27, Page 1, Line 85, Pos (11,10)
+#. Contains choice at line 3 (2 options)
+#, fuzzy
+msgid ""
+"\n"
+"「………オーケー？」"
+msgstr ""
+"\n"
+"「………OK？」"
+
+#. ID 27, Page 1, Line 87, Pos (11,10)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"オーケー\n"
+"わかった………"
+msgstr ""
+"OK\n"
+"我知道了………"
+
+#. ID 27, Page 1, Line 90, Pos (11,10)
+#, fuzzy
+msgid ""
+"\n"
+"「約束ね！」"
+msgstr ""
+"\n"
+"「約好囉！」"
+
+#. ID 27, Page 1, Line 95, Pos (11,10)
+#, fuzzy
+msgid ""
+"\n"
+"「ん………お願いね」"
+msgstr ""
+"\n"
+"「嗯………拜託妳囉。」"
+
+#. ID 29, Page 1, Line 10, Pos (3,2)
+#. ID 29, Page 3, Line 10, Pos (3,2)
+msgid "『東側の壁にある　本棚の裏の文字を読んでごらん』"
+msgstr "『就去看看東邊書架後面寫的文字吧』"
+
+#. ID 29, Page 1, Line 18, Pos (3,2)
+#. ID 29, Page 3, Line 18, Pos (3,2)
+msgid ""
+"『その部屋の謎を　解いた後に\n"
+"　左下の壁を　調べてごらん』"
+msgstr ""
+"『解開那個房間的謎題後\n"
+"　調查左下的牆壁吧』"
+
+#. ID 29, Page 1, Line 21, Pos (3,2)
+#. ID 29, Page 3, Line 21, Pos (3,2)
+msgid ""
+"『戻り方を誤ると\n"
+"　二度と部屋から　出られなくなるので注意せよ』"
+msgstr ""
+"『要是弄錯回來的方法\n"
+"　將會再也無法走出房間\n"
+"　所以請小心行事』"
+

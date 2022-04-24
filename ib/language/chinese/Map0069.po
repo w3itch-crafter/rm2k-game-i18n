@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 1, Pos (10,5)
+#. ID 1, Page 2, Line 1, Pos (10,5)
+msgid ""
+"『七つの色彩……絵の具玉を　集めよ\n"
+"　さすれば　部屋は色づき\n"
+"　そなたの　架け橋となるだろう』"
+msgstr ""
+
+#. ID 1, Page 1, Line 6, Pos (10,5)
+#, fuzzy
+msgid ""
+"\n"
+"「絵の具玉……？\n"
+"　そんなもの　どこに　あるのかしら」"
+msgstr ""
+"『七種顏色……蒐集顏料球吧，\n"
+"　如此一來，房間就會被塗上顏色，\n"
+"　進而為你架起橋梁吧。』"
+
+#. ID 1, Page 3, Line 1, Pos (10,5)
+msgid ""
+"『七つの色彩が　集まった\n"
+"　これにて　一件落着』"
+msgstr ""
+"『七種顏色已經集齊，\n"
+"　如此一來，任務就完成了。』"
+
+#. ID 4, Page 1, Line 1, Pos (10,9)
+#. ID 5, Page 1, Line 1, Pos (9,7)
+#. ID 6, Page 1, Line 1, Pos (8,8)
+#. ID 7, Page 1, Line 1, Pos (7,9)
+#. ID 8, Page 1, Line 1, Pos (11,7)
+#. ID 9, Page 1, Line 1, Pos (12,8)
+#. ID 10, Page 1, Line 1, Pos (13,9)
+msgid "台座のような　ものがある……"
+msgstr "像是台座的東西……"
+
+#. ID 4, Page 2, Line 1, Pos (10,9)
+msgid "白色の絵の具玉が　浮いている……"
+msgstr "白色的顏料球浮在上面……"
+
+#. ID 4, Page 3, Line 1, Pos (10,9)
+#. ID 5, Page 3, Line 1, Pos (9,7)
+#. ID 6, Page 3, Line 1, Pos (8,8)
+#. ID 7, Page 3, Line 1, Pos (7,9)
+#. ID 8, Page 3, Line 1, Pos (11,7)
+#. ID 9, Page 3, Line 1, Pos (12,8)
+#. ID 10, Page 3, Line 1, Pos (13,9)
+msgid "玉が浮いている……"
+msgstr "球浮在上面……"
+
+#. ID 5, Page 2, Line 1, Pos (9,7)
+msgid "赤色の絵の具玉が　浮いている……"
+msgstr "紅色的顏料球浮在上面……"
+
+#. ID 6, Page 2, Line 1, Pos (8,8)
+msgid "黄色の絵の具玉が　浮いている……"
+msgstr "黃色的顏料球浮在上面……"
+
+#. ID 7, Page 2, Line 1, Pos (7,9)
+msgid "緑色の絵の具玉が　浮いている……"
+msgstr "綠色的顏料球浮在上面……"
+
+#. ID 8, Page 2, Line 1, Pos (11,7)
+msgid "紫色の絵の具玉が　浮いている……"
+msgstr "紫色的顏料球浮在上面……"
+
+#. ID 9, Page 2, Line 1, Pos (12,8)
+msgid "青色の絵の具玉が　浮いている……"
+msgstr "藍色的顏料球浮在上面……"
+
+#. ID 10, Page 2, Line 1, Pos (13,9)
+msgid "桃色の絵の具玉が　浮いている……"
+msgstr "粉紅色的顏料球浮在上面……"
+

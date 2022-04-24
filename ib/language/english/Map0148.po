@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 65, Page 1, Line 1, Pos (2,7)
+#. ID 66, Page 1, Line 1, Pos (5,7)
+#. ID 67, Page 1, Line 1, Pos (8,7)
+#. ID 68, Page 1, Line 1, Pos (19,7)
+#. ID 69, Page 1, Line 1, Pos (22,7)
+#. ID 70, Page 1, Line 1, Pos (25,7)
+#. ID 73, Page 1, Line 1, Pos (21,16)
+#. ID 74, Page 1, Line 1, Pos (6,16)
+#. ID 75, Page 1, Line 1, Pos (13,16)
+#. ID 76, Page 1, Line 1, Pos (14,16)
+msgid "真っ白な　プレートがある……"
+msgstr "A blank plate..."
+
+#. ID 65, Page 2, Line 1, Pos (2,7)
+msgid "『単眼の微笑み』"
+msgstr "\"Cycloptic Smile\""
+
+#. ID 66, Page 2, Line 1, Pos (5,7)
+msgid "『あたたかな居場所』"
+msgstr "\"Place of Warmth\""
+
+#. ID 67, Page 2, Line 1, Pos (8,7)
+msgid "『色の無い花々』"
+msgstr "\"Flowers Without Color\""
+
+#. ID 68, Page 2, Line 1, Pos (19,7)
+msgid "『未完成の少年』"
+msgstr "\"Incomplete Youth\""
+
+#. ID 69, Page 2, Line 1, Pos (22,7)
+msgid "『不眠症の棺』"
+msgstr "\"Insomnia Coffin\""
+
+#. ID 70, Page 2, Line 1, Pos (25,7)
+msgid "『色彩の暴力』"
+msgstr "\"Mayhem of Color\""
+
+#. ID 71, Page 1, Line 1, Pos (13,6)
+#. ID 72, Page 1, Line 1, Pos (14,6)
+msgid "『ゲルテナ』"
+msgstr "\"Guertena\""
+
+#. ID 73, Page 2, Line 1, Pos (21,16)
+msgid "『呑み込める夜』"
+msgstr "\"Drinking in the Night\""
+
+#. ID 74, Page 2, Line 1, Pos (6,16)
+msgid "『弾力のある石』"
+msgstr "\"Flexible Stone\""
+
+#. ID 75, Page 2, Line 1, Pos (13,16)
+#. ID 76, Page 2, Line 1, Pos (14,16)
+msgid "『死後の逢瀬』"
+msgstr "\"Tryst After Death\""
+
+#. ID 77, Page 1, Line 2, Pos (6,10)
+#. Contains choice at line 2 (2 options)
+msgid "“秘密の部屋に　行く？”"
+msgstr "\"Go to the secret room?\""
+
+#. ID 77, Page 1, Line 3, Pos (6,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"行く\n"
+"行かない"
+msgstr ""
+"Go\n"
+"Don't go"
+
